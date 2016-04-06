@@ -1,29 +1,23 @@
-<%@page import="java.util.List"%>
-<%@page import="java.util.Map"%>
-<%@page import="com.searchengine.tktt.*"%>
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Trang chủ</title>
+<title></title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
 <link href="default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
 </head>
 <body>
-
-<% if(!StaticVariable.flag){
-	StaticVariable.init();
-   } else StaticVariable.flag = true;
-%>
-
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1></span><a href="#">Search Engine</a></h1>
+			<h1></span><a href="index.jsp">Search Engine</a></h1>
 		</div>
 		<div id="menu">
 			<ul>
@@ -38,9 +32,31 @@
 <div id="header-featured">
 	<div id="banner" class="container"> </div>
 </div>
-
+<div id="wel">
+	<div class="container">
+		<h2>ThÃ´ng tin chung</h2>
+		<p>This is <strong>EntryWay</strong>, a free, fully standards-compliant CSS template designed by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>. The photos in this template are from <a href="http://fotogrph.com/"> Fotogrph</a>. This free template is released under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so you're pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :) </p>
+		<a href="#" class="button">Etiam posuere</a> </div>
+</div>
 <div id="wrapper">
 	<div id="featured-wrapper">
+		<div id="featured" class="extra2 margin-btm container">
+			<div class="main-title">
+				<h2>Nulla eleifend purus</h2>
+				<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span> </div>
+			<div class="ebox1"> <span class="fa fa-pagelines"></span>
+				<div class="title">
+					<h2>Fusce ultrices fringilla</h2>
+					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span> </div>
+				<p>Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget, tempus et, tellus. Etiam neque. Vivamus consequat lorem at nisl. Nullam non wisi a sem semper eleifend. Donec mattis libero eget urna. Duis pretium velit ac mauris. Proin eu wisi suscipit nulla suscipit interdum. Aenean lectus lorem, imperdiet at, ultrices eget, ornare et, wisi. </p>
+				<a href="#" class="button">Etiam posuere</a> </div>
+			<div class="ebox2"> <span class="fa fa-anchor"></span>
+				<div class="title">
+					<h2>Donec dictum metus</h2>
+					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span> </div>
+				<p>Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar mollis. Vestibulum sem magna, elementum ut, vestibulum eu, facilisis quis, arcu. Mauris a dolor. Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed blandit. Phasellus pellentesque, ante nec iaculis dapibus, eros justo auctor lectus.</p>
+				<a href="#" class="button">Etiam posuere</a> </div>
+		</div>
 		<div class="extra2 container">
 			<div class="ebox1"> <span class="fa fa-puzzle-piece"></span>
 				<div class="title">

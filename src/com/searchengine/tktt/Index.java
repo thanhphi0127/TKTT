@@ -1,4 +1,4 @@
-package com.searchengine.tktt;
+﻿package com.searchengine.tktt;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -38,21 +38,18 @@ import vn.hus.nlp.utils.TextFileFilter;
 @WebServlet("/Index")
 public class Index extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-       
-	private final String inputPath = "E://Eclipse//TKTT//data//documents//";
-	private final String outputPath = "E://Eclipse//TKTT//data//tokenizes//";
 	
-	JVnTextPro jvnTextPro = new JVnTextPro(); 
+	//JVnTextPro jvnTextPro = new JVnTextPro(); 
 	
     /**
      * @see HttpServlet#HttpServlet()
      */
     public Index() {
         super();
-        jvnTextPro.initSenSegmenter("C://Users//Nguyen Thanh Phi//workspace//JVnTextPro//models//jvnsensegmenter"); 
-        jvnTextPro.initSenTokenization();
-        jvnTextPro.initSegmenter("C://Users//Nguyen Thanh Phi//workspace//JVnTextPro/models/jvnsegmenter"); 
-        jvnTextPro.initPosTagger("C://Users//Nguyen Thanh Phi//workspace//JVnTextPro/models/jvnpostag/maxent");
+        //jvnTextPro.initSenSegmenter("C://Users//Nguyen Thanh Phi//workspace//JVnTextPro//models//jvnsensegmenter"); 
+        //jvnTextPro.initSenTokenization();
+        //jvnTextPro.initSegmenter("C://Users//Nguyen Thanh Phi//workspace//JVnTextPro/models/jvnsegmenter"); 
+        //jvnTextPro.initPosTagger("C://Users//Nguyen Thanh Phi//workspace//JVnTextPro/models/jvnpostag/maxent");
         // TODO Auto-generated constructor stub
     }
 
@@ -70,14 +67,30 @@ public class Index extends HttpServlet {
 		// TODO Auto-generated method stub
 		long startTime = System.currentTimeMillis();
 		
+		deleteDocument();
 		uploadDocument(request, response);
 		
         long endTime = System.currentTimeMillis();
         float duration = (float) (endTime - startTime) / 1000;
         System.out.print("Thời gian upload tài liệu: " + duration);
 		
+        
+        //Tách từ và lập chỉ mục nghịch đảo
 		tokenizerDocuments(request, response);
 		
+	}
+	
+	
+	//Xóa tất cả tập tin tài liệu trước khi upload
+	protected void deleteDocument(){
+		File directory = new File(StaticVariable.INPUTPATH);
+		if(directory.exists()){
+			File[] files = directory.listFiles();
+			for(File file : files){
+				file.delete();
+			}
+		}
+		else System.out.println("Không tìm thấy thư mục");
 	}
 	
 	//Tải tập tài liệu lên server
@@ -89,13 +102,13 @@ public class Index extends HttpServlet {
             
             try {      
                 List<FileItem> items= upload.parseRequest(request);
-                String contextPath = request.getContextPath(); //Lấy đường dẫn thư mục hiện hành /TKTT
+                //String contextPath = request.getContextPath(); //Lấy đường dẫn thư mục hiện hành /TKTT
                 //System.out.println("<br/>File system context path: " + contextPath);
                 
                 //Xử lý danh sách các file đã được chọn
                 for(FileItem item : items){
                 	String filename= new File(item.getName()).getName(); 
-                    item.write(new File(inputPath + filename));  //Lưu các file vào đường dẫn "E://Eclipse//TKTT//data//documents//"
+                    item.write(new File(StaticVariable.INPUTPATH + filename));  //Lưu các file vào đường dẫn "E://Eclipse//TKTT//data//documents//"
                 } 
             } 
             catch (Exception e) {
@@ -116,7 +129,7 @@ public class Index extends HttpServlet {
 		InvertedIndex invertedInx = new InvertedIndex();
 		
         TextFileFilter fileFilter = new TextFileFilter(".txt"); //Tìm các tài liệu có phần mở rộng là txt
-        File inputDirFile = new File(inputPath); //Đường dẫn đầu vào DS tài liệu 
+        File inputDirFile = new File(StaticVariable.INPUTPATH); //Đường dẫn đầu vào DS tài liệu 
 
         //Lấy tất cả các tài liệu
         File[] inputFiles = FileIterator.listFiles(inputDirFile, fileFilter);
@@ -125,7 +138,7 @@ public class Index extends HttpServlet {
         
         for (File file : inputFiles) {    	
             //Tạo chỉ mục cho 1 tài liệu gốc và tài liệu đã tách từ
-            doc.createDocumentIndex(file, jvnTextPro, invertedInx, id);
+            doc.createDocumentIndex(file, StaticVariable.jvnTextPro, invertedInx, id);
             id++;
         }
         
@@ -144,7 +157,7 @@ public class Index extends HttpServlet {
         float duration = (float) (endTime - startTime) / 1000;
         System.out.print("Thời gian tách từ + lập chỉ mục: " + duration);
         
-        response.sendRedirect("http://localhost:8080/TKTT/index.jsp");
+        response.sendRedirect("http://localhost:8080/TKTT/invertedindex.jsp");
         
         return duration;
 	}
@@ -156,7 +169,7 @@ public class Index extends HttpServlet {
 		String output, result, line;
 		FileInputStream fis;
 		BufferedReader br;
-        fis = new FileInputStream(new File(inputPath + file.getName())); //Lấy tên tập tin
+        fis = new FileInputStream(new File(StaticVariable.INPUTPATH + file.getName())); //Lấy tên tập tin
         br = new BufferedReader(new InputStreamReader(fis, "UTF-8"));
         
         //Writer out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(output), "UTF-8"));
@@ -168,38 +181,14 @@ public class Index extends HttpServlet {
                 //Tách từ cho mỗi dòng
             	
             	
-            	result = jvnTextPro.wordSegment(line);
+            	result = StaticVariable.jvnTextPro.wordSegment(line);
             	
             	//out.write(result + "\r\n");
             }
         }
-        //out.close();
-        
-		
+        //out.close();	
 	}
 	
-	//Lập chỉ mục cho tài liệu đã tách từ
-	public void createTokenizerDocumentInvertedIndex(){
-		
-	}
-	
-	protected void readFile(){
-        try {
-            String input = "E://documents//1001.txt";
-            FileInputStream fis = new FileInputStream(new File(input));
-            BufferedReader br = new BufferedReader(new InputStreamReader(fis, "UTF-8"));
-            String line;
-            while ((line = br.readLine()) != null) {
-                line = line.trim();
-                if (line != null && !line.isEmpty()) {
-                    System.out.println("*: " + line);
-                }
-            }
-            br.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-	}
 }	
 	
 	
