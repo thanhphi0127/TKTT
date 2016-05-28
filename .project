@@ -3,7 +3,6 @@
 	<name>TKTT</name>
 	<comment></comment>
 	<projects>
-		<project>JVnTextPro</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

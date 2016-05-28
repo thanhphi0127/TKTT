@@ -46,10 +46,6 @@ public class Index extends HttpServlet {
      */
     public Index() {
         super();
-        //jvnTextPro.initSenSegmenter("C://Users//Nguyen Thanh Phi//workspace//JVnTextPro//models//jvnsensegmenter"); 
-        //jvnTextPro.initSenTokenization();
-        //jvnTextPro.initSegmenter("C://Users//Nguyen Thanh Phi//workspace//JVnTextPro/models/jvnsegmenter"); 
-        //jvnTextPro.initPosTagger("C://Users//Nguyen Thanh Phi//workspace//JVnTextPro/models/jvnpostag/maxent");
         // TODO Auto-generated constructor stub
     }
 
@@ -80,8 +76,9 @@ public class Index extends HttpServlet {
 		
 	}
 	
-	
-	//Xóa tất cả tập tin tài liệu trước khi upload
+	/**
+	 * Xóa tất cả tập tin tài liệu trước khi upload
+	 */
 	protected void deleteDocument(){
 		File directory = new File(StaticVariable.INPUTPATH);
 		if(directory.exists()){
@@ -93,9 +90,12 @@ public class Index extends HttpServlet {
 		else System.out.println("Không tìm thấy thư mục");
 	}
 	
-	//Tải tập tài liệu lên server
+	/**
+	 * Tải tập tài liệu lên server
+	 */
 	protected void uploadDocument(HttpServletRequest request, HttpServletResponse response) throws IOException {
 		boolean isMultipart= ServletFileUpload.isMultipartContent(request);
+		int idDoc = 1;
         if(isMultipart){
             DiskFileItemFactory factory= new DiskFileItemFactory();
             ServletFileUpload upload= new ServletFileUpload(factory);
@@ -103,12 +103,12 @@ public class Index extends HttpServlet {
             try {      
                 List<FileItem> items= upload.parseRequest(request);
                 //String contextPath = request.getContextPath(); //Lấy đường dẫn thư mục hiện hành /TKTT
-                //System.out.println("<br/>File system context path: " + contextPath);
                 
                 //Xử lý danh sách các file đã được chọn
                 for(FileItem item : items){
-                	String filename= new File(item.getName()).getName(); 
-                    item.write(new File(StaticVariable.INPUTPATH + filename));  //Lưu các file vào đường dẫn "E://Eclipse//TKTT//data//documents//"
+                	//String filename= new File(item.getName()).getName(); 
+                    item.write(new File(StaticVariable.INPUTPATH + idDoc + ".txt"));  //Lưu các file vào đường dẫn "E://Eclipse//TKTT//data//documents//"
+                    idDoc++;
                 } 
             } 
             catch (Exception e) {
@@ -120,9 +120,12 @@ public class Index extends HttpServlet {
         }
 	}
 	
-	//Tách từ cho danh sách các tài liệu
+	/**
+	 * Tách từ cho danh sách các tài liệu
+	 */
 	protected float tokenizerDocuments(HttpServletRequest request, HttpServletResponse response) throws IOException {
-		String output, result, line;
+		String output, result, line, filename;
+		String[] name;
 		int id = 1;
 		Document doc = new Document();
 		Dictionary dic = new Dictionary();
@@ -136,18 +139,13 @@ public class Index extends HttpServlet {
         
         long startTime = System.currentTimeMillis();
         
-        for (File file : inputFiles) {    	
+        for (File file : inputFiles) {
+        	name = file.getName().toString().split(".txt");
+        	id = Integer.parseInt(name[0]);
             //Tạo chỉ mục cho 1 tài liệu gốc và tài liệu đã tách từ
             doc.createDocumentIndex(file, StaticVariable.jvnTextPro, invertedInx, id);
-            id++;
         }
-        
-        //TẠO TỪ ĐIỂN CHO TOKEN TÁCH TỪ
-        //dic.createDictionary(doc.getListTokenDocument());
-        
-        //TẠO CHỈ MỤC NGHỊCH ĐẢO CHO CÁC TOKEN
-        //invertedInx.createInvertIndex(dic, doc);
-        
+
         Map<String, Map<Integer, Integer>> resultIndex = invertedInx.getInvertedIndex();
         
         ServletContext applicationObject = getServletConfig().getServletContext();

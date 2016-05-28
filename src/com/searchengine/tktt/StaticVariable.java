@@ -4,16 +4,17 @@ import jvntextpro.JVnTextPro;
 
 public class StaticVariable {
 	public static boolean flag = false;
-	public static String INPUTPATH = "E://Eclipse//TKTT//data//documents//";
-	public static String OUTPUTPATH = "E://Eclipse//TKTT//data//tokenizes//";
-	public static String STOPWORDPATH = "E://Eclipse//TKTT//data//stopwords//";
+	public static String PATH = "E://Eclipse//TKTT//";
 	
-	public static JVnTextPro jvnTextPro = new JVnTextPro();
+	public static String INPUTPATH = PATH + "data//documents//";
+	public static String OUTPUTPATH = PATH + "data//tokenizes//";
+	public static String STOPWORDPATH = PATH + "data//stopwords//";
+		public static JVnTextPro jvnTextPro = new JVnTextPro();
 
 	public static void init(){
-        jvnTextPro.initSenSegmenter("E://Eclipse//JVnTextPro//models//jvnsensegmenter"); 
+        jvnTextPro.initSenSegmenter(PATH + "models//jvnsensegmenter"); 
         jvnTextPro.initSenTokenization();
-        jvnTextPro.initSegmenter("E://Eclipse//JVnTextPro//models//jvnsegmenter"); 
-        jvnTextPro.initPosTagger("E://Eclipse//JVnTextPro//models//jvnpostag/maxent");
+        jvnTextPro.initSegmenter(PATH + "models//jvnsegmenter"); 
+        jvnTextPro.initPosTagger(PATH + "models//jvnpostag/maxent");
 	}
 }

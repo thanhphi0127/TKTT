@@ -58,19 +58,7 @@ public class Document {
 	            line = line.substring(1); //BO KI TU DAU TIEN TRONG FILE UTF-8
 	            k++;
             }
-           /*
-            lenght = line.length();
-            if (lenght != 0){
-	            while(cmp.contains(String.valueOf(line.charAt(0)))){
-	            	line = line.substring(1);
-	            }
-	            
-	            while(cmp.contains(String.valueOf(line.charAt(line.length()-1)))){
-	            	line = line.substring(0, line.length()-2);
-	            }
-            }
-            */
-            
+
             if (line != null && !line.isEmpty()) {
             	//Với mỗi từ trong 1 dòng cho tài liệu đã tách từ
             	tokens = jvnTextPro.wordSegment(line);

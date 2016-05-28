@@ -56,23 +56,27 @@
                 if(invertedIndex.size()!=0){
                     out.print("<table border='1' class='table-inverted-index' cellpadding='0' cellspacing='0' align='center' width='82%'>");
                         out.print("<tr>");
-                            out.print("<td colspan='3'><h2 align='center' class='title-index'>DANH SÁCH CHỈ MỤC</h2></td>");
+                            out.print("<td colspan='4'><h2 align='center' class='title-index'>DANH SÁCH CHỈ MỤC</h2></td>");
                         out.print("</tr>");
                         out.print("<tr>");
                             out.print("<th align='center'>STT</th>");
                             out.print("<th align='center'>Token</th>");
-                            out.print("<th align='center'>Tài liệu</th>");
+                            out.print("<th align='center'>Document Frequency</th>");
+                            out.print("<th align='center'>[Tài liệu Term_Frequency]</th>");
                         out.print("</tr>");
                     int count=1;
+                    int tf = 0;
                     for(String s : invertedIndex.keySet()){
                     	String str = "";
                     	Map<Integer, Integer> posting= invertedIndex.get(s);
                     	for(int item : posting.keySet()){
-                    		str += item + " ";
+                    		tf = posting.get(item);
+                    		str += "[" + item + " " + tf + "] ";
                     	}
                         out.print("<tr>");
                             out.print("<td align='center'>"+count+"</td>");
                             out.print("<td style='padding-left:20px'>"+s+"</td>");
+                            out.print("<td style='padding-left:20px'>"+posting.size()+"</td>");
                             out.print("<td style='padding-left:20px'>"+str+"</td>");
                         out.print("</tr>");
                         count++;

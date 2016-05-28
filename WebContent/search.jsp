@@ -1,6 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<%@page import="java.util.List"%>
-<%@page import="java.util.Map"%>
+<%@page import="java.util.*"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -37,12 +36,35 @@
 	<div id="featured-wrapper">
 		<div id="featured" class="extra2 margin-btm container">
 			<form class="form-wrapper cf" method="post" action="Search">
-				<input style="font:'Arial'" type="text" name="input_Value" placeholder="Nhập từ khóa..." required>
+				<input style="font:'Arial'" type="text" name="input_value" placeholder="Nhập từ khóa..." required>
 				<button style="font:'Arial'" type="submit">Tìm kiếm</button>
 			</form>
 		</div>
+		
+		<div>
+			<%
+				try{
+					ServletContext applicationObject=getServletConfig().getServletContext();
+					Set<Integer> result = (Set<Integer>) applicationObject.getAttribute("posResult");
+					System.out.println("JSP search");
+					out.println("<p>");
+					System.out.println(result.size());
+					if(result.size() != 0){
+						Iterator iterator = result.iterator(); 
+						while (iterator.hasNext()){
+							out.println("Doc: " + iterator.next());  
+						}
+						out.println("</p>");
+					}
+				}catch(Exception ex){
+					//out.println(ex);
+				}
+			%>
+		</div>
 	</div>
 </div>
+
+
 
 <div id="copyright" class="container">
 	<p>&copy; Untitled. All rights reserved. | Photos by <a href="">Fotogrph</a> | Design by <a href="" rel="nofollow">TEMPLATED</a>.</p>
