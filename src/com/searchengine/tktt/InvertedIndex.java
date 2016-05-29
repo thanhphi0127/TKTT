@@ -22,7 +22,6 @@ import com.sun.org.apache.xalan.internal.xsltc.compiler.Template;
 public class InvertedIndex {
 	public static Map<String, Map<Integer, Integer>> InvertedIndex;
 	public Map<String, Map<Integer, Integer>> wordCount;
-	public Dictionary dic;
 	public Document documents;
 	//public Set<Integer> posting;
 	private int documentsSize;
@@ -37,39 +36,6 @@ public class InvertedIndex {
 		wordCount= new HashMap<String, Map<Integer, Integer>>();
 		documentsSize = 0;
 	}
-	
-	public void XcreateInvertIndex(Dictionary dic, Document doc){
-		this.dic = dic;
-		this.documents = doc;
-		documentsSize = doc.getListTokenDocument().size();
-		
-		System.out.println("Kích thước dictionary: "+ dic.getDictionary().size());
-		int k = 0;
-		
-        final Iterator<String> it= dic.getDictionary().iterator();
-        while(it.hasNext()){
-            String token= it.next();
-            List<Integer> posting= new ArrayList<Integer>();
-            Map<Integer, Integer> count= new HashMap<Integer, Integer>();
-
-            System.out.println("Token thu : "+ k);
-            k++;
-            
-            for(int i=0 ; i< documentsSize ; i++){
-                List<String> document = documents.getListTokenDocument().get(i);
-                if(document.contains(token)){
-                    posting.add(i);
-                }
-
-                int occurence=Collections.frequency(document, token);  				//DEM TAN SUAT XUAT HIEN CUA TU
-                count.put(i, occurence);
-                wordCount.put(token, count); 										//TU KHOA TOKEN O TAI LIEU THU I VOI TAN SO XUAT HIEN LA OCCURENCE
-            }
-            //InvertedIndex.put(token, posting); 										//TU KHOA TOKEN O DANH SACH TAI LIEU I
-        }
-		
-	}
-	
 	
 	//Thêm từ vào chỉ mục
 	/**

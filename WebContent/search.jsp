@@ -47,6 +47,7 @@
 					ServletContext applicationObject=getServletConfig().getServletContext();
 					List<Integer> result = (List<Integer>) applicationObject.getAttribute("docResult");
 					System.out.println("JSP search");
+
 					System.out.println(result.size());
 					if(result.size() != 0){
 						Iterator iterator = result.iterator(); 

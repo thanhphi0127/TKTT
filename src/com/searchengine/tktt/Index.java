@@ -130,7 +130,6 @@ public class Index extends HttpServlet {
 		String[] name;
 		int id = 1, countDoc = 0;
 		Document doc = new Document();
-		Dictionary dic = new Dictionary();
 		InvertedIndex invertedInx = new InvertedIndex();
 		
         TextFileFilter fileFilter = new TextFileFilter(".txt"); //Tìm các tài liệu có phần mở rộng là txt
@@ -144,6 +143,7 @@ public class Index extends HttpServlet {
         for (File file : inputFiles) {
         	name = file.getName().toString().split(".txt");
         	id = Integer.parseInt(name[0]);
+
         	countDoc++;
             //Tạo chỉ mục cho 1 tài liệu gốc và tài liệu đã tách từ
             doc.createDocumentIndex(file, StaticVariable.jvnTextPro, invertedInx, id);
