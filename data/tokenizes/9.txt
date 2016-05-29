@@ -1,0 +1,19 @@
+Những điều cần_biết về giao thức_IPv6
+Ngày 6/6/2012, theo phát_động của Internet Society_(ISOC), các hãng công_nghệ và nội_dung số hàng_đầu thế_giới như Google,_Facebook, Yahoo... đồng loạt khai_trương các dịch_vụ, ứng_dụng trên nền_IPv6.
+>Những khó_khăn khi triển_khai IPv6 tại Việt_Nam
+Giao thức Internet phiên_bản sáu (IPv6) là bước nâng_cấp lớn từ chuẩn IPv4 với mục_đích là giải_quyết tình_trạng cạn_kiệt địa_chỉ IP do số_lượng các thiết_bị kết_nối Internet ngày một tăng_cao.
+Trên thực_tế, IPv6 đã được triển_khai được một thời_gian khá lâu và vẫn còn một chặng đường dài phía trước. Việc chuyển sang IPv6 không đơn giản, do_đó nhiều tổ chức, công_ty hoạt_động trên Internet đã đồng_lòng chọn ngày 6/6 tổ_chức sự_kiện toàn_cầu World_IPv6_Launch.
+Vì_sao IPv6 là tất_yếu?
+Đơn_giản là_vì kho địa_chỉ Internet trên nền IPv4 sắp hết (IP là chuỗi số phân cho mỗi máy tính,_máy chủ,_smartphone và các thiết_bị kết_nối Internet khác). Nó có tổng_cộng 4,3 tỷ địa_chỉ và đã đang cạn dần trong_khi các dòng thiết_bị mới tiếp_tục ồ_ạt được bán_ra thị_trường.
+Vint Cerf, người tạo_ra giao_thức IPv4 với nhiệm_vụ kết_nối máy_tính trên toàn cầu, cho biết: "Tôi nghĩ đó như là một cuộc thử_nghiệm và 4,3 tỷ địa_chỉ là quá đủ. Ai mà biết_trước được chúng_ta sẽ cần bao_nhiêu không_gian địa chỉ, nhất_là khi thời_điểm ra_đời IPv4 chưa tồn_tại khái_niệm thiết_bị IP di_động".
+IPv6 chính là giải pháp. Mỗi địa_chỉ IPv6 có chiều_dài 128 bit, cho_phép mở_rộng kho địa_chỉ lên tới 2^128, tức lớn hơn rất nhiều so với IPv4 (số địa chị cụ_thể của IPv6 sẽ là 340.282.366.920.938.463.463.374.607.431.768.211.456). Vấn_đề ở_đây là quá_trình nâng_cấp Internet lên IPv6 đòi_hỏi công_sức và chi_phí cao, nên đa_số vẫn chần_chừ đến_khi nào không_thể trì_hoãn được nữa.
+Sự_rộng_lớn của địa_chỉ IPv6_(128 bit) so với IPv4 (32_bit).
+Mức_độ triển_khai IPv6 thế_nào?
+Người_ta đã có_thể mở các mạng IPv6 từ năm 1999 nhưng các nhà quản_trị vẫn không cảm_thấy có động_lực triển khai. Phải đến hơn chục năm sau, điều này mới đang thay đổi. IPv6 hiện được hơn 1.500 website và nhà_cung_cấp dịch_vụ ISP ở 22 quốc_gia kích_hoạt và duy_trì. Đây mới là con_số nhỏ nhưng sẽ sớm lan rộng. Cisco dự_đoán sẽ có 8 tỷ thiết_bị được cấp địa_chỉ IPv6 vào năm 2016, tăng từ 1 tỷ trong năm_2011.
+Các website chính của Google, Microsoft,_Facebook và Yahoo đã tương_thích với IPv6._Yahoo cho_hay các dịch_vụ Yahoo_Sports, Yahoo_Mail và Yahoo_Finance cũng sẽ hỗ_trợ trong vài tháng tới.
+Số_lượng triển_khai IPv6 đã tăng tích_cực so với năm ngoái. Nguồn: Hurricane_Electric.
+Có vấn_đề gì trong quá_trình chuyển_đổi IPv6_không?
+Có, nhưng sẽ chỉ ảnh_hưởng đến một lượng nhỏ_người dùng. Vào dịp World IPv6 Day diễn_ra cách đây tròn 1 năm, Yahoo đã thống_kê lượng khách truy_cập bị ảnh_hưởng vì IPv6._"Vài tuần_trước khi World IPv6 Day 2011 diễn ra, việc chuyển_đổi ảnh_hưởng đến khoảng 0,055% người dùng. Một tuần sau, con_số này giảm_xuống 0,022%", Yahoo cho_hay.
+Điều_gì xảy_ra nếu máy_tính dùng IPv6 truy_cập website dùng IPv4 và ngược lại? Có_thể trong giai_đoạn chuyển đổi, người_sử_dụng sẽ gặp thông_báo site không tồn_tại, hoặc tường lửa (firewall) cài_đặt trên máy của họ không nhận_diện được IPv6 nên chặn hoặc khiến quá_trình truy_cập vào website bị chậm lại... Tuy nhiên, thông_thường, các công_ty triển_khai IPv6 sẽ có các công_cụ và phần_mềm để hỗ_trợ việc giao_tiếp giữa IPv4 và IPv6 trở_nên thuận_tiện.
+"Mọi người cần hiểu rằng đây là hạ_tầng cơ_sở mà họ đang phải phụ_thuộc vào. Nó cần thay_đổi để tiếp_tục mở rộng. Doanh_nghiệp cũng không_thể phát_triển nếu không có đủ địa_chỉ để sử dụng", cha_đẻ của Internet Vint_Cerf nhấn_mạnh dù thừa_nhận 2 hệ_thống địa_chỉ không tương_thích nhau nên sẽ có một phần nhỏ người sử_dụng không tiếp_cận được site, nguồn tài_nguyên và dịch_vụ web.
+Sự_kiện World IPv6 Day 2011 và World_IPv6 Launch 2012 chính là dịp thu_hút nhiều hơn_nữa các công ty, tổ_chức tham_gia chuyển đổi, đồng_thời tìm_ra các vấn_đề kỹ_thuật phát_sinh trong thực_tiễn triển_khai.

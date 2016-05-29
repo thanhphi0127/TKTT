@@ -1,0 +1,7 @@
+Pin sạc điện nhờ động_tác lắc_tay
+Loại pin cho_phép người_sử_dụng sạc điện bằng cách lắc tay_vừa ra_đời tại Anh.
+Phiên_bản thử_nghiệm của loại pin sạc điện nhờ động_tác lắc_tay. Ảnh:_Physorg.
+Physorg cho biết, pin mới là phát_minh của công_ty Brother Industries tại Anh. Nó có_thể thay_thế những pin kiểu AA hoặc AAA trong những thiết_bị có công_suất tiêu_thụ_điện khoảng 100 mW, như đèn_pin hoặc điều_khiển từ_xa.
+Sản_phẩm thực_ra là một máy_phát_điện cỡ nhỏ nằm_trong hộp có dạng giống pin thông thường. Ngoài máy_phát điện, bên_trong hộp còn có một tụ_điện có điện_dung vào_khoảng 500 mF. Mỗi khi muốn sạc điện, người_sử_dụng có_thể lắc thiết_bị chứa pin. Brother_Industries chưa tiết_lộ nguyên_lý hoạt_động của pin, song hãng hy_vọng cách sạc mới sẽ làm_giảm số_lượng pin được dùng trong các thiết_bị điện_tử có công_suất tiêu_thụ_điện_thấp.
+"Với máy_phát_điện của chúng_tôi khách_hàng sẽ không_phải thay_thế các quả pin và lượng rác thải điện_tử cũng giảm", Brother Industries tuyên_bố.
+"Pin lắc" sẽ được trưng_bày lần_đầu_tiên tại Triển_lãm Techno-Frontier 2010 tại Tokyo, Nhật_Bản vào cuối tuần này. Trong cuộc triển_lãm khách_hàng sẽ được xem công_dụng của pin mới trong đèn_pin LED, thiết_bị điều_khiển tivi.

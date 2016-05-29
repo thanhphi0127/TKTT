@@ -1,0 +1,7 @@
+Mozilla phát_triển trình_duyệt cho_iPad
+Công_ty này cho ra_mắt phần_mềm lướt web trên máy_tính bảng iPad với tên_Junior và sẽ cạnh_tranh trực_tiếp với đối_thủ Apple_Safari.
+Theo Alex_Limi, nhân_viên cao_cấp của Mozilla,_Junior sẽ giúp người_dùng thoải mái, vui_vẻ hơn khi truy_cập Internet. Người này đồng_thời cho rằng, Safari trên iOS là một trải nghiệm tồi_tệ.
+"Chúng tôi muốn tạo_ra một trình_duyệt hoàn_toàn mới thân_thiện hơn với người sử dụng. Hiện_tại Mozilla chưa có_phần mềm nào ấn_tượng trên iOS, một trong nền_tảng di_động phổ_biến nhất hiện_nay", Limi nói trong video trình_diễn.
+Junior là trình_duyệt toàn màn_hình giúp tạo cảm_giác như đang đọc quyển tạp chí._Thanh địa_chỉ sẽ được ẩn đi và trên trang web chỉ xuất_hiện 2 hệ_thống nút cảm_ứng mờ chứa các chức năng._Mozilla chưa công_bố ngày phát_hành chính_thức trình_duyệt của họ cho nền_tảng iOS.
+Video trình_diễn phần_mềm Junior trên_iPad.
+Junior không_phải là đối_thủ đầu_tiên của Apple Safari. Trước đó,_Yahoo cũng giới_thiệu phần_mềm lướt web Axis chạy trên iPad. Ngoài_ra còn có loạt trình_duyệt Atomic, Dolphin,_Opera Mini, hay_Skyfire...

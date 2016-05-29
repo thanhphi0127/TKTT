@@ -1,0 +1,7 @@
+Không quân Mỹ sắp có phi_cơ 'siêu thông_minh'
+Một công_ty phần_mềm tại Mỹ đang phát_triển phần_mềm có khả_năng giúp máy_bay không người_lái của không_quân dự_đoán được mọi hành_động của phi_công đối_phương.
+Popular_Science cho biết, Stottler_Henke Associates, một công_ty tại Mỹ, đang trong quá_trình phát_triển một bộ phần_mềm có khả_năng giúp các máy_bay không người_lái đoán_trước những hành_động của phi_công trên các phi_cơ khác.
+Dự_án này được tiến_hành sau_khi Stottler_Henke Associates ký hợp_đồng với không_quân Mỹ về việc phát_triển hệ_thống phần_mềm phân_tích ý_định của phi_công đối_phương. Hệ_thống mô_phỏng hành_vi của các phi_công trong các bối_cảnh thực và cả những bối_cảnh phỏng_đoán.
+Một máy_bay không người_lái Reaper của Mỹ._Ảnh: Popular_Science.
+Theo đó phần_mềm có_thể dự_đoán cách_thức cất cánh, bay lượn, hạ_cánh, xử_lý thông_tin của phi_công đối_phương. Thông_tin thu_được sẽ giúp máy_bay không người_lái xây_dựng cơ_sở_dữ_liệu của phi công. Dựa_trên cơ_sở_dữ_liệu đó, phi_cơ sẽ quyết_định cách_thức phản_ứng khi nó tới gần máy_bay đối thủ. Phần_mềm cũng có_thể giúp phi_cơ không_người_lái xử_lý khi máy_bay hỏng hoặc có sự_cố.
+Dick Stottler, giám_đốc điều_hành công_ty Stottler Henke_Associates, thừa_nhận phần_mềm không_thể làm_gì nếu phi_cơ không người_lái có_ý định “tạo_phản”. Do_đó ông cam_kết: “Chúng tôi sẽ không dạy phi_cơ tự_động bất_tuân mệnh_lệnh của những người điều_khiển”.

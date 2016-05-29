@@ -1,0 +1,11 @@
+Robot được điều_khiển bằng ý_nghĩ
+Một robot do người_tàn_tật điều_khiển bằng sóng não vừa được thử_nghiệm tại một bệnh_viện ở Thụy_Sĩ.
+Tín_hiệu điện_từ não Mark Andre_Duc được mã_hóa để điều_khiển robot cách ông khoảng 100 km. Ảnh:_AP.
+Mark-Andre_Duc - một người_đàn_ông bị liệt trong bệnh_viện thành_phố Sion,_Thụy_Sĩ - dùng ý_nghĩ để điều_khiển một máy_tính trong phòng. Sau_đó mệnh_lệnh được truyền sang một máy_tính khác để điều_khiển một robot ở thành_phố Lausanne, nơi cách bệnh_viện khoảng 100 km, AP đưa_tin.
+Suy_nghĩ của Duc – hay chính_xác hơn là các tín_hiệu điện phát_ra từ não của Duc khi ông tưởng_tượng những ngón_tay liệt của ông cử_động – được thu_nhận bởi các điện_cực trong mũ mà ông đội. Chiếc máy_tính xách tay_trong phòng của ông mã_hóa những tín_hiệu điện thành mệnh_lệnh ngay lập tức. Mệnh_lệnh – chỉ bao_gồm sang phải hoặc sang trái – được chiếc máy_tính truyền tới một máy_tính ở tận Lausanne để điều_khiển một robot di_chuyển xung_quanh phòng thí_nghiệm.
+Jose Millan, một giáo_sư của Đại_học Bách_khoa Liên_bang tại thành_phố Lausanne, là người thiết_kế hệ_thống nói trên. Ông là chuyên_gia về các giao_diện giữa người và máy.
+“Kỹ thuật tương_tự có_thể được áp_dụng để giúp người tàn_tật điều_khiển xe lăn. Sau_khi xe_lăn chuyển động, não có_thể nghỉ ngơi, nếu không người điều_khiển sẽ cảm_thấy mệt mỏi”, Millan_nói.
+Duc mất khả_năng điều_khiển hai chân và các ngón_tay sau một cú ngã. Giờ_đây ông là một người bị liệt một phần. Ông nói rằng điều_khiển robot không_phải là việc khó.
+“Nhưng khi tôi có cảm_giác đau thì việc điều_khiển trở_nên khó_khăn hơn”, ông_nói.
+Nhưng công_nghệ của Millan cũng có khiếm khuyết. Theo Millan, tiếng ồn từ môi_trường xung quanh, cảm_giác đau và sự_phân_tán tư_tưởng của người điều_khiển robot có_thể khiến mệnh_lệnh không tới được robot.
+“Ngoài_việc giúp người tàn_tật di chuyển, hệ_thống còn có_thể được sử_dụng để giúp bệnh nhất phục_hồi các cảm giác”, nhóm nghiên_cứu khẳng_định.

@@ -1,0 +1,13 @@
+Những sản_phẩm đầu_tiên có Wi-Fi tốc_độ 1_Gb/giây
+Asus giới_thiệu laptop chơi game còn Buffalo công_bố thiết_bị định tuyến được trang_bị kết_nối Internet không dây theo công_nghệ 802.11ac siêu tốc (dự kiến trở thành chuẩn vào cuối năm_nay).
+>Chuẩn_Wi-Fi tốc_độ 1 Gb/giây sẽ ra_mắt cuối năm_nay
+Đầu tháng 1/2012,_Broadcom trở thành_công_ty đầu_tiên giới_thiệu các dòng chip hỗ_trợ Wi-Fi thế_hệ 5. Họ đang phối_hợp với các đối_tác như Netgear,_Motorola, Microsoft,_Huawei, Lenovo, Belkin,_LG và nhiều công_ty khác để tích_hợp sản_phẩm trong thiết_bị điện_tử tiêu_dùng.
+Chip_"hai trong một" của MediaTek.
+Giữa tháng 2 và cuối tháng 3,_Qualcomm và MediaTek lần_lượt trình làng thiết_kế chip kết_hợp giữa 802.11ac và Bluetooth 4.0. Trong_khi đó, công_ty Marvell (sản xuất linh_kiện cho Kinect và OnLive_Microconsole) lại tung_ra chip radio không_chỉ có 802.11ac,_Bluetooth 4.0 mà còn cả công_nghệ giao_tiếp trường gần_NFC.
+Trong tháng 4, công_ty Netgear khẳng_định sẽ sớm giới_thiệu router dùng kết_nối mới. Sản_phẩm có tên R6300 này sử_dụng chip Broadcom và áp_dụng một số kỹ_thuật riêng để đạt tốc_độ lên tới 1,3 Gb/giây trên băng_tần 5 GHz, gấp 3 lần chuẩn 802.11n và sẽ có giá 200_USD.
+Router của Buffalo.
+Trước kế_hoạch của Netgear, Buffalo gấp_rút tung_ra thị_trường thiết_bị định tuyến tương_tự ngay trong tháng 5 để_được ghi_danh là công_ty đầu_tiên cho ra_lò router 802.11ac. Thiết_bị này hoạt_động tương_thích với các thiết_bị theo chuẩn_n.
+Nhưng đáng chú_ý nhất_là tuần trước, Asus đã gây ấn_tượng mạnh với laptop chơi game G75VW sử_dụng 5G_Wi-Fi và đạt tốc_độ khoảng 800-850 Mb/giây. Bên_cạnh đó, sản_phẩm có màn_hình 1080p,_chip Ivy Bridge, đồ_họa GeForce GTX_670M.
+Máy_tính xách tay đầu_tiên có 5G_Wi-Fi.
+Tuy vậy,_802.11ac vẫn chưa được tổ_chức IEEE chính_thức phê_duyệt, do_đó nếu mua các thiết_bị trên, người_sử_dụng cũng chưa thể khai_thác được các lợi_thế của nó.
+802.11ac - Wi-Fi thế_hệ năm, hay còn gọi_là 5G_Wi-Fi (5G viết trước để tránh nhầm với kết_nối di_động 3G, 4G, 5G...) dự_kiến được tổ_chức IEEE thông_qua vào cuối năm rồi được chuyển lên liên_minh Wi-Fi Alliance để cấp chứng_nhận vào_đầu 2013. Loạt smartphone, tablet đầu_tiên có 802.11ac sẽ được công_bố tại những triển_lãm như CES và MWC năm tới. 802.11ac hoạt_động trong dải 5 GHz, đạt tốc_độ vượt mốc 1 gigabit mỗi_giây, do_đó smartphone sẽ có khả_năng truyền không dây video độ_nét cao tới TV. Nó cũng đạt độ phủ lớn và không ngốn năng_lượng như_thế_hệ Wi-Fi hiện_tại.

@@ -1,0 +1,13 @@
+Phát_minh giúp xe_tăng tàng_hình trong_đêm
+Một công_nghệ mới khiến các thiết_bị quan_sát trong bóng_tối không_thể phát_hiện xe_tăng và các phương_tiện cơ_giới khác.
+> Xe_tăng đổi màu như tắc_kè
+Công_nghệ tàng_hình của BEA Systems dựa_trên những tấm lục_giác nhiệt_điện bao_phủ lớp vỏ của phương_tiện cơ giới. Ảnh:_BBC.
+BBC đưa_tin BAE Systems, một công_ty sản_xuất thiết_bị quân_sự tại Anh, đã tìm_ra cách giúp phương_tiện cơ_giới quân_sự_thay_đổi nhiệt_độ vỏ theo môi_trường xung quanh. Họ chế_tạo một loại vật_liệu nhiệt_điện có khả_năng thay_đổi nhiệt_độ cực nhanh. Vật_liệu nhiệt_điện là những chất có khả_năng biến_nhiệt thành điện.
+Từ vật_liệu mới nhóm nghiên_cứu tạo_ra các tấm có hình lục_giác đều. Khoảng 1.000 tấm lục giác, mỗi tấm có đường_chéo 14 cm, có_thể phủ kín một xe_tăng cỡ_nhỏ.
+Một_số camera tầm nhiệt liên_tục theo_dõi nhiệt_độ môi_trường xung_quanh xe tăng. Chúng có_thể hoạt_động khi xe_tăng di_chuyển. Dữ_liệu mà các camera cung_cấp sẽ giúp hệ_thống điều_khiển trong xe_tăng điều_chỉnh nhiệt_độ trên lớp_vỏ.
+Mọi vật có nhiệt_độ lớn hơn 0 độ C đều phát_ra tia hồng ngoại, loại bức_xạ điện_từ có bước sóng_dài hơn ánh_sáng nhìn thấy. Con_người không thấy tia hồng ngoại, song giới khoa_học đã chế_tạo nhiều loại thiết_bị (như ống_nhòm hồng ngoại) có khả_năng phát_hiện những vật phát_ra tia hồng_ngoại trong_đêm tối.
+Nhóm nghiên_cứu không nói_rõ nguyên_lý điều_chỉnh nhiệt_độ trên các tấm lục giác. Các thử_nghiệm thực_địa cho_thấy công_nghệ của BAE_Systems giúp xe_tăng “tàng hình” tốt nhất trong_đêm_tối ở khoảng_cách 300-400_m.
+BAE_Systems cũng có khả_năng tạo_ra một thư_viện chứa hình_ảnh nhiệt của những vật_thể khác – như xe tải, xe hơi, con_bò, những viên đá lớn. Trong trường_hợp cần thiết, bộ_vi xử_lý sẽ điều_chỉnh nhiệt_độ của vỏ xe_tăng bằng nhiệt_độ của các vật_thể khác, nhờ_đó người quan_sát bằng ống_nhòm hồng_ngoại sẽ không_thể phát_hiện ra mục_tiêu là xe_tăng.
+“Những nỗ_lực chế_tạo lớp vỏ tàng_hình trước_đây gặp trở_ngại do chi_phí lớn hoặc cần nhiều điện”, Pader Sjolund, trưởng_nhóm nghiên cứu, phát biểu. Công_nghệ Adaptiv mang đến sự_khác_biệt hoàn_toàn, bởi những tấm lục_giác được phủ ngoài vỏ xe_tăng và các phương_tiện cơ_giới khác tiêu_thụ rất ít_điện.
+“Chúng tôi có_thể thay_đổi kích_thước các tấm lục_giác để giúp vật_thể tàng_hình ở nhiều cự li khác nhau. Chẳng hạn, một tàu_chiến hoặc tòa_nhà không_cần tàng_hình ở cự li gần, vì_thế chúng cần những tấm lục_giác lớn”,_Sjolund giải_thích.
+Theo tính_toán của BAE Systems, công_nghệ Adaptive có_thể được ứng_dụng vào thực_tế trong_vòng hai năm_nữa.

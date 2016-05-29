@@ -12,7 +12,11 @@ import java.io.Writer;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeMap;
 
 import jvntextpro.JVnTextPro;
 
@@ -24,20 +28,38 @@ public class Document {
 	List<List<String>> tokenDocuments;
 	String stopWords;
 	
+	public static int numDoc;
+	public static Map<Integer, Integer> lengthDoc;
+	
+	/**
+	 * 
+	 * @throws IOException
+	 */
 	public Document() throws IOException{
 		rawWord = new ArrayList<String>();
 		tokenWord = new ArrayList<String>();
 		rawDocuments = new ArrayList<List<String>>();
 		tokenDocuments = new ArrayList<List<String>>();
 		
-        File file = new File(StaticVariable.STOPWORDPATH+"\\stopword.txt"); 
+		lengthDoc = new TreeMap<Integer,Integer>();
+		
+        File file = new File(StaticVariable.STOPWORDPATH + "\\stopword.txt"); 
         byte[] encoded = Files.readAllBytes(Paths.get(file.getAbsolutePath().toString()));
         stopWords= new String(encoded, "UTF-8");
 	}
 	
+	/**
+	 * 
+	 * @param file
+	 * @param jvnTextPro
+	 * @param index
+	 * @param idDoc
+	 * @throws IOException
+	 */
 	//Tạo chỉ mục cho 1 tập tin tài liệu (KHÔNG CHỨA STOP WORD)
 	public void createDocumentIndex(File file, JVnTextPro jvnTextPro, InvertedIndex index, int idDoc) throws IOException{
 		String[] words, tokenWords;
+		int k = 0, numTerm = 0;
 		int rawLenght, tokenLength, lenght = 0;
 		String line, tokens, output;
 		FileInputStream fis;
@@ -49,28 +71,15 @@ public class Document {
         fis = new FileInputStream(new File(StaticVariable.INPUTPATH + file.getName())); //Lấy tên tập tin
         br = new BufferedReader(new InputStreamReader(fis, "UTF-8"));
         Writer out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(output), "UTF-8"));
-        int k = 0;
+        
         //Đọc từng dòng trong mỗi tập tin tài liệu
         while ((line = br.readLine()) != null) {
-        	
             line = line.trim();
             if(k == 0){
 	            line = line.substring(1); //BO KI TU DAU TIEN TRONG FILE UTF-8
 	            k++;
             }
-           /*
-            lenght = line.length();
-            if (lenght != 0){
-	            while(cmp.contains(String.valueOf(line.charAt(0)))){
-	            	line = line.substring(1);
-	            }
-	            
-	            while(cmp.contains(String.valueOf(line.charAt(line.length()-1)))){
-	            	line = line.substring(0, line.length()-2);
-	            }
-            }
-            */
-            
+
             if (line != null && !line.isEmpty()) {
             	//Với mỗi từ trong 1 dòng cho tài liệu đã tách từ
             	tokens = jvnTextPro.wordSegment(line);
@@ -81,17 +90,28 @@ public class Document {
         				//Thêm tài liệu vào chỉ mục
         				//System.out.println("Token: " + tokenWords[i]);
         				tokenWords[i] = replaceString(tokenWords[i], cmp);
-        				if (tokenWords[i].length() != 0)
+        				if (tokenWords[i].length() != 0){
         					index.insertInvertIndex(tokenWords[i].toLowerCase(), idDoc);
+        					numTerm++;
+        				}
         			}
         		}
         		out.write(tokens + "\r\n");
             }
         }
+        
+        lengthDoc.put(idDoc, numTerm);
+        
         br.close();
         out.close();
 	}
 	
+	/**
+	 * 
+	 * @param word
+	 * @param cmp
+	 * @return
+	 */
 	public String replaceString(String word, String cmp){
 		word = word.trim();
 		if(word.length() != 0){
@@ -112,6 +132,12 @@ public class Document {
 		return word;
 	}
 	
+	/**
+	 * 
+	 * @param file
+	 * @param jvnTextPro
+	 * @throws IOException
+	 */
 	//Tạo chỉ mục cho 1 tập tin tài liệu (KHÔNG CHỨA STOP WORD)
 	public void XcreateDocumentIndex(File file, JVnTextPro jvnTextPro) throws IOException{
 		String[] words, tokenWords;
@@ -158,9 +184,14 @@ public class Document {
         tokenDocuments.add(tokenWord);
 	}
 	
+	/**
+	 * 
+	 * @return
+	 */
 	public List<List<String>> getListRawDocument(){
 		return rawDocuments;
 	}
+	
 	
 	public List<List<String>> getListTokenDocument(){
 		return tokenDocuments;

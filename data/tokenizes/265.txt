@@ -1,0 +1,10 @@
+Lựu_đạn biết 'nhìn' và đuổi_theo mục_tiêu
+Trong_lúc giao_tranh với nhiều tên khủng_bố trong một tòa_nhà kiên cố, những người lính ném một vật_lạ vào trong tòa_nhà. Sau_khi quan_sát xung quanh, vật_lạ lặng_lẽ di_chuyển tới gần những tên_khủng_bố rồi phát_nổ.
+Lựu_đạn thông_minh cho_phép binh_lính tiêu_diệt những mục_tiêu mà họ không nhìn thấy. Ảnh:_Discovery.
+Câu_chuyện trên_không xuất_hiện trong một bộ phim khoa_học viễn_tưởng, mà hoàn_toàn có_thể xảy_ra trong thực_tế. Discovery cho biết, công_ty Hanwha ở Hàn_Quốc đã chế_tạo thành_công một loại “lựu đạn thông minh”. Loại lựu_đạn này, thực_chất là một dạng robot cỡ nhỏ, có khả_năng di_chuyển theo sự_điều_khiển của người.
+Với khối_lượng chỉ khoảng 670-700 g, lựu_đạn thông_minh có thân_bằng nhựa kết_nối với hai bánh cao su. Thân của nó chứa một camera nhỏ, thiết_bị phát_sóng radio, thuốc_nổ và kíp_nổ.
+Lựu_đạn thông_minh nằm gọn trong một vỏ bảo vệ. Khi được phóng nó vẫn nằm_trong vỏ. Lựu_đạn có_thể di_chuyển qua quãng_đường tối_đa 100 m để tới mục_tiêu.
+Khi lựu_đạn chạm đất, vỏ vỡ ra và di chuyển._Camera của nó cho_phép người điều_khiển đưa nó tới vị_trí mong_muốn và kích_nổ.
+Kỹ_sư Min Su Park, trưởng_nhóm nghiên_cứu lựu_đạn thông_minh của công_ty Hanwha, khẳng_định quân_đội Hàn_Quốc đã sử_dụng sản_phẩm của họ.
+Điểm_yếu của lựu_đạn thông_minh là chúng không_thể mang theo nhiều cảm_biến như những robot_to. Bên_cạnh đó chúng không mang được pin to (nên thời_gian hoạt_động sẽ ngắn) và phạm_vi hoạt_động khá_hẹp.
+Thách_thức lớn nhất đối_với công_ty Hanwha là giảm khối_lượng của lựu_đạn thông minh, sao_cho binh_lính không cảm_thấy nặng_nhọc khi mang_chúng.

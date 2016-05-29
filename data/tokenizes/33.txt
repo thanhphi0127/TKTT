@@ -1,0 +1,28 @@
+Giải_đáp thắc_mắc về nền_tảng Windows_Phone 8
+Hệ_điều_hành Windows Phone thế_hệ mới (WP8) đã được Microsoft công_bố ngày 20/6 với nhiều thay_đổi quan_trọng nhưng cũng khiến người_dùng băn_khoăn.
+>Tính_năng nổi_bật của Windows_Phone 8
+Điều đáng_tiếc nhất là điện_thoại Windows Phone hiện_tại không_thể nâng_cấp lên bản 8. Những chiếc Samsung_Focus II hay Lumia 900... mà người_dùng vừa mua_về sẽ sớm trở_nên lạc hậu. Thay vào đó, chúng sẽ chỉ được nâng_cấp lên Windows Phone 7.8 với giao_diện màn hình_mới.
+Windows_Phone 8 với nhiều thay_đổi lớn.
+WP8 hỗ_trợ phần_cứng thế_nào?
+Giao_tiếp trường gần NFC, đa nhân (lõi kép, lõi tứ...), hỗ_trợ độ_phân_giải màn hình lớn hơn (như HD 1.280 x 720 pixel), khe cắm thẻ nhớ mở rộng... là những thay_đổi đáng chú_ý nhất về mặt phần_cứng.
+Màn_hình chính
+Microsoft đã thiết_kế lại màn_hình chính (start_screen), tăng độ rộng màn_hình và đặc_biệt là người_dùng có_thể điều_chỉnh từng ô thông_tin (Live Tile) theo ba_kích thước khác nhau. Hệ_điều_hành mới cũng có thêm nhiều màu nền hơn nhưng chưa được công_bố.
+Ba_kích_cỡ của Live_Tile.
+Nhân của WP8 khác Windows Phone_7?
+Đúng vậy. WP8 dùng Windows NT - nhân hệ_điều_hành máy_tính từ Windows 2000 cho tới Windows 8 hiện nay. Còn Windows Phone 7 và Windows Mobile cũ được phát_triển trên nhân Windows CE vốn được xây_dựng cho các hệ_thống nhúng (embedded). Việc dùng Windows NT giúp Microsoft hướng gần hơn đến mục_tiêu tạo_dựng nền_tảng hợp_nhất và xuyên_suốt cho tất_cả các dòng thiết_bị.
+Khi_nào điện_thoại WP8 có_mặt?
+Những điện_thoại chạy hệ_điều_hành mới sẽ được xuất_xưởng vào "kỳ nghỉ lễ" nên có_thể hiểu là vào mùa thu, muộn nhất_là trước Giáng sinh. Về sau, hệ_điều_hành sẽ được cập_nhật trực_tiếp trên smartphone thay_vì phải kết_nối với máy_tính.
+Nokia phản_ứng gì về chuyện_này?
+Việc Windows Phone 7.5 không_thể nâng_cấp lên bản 8 có_thể là một tin_xấu với Nokia khi hãng này đang rất kỳ_vọng vào Lumia 900 và 800. Tuy nhiên, họ cũng đã nhanh_chóng cung_cấp một số ứng_dụng cho dòng Lumia hiện_tại như dịch_vụ bản_đồ tương_tác thông_minh, các tính_năng chụp_ảnh mới. Các trò_chơi của Zynga như Words_with Friends hay Draw_Something cũng sẽ xuất_hiện trong một_vài tháng tới.
+Khi_nào có bộ phát_triển ứng_dụng?
+Microsoft sẽ mô_tả chi_tiết hơn với các nhà chuyên_gia phát_triển ứng_dụng cuối hè này và khi_đó họ sẽ nhận_được bộ_SDK.
+Ai sẽ sản_xuất Windows Phone_8?
+Samsung,_Nokia, HTC,_Huawei và ZTE là 5 đối_tác lớn nhất của Microsoft nhưng sẽ còn nhiều nhà_sản_xuất nữa tham_gia. Samsung và Nokia đã trình làng điện_thoại cao_cấp và tầm trung chạy Windows Phone 7.5 trong_khi Huawei,_ZTE tập_trung vào dòng giá rẻ. Xu_hướng này có_thể sẽ tiếp_tục được duy_trì với WP8.
+Điện_thoại WP8_dùng chip_gì?
+Điện_thoại Windows_Phone cao_cấp sẽ dùng chip Qualcomm Snapdragon_S4 Plus lõi kép với xung nhịp lên_đến 1,7 GHz. Một_số phiên_bản khác có_thể được trang_bị chip với tốc_độ thấp hơn để có giá_rẻ hơn.
+WP8 có tích_hợp_Skype?
+Không. Ứng_dụng VoIP này không_được tích_hợp sẵn nhưng người_dùng có_thể tải về. Microsoft cho_hay họ sẽ nhúng các ứng_dụng bên thứ_ba như Skype vào trong menu cuộc_gọi để các cuộc gọi VoIP sẽ diễn_ra y_hệt như cuộc gọi được thực_hiện từ việc quay_số qua mạng di_động.
+NFC được sử_dụng như_thế nào?
+Windows Phone lần_đầu sẽ hỗ_trợ công_nghệ giao_tiếp trường gần theo ba cách. Thứ_nhất là Tap + Share để chia_sẻ URL giữa các thiết_bị NFC và đọc các "tag" trên đồ_vật như danh_thiếp, thẻ, poster,_menu... Thứ_hai là cho_phép các nhà_cung_cấp kiểm_soát và triển_khai việc giao dịch, thanh_toán di động. Microsoft cũng giới_thiệu ví điện_tử Mobile Wallet Hub lưu_trữ thông_tin về tài khoản, tương_tự Apple_Passbook trong iOS_6.
+Tính_năng 'trò chuyện với ứng dụng' được hiểu_ra sao?
+Đây thực_chất là tính_năng mở_rộng mang tên Audible của phần_mềm nhận_diện giọng_nói để người_dùng có_thể ra lệnh điều_khiển ứng dụng. Sau_khi kích_hoạt, họ có_thể mở một ứng dụng, tạm dừng,_đóng... bằng giọng_nói.

@@ -1,0 +1,6 @@
+Hệ_điều_hành 'sư_tử núi' cho máy_tính Mac bán_ra tháng 7
+OS thế_hệ mới của Apple mang tên Mountain Lion được thừa_hưởng nhiều ưu_điểm từ iOS (có trên iPhone, iPad) như dịch_vụ iCloud, iMessage hay tích_hợp sẵn_Twitter...
+Mountain_Lion (hay_OS X_10.8) hỗ_trợ dịch_vụ đám_mây trực_tuyến iCloud, cho_phép đồng_bộ_hóa thông_tin (danh bạ, tài liệu, văn_bản hay ảnh_chụp...) giữa iPhone,_iPad và máy_tính bất_cứ khi_nào người_dùng đăng nhập_vào tài_khoản Apple. Ngoài ra, nó còn được cài sẵn công_cụ Message_(tương tự như iMessage trên iOS), tính_năng thông_báo (Notification), mạng xã_hội Twitter hay Game_Center.
+Mountain_Lion mang nhiều tính_năng của iOS.
+OS_X 10.8 cho_phép cập_nhật lên phiên_bản mới hơn kể_cả lúc máy_tính đang ở trạng_thái Sleep và tối_ưu_hóa cho màn_hình Retina siêu mịn trên MacBook_Pro thế_hệ_mới.
+Mountain Lion được bán vào tháng_sau với giá 20 USD và nếu người_dùng mua máy_tính Mac từ 11/6 sẽ được nâng_cấp miễn_phí.

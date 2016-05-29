@@ -1,0 +1,10 @@
+Đạn tự đổi_hướng như tên_lửa
+Cách_thức chiến_đấu của binh_lính và cảnh_sát sẽ thay_đổi trong tương_lai sau khi loại_đạn có khả_năng tự điều_chỉnh hướng ra đời, các kỹ_sư Mỹ tuyên_bố.
+AP đưa_tin các kỹ_sư của Phòng thí_nghiệm quốc_gia Sandia của Mỹ đang thiết_kế loại_đạn có khả_năng tự đổi_hướng tới 30 lần trong một giây để găm trúng mục_tiêu với sự_dẫn_đường của tia_laser.
+Viên đạn, có chiều_dài chừng 10 cm, được gắn một cảm_biến quang_học ở phần chóp để có_thể phát_hiện tia laser trên mục tiêu. Cảm biến quang_học gửi thông_tin về vị_trí của mục_tiêu tới các vi_mạch_điện tử. Các vi_mạch_điện_tử sử_dụng một thuật_toán để điều_khiển những bộ dẫn động_điện từ. Khi các bộ dẫn_động được kích_hoạt, chúng sẽ điều_khiển những vảy nhỏ_xíu để đưa viên_đạn tới mục_tiêu.
+Phòng thí_nghiệm đã nhận hơn một triệu USD để nghiên_cứu và phát_triển đạn mới. Quá_trình thiết_kế và chế_tạo đã diễn_ra trong ba năm qua.
+Ảnh minh họa:_ezskins.com.
+Red_Jones, một chuyên_gia kỹ_thuật của Phòng thí_nghiệm quốc_gia Sandia, nói rằng ông và các đồng_nghiệp đang thiết_kế 50 viên_đạn tự dẫn_đường dành cho súng máy. Thách_thức lớn nhất_là vi_mạch_điện tử, bộ dẫn động_điện từ và vảy phải đủ nhỏ để có_thể tích hợp vào viên đạn. Nhóm nghiên_cứu đã thử_nghiệm hoạt_động của đạn trên mô_hình máy tính._Họ cũng đã chế_tạo phiên_bản đạn đầu_tiên và thử nó trên thực_địa.
+Do những công_đoạn phức_tạp nhất đã được thực_hiện, công_việc tiếp_theo của Phòng thí_nghiệm quốc_gia Sandia là hợp_tác với một công_ty để sản_xuất đạn tự dẫn_đường và đưa chúng ra thị_trường.
+Trong những thử_nghiệm đầu tiên, đạn tự dẫn_đường đạt tốc_độ tối_đa hơn 720 m/giây. Nhóm nghiên_cứu tin rằng đạn có_thể đạt các tốc_độ tiêu_chuẩn của quân_đội Mỹ với những loại thuốc_nổ thông_thường.
+Các mô_hình giả lập trên máy_tính cho thấy, nếu mục_tiêu cách người bắn hơn 800 m, đạn bình_thường có_thể bay chệch mục_tiêu tới gần 9 m. Với khoảng_cách tương tự, đạn tự dẫn_đường chỉ bay chệch mục_tiêu dưới 20_cm.

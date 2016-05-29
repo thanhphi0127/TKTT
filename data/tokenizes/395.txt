@@ -1,0 +1,11 @@
+Con_người có_thể viết bằng ý_nghĩ
+Các nhà_khoa_học Mỹ vừa phát_triển một chương_trình máy_tính cho_phép người_sử_dụng viết chữ và số trên màn_hình bằng cách nghĩ về chúng.
+Telegraph cho biết, một nhóm chuyên_gia thần_kinh lập_trình một phần_mềm có khả_năng chuyển tín_hiệu trên vỏ_não thành_tín_hiệu trên máy tính. Sau_đó họ cấy những điện_cực nhỏ_xíu trên vỏ_não của hai bệnh_nhân (bằng kỹ_thuật rạch vỏ não). Những điện_cực này theo_dõi hoạt_động trao_đổi tín_hiệu giữa các tế_bào thần_kinh.
+Nhóm nghiên_cứu cho bệnh_nhân xem một bảng gồm 36 ô (6 ô ngang x 6 ô dọc), trong_đó mỗi ô có một chữ hoặc số. Họ yêu_cầu bệnh_nhân tập_trung ý_nghĩ vào một chữ hoặc số duy_nhất trên_bảng.
+Ảnh minh_họa của brainstatetech.com.
+Khi bệnh_nhân nhìn vào một ký tự, tín_hiệu mà não phát_ra được gửi tới máy_tính thông_qua điện cực. Phần_mềm chuyển tín_hiệu não thành_tín hiệu điện_tử và ký_tự hiện_ra trên màn_hình máy_tính.
+Tiến_sĩ Jerry Shih, trưởng_nhóm nghiên cứu, cho biết, kỹ_thuật trên được gọi_là “viết bằng sóng ở vỏ não” (viết tắt là EcoG).
+Theo Telegraph, hiện_nay các nhà_khoa_học thường sử_dụng kỹ_thuật viết bằng máy_ghi điện não (đặt các điện_cực lên da_đầu để ghi điện não). Tuy nhiên, EcoG cho kết_quả chính_xác hơn_nhiều.
+“Sự khác_biệt về chất_lượng thông_tin giữa kỹ_thuật ghi điện vỏ_não và kỹ_thuật ghi điện não là rất lớn”, tiến_sĩ Shih_nói.
+Nhóm nghiên_cứu tin rằng phần_mềm của họ có_thể dẫn tới sự_ra_đời của một hình_thức giao_tiếp mới dành cho người bị liệt hoặc mắc_bệnh về thần kinh. Ngoài_ra nó cũng có_thể giúp các nhà_khoa_học chế_tạo những bộ_phận nhân_tạo nhận lệnh trực_tiếp từ não, như chân và tay_giả.
+Shih cho_rằng trong tương lai, mọi thiết_bị hoạt_động bằng sóng não của người sẽ đủ nhỏ để có_thể cấy vào hộp sọ. Ngoài_ra phần_mềm sẽ được thiết_kế riêng cho từng cá_nhân.

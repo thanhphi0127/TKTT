@@ -1,0 +1,9 @@
+Chiếc kính biến bạn thành siêu_nhân
+Nếu dùng loại kính này để nhìn một loại thực_phẩm trong siêu thị, bạn sẽ_biết ngay thành_phần dinh_dưỡng của nó; nhìn một người lạ, bạn biết ngay anh_ta tên gì, từng có mối liên_hệ nào với bạn_không.
+Kính công_nghệ cao do các nhà_khoa_học của Đại_học Aalto tại Phần_Lan chế tạo._Ảnh: Tech News_Daily.
+Theo Tech News_Daily, các nhà_khoa_học Phần_Lan chế_tạo một loại kính gắn với máy_tính xách tay và lấy thông_tin từ kho dữ liệu. Kính được trang_bị một camera cỡ nhỏ để ghi_hình môi_trường xung_quanh.
+“Kính của chúng_tôi có khả_năng nhận_dạng con_người và một số vật_thể mà người_sử_dụng thấy. Nó cũng có_thể đưa_ra thông_tin về những người, vật_thể mà bạn muốn biết. Dữ_liệu hiện ra phía_bên trong kính, song nó được hiển_thị theo một_cách khiến người_sử_dụng có cảm_giác như nó hiện_ra ở_ngoài cuộc_sống thực”, Samuel Kaski, giám_đốc Viện Công_nghệ thông_tin Helsinki của Đại_học Aalto tại Phần Lan, phát_biểu.
+Ngay sau_khi tìm được thông tin, kính hiển_thị nó trên một màn_hình nhỏ xíu, trong_suốt sát mắt người. Chữ và hình_ảnh hiện_ra ngay phía_trên hoặc gần vật_thể mà người_sử_dụng đang_nhìn.
+Khả_năng này sẽ dẫn tới nhiều ứng_dụng thú vị. Chẳng hạn, trong_lúc gặp một người lạ, bạn có_thể yêu_cầu kính hiển_thị thông_tin về người này. Khi muốn biết thành_phần dinh_dưỡng của một loại thực_phẩm nào_đó trong siêu_thị, người_sử_dụng chỉ cần nhìn mục_tiêu và kính sẽ cung_cấp thông_tin đầy_đủ về thành_phần dinh_dưỡng.
+Sự_kết_hợp giữa thế_giới thực và ảo được gọi_là “thông tin không_gian thực” (augmented reality). Một_số ứng_dụng dành cho điện_thoại di_động đã cung_cấp thông_tin theo hình_thức này.
+Nhóm của Kaski nhận_định kính công_nghệ cao của họ sẽ trở_thành sản_phẩm thương_mại trong 5 tới 10 năm_nữa.

@@ -1,0 +1,13 @@
+Tạo_ra điện_từ rác
+Một_số_loại vi_khuẩn hoạt_động trong quá_trình xử_lý nước_thải có_thể giúp con_người tạo_ra điện, các nhà_khoa_học khẳng_định.
+Xe chuyên_dụng đổ_rác tại một nhà_máy xử_lý rác thải tại Australia. Ảnh:_theage.com.au.
+Livescience cho biết, trong những thiết_bị xử_lý chất_thải thông thường, vi_sinh_vật phân hủy chất_thải rắn trong “bùn_hoạt tính”. Chúng biến_chất hữu_cơ thành_khí metan nhưng để_lại nước_thải bao_gồm ammoniac và photphat - những chất cần phải được loại_bỏ trước_khi người_ta đổ nước ra_sông.
+Các thiết_bị xử_lý chất_thải hiện_nay tiêu tốn rất nhiều năng_lượng để loại_bỏ ammoniac. Quá_trình này sử_dụng các vi_khuẩn chuyển_hóa ammoniac thành nitrat, và các vi_khuẩn đó lại cần được cung_cấp oxy liên_tục vào trong các bể xử_lý nhờ các máy_bơm điện. Sau đó, người_ta cần nhờ thêm vi_khuẩn khử nitơ để chuyển nitrat thành nitơ. Để hoạt động, những vi_khuẩn này cũng cần cồn methanol thêm_vào trong hỗn_hợp.
+Quá_trình trên tiêu_thụ trung_bình 44 Wh điện mỗi_ngày để một người đưa thêm chất_thải vào hệ_thống xử lý. Trong một thành_phố lớn thì con_số này có_thể lên_đến hàng_MWh.
+Loại_bỏ các vi_khuẩn trung_gian
+Tuy nhiên, hiện_tại Gijs_Kuenen - một nhà_khoa_học tại Đại_học Công_nghệ Delft, Hà_Lan - cùng các đồng_nghiệp đang phát_triển một công_nghệ nhằm loại_bỏ bớt những quy_trình tiêu tốn năng_lượng này. Điểm mấu_chốt là phát_hiện gần_đây về một loại vi_khuẩn có_thể phân hủy_ammoniac mà_không cần đến oxy. Loại vi_khuẩn có tên anammox này rút_ngắn lại chu_kỳ nitơ bằng cách chuyển_hóa trực_tiếp ammoniac thành_khí nitơ.
+Một phụ_phẩm của quá_trình này là metan, chất_khí mà theo ông Kuenen có_thể thu_lại và sử_dụng làm nhiên liệu. Nhóm nghiên_cứu cũng tính_toán được rằng quá_trình này không tiêu tốn năng_lượng mà còn tạo_ra điện.
+“Quá_trình này sẽ giúp các thiết_bị xử_lý nước_thải hoạt_động bền vững, nghĩa_là chúng thậm_chí có_thể sản_sinh ra năng lượng, không như các loại máy xử_lý hiện nay", Kuenen_nói.
+Trong tháng 5 nhóm nghiên_cứu sẽ bắt_đầu xây_dựng một thiết_bị thí_điểm để minh_họa cho công_nghệ này tại hệ_thống xử_lý nước_thải Dokhaven ở Rotterdam, Hà_Lan. Họ sẽ hợp_tác với Đại_học Radboud tại Nijmegen và công_ty xử_lý nước Paques trụ_sở tại thành_phố Balk.
+Nhà vi_trùng học Michael_Wagner của Đại_học Vienna,_Áo, cho_biết vi_khuẩn anammox mới chỉ được phát_hiện ra 20 năm trước và có_thể dẫn tới sự_ra_đời của một thế_hệ thiết_bị xử_lý nước_thải bền_vững.
+“Câu chuyện về vi_khuẩn anammox cho_thấy khám_phá cơ_bản của các nhà vi_trùng học có_thể tạo_ra một cuộc cách_mạng đối_với quá_trình xử_lý chất_thải như_thế nào",_Wagner bình_luận.

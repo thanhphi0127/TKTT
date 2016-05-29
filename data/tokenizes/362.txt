@@ -1,0 +1,9 @@
+Vải có khả_năng phát_âm
+Các nhà_khoa_học của Viện Công_nghệ Massachusetts tại Mỹ vừa tạo_ra loại vải có khả_năng phát_hiện âm_thanh và tạo_ra tiếng_động.
+Ảnh minh họa:_designvogue.com.
+AFP đưa_tin Viện Công_nghệ Massachusetts_(MIT) bắt_đầu khởi_động dự_án nghiên_cứu vải có khả_năng nghe và phát_ra tiếng_động cách đây khoảng một thập kỷ. Mục_đích của dự_án là chế_tạo loại vải có_nhiều đặc_tính phức_tạp nhất từ trước tới nay, cho_phép sợi vải tương_tác với môi_trường xung_quanh.
+Trên thực_tế loại sợi mới có_nhiều đặc_tính giống loại nhựa mà người_ta sử_dụng trong microphone. Tuy nhiên, các nhà nghiên_cứu thay_đổi hàm_lượng flo trong nhựa để đảm_bảo rằng các phân_tử sắp_xếp theo kiểu không đối_xứng. Sự không đối_xứng của các phân_tử khiến nhựa có đặc_tính áp_điện - nghĩa_là khi đưa_vào nó một trường điện thì nó biến_đổi hình_dạng và ngược lại, khi dùng lực cơ_học tác_động vào nó thì nó tạo_ra dòng_điện.
+Những sợi mà MIT chế_tạo chẳng_những có khả_năng thu_nhận và truyền âm_thanh, mà còn có_thể tạo_ra âm_thanh.
+“Khi bạn kết_nối chúng với nguồn_điện và cho một dòng_điện yếu chạy qua, chúng sẽ dao_động và phát_ra tiếng động. Nếu chúng dao_động ở tần_số mà tai người có_thể nghe, bạn sẽ nghe_thấy nhiều giai_điệu từ chúng”,_Noemie Chocat, một thành_viên trong nhóm nghiên cứu, phát_biểu.
+Các ứng_dụng liên_quan tới loại sợi vải phát_hiện âm_thanh có_thể bao_gồm microphone cực nhạy có khả_năng ghi_âm lời_nói hoặc giám_sát các chức_năng của cơ_thể, hoặc những sợi có_thể đo lượng máu chảy trong mạch và áp_suất trong_não.
+"Thậm chí chúng_ta có_thể dùng sợi vải phát_hiện âm_thanh để_chế_tạo loại lưới giám_sát dòng_chảy của nước trong đại_dương hay máy chụp cộng_hưởng từ có độ_phân_giải cực cao”, MIT tuyên_bố.

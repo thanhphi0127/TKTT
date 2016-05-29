@@ -1,0 +1,12 @@
+Vi_mạch quang_hợp như lá_cây
+Các nhà_khoa_học đang tìm_cách chế_tạo loại vi_mạch có khả_năng biến ánh_sáng thành điện dựa_theo phản_ứng quang_hợp của thực_vật.
+Ảnh minh họa:_mooseycountrygarden.com.
+Thực_vật tiến_hành các phản_ứng quang_hợp để tạo_ra chất dinh_dưỡng với tỷ_lệ hiệu_quả đạt tới 100%. Các pin mặt_trời cũng dùng chất bán_dẫn silicon để biến ánh_sáng thành điện,_song mức_độ hiệu_quả của chúng chỉ đạt từ 6 tới 25%.
+Vì thế Greg_Scholes, một giáo_sư hóa_học của Đại_học Toronto tại Canada, nảy_ra ý_tưởng chế_tạo cỗ_máy có khả_năng quang_hợp như lá cây. Họ hy_vọng những cỗ máy_đó sẽ xuất_hiện trong máy tính, thiết_bị lưu_trữ dữ liệu, động_cơ, Discovery cho_biết.
+“Cây cối là những cỗ máy phức_tạp hệt như một chiếc máy_bay Boeing 777. Chúng có khả_năng điều_chỉnh hoạt_động ở mọi khâu trong từng giây. Đó là loại máy_móc mà chúng_tôi muốn chế tạo”,_Greg phát_biểu.
+Ý_tưởng của Scholes – được công_bố trên tạo chí_Nature Chemistry – là chế_tạo một vi_mạch sinh_học có khả_năng biến ánh_sáng mặt_trời thành điện. Loại vi_mạch này sẽ trở_thành nguồn_cung_cấp điện cho máy tính, các thiết_bị lưu_trữ và thậm_chí các vi_mạch_điện tử.
+Khi các phân_tử thu_nhận ánh_sáng của cây được kích_thích bởi các photon hạt_photon trong ánh_sáng từ mặt trời, chúng sẽ dao_động và truyền năng_lượng tới phân_tử và tế_bào khác. Hiện_tượng này giống như một sóng lan_truyền trên mặt_ao.
+“Bạn có_thể dùng các vi_mạch sinh_học ấy để ghi và đọc_dữ_liệu trên các máy_tính hiện_nay”, Scholes khẳng_định.
+Một_số_nhà khoa_học tỏ_ra băn_khoăn về tính khả_thi của vi_mạch sinh học._Chris Bardeen, giáo_sư hóa_học tại Đại_học California, nói rằng thách_thức lớn nhất sẽ là thu năng_lượng từ những ánh_sáng có bước sóng khác nhau, chứ không chỉ ánh_sáng nhìn_thấy.
+Alan Aspuru-Guzik, một giáo_sư hóa_học của Đại_học Harvard tại Mỹ, đã tìm_hiểu cơ_chế quang_hợp trong thực_vật nhằm tạo_ra những tấm pin mặt_trời hiệu_quả hơn trong tương lai. Ông nhấn_mạnh rằng nhiều vấn_đề cần được giải_quyết trước_khi chúng_ta chứng_kiến sự_ra_đời của những vi_mạch có khả_năng quang_hợp như lá_cây.
+“Thực_vật có những cơ_chế sửa_chữa mà chúng_ta không_thể sao chép. Thách_thức lớn về mặt kỹ_thuật là tạo_ra một loại vật_liệu có khả_năng thu_nhận ánh_sáng mặt_trời trong 20 năm liên_tục mà_không xuống cấp”, ông bình_luận.

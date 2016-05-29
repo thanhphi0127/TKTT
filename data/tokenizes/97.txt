@@ -1,0 +1,6 @@
+Hệ_điều_hành iOS 6 tăng_tốc lướt web 17% cho_iPhone
+Sau_khi cài_đặt nền_tảng mới nhất vừa ra_mắt của Apple vào iPhone 4S, các chuyên_gia nhận_thấy nó có tốc_độ duyệt web nhanh_hơn.
+>Những tính_năng nổi_bật của iOS 6 / iOS 6 tiết_lộ một_số bí_mật của iPhone thế_hệ mới
+Theo website_AnandTech, phần_mềm SunSpider Benchmark chạy trên iOS 6 cho thời_gian truy_cập web đạt 1.842 ms, nhanh hơn khi nó hoạt_động ở iOS 5 (2.226 ms). Ngoài ra, trình_duyệt Safari mới cũng_được tối_ưu_hóa cho HTML5, đạt 360 điểm, cao hơn 11% so với bản cũ trên iOS 5_(324).
+Bảng so_sánh tốc_độ trình_duyệt trên hệ_điều_hành iOS 5.1.1 và iOS 6_beta.
+iOS 6 được Apple công_bố tại sự_kiện WWDC 2012 tại San_Francisco (Mỹ). Hệ_điều_hành này sẽ có_mặt trong mùa thu, hoạt_động trên iPhone 4S,_iPhone 4,_iPhone 3GS, hai thế_hệ iPad gần nhất và iPod Touch_đời thứ tư. iOS 6 được cập_nhật hơn 200 tính năng, trong_đó đáng chú_ý là tích_hợp mạng xã_hội Facebook,_Twitter, bản_đồ 3D_mới, khả_năng chat_FaceTime bằng 3G và Siri hoạt_động trên cả xe_hơi...

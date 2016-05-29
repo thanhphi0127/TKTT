@@ -1,0 +1,13 @@
+Nhựa phóng_điện
+Điện_thoại di_động sẽ mỏng như thẻ_ngân hàng, còn màn_hình máy_tính có_thể được cuộn lại như tờ_báo nhờ sự_ra_đời của một loại vật_liệu mới.
+> Pin sản_xuất điện từ không_khí
+Natasha Shirshova, một thành_viên trong nhóm nghiên cứu, chụp_ảnh cùng loại nhựa phóng điện. Ảnh: David_Paker.
+Tiến_sĩ Emile_Greenhalgh - một chuyên_gia thuộc Khoa Hàng_không của Đại_học Thực_nghiệm London, Anh - tuyên_bố ông cùng các đồng_nghiệp đã thành_công trong việc chế_tạo nhựa tích điện. Nó không thực_sự là một loại pin, mà là một tụ_điện hóa hai lớp – giống như những tụ mà chúng_ta thường thấy trong các mạch_điện.
+Sản_phẩm mẫu của nhóm Greenhalgh là một tấm nhựa mỏng có diện_tích khoảng 13 cm_vuông và có khả_năng nạp_điện từ nguồn thông thường. Nó được tạo_nên bởi hai lớp sợi carbon. Hai lớp này được phủ nhựa chống dẫn điện. Ở giữa hai lớp có một lớp sợi quang. Khi dòng_điện chạy qua nhựa, các electron_(điện tử) di_chuyển từ một lớp carbon sang lớp sợi quang rồi tới lớp carbon kia. Quá_trình di_chuyển đó sẽ tạo_ra các cực_dương và cực_âm.
+Thử_nghiệm cho_thấy sau khi xạc đủ điện, tấm nhựa thắp_sáng một bóng LED trong 20_phút.
+Hãng sản_xuất xe_hơi Volvo tài_trợ 4,2 triệu USD cho dự_án nghiên_cứu của tiến_sĩ Greenhalgh. Mục_tiêu của hãng là tạo_ra nguồn_điện mới dành cho những xe_ô_tô chạy sử_dụng cả xăng và điện.
+“Chúng tôi nghĩ xe_cộ trong tương_lai có_thể lấy điện_từ nóc hoặc cửa nhờ loại nhựa mà chúng_tôi chế_tạo”, Greenhalgh_nói.
+Greenhalgh khẳng_định loại nhựa mới nạp và phóng_điện nhanh hơn so với pin truyền thống, đồng_thời không sử_dụng hóa_chất nên có tuổi thọ dài_hơn.
+Nhóm nghiên_cứu muốn sử_dụng nó để thay_thế sàn và ngăn đựng hành_lý của các xe do Volvo sản xuất. Nếu họ thành công, Volvo có_thể thu_nhỏ kích_thước của pin_điện trong xe lai và giảm trọng_lượng của xe. Trọng_lượng càng nhỏ thì lượng nhiên_liệu mà xe tiêu_thụ trên mỗi km càng_thấp.
+Những ứng_dụng đối_với nhựa tích_điện không dừng_lại ở đó. Theo Greenhalghe, trong tương_lai chúng_ta có_thể mua những chiếc điện_thoại di_động mỏng như thẻ_tín_dụng vì chúng không cần pin nữa. Những chiếc máy_tính xách tay sẽ hoạt_động lâu hơn hiện_nay vì chúng có khả_năng lấy điện_từ vỏ máy. Các công_ty cũng có_thể sản_xuất những màn_hình máy_tính mỏng như tờ_giấy và người_sử_dụng có_thể cuộn chúng rồi mang_theo.
+“Chưa có_ai tạo_ra một vật_liệu giống như thế._Chỉ trong_vòng 10 năm nữa nó có_thể thay_thế pin_truyền thống”,_Greenhalgh khẳng_định.

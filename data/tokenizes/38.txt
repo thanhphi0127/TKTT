@@ -1,0 +1,5 @@
+Những tính_năng nổi_bật của Windows_Phone 8
+Hệ_điều_hành dành cho thiết_bị di_động mới nhất của Microsoft được đánh_giá là có những cải_tiến vượt_bậc so với Windows Phone 7 như hỗ_trợ chip lên_đến 64 nhân, mở_rộng dung_lượng qua thẻ nhớ ngoài hay màn hình_HD.
+Nền_tảng này được ra_mắt tại hội_nghị Windows Phone Summit vừa diễn_ra vào ngày 20/6 ở_Mỹ.
+Một trong những thay_đổi lớn trên Windows Phone 8 là màn_hình khởi_động có_nhiều ô Live Tile hơn và cho_phép người_dùng điều_chỉnh kích_cỡ tùy_theo mức_độ quan_trọng của ứng dụng. Những điện_thoại hiện chạy Windows Phone 7 (Nokia_Lumia 800,_HTC Titan_II...) sẽ không_thể nâng_cấp lên bản 8 nhưng sẽ được cài bản 7.8 có màn_hình khởi_động mới.
+Windows Phone 8 sẽ hỗ_trợ nhiều độ_phân_giải màn hình từ 800 x 480 pixel cho tới 1280 x 720 pixel_(720p) và khả_năng mở_rộng dung_lượng qua thẻ_nhớ.

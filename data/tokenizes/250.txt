@@ -1,0 +1,6 @@
+Xe_đạp điện tự_phát hiện đường_cua
+Hãng xe_hơi Ford tuyên_bố họ sẽ ứng_dụng công_nghệ chế_tạo xe_đua công_thức 1 để_chế_tạo một loại xe_đạp điện đặc_biệt.
+Hình minh_họa xe_đạp điện tương_lai của hãng Ford. Ảnh:_Discovery.
+Theo ý_tưởng của Ford, xe_đạp của hãng sẽ được có khung bằng nhôm và sợi carbon nên rất nhẹ. Nó sẽ được trang_bị hộp điều_khiển tốc_độ 11 số và phanh đĩa. Một pin Lithium_ion cấp điện cho motor có công_suất 350_W.
+Điểm làm_nên sự_khác_biệt giữa xe_đạp của Ford với các xe_đạp điện khác khả_năng phát_hiện đoạn_đường cua hay ngả rẽ. Đây là một tính_năng trong các xe_đua công_thức 1. Nhờ công_nghệ cảm_biến từ giảo, bánh_xe có khả_năng nhận_dạng các đoạn cua để nhắc nhờ người sử dụng. Ngoài_ra nó còn có_thể đo sức_đạp của người_sử_dụng để tính_toán lượng điện mà mỗi cú đạp tạo_ra.
+Ford đã đầu_tư tiền vào dự_án phát_triển các ứng_dụng chạy trên nền hệ_điều_hành Android dành cho xe_đạp điện của hãng. Với các ứng_dụng đó, xe_đạp điện có_thể tự theo_dõi tốc độ, quãng đường, phát thông_điệp cảnh_báo.

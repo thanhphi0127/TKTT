@@ -1,0 +1,10 @@
+Máy theo_dõi mặt để phát_hiện người nói_dối
+Các nhà_khoa_học Anh chế_tạo hệ_thống_thiết bị có_thể phát_hiện hành_vi nói_dối bằng cách theo_dõi khuôn_mặt của người_nói.
+BBC đưa_tin Đại_học Bradford, Đại_học Aberystwyth, Cục Biên_giới Anh hợp_tác với_nhau để nghiên_cứu hệ_thống camera phát_hiện nói dối. Phiên_bản mẫu của họ được trưng_bày trong lễ_hội Khoa_học Anh tại thành_phố Bradford.
+Hệ_thống bao_gồm một camera, một cảm biến_hình ảnh nhiệt có độ_phân_giải cao và một số_thuật toán.
+Cảm_xúc của con_người được thể_hiện qua chuyển_động của mắt, đồng tử,_môi, mũi. Hành_động thở, nuốt, nháy_mắt cũng giúp chúng_ta phán_đoán cảm_xúc của người khác. Đương nhiên, camera có_thể ghi_lại tất_cả những chuyển_động mà con_người thấy.
+Thậm_chí sự_phồng_lên của mạch_máu xung_quanh mắt cũng có_thể tố_cáo người nói dối. Cảm biến_nhiệt có_thể phát_hiện sự_thay_đổi đó.
+Máy theo_dõi cảm_xúc có_thể phát_hiện cả hiện_tượng phồng_lên của mạch_máu quanh mắt. Ảnh:_BBC.
+Nhóm nghiên_cứu mới chỉ thử_nghiệm máy_phát_hiện nói_dối với tình_nguyện viên, chứ chưa thử_nghiệm nó trong những tình_huống thực. Họ có_ý_định triển_khai nó tại một sân_bay của Anh vào cuối năm nay. Rất có_thể ban_đầu máy sẽ được đặt gần những nhân_viên di_trú giàu kinh_nghiệm khi họ phỏng_vấn hành khách. Nhờ_đó người_ta có_thể đối_chiếu nhận_định của máy với kết_luận của nhân_viên di_trú.
+“Trong những tình_huống thực và gây căng thẳng, có_lẽ tỷ_lệ thành_công của hệ_thống sẽ tăng lên. Một ngày_nào đó, chúng_tôi sẽ có_thể phát_hiện 90% người nói dối”, giáo_sư Hassan_Ugail, một nhà_nghiên_cứu của Đại_học Bradford, phát_biểu.
+Tuy nhiên, nhóm nghiên_cứu thừa_nhận hệ_thống của họ không_thể phát_hiện người nói_dối với tỷ_lệ chính_xác 100%. Chẳng hạn, sự_sợ_hãi là một dấu_hiệu của hành_vi không nói thật. Nhưng khi một hành_khách tỏ_ra sợ_hãi thì rất có_thể người đó sợ nhân_viên di_trú không tin lời_khai của anh ta, chứ không_phải vì anh_ta nói_dối.

@@ -1,0 +1,12 @@
+Lưu_trữ thông_tin trên vi_khuẩn
+Rất có_thể trong tương_lai ổ cứng máy_tính và ổ USB sẽ chứa vi_khuẩn để thực_hiện chức_năng lưu_trữ dữ_liệu.
+Vi_khuẩn E.coli_bacterium. Ảnh:_meningitis101.com.
+Vào năm 2007, một nhóm nghiên_cứu của Đại_học Keio tại Nhật_Bản tuyên_bố họ đã mã_hóa thành_công một công_thức vật_lý vào ADN của một vi_khuẩn phổ_biến trong đất. Họ chỉ ra rằng, do vi_khuẩn sinh_sản liên_tục nên dữ_liệu sẽ được truyền từ thế_hệ này sang thế_hệ khác. Nhờ_đó một nhóm vi_khuẩn đơn_bào có_thể lưu_trữ dữ_liệu trong vài nghìn_năm.
+Nhưng nhóm sinh_viên của Đại_học Trung_Quốc còn đạt được bước_tiến_xa hơn so với nhóm chuyên_gia của Đại_học Keio,_AFP cho biết. Họ vừa tìm_ra một số biện_pháp để lưu_trữ những dạng_dữ_liệu phức_tạp hơn trong cơ_thể E.coli_bacterium – loại vi_khuẩn ký_sinh trong đường ruột của động_vật máu nóng, bao_gồm cả con_người.
+Họ nén_dữ_liệu rồi cắt thành nhiều phần. Họ tách ADN ra khỏi vi_khuẩn, mã_hóa dữ_liệu vào ADN rồi đặt nó vào một vi_khuẩn khác. Quy_trình này tương_tự như biện_pháp biến_đổi gene ở thực_vật.
+Số_lượng vi_khuẩn là vô_tận nên không có bất_kỳ giới_hạn nào đối_với lượng dữ_liệu mà nhóm nghiên_cứu có_thể lưu trữ. Họ cũng có_thể “lập bản đồ” ADN của vi_khuẩn nên việc xác_định_vị_trí lưu_giữ thông_tin trở_nên dễ_dàng.
+Kết_quả nghiên_cứu này mở_ra khả_năng lưu_trữ văn bản,_hình ảnh, âm_nhạc và thậm_chí video trong các tế bào. Các nhà nghiên_cứu khẳng_định mỗi gram vi_khuẩn có_thể chứa được lượng thông_tin tương_đương 450 ổ cứng dung_lượng 2.000_GB.
+Các sinh_viên cũng phát_triển biện_pháp bảo_mật ba lớp trong quá_trình mã_hóa dữ_liệu. Đây có_thể là tin_vui đối_với các nhà_ngoại_giao Mỹ, những người từng điêu_đứng vì vụ rò rỉ thông_tin trên trang_WikiLeaks.
+“Chẳng ai có_thể trộm_dữ_liệu từ vi_khuẩn. Mọi loại máy_tính đều có_thể rơi vào tình_trạng mất_điện hoặc mất_cắp dữ liệu, song vi_khuẩn chống được mọi hình_thức tấn_công trong thế_giới ảo”, Allen Yu, một thành_viên trong nhóm nghiên cứu, phát_biểu.
+Giáo_sư Chan Ting_Fung, người hướng_dẫn nhóm_sinh viên, nói_với AFP rằng nghiên_cứu của họ sẽ dẫn tới sự_ra_đời của nhiều ứng_dụng thực_tế. Thông_tin được lưu_giữ trong vi_khuẩn chẳng_những tồn_tại hàng nghìn năm, mà còn không bị mất sau các thảm_họa mang tính hủy_diệt.
+“Vi khuẩn xuất_hiện khắp mọi nơi. Chúng có_thể sống_sót sau những thảm_họa khủng_khiếp nhất đối_với con người. Một loại vi_khuẩn có tên Deinococcus_radiodurans còn có_thể sống_sót sau các vụ nổ hạt nhân”, Chan_nói.

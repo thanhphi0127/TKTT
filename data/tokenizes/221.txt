@@ -1,0 +1,5 @@
+Robot cứu hỏa trên tàu
+Các nhà_khoa_học của Hải_quân Mỹ chế_tạo robot_cứu hỏa để xử_lý những đám_cháy trên các phương_tiện đường_thủy.
+Octavia, tên của robot cứu hỏa, được thiết_kế để có_thể tương_tác với người qua giọng_nói và hình ảnh. Nó được trang_bị cặp camera hồng ngoại, bình_chứa_nước và không_khí nén ở phía "lưng", vòi cứu hỏa, Telegraph đưa_tin.
+Sau_khi được hướng_dẫn tới vị_trí của đám cháy, Octavia sử_dụng hai camera hồng_ngoại để quan_sát ngọn lửa. Sau_đó nó phun không_khí và nước vào đám_cháy.
+Nhóm nghiên_cứu Octavia hy_vọng sản_phẩm của họ sẽ là công_cụ đắc_lực trong nỗ_lực phòng, chống hỏa hoạn trên biển. Hiện_tại Octavia chưa thể phản_ứng nhanh trong những tình_huống khẩn cấp, song nhóm nghiên_cứu khẳng_định họ sẽ tiếp_tục cải_tiến robot để nó có khả_năng đó. Ngoài_ra họ cũng sẽ tiếp_tục nâng_cao khả_năng giao_tiếp của robot với người và khả_năng phát_hiện hỏa_hoạn.

@@ -1,0 +1,13 @@
+'Mổ xẻ'_MacBook Pro màn_hình siêu_mịn
+Sau_khi tháo_rời máy_tính xách tay mới của Apple, các chuyên_gia nhận_thấy nó rất khó sửa chữa. Ngoài ra, bộ_nhớ RAM bị đính chặt vào bo mạch chủ nên không_thể nâng_cấp dung_lượng cao_hơn.
+>MacBook Pro màn_hình Retina giá 50 triệu đồng tại VN
+MacBook Pro 2012 được trang_bị màn_hình 15,4 inch độ_phân_giải 2.880 x 1.800 pixel với mật_độ điểm ảnh đạt 220 pixel/inch, chip lõi tứ Core_i7 Ivy_Bridge 2,7 GHz và card đồ_họa Nvidia Kepler GT_650M.
+Tháo đinh_ốc để tách lớp vỏ mặt_sau.
+Thỏi pin chiếm phần_lớn diện_tích cho thời_gian sử_dụng liên_tục khoảng 7_giờ.
+Tách ổ SSD do Samsung sản_xuất.
+Bộ_phận đảm_nhiệm kết_nối không dây Wi-Fi, Bluetooth của Qualcomm.
+Tháo quạt tản_nhiệt.
+Tách bo mạch chủ ra khỏi_máy.
+Trên bo mạch chủ có chip_Core i7_3720QM tốc_độ 2,6 GHz (màu vàng_cam), card màn_hình Nvidia_GT 650M_(đỏ), RAM Hynix_(xanh) và bộ_phận điều_khiển cổng Thunderbolt của Intel.
+Màn hình 15,4 inch độ_phân_giải 2.880 x 1.800_pixel.
+Toàn_bộ linh_kiện sau khi được tháo_gỡ.

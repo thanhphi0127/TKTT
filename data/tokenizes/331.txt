@@ -1,0 +1,10 @@
+Robot đưa thuốc trong bệnh_viện
+Một bệnh_viện tại Mỹ sử_dụng robot để vận_chuyển thuốc, dụng_cụ y_tế và các loại hàng_hóa nhằm giảm_thiểu sai_sót và chi_phí hoạt_động.
+> Robot tương_lai biết lừa người
+Một robot mang tên TUG trong bệnh_viện Aethon, thành_phố Pittsburgh, bang Pennsylvania,_Mỹ. Ảnh:_Discovery.
+Bệnh_viện là nơi mà những dụng_cụ y_tế phải được đặt đúng chỗ và đúng thời_điểm để cứu_chữa các bệnh nhân. Với hàng trăm bác sĩ, y_tá và người_phục_vụ ở bệnh viện, sai_sót là điều không_thể tránh_khỏi.
+Con_người dễ mắc lỗi, nhưng robot thì không. Ngoài_ra chúng còn chẳng_cần lương và thức ăn. Suy_nghĩ đó thúc_đẩy nhiều bệnh_viện sử_dụng robot để vận_chuyển hàng_hóa bên_trong các tòa_nhà.
+Discovery cho biết, Aethon, một bệnh_viện ở thành_phố Pittsburgh,_bang Pennsylvania, là một trong những bệnh_viện như thế. Họ thuê các kỹ_sư chế_tạo một loại robot có khả_năng “đọc” bản_đồ kỹ_thuật số để định_hướng và di_chuyển trong bệnh viện. Chúng được gọi_là TUG. Mỗi robot được trang_bị nhiều ăng-ten nhỏ_xíu để phát_hiện con_người và chướng_ngại vật. Những chiếc ăng-ten có_thể phát_ra sóng siêu âm, tia hồng_ngoại và tia laser để dò tìm các vật_thể xung_quanh robot.
+Video TUG di_chuyển trong bệnh_viện
+Với khối_lượng 25 kg,_TUG hoạt_động nhờ hai motor điện một_chiều có khả_năng tự sạc khi chúng không hoạt động. Khi lượng điện trong pin đạt mức tối đa,_TUG sẽ hoạt_động liên_tục trong 10 tiếng đồng_hồ.
+Khả_năng giao_tiếp với_nhau của các robot ngày_càng được nâng_cao và TUG cũng không_phải trường_hợp ngoại lệ. Chúng có_thể “nói chuyện” với_nhau trong hành_lang để trao_đổi thông_tin về lộ_trình hiệu_quả nhất để tới đích.

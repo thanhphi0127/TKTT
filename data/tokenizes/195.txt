@@ -1,0 +1,7 @@
+Cấu_hình máy_tính bảng_giá rẻ của Google
+Thiết_bị sẽ có tên Nexus 7, do Asus sản xuất, chạy chip lõi tứ Tegra 3 và hệ_điều_hành Android 4.1 tên mã Jelly_Bean.
+Từ tháng 12/2011, Chủ_tịch Eric_Schmidt hứa_hẹn giới_thiệu máy_tính bảng Google "trong vòng 6 tháng nữa". Nếu đúng tiến độ, họ sẽ trình_làng tablet đầu_tiên vào tháng 6 tới, đúng thời_điểm diễn_ra hội_thảo I/O quan_trọng của hãng dịch_vụ tìm_kiếm này.
+Trong_khi đó, một_số website đang chia_sẻ các thông_tin về Google tablet bị lộ qua công công_cụ đánh_giá (benchmark)_Rightware PowerBoard. Sản_phẩm có tên Google Asus Nexus_7, cho_thấy đây là thiết_bị 7 inch do Asus gia công. Màn hình có độ_phân_giải 1.280 x 768 pixel. Bên_trong máy là chip bốn nhân, xung nhịp 1,3 GHz và đồ_họa Nvidia_ULP GeForce. Máy chạy hệ_điều_hành Android mới nhất là 4.1_JRN51B.
+Cấu_hình được cho là của Google_tablet.
+Nvidia và Asus từng trình_diễn một tablet với chip lõi tứ chỉ có 199 USD tại CES_2012. Phiên_bản đó đạt tốc_độ xử_lý là 1,2 GHz, màn_hình WXGA_(1.280 x 800 pixel), RAM 1 GB, bộ_nhớ trong 16 GB. Nexus 7 được dự_đoán là phát_triển dựa_trên mẫu máy này và cũng sẽ có giá dưới 200_USD.
+Giới quan_sát cho_rằng Google sẽ là đối_thủ "nguy_hiểm" đối_với Amazon, công_ty đang phân_phối Kindle Fire với giá tương_đương nhưng cấu hình thấp_hơn.

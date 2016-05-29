@@ -1,0 +1,13 @@
+- Chức_năng “File Shredder” cho_phép người_dùng xóa vĩnh_viễn file/thư mục có trên ổ cứng mà_không thể_nào khôi_phục lại được,_dù sử_dụng các phần_mềm chuyên_dụng nhất. Tính_năng này cho_phép xóa những dữ_liệu quan trọng, nhạy_cảm đang lưu trên ổ cứng mà không muốn ai tìm_thấy.
+- “Windows Temporary_Files” là tính_năng cho_phép tìm và quét các file rác được tạo_ra bởi quá_trình sử_dụng Windows trên ổ cứng. Tính_năng này giúp loại_bỏ những file rác không cần_thiết khiến ổ cứng bị chiếm_dụng 1 cách lãng_phí.
+- Một tính_năng hữu_ích khác của phần_mềm đó là “Registry Cleaner”. Tính_năng này sẽ quét và tìm những lỗi có trên khóa_registry của hệ_thống, đồng_thời tìm và loại_bỏ những registry thừa còn sót lại của các phần_mềm sau_khi đã bị gỡ bỏ… để giúp registry trên hệ_thống trở_nên gọn_gàng hơn.
+Sau_khi thực_hiện quá_trình quét, bạn nhấn nút Repair trên cửa_sổ phần_mềm để khắc_phục những lỗi được phát_hiện ra trên registry của hệ_thống.
+- Tương tự, chức_năng “Registry_Optimizer” sẽ tiến_hành tối_ưu và chống phân mảnh toàn_bộ khóa_registry trên hệ_thống. Điều này sẽ giúp cho hệ_thống hoạt_động mượt_mà hơn, tránh tình_trạng ì_ạch hoặc máy bị_treo, cũng_như tăng tốc_độ phản_hồi, tốc_độ khởi_động của hệ_thống…
+Lưu_ý: sau khi thực_hiện chức_năng tối_ưu registry, phần_mềm sẽ tự_động khởi_động lại hệ_thống, do vậy bạn cần phải thoát ra tất_cả những phần_mềm đang sử_dụng để không bị ảnh_hưởng.
+Chức_năng “Registry backup_& restore” sẽ cho_phép tạo sao_lưu và khôi_phục khóa_registry của hệ_thống. Tính_năng này thực_sự hữu_dụng trong trường_hợp bạn có dự_định can_thiệp hoặc chỉnh sửa nào_đó trên registry hệ_thống.
+Nhóm chức_năng “Internet_Browser Tools” cung_cấp các công_cụ để quản_lý trình_duyệt trên hệ_thống, bao_gồm bộ 3 trình_duyệt phổ_biến nhất hiện nay, bao_gồm Internet Explorer,_Firefox và Chrome.
+Tại_đây phần_mềm cung_cấp các chức_năng để người_dùng để dàng quản_lý hay xóa_bỏ các thông_tin trên trình_duyệt, như lịch_sử duyệt web, cookies lưu trên trình_duyệt, file_tạm và các add-on cài_đặt trên trình_duyệt.
+Tùy vào loại trình_duyệt bạn đang sử_dụng cũng_như muốn can_thiệp vào phần_nào trên trình_duyệt để lựa_chọn công_cụ phù_hợp và thực_hiện theo các bước yêu_cầu hiện_ra sau_đó.
+Nhóm chức_năng “Report” trên phần_mềm cho_phép quản_lý và báo_cáo tình_trạng trên hệ_thống, như báo_cáo các phần_mềm tự khởi_động, các loại font và phần_mềm đang được cài_đặt trên Windows, các ứng_dụng đang chạy trên hệ_thống…
+Dựa_vào những kết_quả báo_cáo này bạn sẽ có_được 1 cái nhìn tổng_thể và khách_quan hơn về hệ_thống của mình.
+Trên đây là những nhóm chức_năng và công_cụ hữu_ích mà Advanced Uninstaller Pro mang đến cho người dùng. Với những chức_năng này chắc_hẳn sẽ khiến cho hệ_thống của bạn hoạt_động mượt_mà và nhẹ_nhàng hơn so với trước_đây.

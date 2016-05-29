@@ -1,0 +1,7 @@
+Tàu cao_tốc bay sát mặt_đất
+Các kỹ_sư Nhật_Bản chế_tạo loại phương_tiện giao_thông mới bằng cách kết_hợp tàu cao_tốc với máy_bay.
+Mô_hình loại phương_tiện giao_thông lai giữa_tàu cao_tốc và máy_bay. Ảnh:_Discovery.
+Discovery News đưa_tin, tại Hội_thảo về Robot và Tự_động_hóa tại Thượng_Hải, Trung_Quốc vào tuần trước, các nhà sáng_chế của Đại_học Tohoku tại Nhật_Bản đã công_bố phiên_bản mẫu của một loại tàu cao tốc có khả_năng bay nhờ đệm không_khí.
+Về cơ_bản thì phương_tiện vận_tải lai có hình_dáng giống phi_cơ nhiều hơn với sáu cánh, một đuôi và các động_cơ đẩy. Do phương_tiện không tiếp_xúc với mặt_đất, chuyển_động của nó sẽ không bị cản_trở bởi lực ma sát. Vì_thế trong cùng một khoảng thời_gian nó sẽ đạt tốc_độ cao hơn, đồng_thời sử_dụng ít nhiên_liệu hơn, so với các tàu cao tốc chạm đường_ray.
+Xem phương tàu cao_tốc bay sát mặt_đất
+Vấn_đề duy_nhất đối_với "tàu_hỏa kiêm máy_bay" là nó luôn đối_mặt với nguy_cơ liệng, bổ_nhào và bay trệch giống như mọi phi_cơ khác. Vì_thế phần dưới của thân_tàu sẽ khó duy_trì được tư_thế song_song so với mặt đất. Một trong những giải_pháp để khắc_phục những yếu_điểm này là cho phương_tiện di_chuyển trong đường_ray hình chữ_U.

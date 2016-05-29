@@ -1,0 +1,15 @@
+Người_máy sẽ ra chiến_trường
+Bộ Quốc_phòng Mỹ vừa ký hợp_đồng chế_tạo loại robot có hình_dạng giống_người và con báo để hỗ_trợ binh_lính trên trận_địa.
+> Chó máy biết chạy, leo_trèo và khuân_vác
+Mô_hình báo máy của công_ty Boston Dynamics._Ảnh: Boston_Dynamics.
+New_York Daily News đưa_tin Boston Dynamics - một công_ty chế_tạo máy có trụ_sở tại bang Massachusetts, Mỹ - vừa trúng thầu dự_án chế_tạo hai robot chiến_trường mới dành cho quân đội. Lầu Năm_Góc yêu_cầu Boston_Dynamics chế_tạo một robot_hình người và một robot hình con báo. Chúng phải có khả_năng thực_hiện nhiều động_tác phức_tạp và chạy với tốc_độ hơn 110_km/h.
+Boston Dynamics cho biết, Atlas, tên của robot hình người, sẽ có hai_tay và hai chân nhưng không có đầu. Nó có_thể bước, leo dốc, luồn_lách và sử_dụng đôi_tay.
+Hiện_tại Boston Dynamics đang sản_xuất một robot_hình người. PETMAN, tên của loại robot này, được sử_dụng trong các thử_nghiệm trang_phục chống vũ_khí_hóa học._Atlas sẽ có_nhiều tính_năng cao_cấp hơn so với PETMAN.
+Xem người_máy PETMAN
+Cheetah, tên của robot hình con báo, có khả_năng bước, chạy nước rút, chuyển hướng, chạy ngoằn_nghèo trên bốn_chân.
+Mặc_dù “báo máy” có_thể chạy nhanh hơn người và thích_hợp với nhiệm_vụ truy_kích kẻ thù, Boston_Dynamics, khẳng_định họ không chú_trọng vào khả_năng chiến_đấu của nó. Thay vào đó công_ty sẽ nâng_cấp báo máy để nó phục_vụ các lĩnh_vực đời_sống.
+“Chúng có_thể tham_gia cứu hộ,_vận tải, làm nông_nghiệp và cứu hỏa, chứ không chỉ tham_gia chiến trận”,_Marc Raibert, chủ_tịch công_ty Boston Dynamics, phát_biểu với báo Boston_Herald.
+Phiên_bản đầu_tiên của Cheetah sẽ được hoàn_thành trong 20 tháng tới. Các kỹ_sư của Boston Dynamics hy_vọng nó có_thể chạy được 50_km/h.
+Năm 2008 Boston Dynamics trở thành_tâm điểm của các báo công_nghệ trên thế_giới sau khi công_ty công_bố đoạn video về chó máy BigDog trên mạng_Internet.
+BigDog có kích_thước tương_đương một con_chó lớn. Chân của nó gồm ba khớp_xương nối tương_tự như chó thật. Những khớp_xương có_thể thay_đổi vị_trí tới 500 lần/giây, giúp chó máy giảm_chấn_động khi di_chuyển và thích_nghi với địa_hình nhấp_nhô và dốc. Nhờ_đó BigDog có_thể đi trên đường_núi gập_ghềnh mà các loại xe bánh lốp không_thể đi qua, đồng_thời không gây tiếng_động mạnh.
+Trong các thử_nghiệm chó máy có_thể chạy với tốc_độ 6,4 km/h, leo những dốc nghiêng tới 35 độ và bước_qua những đống_gạch_vụn với 153 kg hàng_hóa trên_lưng.

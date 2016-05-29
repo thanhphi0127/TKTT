@@ -1,0 +1,11 @@
+Lần đầu_tiên tạo_ra tế_bào_sống
+Các nhà_khoa_học Mỹ vừa tạo_ra những ADN nhân_tạo từ các hóa_chất để điều_khiển tế_bào sống trong phòng thí_nghiệm.
+Tiến_sĩ Craig Venter, người_sáng_lập Viện J. Craig Venter._Ảnh: New_York_Times.
+Nhóm nghiên_cứu của Viện J. Craig Venter sử_dụng một số_hóa chất để tổng_hợp nên các đoạn ADN trong phòng thí nghiệm. Từ những đoạn ADN đó, nhóm nghiên_cứu tạo_ra bộ gene của vi_khuẩn đơn_bào Mycoplasma_mycoides – thủ_phạm gây_bệnh viêm_vú ở dê. Sau_đó các chuyên_gia cấy bộ gene_đó vào tế_bào_chất của một loài vi_khuẩn đơn_bào có quan_hệ họ_hàng với Mycoplasma_mycoides.
+Bộ gene nhanh_chóng "bám_rễ" trong tế_bào (vi khuẩn) mới_rồi phân_chia liên_tục, tạo_ra hàng triệu vi_khuẩn Mycoplasma mycoides_mới.
+"Khi chúng_tôi đưa bộ gene vào, vi_khuẩn chấp_nhận nó và tự biến thành loài vi_khuẩn Mycoplasma mycoides. Đây là những tế_bào tự phân_chia đầu_tiên được tạo_ra bởi máy_tính", Newscientist dẫn lời tiến_sĩ J. Craig Venter, trưởng_nhóm nghiên_cứu.
+Như vậy, ban_đầu bộ gene của vi_khuẩn chỉ tồn_tại dưới dạng_dữ_liệu trên máy tính, nhưng Venter và các cộng_sự đã biến dữ_liệu thành_tế_bào sống.
+Tuy nhiên,_Venter khẳng_định ông vẫn chưa tạo_ra sự_sống.
+“Chúng tôi vừa tạo_ra tế_bào sống nhân_tạo đầu tiên. Chúng_tôi chưa tạo_ra sự_sống từ con_số không vì chúng_tôi phải sử_dụng một tế_bào khác để tiếp_nhận ADN nhân tạo”, ông_nói.
+Andy_Ellington, nhà sinh_học của Đại_học Texas tại Mỹ, nói rằng về mặt sinh_học thì chẳng có gì khác_biệt giữa vi_khuẩn tự_nhiên và vi_khuẩn nhân_tạo.
+“Cả hai loại vi_khuẩn đều không có linh hồn”, Ellington_nói.

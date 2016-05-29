@@ -1,0 +1,4 @@
+Màn hình Retina phô_diễn độ nét qua kính_lúp
+Đặc_điểm thu_hút sự_chú_ý nhất trên máy_tính MacBook_Pro đời_mới chính là màn_hình có độ_phân_giải lên tới hơn 5 triệu điểm ảnh, cao hơn_cả HDTV đang được bán trên thị_trường.
+Notebook của Apple được trang_bị màn_hình 15 inch 2.880 x 1.800 pixel. Tương_tự trên iPad, công_nghệ này giúp hiển_thị nội_dung sắc_nét hơn. Trang_Mashable đã so_sánh máy với phiên_bản MacBook_Pro cùng kích_cỡ nhưng có màn_hình 1.680 x 1.050 để chứng_minh sự_khác_biệt.
+Tuy nhiên, điểm hạn_chế là text (văn_bản) trên các trang web chỉ hiển_thị tốt trên trình_duyệt Safari trong_khi Chrome và Firefox chưa được cập_nhật để đáp_ứng độ_phân_giải cao của Retina, nhưng điều này sẽ sớm thay_đổi.

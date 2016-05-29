@@ -1,0 +1,7 @@
+Bí_mật bên_trong 'nội thất'_Galaxy_S_III
+Các chuyên_gia iFixit và Chipworks đã tháo_rời smartphone đang thu_hút sự_chú_ý nhất hiện_nay để khám_phá linh_kiện và phát_hiện một số chi_tiết thú_vị bên_trong máy.
+Galaxy_S_III có pin 2.100 mAh, kích_thước không to như pin 3.300 mAh có trong Motorola Droid RAZR_Maxx nhưng lớn hơn pin 1.750 mAH của Galaxy Nexus. Điểm đáng chú_ý là pin cũng chứa chip_NFC.
+Xem chi_tiết quá_trình tháo linh_kiện Galaxy_S_III.
+Lớp kính gắn_chặt vào màn_hình và khung của S_III, do_đó iFixit cho_rằng chi_phí để thay màn_hình sẽ khá cao nếu người_sử_dụng lỡ_tay làm rơi vỡ_máy. Lớp bảo_vệ Gorilla_Glass 2 của Corning giúp màn_hình cứng như_thế_hệ một nhưng vẫn mỏng hơn 20%. Tuy nhiên, họ không khẳng_định lớp kính mới có tốt hay bền hơn lớp cũ_không.
+Phát_hiện thú_vị nhất khi mổ_xẻ sản_phẩm là camera 8 megapixel trong Galaxy_S_III có cùng cảm_biến (sensor) như iPhone 4S. Tuy nhiên, một_số thử_nghiệm ban_đầu cho_thấy điện_thoại Samsung chụp_ảnh tốt_hơn iPhone_4S.
+Bên_cạnh đó,_iPhone 4S sử_dụng camera phía_trước là VGA, kém hơn_hẳn so với camera 1,9 megapixel của S_III. Lý_giải về con_số lẻ này, đại_diện của Samsung chia_sẻ với VnExpress.net rằng thực_ra đó là camera 2 megapixel, nhưng độ_phân_giải không chính_xác là 2 'chấm' nên Samsung quyết_định đặt là 1,9 để tránh những "săm soi" không_đáng có về_sau).

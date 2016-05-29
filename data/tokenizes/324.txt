@@ -1,0 +1,8 @@
+Pin_điện_thoại sẽ nhỏ bằng hạt_muối
+Những quả pin lithium mà chúng_ta thấy trong điện_thoại di_động và máy_tính xách tay có_thể được thu_nhỏ bằng hạt_muối trong tương lai, song khả_năng sản_xuất điện của chúng không_giảm.
+Ảnh minh họa:_quezi.com.
+Điểm mấu_chốt của loại pin siêu nhỏ là cấu_trúc của chúng. AP cho biết, các nhà_khoa_học của Đại_học California tại Mỹ tạo_ra một màng gồm những dây nano. Sau_đó họ đặt các lớp lithium aluminosilicate_(gồm lithium,_nhôm, silicon,_oxy) lên phía trên màng nano, tạo_nên một cấu_trúc ba_chiều.
+Phần lớn pin ngày_nay có cấu_trúc hai chiều. Cấu_trúc ba chiều cho_phép pin tích nhiều điện_năng hơn trong cùng một đơn_vị thể tích. Ngoài_ra cấu_trúc bề_mặt giống như vải của pin cũng giúp chúng truyền_điện sang các thiết_bị một_cách dễ_dàng hơn.
+“Chúng tôi đang cố_gắng nghiên_cứu các giải_pháp để pin siêu nhỏ đạt được mật_độ năng_lượng như pin lithium-ion_truyền thống”,_Jane Chang, một kỹ_sư của Đại_học California, tuyên_bố.
+Mặc_dù vài năm nữa những quả pin nhỏ như hạt_muối mới xuất_hiện trong điện_thoại di_động hay máy_tính xách tay, song Philip_Collins, một thành_viên trong nhóm nghiên cứu, dự_đoán rằng trong tương_lai chúng có_thể cấp điện cho mọi_thứ - từ những robot siêu nhỏ tới các bộ_phận cấy ghép trong y_học.
+“Chúng ta có_thể tạo_ra những cảm_biến nhỏ bằng hạt_muối, nhưng chúng_ta chưa tìm_ra cách cấp điện hiệu_quả cho chúng. Một ngày_nào đó pin siêu nhỏ sẽ cấp điện cho cả những robot siêu_nhỏ”, Collins cho_biết.

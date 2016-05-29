@@ -1,0 +1,5 @@
+Robot nhảy_cao siêu_đẳng
+Một công_ty Mỹ chế_tạo loại robot có khả_năng bật tới độ_cao 9 m để vượt những chướng_ngại vật.
+> Phi_đội robot chơi nhạc phim điệp_viên 007
+Sand Flea, tên của robot, có hình_dạng khá giống một ô_tô đồ_chơi được điều_khiển từ xa. Nhưng thực_ra nó là phát_minh của một công_ty có tên Boston Dynamics theo yêu_cầu của quân_đội Mỹ, Telegraph đưa_tin.
+Với khối_lượng 5 kg, Sand Flea di_chuyển trên 4 bánh giống như một robot bình thường. Song khi gặp chướng_ngại vật, nó có_thể bật tới độ_cao 9 m để vượt qua._Sand Flea được trang_bị một bộ cân_bằng điện_tử để nó giữ thăng_bằng trong_lúc bay và đáp. Nhờ tư_thế thăng_bằng của robot trong_lúc nhảy mà người điều_khiển vẫn có_thể quan_sát môi_trường xung_quanh thông_qua camera trên thân_robot.

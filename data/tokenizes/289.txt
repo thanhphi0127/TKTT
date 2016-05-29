@@ -1,0 +1,8 @@
+Robot bay đánh_bóng trên không
+Cặp robot vừa bay vừa đánh trái bóng tennis nhiều lần trên không_trung với độ_chính_xác_đáng kinh_ngạc.
+Quadrator có khả_năng thay_đổi_hướng và vận_tốc tức thì để đón bóng. Ảnh:_Youtube.
+Quadrator, tên của hai robot, là phát_minh của Viện Hệ_thống động_lực và Điều_khiển Thụy_Sỹ (CDAS). Loại robot này được điều_khiển bởi hai máy tính. Nhờ một phần_mềm điều_khiển chuyển động, hai máy_tính có_thể giúp robot thực_hiện chính_xác từng thao tác. 4 cánh_quạt trên "cánh_tay" giúp robot bay lên. Chiếc vợt được gắn ở phía_trên robot. Chúng có_thể thay_đổi_hướng và vận_tốc tức thì giống như chim_ruồi để đón bóng,_Forbes cho_biết.
+Xem cặp robot đánh_bóng trên không
+Trước_đây các nhà nghiên_cứu của CDAS từng tạo_ra những robot bay có khả_năng chơi đàn dương cầm. Các nhà_khoa_học của Đại_học Pennsylvania tại Mỹ trang_bị thêm cho chúng cái_kẹp để chúng gắp vật_thể lên không_trung.
+Robot_bay bắt_đầu xuất_hiện từ năm 1920. Những phiên_bản robot bay mới nhất được dùng trong hoạt_động do thám, giám_sát và đảm_bảo_an ninh.
+Mặc_dù các chuyên_gia của CDAS hài_lòng với thành_quả đã đạt được, họ vẫn chưa tim ra một ứng_dụng đối_với cặp robot bay và đánh_tennis.

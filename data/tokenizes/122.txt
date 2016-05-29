@@ -1,0 +1,4 @@
+Một độc_giả vừa cho biết, hai hôm nay, khi dùng trình_duyệt Firefox truy_cập vào chuyên trang công_nghệ Số_hóa của báo điện_tử VnExpress, đều bị chặn bởi dòng thông_báo "trang web ác_ý".
+ồng_thời, khi tìm_kiếm trang Số_hóa trên Google, ở liên_kết tới mục Điện_thoại của Số_hóa cũng hiển_thị dòng thông_báo trang web gây_hại.
+Mặc_dù trên trang tổng_hợp thông_tin tự_động Baomoi.com, chuyên trang công_nghệ Số_hóa của VnExpress vẫn cập_nhật tin bài mới, nhưng từ bài_viết mới, click vào các chuyên_mục như_điện thoại, máy tính,_camera... trên trang này, thì đều bị chặn bởi thông_báo trên.
+Hiện, nếu truy_cập trực_tiếp vào Số hóa, địa_chỉ sohoa.vnexpress.net sẽ tự_động chuyển_về 210.245.86.194:8080/SH/Home

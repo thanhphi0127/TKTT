@@ -1,0 +1,9 @@
+Pin tạo_ra điện nhờ không_khí
+Các nhà_khoa_học Scotland vừa chế_tạo thành_công loại pin đầu_tiên trên thế_giới có khả_năng tạo_ra điện từ khí oxy.
+Một pin Lithium-ion dành cho ô tô. Ảnh:_thecarconnection.com.
+Telegraph cho biết, loại pin mới có tên là STAIR. Nó là phát_minh của các nhà nghiên_cứu thuộc khoa Hóa của Đại_học St Andrews tại Scotland.
+Phần lớn điện_thoại di_động, máy_tính xách tay và các thiết_bị kỹ_thuật số hiện_nay dùng pin lithium-ion. Hợp_chất lithium cobalt_oxit (LiCoO2) thường được sử_dụng để_chế_tạo cực_dương của pin Lithium-Ion. Trong quá_trình chế_tạo pin, nhóm nghiên_cứu của Đại_học St_Andrews thay_thế LiCoO2 bằng carbon_xốp.
+Pin STAIR nạp_điện theo cách truyền_thống, nhưng trong quá_trình pin xả điện nó sẽ hút oxy từ không_khí xung quanh. Oxy phản_ứng với carbon xốp bên_trong pin và tạo_ra điện. Như_vậy lượng điện trong pin liên_tục được bổ_sung trong quá_trình xả.
+Carbon xốp nhẹ hơn nhiều so với LiCoO2, vì_thế STAIR sẽ nhẹ hơn rất nhiều so với pin truyền thống. Ngoài ra, do không_khí liên_tục làm_tăng nguồn_điện của pin khi nó xả, STAIR sẽ có khả_năng tích_điện cao hơn tới 10 lần so với những loại pin khác có cùng kích_cỡ.
+“STAIR có nhiều lợi ích. Loại pin này nhỏ và nhẹ hơn nên rất phù_hợp với những thiết_bị cỡ nhỏ. Nó rất có_ích đối_với những hãng chế_tạo xe_điện do họ luôn cố_gắng giảm khối_lượng xe tới mức thấp nhất có thể”, giáo_sư Peter Bruce, trưởng_nhóm nghiên cứu, bình_luận.
+Ngoài ra, Bruce cho_rằng STAIR có_thể đặt nền_móng cho sự_ra_đời của thế_hệ máy_tính xách tay, điện_thoại di_động và ô_tô điện_mới.

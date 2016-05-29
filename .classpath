@@ -9,6 +9,8 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.preview.runtimeTarget/J2EE Preview"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/JVnTextPro"/>
+	<classpathentry kind="lib" path="libs/args4j.jar"/>
+	<classpathentry kind="lib" path="libs/htmlparser.jar"/>
+	<classpathentry kind="lib" path="libs/lbfgs.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
