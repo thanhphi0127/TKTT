@@ -1,8 +1,0 @@
-Cửa_sổ có khả_năng sản_xuất điện
-Ngôi_nhà với những cửa_sổ có khả_năng sản_xuất điện có_thể ra_đời trong thời_gian tới sau_khi các nhà_khoa_học chế_tạo thành_công loại pin quang_năng trong_suốt như thủy_tinh.
-> Cửa_sổ tự điều_chỉnh lượng ánh_sáng
-Pin quang_năng trong_suốt có_thể dẫn tới sự_ra_đời của những cửa_sổ có khả_năng tạo_ra điện cho ngôi_nhà. Ảnh: Science_Daily.
-Loại pin mặt_trời trong suốt, một phát_minh của các nhà nghiên_cứu thuộc Đại_học California tại Mỹ, được sản_xuất bằng cách đặt những tấm phim nano bạc lên trên một loại polymer có khả_năng hấp_thu bức_xạ hồng_ngoại gần (loại ánh_sáng có bước sóng_dài hơn ánh_sáng thường). Do không hấp_thụ ánh_sáng trắng nên mức_độ trong_suốt của loại polymer mới đối_với mắt người là 70%,_Science Daily đưa_tin.
-"Thành_tựu của chúng_tôi có_thể mở_đường cho sự_ra_đời của những tấm pin quang_năng trong suốt. Chúng sẽ trở_thành những bộ_phận bổ_sung của các thiết_bị điện_tử di động, cửa_sổ thông_minh có khả_năng tạo dòng_điện và nhiều ứng_dụng khác", Yang Yang, trưởng_nhóm nghiên cứu, phát biểu. Ông là một giáo_sư về khoa_học vật_liệu và cũng là giám_đốc của Trung_tâm Năng_lượng Tái_sinh Nano của Viện Các hệ_thống nano California_(CNSI).
-Theo Yang, chế_tạo pin quang_năng từ nhựa polymer là mục_tiêu của nhiều nhà_khoa_học trên thế_giới.
-"Pin quang_năng mới của chúng_tôi được tạo_ra từ những vật_liệu giống nhựa nên chúng rất nhẹ và linh hoạt. Điều quan_trọng hơn là con_người có_thể sản_xuất chúng với chi_phí thấp", ông_nói.

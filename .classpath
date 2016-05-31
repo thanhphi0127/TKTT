@@ -12,5 +12,6 @@
 	<classpathentry kind="lib" path="libs/args4j.jar"/>
 	<classpathentry kind="lib" path="libs/htmlparser.jar"/>
 	<classpathentry kind="lib" path="libs/lbfgs.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse/TKTT/libs/mongo-java-driver-3.2.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

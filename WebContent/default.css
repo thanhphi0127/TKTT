@@ -7,8 +7,9 @@ table.table-inverted-index{
 
 h2.title-index{
 	margin-bottom: 0px;
-	color: blueviolet;
+	color: blue;
 	font-family: "Times New Roman";
+	margin-top: 15px;
 }
 
 html, body
@@ -400,9 +401,9 @@ ul.contact li a.icon-rss:before
 #logo h1
 {
 	display: inline-block;
-	font-size: 2.2em;
+	/*font-size: 2.2em;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 700;*/
 	color: #ED7070;
 	padding-right: 0.50em;
 	border-right: 1px solid rgba(0,0,0,.1);
@@ -420,7 +421,7 @@ ul.contact li a.icon-rss:before
 #logo a
 {
 	text-decoration: none;
-	color: #FFF;
+	color: greenyellow;
 }
 
 #logo .fa
@@ -542,7 +543,8 @@ ul.contact li a.icon-rss:before
 
 #wrapper
 {
-	background: #FCFCFC;
+	background: #FFF;
+	min-height: 300px;
 }
 
 #page
@@ -612,7 +614,7 @@ ul.contact li a.icon-rss:before
 #copyright
 {
 	overflow: hidden;
-	padding: 3em 0em 2em 0em;
+	padding: 1.5em 0em 1em 0em;
 	border-top: 1px solid rgba(255,255,255,0.08);
 }
 
@@ -638,7 +640,7 @@ ul.contact li a.icon-rss:before
 #featured-wrapper
 {
 	overflow: hidden;
-	padding: 3em 0em 3em 0em;
+	padding: 1em 0em 2em 0em;
 	background: #FFF;
 	text-align: center;
 }
@@ -903,8 +905,8 @@ ul.contact li a.icon-rss:before
 .margin-btm
 {
 	overflow: hidden;
-	margin-bottom: 5em;
-	padding-bottom: 5em;
+	margin-bottom: 1em;
+    padding-bottom: 1em;
 	border-bottom: 1px solid rgba(0,0,0,.1);
 }
 
@@ -1114,3 +1116,52 @@ ul.contact li a.icon-rss:before
         border: 0;
         padding: 0;
     }
+    
+div.rtitle{
+	color: #1a0dab;
+    font-size: 14pt;
+    font-family: 'arial';
+    text-align: left;
+    margin-left: 307px;
+}
+
+div.rtitle > a{
+	color: #1a0dab;
+}
+
+div.rcontent{
+    padding: 5px 5px 5px 0px;
+    font-size: 13pt;
+    font-family: 'times new roman';
+    text-align: left;
+    margin-left: 307px;
+    margin-bottom: 20px;
+	width: 750px;
+}
+
+div.result, div.result_input{
+	color: black;
+    font-size: 12pt;
+    font-family: 'arial';
+    text-align: left;
+    margin-left: 307px;
+    margin-bottom: 5px;
+}
+
+div.result_input{
+	margin-bottom: 15px;
+}
+
+div.time{
+	color: black;
+    font-size: 12pt;
+    font-family: 'arial';
+    text-align: left;
+    margin: 20px 0px 0px 109px;
+}
+
+td.indextd{
+	padding-left: 5px;
+    font-family: arial;
+    font-size: 14px;
+}

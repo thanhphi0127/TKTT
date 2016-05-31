@@ -1,7 +1,0 @@
-Windows Phone 7 đạt mốc 100.000 ứng_dụng
-Hệ_điều_hành dành cho thiết_bị di_động của Microsoft vừa đạt cột mốc đáng chú_ý sau hơn 20 tháng xuất hiện, nhanh hơn Google Android_(mất 24 tháng) và chậm hơn Apple iOS (16_tháng).
-Thời_gian đạt mốc 100.000 ứng_dụng của các hệ_điều_hành (tháng).
-Theo website All_About Windows_Phone, 100.000 là con_số ứng_dụng mà các nhà phát_triển đã gửi cho Microsoft kiểm duyệt. Lượng phần_mềm thực_tế trên Market vào_khoảng 90.000, thấp hơn nhiều so với Android (đạt khoảng 500.000) hay iOS (600.000). Tuy nhiên, chiến_thuật của Microsoft là muốn kho có_nhiều ứng_dụng chất_lượng thay_vì số lượng. Trung_bình một ngày có khoảng 313 ứng_dụng mới cho Windows Phone 7 được thêm_vào.
-Trong tất_cả phần_mềm dành cho Windows Phone 7, có đến 62% là miễn_phí và 10% cho_phép dùng thử, còn_lại là_phải trả_phí với số_tiền từ 1_USD.
-Bảng so_sánh giá phần_mềm dành cho hệ_điều_hành Windows_Phone.
-Microsoft nhiều khả_năng sẽ giới_thiệu hệ_điều_hành mới Windows Phone 8 vào ngày 20/6_tới trong một sự_kiện riêng diễn_ra ở Mỹ. Nền_tảng này có_thể hỗ_trợ độ_phân_giải cao hơn, chip_đa nhân, thẻ nhớ ngoài và thanh_toán điện_tử NFC.

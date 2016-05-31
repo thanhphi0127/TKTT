@@ -1,7 +1,0 @@
-Robot do_thám phát_hiện người qua hơi_thở
-Một công_ty của Mỹ chế_tạo loại robot có khả_năng bay và phát_hiện con_người qua tường bằng âm_thanh mà hơi_thở phát_ra.
-Phoenix40-A. Ảnh:_TiaLinx.
-Discovery News cho biết, Phoenix40-A, tên của robot, là phát_minh của công_ty TiaLinx tại bang California, Mỹ. Nó có khả_năng phát_hiện chuyển_động và hơi_thở của người trong các công_trình xây_dựng dưới đất khi bay. Con_người có_thể điều_khiển Phoenix40-A từ khoảng_cách khá_xa.
-Nhờ khả_năng phát_ra những chùm sóng radio hẹp có tần_số vài GHz, Phoenix40-A có_thể xâm_nhập vào các tòa_nhà kiên cố. Nó được trang_bị các camera có khả_năng ghi_hình cả ngày lẫn đêm._Robot này khá nhẹ và có khả_năng di_chuyển linh hoạt. Tất_cả những yếu_tố đó khiến nó trở thành_công_cụ do_thám lý_tưởng trong nhiều tình_huống.
-Ngoài ra,_Phoenix40-A còn có_thể dựng sơ_đồ tòa_nhà nhiều tầng, phát_hiện các quả mìn được chôn dưới đất, tìm_kiếm những người bị chôn_vùi dưới đống đổ_nát do thiên_tai.
-Quân_đội Mỹ đã tài_trợ cho TiaLinx để hãng phát_triển Phoenix40-A thành thiết_bị bay tự_động có khả_năng tham_gia các chiến_dịch quân_sự.

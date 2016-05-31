@@ -13,6 +13,15 @@
 
 </head>
 <body>
+<%
+String value = "";
+try{
+	ServletContext applicationObject = getServletConfig().getServletContext();
+	value = (String)applicationObject.getAttribute("input");
+} catch(Exception ex){
+
+}
+%>
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
@@ -36,7 +45,7 @@
 	<div id="featured-wrapper">
 		<div id="featured" class="extra2 margin-btm container">
 			<form class="form-wrapper cf" method="post" action="Search">
-				<input style="font:'Arial'" type="text" name="input_value" placeholder="Nhập từ khóa..." required>
+				<input style="font:'Arial'" type="text" name="input_value" placeholder="Nhập từ khóa..." required value="<%=value%>">
 				<button style="font:'Arial'" type="submit">Tìm kiếm</button>
 			</form>
 		</div>
@@ -45,15 +54,28 @@
 			<%
 				try{
 					ServletContext applicationObject=getServletConfig().getServletContext();
-					List<Integer> result = (List<Integer>) applicationObject.getAttribute("docResult");
-					System.out.println("JSP search");
+					List<String> result = (List<String>) applicationObject.getAttribute("docResult");
+					List<Integer> resultId = (List<Integer>) applicationObject.getAttribute("docIdResult");
+					List<Float> timeSearch = (List<Float>) applicationObject.getAttribute("timeSearch");
+					List<Integer> numResult = (List<Integer>) applicationObject.getAttribute("numResult");
+					
+					if(numResult.get(0) > 0){
+						out.println("<div class = 'result'>Khoảng " + numResult.get(0) + " kết quả (" + timeSearch.get(0) + " giây) </div>");
+						out.println("<div class = 'result_input'>Hiển thị kết quả cho " + 1 + "</div>");
+					}
 
 					System.out.println(result.size());
 					if(result.size() != 0){
 						Iterator iterator = result.iterator(); 
+						Iterator iteratorId = resultId.iterator(); 
 						while (iterator.hasNext()){
-							out.println("<p> Doc: " + iterator.next() + "</p></br>");  
+							out.println("<div class='rtitle'><a href=''>Tiêu đề nội dung tìm kiếm " + iteratorId.next() +"</a></div>");
+							out.println("<div class='rcontent'> " + iterator.next() + "</div>");
+							
+							//out.println("<div> Doc: " + iterator.next() + "</div>");  
 						}
+					} else{
+						out.println("Không tìm thấy kết quả");
 					}
 				}catch(Exception ex){
 					//out.println(ex);
@@ -66,7 +88,7 @@
 
 
 <div id="copyright" class="container">
-	<p>&copy; Untitled. All rights reserved. | Photos by <a href="">Fotogrph</a> | Design by <a href="" rel="nofollow">TEMPLATED</a>.</p>
+	<p>&copy; Copyright | Designed by <a href="http://www.thanhphi.890m.com">Thanh Phi</a>.</p>
 </div>
 </body>
 </html>

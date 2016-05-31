@@ -1,8 +1,0 @@
-Microsoft lần_đầu trình_làng tablet chạy Windows 8
-Hãng phần_mềm lớn nhất thế_giới giới_thiệu 2 máy_tính bảng dòng Surface do chính họ phát_triển tại một sự_kiện riêng diễn_ra ở Los_Angeles_(Mỹ).
-Model chạy Windows 8 Pro nặng 903 gram, dày 13,5 mm, được trang_bị chip Core_i thế_hệ ba_(Ivy Bridge), màn_hình ClearType độ_phân_giải Full HD. Thiết_bị tích_hợp bộ_nhớ trong lên_đến 128 GB (gấp_đôi iPad), đầy_đủ các kết_nối USB 3.0, Wi-Fi,_Bluetooth...
-Hình_tablet Surface của Microsoft.
-Ảnh thực_tế tablet_Surface của Microsoft.
-Video quảng_cáo tablet_Surface của Microsoft.
-Trong khi đó,_tablet Surface hoạt_động dựa_trên Windows RT có kiểu dáng mỏng và nhẹ hơn nhiều (9,3 mm và 670 gram) nhưng không có cổng USB 3.0 tiên_tiến mà chỉ_là kiểu cũ 2.0. Máy sử_dụng chip tiết_kiệm điện của Nvidia, màn_hình ClearType 10,6 inch độ_phân_giải HD được bảo_vệ bằng lớp kính chịu lực_Gorilla Glass_2.
-Microsoft cho biết, cả_hai sản_phẩm có_thể gắn với phụ_kiện Touch Cover gồm bàn_phím và trackpad để hỗ_trợ công_việc văn phòng, gõ văn_bản tốt hơn. Hãng phần_mềm chưa công_bố giá và ngày phát_hành thiết_bị mới.

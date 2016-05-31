@@ -1,6 +1,0 @@
-Apple trình_làng iOS 6 tại sự_kiện WWDC
-Apple bắt_đầu treo băng_rôn quảng_cáo nền_tảng mới nhất của họ (dành cho iPhone,_iPad và iPod_Touch) tại nơi tổ_chức hội_thảo Worldwide Developers_Conference.
-iOS 6 nhiều khả_năng là hệ_điều_hành di_động đầu_tiên không_dùng Google Maps mà thay bằng dịch_vụ bản_đồ do Apple tự_phát triển. Theo Wall_Street Journal, bản_đồ mới của "Quả táo" có khả_năng định_vị GPS trên ôtô và chỉ_đường chi_tiết (turn-by-turn) bằng giọng_nói.
-Những cải_tiến được mong_chờ khác trên iOS6 bao_gồm tích_hợp mạng xã_hội Facebook, nâng_cấp trợ_lý giọng_nói Siri, thiết_kế lại kho ứng_dụng App Store, hệ_thống nhạc, sách số iTunes Store,_iBookStore được làm_mới...
-Hình_ảnh chuẩn_bị trước sự_kiện WWDC của Apple.
-Sự_kiện WWDC (Worldwide_Developers Conference) diễn_ra ngày 11-16/6 tại San_Francisco (Mỹ) và vé được bán sạch chỉ trong 2 tiếng với giá lên_đến 1.600 USD. Tại đây, ngoài iOS,_Apple cũng thảo_luận với các nhà phát_triển về tương_lai của hệ_điều_hành OS X dành cho máy_tính.

@@ -1,6 +1,0 @@
-Tablet 'lai' chạy Windows 8 của Samsung
-Tại triển_lãm Computex 2012 ở Đài_Loan, Samsung đã trình_diễn máy_tính bảng Hybrid có khả_năng cắm vào bàn_phím rời để biến thành laptop, hỗ_trợ bút cảm_ứng và hoạt_động dựa_trên nền_tảng mới nhất của Microsoft.
-Hybrid trông khá giống Transformer_Book của Asus. Nó có thời_lượng pin khoảng 10 tiếng, hỗ_trợ hai camera mặt trước và sau độ_phân_giải lần_lượt là 2 megapixel và 8 megapixel. Sản_phẩm được cài_đặt sẵn phần_mềm S-Pen, S-Memo giống như Galaxy_Note 10.1 nhưng được tối_ưu_hóa trên nền_tảng Windows.
-Hình thực_tế máy_tính bảng Hybrid của Samsung.
-Theo website Engadget, Hybrid dùng chip Intel Clover_Trail hoặc tiết_kiệm điện, màn_hình 11 inch độ_phân_giải Full HD, khe cắm sim, thẻ nhớ và USB.
-Dự_kiến máy_tính bảng lai này được bán_ra cùng thời_điểm xuất_hiện hệ_điều_hành Windows 8trên thị_trường.

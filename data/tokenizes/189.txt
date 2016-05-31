@@ -1,6 +1,0 @@
-Trình_duyệt Opera Mini 7 dành cho điện_thoại cơ_bản
-Trình_duyệt di_động phổ_biến nhất tại Việt_Nam vừa được công_ty phần_mềm Opera nâng_cấp lên thế_hệ thứ_bảy. Phiên_bản này có_thể hoạt_động trên cả những điện_thoại không_phải smartphone.
-Điểm nổi_bật của Opera Mini 7 là Smart_Page (Trang_thông minh). Đây là nơi tổng_hợp tin_tức từ các mạng xã_hội và website mà người_dùng yêu_thích như Twitter,_Facebook... Nhờ công_nghệ tốc_hoạt dữ liệu (data-crunching)_và tiết_kiệm chi_phí của Opera Mini,_Smart Page_giúp dễ_dàng cập_nhật thông_tin mà không tốn quá nhiều chi_phí cũng_như không_phải chờ_đợi lâu để tải nội_dung.
-Opera Mini 7 giúp điện_thoại cơ_bản cũng có_thể truy_cập nhanh các website.
-"Tôi từng mất nhiều thời_gian để nhập_địa chỉ_web vào điện thoại di_động, nhưng giờ đã_có cách truy_cập nội_dung trong chốc lát", Lars_Boilesen, Giám đốc điều hành_Opera, cho biết._"Với Smart_Page, bạn chỉ cần mở trình duyệt_và nội_dung sẽ hiển_thị ngay bên cạnh phím tắt Quay_số nhanh trong màn_hình khởi_động để bạn_có thể lướt_qua nội_dung".
-Người_dùng điện thoại có tính năng tương_thích Java_(J2ME), S60 và_Blackberry đã có_thể tải miễn_phí Opera Mini 7 từ ngày 31/7.

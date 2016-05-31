@@ -1,9 +1,0 @@
-Những phím tắt thú_vị cho bàn_phím iPad
-Apple đã trang_bị một số chức_năng hữu_ích cho bàn_phím ảo trên máy_tính bảng của họ nhưng không_phải ai cũng biết_đến.
-Bấm và giữ các phím chữ_cái để truy_cập một số chữ đặc_biệt.
-Tương tự, giữ phím biểu_tượng hoặc dấu câu để xem các biểu_tượng ẩn_khác.
-Chia_đôi bàn phím: Vào Settings ->_General ->_Keyboard để kích hoạt. Sau đó, người_dùng có_thể bấm và giữ nút bàn_phím để chia_đôi (split) hoặc_undock.
-Khi bàn_phím chia đôi, bạn có_thể bấm vào màn_hình để sử_dụng các phím ẩn như ở ảnh trên (vị trí các chữ_cái màu_đỏ).
-Còn undock nghĩa_là bạn có_thể di_chuyển bàn phím sang các_vị_trí khác_nhau trên màn_hình.
-Khi soạn e-mail, giữ phím chấm_câu để chọn nhanh đuôi e-mail như .com,_.org...
-Gõ phím cách hai lần để vừa chấm_câu vừa cách_chữ.

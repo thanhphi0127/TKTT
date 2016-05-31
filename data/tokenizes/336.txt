@@ -1,8 +1,0 @@
-Phi_cơ do_thám bay liên_tục 5 năm
-Hãng sản_xuất máy_bay Boeing sẽ chế_tạo loại phi_cơ không người_lái có khả_năng bay liên_tục trong 5 năm nhờ ánh_sáng mặt_trời.
-Máy_bay SolarEagle giống như một chiếc ăng-ten khổng lồ._Ảnh: Los_Angeles_Times.
-Los_Angeles_Times cho_biết loại máy_bay nói trên có tên SolarEagle. Nó được thiết_kế và sản_xuất theo một hợp_đồng giữa hãng Boeing và Bộ Quốc_phòng Mỹ vào tuần trước. Điểm khác_biệt lớn nhất của SolarEagle so với các phi_cơ thông_thường là nó sở_hữu 4 thân và cánh dài khoảng 100 m (tương đương chiều_dài của sân bóng_đá theo tiêu_chuẩn quốc tế). Với hình_dạng và kích_thước cánh như thế, khi cất_cánh SolarEagle sẽ giống như một chiếc ăng-ten_bay.
-Phiên_bản mẫu của SolarEagle sẽ ra_đời trong khoảng thời_gian từ_nay tới năm 2014. Nó có khả_năng bay liên_tục trong 30 ngày. Tuy nhiên, Boeing tuyên_bố mẫu SolarEagle chính_thức của họ sẽ có khả_năng bay_lên độ cao tới 20 km và hoạt_động liên_tục trên_không trong năm ít_nhất 5_năm.
-"Đó là thách_thức to lớn,_song Boeing đã thiết_kế được loại máy_bay sử_dụng cả điện và năng_lượng mặt_trời. Bản thiết_kế_đó sẽ giúp chúng_tôi vượt_qua thách thức", Pat O'Neil, giám_đốc sản_xuất của Boeing, phát_biểu.
-Các tấm pin năng_lượng mặt_trời được gắn trên cánh của SolarEagle để sản_xuất điện. Một phần điện sẽ được tích vào các quả pin để sử_dụng vào ban_đêm. Giống như các máy_bay truyền thống,_SolarEagle cũng có cánh_quạt và động_cơ điện. Trong_lúc bay nó sẽ liên_tục gửi dữ_liệu do_thám về trung_tâm điều_khiển.
-Boeing hy_vọng SolarEagle sẽ không_chỉ thực_hiện nhiệm_vụ do thám, mà còn có_thể tham_gia vào các hoạt_động thông_tin liên_lạc trong tương_lai.

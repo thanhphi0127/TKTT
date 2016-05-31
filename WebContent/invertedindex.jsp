@@ -40,7 +40,7 @@
 	    <form method="post" action="Index" enctype="multipart/form-data">
             <table class="table-inverted-index" border="1" cellspacing="0" align="center" width="82%">
                 <tr>
-                    <td>Chọn thư mục</td>
+                    <td class="indextd">Chọn thư mục</td>
                     <td><input  id="file_input" name="file_input" type="file" webkitdirectory directory required=""/></td>
                 </tr>
                 <tr>
@@ -53,6 +53,10 @@
             try{
                 ServletContext applicationObject=getServletConfig().getServletContext();
                 Map<String, Map<Integer, Integer>> invertedIndex = (Map<String, Map<Integer, Integer>>) applicationObject.getAttribute("InvertedIndex");
+                List<Float> timeInvertedIndex = (List<Float>) applicationObject.getAttribute("timeInvertedIndex");
+                
+                out.print("<div class='time'>Thời gian lập chỉ mục nghịch đảo: (" + timeInvertedIndex.get(0) + " giây)</div>");
+                
                 if(invertedIndex.size()!=0){
                     out.print("<table border='1' class='table-inverted-index' cellpadding='0' cellspacing='0' align='center' width='82%'>");
                         out.print("<tr>");
@@ -92,7 +96,7 @@
 	</div>
 </div>
 <div id="copyright" class="container">
-	<p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+	<p>&copy; Copyright | Designed by <a href="http://www.thanhphi.890m.com">Thanh Phi</a>.</p>
 </div>
 </body>
 </html>

@@ -1,9 +1,0 @@
-Windows XP sẽ bị tin tặc 'xâu_xé' sau khi ngừng được hỗ_trợ
-Các chuyên_gia an_ninh mạng cảnh_báo Windows XP sẽ bị khai_thác triệt_để nhiều lỗ_hổng bảo_mật gây tổn_hại cho người_dùng do Microsoft không_còn hỗ_trợ từ tháng 4 năm_sau.
-Windows XP sẽ kết_thúc vòng đời trong năm tới
-Microsoft hỗ_trợ 'khai tử' 30.000 máy_tính Windows_XP
-Windows XP chính_thức ngừng được hỗ_trợ từ tháng 4/2014. Ảnh minh_họa.
-Báo_cáo mới nhất từ Computerworld cho_rằng giới tin tặc đã bắt_đầu lưu_trữ các lỗ_hổng khai_thác được từ Windows XP nhưng hoàn_toàn bí_mật cho_đến khoảng tháng 4 năm sau. Không ngạc_nhiên khi đây là thời_điểm mà Microsoft tuyên_bố sẽ ngừng mọi hỗ_trợ miễn_phí cho hệ_điều_hành hơn 10 năm_tuổi.
-Chuyên_gia bảo_mật Jason Fossen của Microsoft cho_biết các hacker có_thể bán thông_tin cũng_như cách tận_dụng lỗ_hổng nhằm trục lợi. Mức_giá này có_thể gấp_đôi so với hiện tại. Điều_tra của Computerworld khẳng_định trước_đây trên thị_trường "chợ_đen", một lỗ_hổng bảo_mật được rao bán có lúc giá lên tới từ 50.000 đến 150.000 USD tùy_vào mức_độ nghiêm_trọng.
-Người_dùng Windows XP sẽ chỉ còn hai lựa_chọn vào năm tới, một là trả_tiền cho Microsoft để_được hãng này bảo_vệ cho khả_năng bảo_mật. Cách thứ_hai đơn_giản hơn, nâng_cấp lên hệ_điều_hành Windows 8 mới nhất hoặc chí_ít là Windows_7.
-Đây không_phải là lần_đầu_tiên Microsoft tuyên_bố ngừng hỗ_trợ một hệ_điều_hành của mình. Vào tháng 7/2010, người_dùng Windows 2000 cũng nhận_được thông_báo tương tự. Tuy nhiên, theo số_liệu của Net Applications, vào thời_điểm đó hệ_điều_hành này chỉ chiếm rất ít thị_phần toàn_cầu là 0,4%. Với Windows_XP sẽ là một viễn_cảnh hoàn_toàn khác._Computerworld ước_tính vào tháng 4 năm sau, hệ_điều_hành này vẫn chiếm từ 33 đến 34% thị_phần máy_tính trên toàn thế_giới.

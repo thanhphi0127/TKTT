@@ -1,7 +1,0 @@
-Phanh xe_đạp tạo_ra điện
-Một nhóm sinh_viên tại Mỹ vừa chế_tạo loại xe_đạp tự sản_xuất điện trong quá_trình lăn trên_đường.
-Bánh_xe Copenhagen_Wheel của nhóm sinh_viên thuộc Viện Công_nghệ Massachusetts,_Mỹ. Ảnh:_web.mit.edu.
-Discovery cho biết, chiếc bánh_xe là phát_minh của một nhóm sinh_viên tại Viện Công_nghệ Massachusetts,_Mỹ. Họ đặt_tên nó là Copenhagen_Wheel (bánh xe Copenhagen) vì Copenhagen, thủ_đô của Đan_Mạch, là thành_phố mà xe_đạp là phương_tiện giao_thông phổ_biến.
-Nhóm thiết_kế áp_dụng một kỹ_thuật trong xe_đua công_thức một. Đó là hệ_thống phục_hồi động_năng. Thông_thường khi tài_xế ô_tô đạp phanh, năng_lượng được tạo_ra dưới dạng nhiệt trên khối quay trong máy_phát_điện và chân phanh. Trong những xe được trang_bị hệ_thống phục_hồi động năng, năng_lượng này bị thu_lại để motor sử_dụng khi tăng_tốc.
-Bánh_xe Copenhagen_Wheel hoạt_động dựa_trên nguyên_lý tương tự. Nhiệt_năng từ phanh được biến thành điện bởi một động_cơ. Sau_đó lượng điện này được tích trên một quả_pin.
-Khi người sử_dụng nối pin với điện_thoại, chiếc bánh_xe sẽ trở_thành nguồn_cung_cấp điện. Nó được trang_bị nhiều cảm_biến và thiết_bị phát_sóng Bluetooth. Các cảm_biến theo_dõi tốc độ, hướng, quãng_đường, tình_hình giao_thông và mức_độ ô_nhiễm không_khí.

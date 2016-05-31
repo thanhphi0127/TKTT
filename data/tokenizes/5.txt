@@ -1,6 +1,0 @@
-Skype cho Windows 7 sẽ không_còn được cập_nhật
-Một tin_buồn cho những_ai đang dùng_Skype trêncác thiết_bị chạy Windows Phone 7 (WP7) khi đội_ngũ phát_triển ứng_dụng này cho_biết sẽ ngừng cập_nhật ứng_dụng này trên WP7 nhằm tập_trung cho Skype trên Windows_8.
-Theo 1 thông_báo trên trang_chủ Skype, mặc_dù không_được hỗ_trợ nữa nhưng Skype cho Windows 7 vẫn có sẵn để tải về từ Windows Phone Store. Với những_ai đang sử_dụng, sẽ vẫn có đầy_đủ tính_năng hiện_tại nhưng không_được cập_nhật thêm tính_năng mới.
-"Nền tảng Windows 8 hiện đang trên đà chiếm_lĩnh thị_trường và Skype được đại_đa_số người_dùng Hệ Điều_Hành này sử dụng", thông_báo cho_biết.
-Trước đó, vào tháng 4/2012, bản_beta của Skype trên Windows 7 chính_thức được tung_ra lần_đầu tiên. Tuy nhiên, phải tới tháng 11/2012 khi tung_ra bản preview, ứng_dụng mới được biết đến rộng_rãi.
-Sau_khi ngừng hỗ_trợ Skype trên Windows 7,_Skype trên WP8 sẽ vẫn tiếp_tục bổ_sung hàng_loạt tính_năng mới trong thời_gian tới.

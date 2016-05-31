@@ -1,9 +1,0 @@
-Những sản_phẩm dự_kiến xuất_hiện tại Apple_WWDC
-Đêm_nay, sự_kiện thường_niên lớn nhất trong năm của Apple sẽ diễn_ra tại San Francisco, nơi hãng công_nghệ Mỹ giới_thiệu các cải_tiến mới trên một loạt dòng sản_phẩm quan_trọng của họ.
-MacBook Pro: Dòng laptop chủ_đạo của Apple sẽ được nâng_cấp với chip_Core thế_hệ ba_(Ivy Bridge). Một_số ảnh rò rỉ trên mạng cho_thấy máy được trang_bị bộ_vi xử_lý với xung nhịp 2,3 GHz, 2,5 GHz và 2,7 GHz cùng_đồ_họa mới Nvidia GeForce_GT 650M_(Kepler) 1 GB GDDR5. Cải_tiến này sẽ giúp MacBook Pro đạt hiệu_suất cao hơn, hoạt_động êm hơn và thời_lượng pin tốt_hơn.
-MacBook_Air: Dù là laptop siêu mỏng nhẹ,_MacBook Air có_thể cũng sẽ sử_dụng chip_Ivy Bridge. Những thay_đổi lớn nhất của đợt nâng_cấp trước là sự_chuyển_đổi từ cổng mini DisplayPort sang Thunderbolt, còn lần_này có_thể là mở_rộng dung_lượng và bộ nhớ. Như MacBook Pro, dòng Air có_thể sẽ không_đổi kiểu dáng bên_ngoài.
-iOS 6: Tại WWDC, người hâm_mộ đã biết_chắc Apple sẽ giới_thiệu iOS 6 sau_khi hãng này treo băng_rôn về hệ_điều_hành mới. Nhiều người chờ_đợi với nền_tảng thế_hệ 6,_Siri sẽ hoạt_động được trên iPad hoặc trên cả những thiết_bị đời_cũ.
-Mac_OS Mountain_Lion (10.8):_Apple cũng bàn sâu về hệ_điều_hành quan_trọng dành cho máy_tính của họ như ngày phân phối, giá_bán và các tính_năng mới_nhất.
-iMac, Mac mini và Mac_Pro: "Quả_táo" cũng sẽ có những tuyên_bố mới liên_quan đến dòng máy để bàn. Tuy nhiên, những sản_phẩm này không thực_sự hút khách tại VN.
-Apple thường tổ_chức sự_kiện âm_nhạc vào tháng 9 hàng_năm, do_đó các dòng iPod có_thể sẽ không_được đề_cập tại WWDC.
-iPhone thế_hệ sáu, iPad Mini 7 inch giá rẻ, TV mang thương_hiệu Apple - ba sản_phẩm được mong_chờ nhất gần_như chắc_chắn sẽ không xuất_hiện trong tháng này. Tuy nhiên, nhiều người hâm_mộ vẫn đợi một "điều_kỳ diệu" sẽ xảy_ra.

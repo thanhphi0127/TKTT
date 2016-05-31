@@ -1,6 +1,0 @@
-Thiết_bị 'chặn_họng' người nói nhiều
-Hai nhà_khoa_học Nhật_Bản vừa chế_tạo một thiết_bị có khả_năng “hủy_diệt” sự_hưng_phấn của những người nói_quá nhiều hoặc quá_to.
-Một nghiên_cứu trước_đây chỉ ra rằng con_người gần_như không_thể phát_ngôn nếu những từ mà chúng_ta nói dội lại tai của chúng_ta trong khoảng thời_gian nhỏ hơn một_giây.
-Từ kết_quả nghiên_cứu đó,_Kazutaka Kurihara, một nhà_khoa_học của Viện Khoa_học và Công_nghệ cao_cấp Nhật Bản, cùng giáo_sư Koji_Tsukada của Đại_học Ochanomizu tại Tokyo, nảy_ra ý_tưởng chế_tạo thiết_bị ngăn_chặn những “diễn_giả” gây phiền_toái cho người khác, Telegraph đưa_tin.
-SpeechJammer, tên của thiết bị, chứa một microphone hướng_về phía người nói để ghi âm. Sau_đó nó truyền âm_thanh sang một loa để phát về phía người nói. Độ trễ thời_gian từ lúc người nói phát_ngôn tới khi âm_thanh được phát lại là 0,2_giây.
-“Thiết bị của chúng_tôi có_thể ngăn_chặn hành_vi phát_ngôn của con_người mà_không gây nên bất_kỳ phiền_toái nào về mặt_thể chất”, hai nhà sáng_chế khẳng_định.

@@ -12,6 +12,8 @@ import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.io.Writer;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
@@ -30,6 +32,11 @@ import jvntextpro.JVnTextPro;
 import org.apache.commons.fileupload.FileItem;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
+import org.bson.Document;
+
+import com.mongodb.MongoClient;
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
 
 import vn.hus.nlp.utils.FileIterator;
 import vn.hus.nlp.utils.TextFileFilter;
@@ -72,7 +79,6 @@ public class Index extends HttpServlet {
         float duration = (float) (endTime - startTime) / 1000;
         System.out.print("Thời gian upload tài liệu: " + duration);
 		
-        
         //Tách từ và lập chỉ mục nghịch đảo
 		tokenizerDocuments(request, response);
 		
@@ -105,7 +111,6 @@ public class Index extends HttpServlet {
             try {      
                 List<FileItem> items= upload.parseRequest(request);
                 //String contextPath = request.getContextPath(); //Lấy đường dẫn thư mục hiện hành /TKTT
-                
                 //Xử lý danh sách các file đã được chọn
                 for(FileItem item : items){
                 	//String filename= new File(item.getName()).getName(); 
@@ -125,45 +130,79 @@ public class Index extends HttpServlet {
 	/**
 	 * Tách từ cho danh sách các tài liệu
 	 */
-	protected float tokenizerDocuments(HttpServletRequest request, HttpServletResponse response) throws IOException {
+	protected void tokenizerDocuments(HttpServletRequest request, HttpServletResponse response) throws IOException {
 		String output, result, line, filename;
+		List<Float> timeInvertedIndex = new ArrayList<Float>();
 		String[] name;
 		int id = 1, countDoc = 0;
-		Document doc = new Document();
-		InvertedIndex invertedInx = new InvertedIndex();
+		DocumentIndex doc = new DocumentIndex();
+		InvertedIndex invertedInx = new InvertedIndex();	
 		
-        TextFileFilter fileFilter = new TextFileFilter(".txt"); //Tìm các tài liệu có phần mở rộng là txt
-        File inputDirFile = new File(StaticVariable.INPUTPATH); //Đường dẫn đầu vào DS tài liệu 
-
-        //Lấy tất cả các tài liệu
-        File[] inputFiles = FileIterator.listFiles(inputDirFile, fileFilter);
-
+        TextFileFilter fileFilter = new TextFileFilter(".txt"); 				//Tìm các tài liệu có phần mở rộng là txt
+        File inputDirFile = new File(StaticVariable.INPUTPATH); 				//Đường dẫn đầu vào DS tài liệu 
+        File[] inputFiles = FileIterator.listFiles(inputDirFile, fileFilter);	//Lấy tất cả các tài liệu
         long startTime = System.currentTimeMillis();
         
         for (File file : inputFiles) {
         	name = file.getName().toString().split(".txt");
         	id = Integer.parseInt(name[0]);
-
         	countDoc++;
-            //Tạo chỉ mục cho 1 tài liệu gốc và tài liệu đã tách từ
-            doc.createDocumentIndex(file, StaticVariable.jvnTextPro, invertedInx, id);
+            doc.createDocumentIndex(file, StaticVariable.jvnTextPro, invertedInx, id); //Tạo chỉ mục cho 1 tài liệu gốc và tài liệu đã tách từ
         }
-        
-        //Gia so luong tai lieu
+
+        //So luong tai lieu
         doc.numDoc = countDoc;
 
         Map<String, Map<Integer, Integer>> resultIndex = invertedInx.getInvertedIndex();
         
-        ServletContext applicationObject = getServletConfig().getServletContext();
-        applicationObject.setAttribute("InvertedIndex", resultIndex);
-
         long endTime = System.currentTimeMillis();
         float duration = (float) (endTime - startTime) / 1000;
+        timeInvertedIndex.add(duration);
         System.out.print("Thời gian tách từ + lập chỉ mục: " + duration);
+    
+        //LUU CHI MUC NGHICH DAO VAO MONGODB
+        //saveInvertedIndex(resultIndex);
+        
+        ServletContext applicationObject = getServletConfig().getServletContext();
+        applicationObject.setAttribute("InvertedIndex", resultIndex);
+        applicationObject.setAttribute("timeInvertedIndex", timeInvertedIndex);
         
         response.sendRedirect("http://localhost:8080/TKTT/invertedindex.jsp");
-        
-        return duration;
+	}
+	
+	public void saveInvertedIndex(Map<String, Map<Integer, Integer>> resultIndex){
+		Map<Integer, Integer> posting = new HashMap<Integer, Integer>();
+		// Cau hinh MongoDB
+		MongoClient mongoClient = new MongoClient("localhost", 27017);
+		// Lay co so du lieu
+		MongoDatabase mdb = mongoClient.getDatabase("test");
+		// Lay bang trong co so du lieu
+		MongoCollection<Document> collection = mdb.getCollection("invertedIndex");
+
+		/*================================================*/
+		//LUU DU LIEU VAO MONGODB		
+		List<Document> list_doc = new ArrayList<Document>();
+		Document invert;
+		Map<String, Object> docID_TF;
+		for(String token : resultIndex.keySet()){
+			invert = new Document();
+			invert.put("_id", token);				 				//TERM
+			invert.put("doc_fre", posting.size());   				//TERM FREQUENCY
+			
+			posting = (Map<Integer, Integer>)resultIndex.get(token);
+			docID_TF = new TreeMap<String, Object>();				//DANH SACH TAI LIEU
+			
+            for(Integer p : posting.keySet()){
+            	docID_TF.put(String.valueOf(p), posting.get(p));
+            }
+            
+			invert.put("docID_tf", docID_TF);
+			list_doc.add(invert);	
+		}
+		
+		collection.insertMany(list_doc);
+		/*================================================*/
+		
 	}
 		
 }	

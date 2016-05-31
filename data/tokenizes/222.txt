@@ -1,8 +1,0 @@
-Robot Việt_Nam làm vũ_công
-Vũ_công máy mang tên Roohex thực_hiện các động_tác múa được lập_trình sẵn theo những giai_điệu âm_thanh.
-Đây là những phiên_bản đầu_tiên của dòng robot dịch_vụ giải_trí được chế_tạo tại Khoa Cơ - Điện Tử, Trường Đại_học Kinh_doanh và Công_nghệ Hà_Nội với sự_phối_hợp của một công_ty tự_động hóa. Chúng có_thể biểu_diễn ca_nhạc trong các sự_kiện văn_hóa nghệ_thuật của các công ty, trường_học hoặc trong các sự_kiện cần có sự_góp_vui của văn_nghệ như các hoạt_động quảng_bá giới_thiệu sản_phẩm nhằm của cửa hàng, siêu_thị.
-Với khối_lượng 2,5 kg,_Roohex là loại robot nhỏ gọn, có_thể nằm gọn trong hộp có kích_thước 50 cm x 50 cm x 30 cm. Robot có 6 chân, mỗi chân có 3 bậc tự_do nên chúng thực_hiện những chuyển_động linh_hoạt và uyển chuyển. Nó được trang_bị 18 động_cơ servo_RC - loại động_cơ giúp chân robot thực_hiện những chuyển_động xoay_quanh vị_trí theo quỹ_đạo lập_trình xác_định.
-Xem thêm hai màn trình_diễn của Roohex
-Bộ vi xử_lý của Roohex có khả_năng phát_nhạc mp3 và điều_khiển robot thực_hiện các động_tác theo nhịp_điệu âm_nhạc (dân ca, cách mạng, khiêu_vũ, thiếu_nhi và các dòng_nhạc khác). Bộ_nhớ 4 GB cho_phép Roohex lưu_trữ một lượng bài_hát lớn. Với việc lập_trình sẵn các động_tác theo nhạc, các kỹ_sư lập_trình trở thành_đạo_diễn múa cho các "vũ công_máy".
-Người sử_dụng có_thể thay_đổi "trang phục" bên_ngoài của Roohex cho phù_hợp với các bài_hát và hoàn cảnh. Chẳng hạn, nó có_thể đội mũ Lạc hồng hay logo quảng_cáo.
-Các cán_bộ giảng_dạy, nghiên_cứu của khoa Cơ-Điện_tử thuộc Đại_học Kinh_doanh và Công_nghệ Hà_Nội cho rằng, sản_phẩm Roohex sẽ mở_ra một loại_hình dịch_vụ mới và độc_đáo tại Việt Nam. Đó là dịch_vụ cho_thuê robot nhảy, múa để phục_vụ các sự_kiện văn_hóa, giáo_dục và thương_mại.

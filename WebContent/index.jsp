@@ -44,21 +44,18 @@
 		<div class="extra2 container">
 			<div class="ebox1"> <span class="fa fa-puzzle-piece"></span>
 				<div class="title">
-					<h2>Etiam rhoncus volutpat</h2>
-					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span> </div>
-				<p>Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. Suspendisse dictum porta lectus. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo. Pellentesque imperdiet. Pellentesque viverra vulputate enim.</p>
-				<a href="#" class="button">Etiam posuere</a> </div>
+					<h2>Nguyễn Thanh Phi</h2>
+					<span class="byline">Mail: thanhphi0127@gmail.com</span> </div>
+				<p>SĐT: 0986.223.165</p>
 			<div class="ebox2"> <span class="fa fa-comments-o"></span>
 				<div class="title">
-					<h2>Mauris vulputate dolor</h2>
-					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span> </div>
-				<p>Proin gravida orci porttitor enim accumsan lacinia. Donec condimentum, urna non molestie semper, ligula enim ornare nibh, quis laoreet eros quam eget ante. Aliquam libero. Vivamus nisl nibh, iaculis vitae, viverra sit amet, ullamcorper vitae, turpis. Aliquam erat volutpat. Vestibulum dui sem, pulvinar sed, imperdiet nec, iaculis nec, leo. </p>
-				<a href="#" class="button">Etiam posuere</a> </div>
+					<h2>Huỳnh Thanh Nhã</h2>
+					<span class="byline">Mail: nhathanh36@gmail.com</span> </div>
+				<p>SĐT: 0168.35.36.544</p>
 		</div>
 	</div>
 </div>
 <div id="copyright" class="container">
-	<p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
-</div>
+	<p>&copy; Copyright | Designed by <a href="http://www.thanhphi.890m.com">Thanh Phi</a>.</p></div>
 </body>
 </html>

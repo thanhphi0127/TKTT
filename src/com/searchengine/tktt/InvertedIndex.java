@@ -22,7 +22,7 @@ import com.sun.org.apache.xalan.internal.xsltc.compiler.Template;
 public class InvertedIndex {
 	public static Map<String, Map<Integer, Integer>> InvertedIndex;
 	public Map<String, Map<Integer, Integer>> wordCount;
-	public Document documents;
+	public DocumentIndex documents;
 	//public Set<Integer> posting;
 	private int documentsSize;
 	

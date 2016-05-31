@@ -1,9 +1,0 @@
-Phần_mềm diệt virus Bkav 2012 ngăn nạn trộm nick_Yahoo
-Nạn lừa_đảo trên Yahoo Messenger thời_gian qua có nguyên_nhân chính từ việc người_dùng bị đánh_cắp mất mật khẩu, và keylogger (công cụ ghi_lại các ký_tự nhập từ bàn phím) là phương_tiện chính mà những kẻ_lừa_đảo sử_dụng.
-Để chống_lại keylogger, người_dùng sẽ phải cài thêm phần_mềm chống gián_điệp (anti-keylogger) song_song với phần_mềm diệt virus. Điều này gây phiền_hà và có_thể không đem_lại hiệu_quả cao.
-Bkav 2012 được công_bố sáng 19/6 tại Hà_Nội.
-Bkav 2012 là một trong những phần_mềm diệt virus đầu_tiên trên thế_giới được tích_hợp sẵn công_nghệ anti-keylogger nhằm chống_lại hành_vi theo_dõi những thao_tác từ bàn phím, chụp màn hình, chèn mã thực_thi vào tiến_trình đang chạy và lấy_cắp dữ_liệu, thông_tin trong clipboard…
-"Một giải_pháp phòng_chống virus không đơn_thuần chỉ ngăn mã độc, mà còn phải chống_lại được các hành_vi mang tính phá_hoại có chủ_đích của con_người, như cài_keylogger lấy_cắp thông_tin của đối_thủ kinh doanh, theo_dõi hoạt_động của người khác. Đó là lý_do chúng_tôi quyết_định đưa anti-keylogger vào sản phẩm", ông Vũ_Ngọc_Sơn, Giám_đốc Bộ_phận nghiên_cứu của Bkav (Bkav_R&D), cho_biết.
-Công_nghệ Anti-keylogger trên phần_mềm bảo_mật.
-Bên_cạnh đó, gói phần_mềm bảo_mật mới sử_dụng công_nghệ điện toán đám mây, tăng tốc_độ quét nhanh gấp_hai lần so với phiên_bản trước. Nhà_sản_xuất cho_biết trong phiên_bản mới, công_nghệ SafeRun (Thực thi an toàn) đã được nâng_cấp và cho_phép mở các file_tải về từ Internet trong môi_trường cách ly. Còn Site_Advisor (Giám sát truy cập) giúp người_sử_dụng tránh được các website lừa_đảo dựa_trên "danh sách đen" được cập_nhật từ Tổ_chức toàn_cầu về chống lừa_đảo trên mạng (APWG) mà Bkav là thành_viên.
-Bkav 2012 vẫn giữ_nguyên mức_giá của phiên_bản 2011 là 299.000_đồng.
