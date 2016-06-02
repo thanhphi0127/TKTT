@@ -1,0 +1,30 @@
+﻿FPT dự kiến năm 2011 phóng vệ tinh đầu tiên
+
+Mô hình cuối cùng vệ tinh F-1 sẵn sàng để bay sẽ được hoàn thành trong năm nay và dự kiến vệ tinh nặng 2kg sẽ phóng lên quỹ đạo trái đất năm 2011.
+> FPT lập viện nghiên cứu để thu hút chất xám
+
+Ngày 25/5, tại lễ ra mắt Viện Nghiên cứu Công nghệ FPT, đại diện Phòng nghiên cứu không gian FPT (FSpace) cho hay, nhóm nghiên cứu đang thiết kế, chế tạo, thử nghiệm và vận hành vệ tinh F-1, được trang bị các camera để chụp ảnh, cảm biến để đo nhiệt độ, từ trường trái đất nhằm tìm hiểu môi trường trên quỹ đạo.
+
+Mục tiêu của F-1 là phải “sống” được trong không gian ít nhất một năm và phát tín hiệu về trái đất; chụp được ảnh độ phân giải thấp của trái đất; và tốc độ truyền dữ liệu từ vệ tinh về trái đất đạt 1.200 bít/giây. Nếu các yêu cầu này được hoàn thành, vệ tinh mới được thử nghiệm các tính năng phức tạp hơn như chụp ảnh độ phân giải 1 megapixel hay tốc độ truyền tin được tăng lên 9.600bit/giây…
+
+
+Mô hình vệ tinh nhỏ F-1 bay trên quỹ đạo trái đất. Ảnh: FSpace.
+Dù chế tạo vệ tinh đã xuất hiện và phát triển ở nhiều nước nhưng với Việt Nam, đây vẫn là lĩnh vực mới mẻ. Vì vậy, nhóm Fspace phải tự mày mò tìm hiểu, học hỏi kinh nghiệm của nước ngoài cũng như nhờ sự tư vấn của các chuyên gia trong và ngoài nước.
+
+Đầu năm 2009, công việc đầu tiên của nhóm là nghiên cứu xây dựng trạm thu tín hiệu vệ tinh bởi nếu làm được vệ tinh mà không liên lạc được về trái đất thì dự án sẽ trở nên vô nghĩa. Việc thu tín hiệu rất khó bởi vệ tinh bay rất xa trái đất, khoảng cách tới trạm mặt đất trung bình khoảng 2.000 km trong khi công suất phát sóng của vệ tinh thấp.
+
+Sau hai tháng mày mò, nhóm đã thu thành công tín hiệu vệ tinh khí tượng NOAA của Mỹ, Cute 1 CO-55 của Nhật và Lusat Oscar LO-19 của Argentina. Nhóm đã dùng phần mềm giải mã được các bức ảnh mây do vệ tinh khí tượng NOAA chụp cũng như giải mã tín hiệu CW beacon của các vệ tinh nhỏ khác dưới dạng mã Morse. Sau thành công này, FSpace bước vào giai đoạn thiết kế cơ khí, điện điện tử và phát triển phần mềm điều khiển cho vệ tinh F-1.
+
+Cũng theo vị đại diện này, nhóm sẽ tiến hành chế tạo lần lượt 3 mô hình của vệ tinh F-1: mô hình kiểm tra chức năng (BreadBoard Model - BBM), mô hình kỹ thuật (Engineering Model - EM) và cuối cùng là mô hình bay (Flight Model – FM).
+
+
+Mô hình BBM của vệ tinh F-1. Ảnh: FSpace.
+Với mô hình BBM, nhóm đã thử thu phát tín hiệu trong phòng ở khoảng cách 2 mét, sau đó tăng dần lên 100 mét, 2 km, 7 km, 20 km và đã thành công với khoảng cách 50 km khi đưa vệ tinh lên đỉnh núi Tam Đảo để liên lạc với trạm mặt đất đặt tại tòa nhà FPT Cầu Giấy.
+
+Hiện, FSpace đã xin được giấy phép sử dụng tần số vô tuyết điện cho trạm mặt đất từ Cục Tần số Vô tuyến điện (Bộ TT&TT) và nộp đơn xin cấp phép sử dụng tần số cho vệ tinh trên quỹ đạo lên Ủy ban quốc tế về vô tuyến điện nghiệp dư IARU.
+
+Anh Vũ Trọng Thư, trưởng nhóm Fspace cho biết, vệ tinh F-1 đang được gấp rút hoàn tất mô hình thử nghiệm đầu tiên. Theo kế hoạch, mô hình cuối cùng sẵn sàng để bay sẽ được hoàn thành trong năm 2010 và dự kiến năm 2011 phóng vệ tinh này.
+
+Nếu mọi việc thành công, có thể đây là vệ tinh tư nhân đầu tiên của ViệtNam được phóng lên vũ trụ.
+
+Tháng 4/2008, vệ tinh Vinasat-1 của Việt Nam đã được phóng thành công lên quỹ đạo. Ngay sau đó, Thủ tướng Nguyễn Tấn Dũng phát biểu, Việt Nam đã "thể hiện chủ quyền quốc gia trên không gian". Đầu năm 2010, Thủ tướng đồng ý để VNPT làm chủ đầu tư dự án Vinasat-2 (tổng đầu tư 290-350 triệu USD), dự kiến phóng lên quỹ đạo năm 2012.

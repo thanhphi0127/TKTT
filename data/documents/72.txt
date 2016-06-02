@@ -1,0 +1,5 @@
+﻿Video rút tiền từ cây ATM bằng smartphone
+
+Giải pháp mới của công ty NCR (Mỹ) giúp người dùng có thể nhập số PIN, số tiền cần rút và thực hiện các giao dịch khác ngay trên điện thoại thay vì trên bàn phím của cây ATM.
+
+Sau khi cài đặt ứng dụng NCR Mobile Cash Withdrawal trên smartphone, người dùng chỉ cần mở ứng dụng, nhập mật khẩu, đưa máy về phía trước để quét mã QR hiển thị trên màn hình ATM. Sau đó họ có thể tra cứu tài khoản, rút tiền... chỉ trong vài giây.

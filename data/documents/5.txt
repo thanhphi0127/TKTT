@@ -1,0 +1,9 @@
+﻿Windows XP sẽ bị tin tặc 'xâu xé' sau khi ngừng được hỗ trợ
+Các chuyên gia an ninh mạng cảnh báo Windows XP sẽ bị khai thác triệt để nhiều lỗ hổng bảo mật gây tổn hại cho người dùng do Microsoft không còn hỗ trợ từ tháng 4 năm sau. 
+Windows XP sẽ kết thúc vòng đời trong năm tới
+Microsoft hỗ trợ 'khai tử' 30.000 máy tính Windows XP
+Windows XP chính thức ngừng được hỗ trợ từ tháng 4/2014. Ảnh minh họa. 
+Báo cáo mới nhất từ Computerworld cho rằng giới tin tặc đã bắt đầu lưu trữ các lỗ hổng khai thác được từ Windows XP nhưng hoàn toàn bí mật cho đến khoảng tháng 4 năm sau. Không ngạc nhiên khi đây là thời điểm mà Microsoft tuyên bố sẽ ngừng mọi hỗ trợ miễn phí cho hệ điều hành hơn 10 năm tuổi. 
+Chuyên gia bảo mật Jason Fossen của Microsoft cho biết các hacker có thể bán thông tin cũng như cách tận dụng lỗ hổng nhằm trục lợi. Mức giá này có thể gấp đôi so với hiện tại. Điều tra của Computerworld khẳng định trước đây trên thị trường "chợ đen", một lỗ hổng bảo mật được rao bán có lúc giá lên tới từ 50.000 đến 150.000 USD tùy vào mức độ nghiêm trọng. 
+Người dùng Windows XP sẽ chỉ còn hai lựa chọn vào năm tới, một là trả tiền cho Microsoft để được hãng này bảo vệ cho khả năng bảo mật. Cách thứ hai đơn giản hơn, nâng cấp lên hệ điều hành Windows 8 mới nhất hoặc chí ít là Windows 7. 
+Đây không phải là lần đầu tiên Microsoft tuyên bố ngừng hỗ trợ một hệ điều hành của mình. Vào tháng 7/2010, người dùng Windows 2000 cũng nhận được thông báo tương tự. Tuy nhiên, theo số liệu của Net Applications, vào thời điểm đó hệ điều hành này chỉ chiếm rất ít thị phần toàn cầu là 0,4%. Với Windows XP sẽ là một viễn cảnh hoàn toàn khác. Computerworld ước tính vào tháng 4 năm sau, hệ điều hành này vẫn chiếm từ 33 đến 34% thị phần máy tính trên toàn thế giới.

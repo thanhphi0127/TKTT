@@ -1,0 +1,25 @@
+﻿Tạo ra điện từ rác
+
+Một số loại vi khuẩn hoạt động trong quá trình xử lý nước thải có thể giúp con người tạo ra điện, các nhà khoa học khẳng định.
+
+
+Xe chuyên dụng đổ rác tại một nhà máy xử lý rác thải tại Australia. Ảnh: theage.com.au.
+Livescience cho biết, trong những thiết bị xử lý chất thải thông thường, vi sinh vật phân hủy chất thải rắn trong “bùn hoạt tính”. Chúng biến chất hữu cơ thành khí metan nhưng để lại nước thải bao gồm ammoniac và photphat - những chất cần phải được loại bỏ trước khi người ta đổ nước ra sông. 
+
+Các thiết bị xử lý chất thải hiện nay tiêu tốn rất nhiều năng lượng để loại bỏ ammoniac. Quá trình này sử dụng các vi khuẩn chuyển hóa ammoniac thành nitrat, và các vi khuẩn đó lại cần được cung cấp oxy liên tục vào trong các bể xử lý nhờ các máy bơm điện. Sau đó, người ta cần nhờ thêm vi khuẩn khử nitơ để chuyển nitrat thành nitơ. Để hoạt động, những vi khuẩn này cũng cần cồn methanol thêm vào trong hỗn hợp.
+
+Quá trình trên tiêu thụ trung bình 44 Wh điện mỗi ngày để một người đưa thêm chất thải vào hệ thống xử lý. Trong một thành phố lớn thì con số này có thể lên đến hàng MWh.
+
+Loại bỏ các vi khuẩn trung gian
+
+Tuy nhiên, hiện tại Gijs Kuenen - một nhà khoa học tại Đại học Công nghệ Delft, Hà Lan - cùng các đồng nghiệp đang phát triển một công nghệ nhằm loại bỏ bớt những quy trình tiêu tốn năng lượng này. Điểm mấu chốt là phát hiện gần đây về một loại vi khuẩn có thể phân hủy ammoniac mà không cần đến oxy. Loại vi khuẩn có tên anammox này rút ngắn lại chu kỳ nitơ bằng cách chuyển hóa trực tiếp ammoniac thành khí nitơ. 
+
+Một phụ phẩm của quá trình này là metan, chất khí mà theo ông Kuenen có thể thu lại và sử dụng làm nhiên liệu. Nhóm nghiên cứu cũng tính toán được rằng quá trình này không tiêu tốn năng lượng mà còn tạo ra điện.
+
+“Quá trình này sẽ giúp các thiết bị xử lý nước thải hoạt động bền vững, nghĩa là chúng thậm chí có thể sản sinh ra năng lượng, không như các loại máy xử lý hiện nay", Kuenen nói.
+
+Trong tháng 5 nhóm nghiên cứu sẽ bắt đầu xây dựng một thiết bị thí điểm để minh họa cho công nghệ này tại hệ thống xử lý nước thải Dokhaven ở Rotterdam, Hà Lan. Họ sẽ hợp tác với Đại học Radboud tại Nijmegen và công ty xử lý nước Paques trụ sở tại thành phố Balk. 
+
+Nhà vi trùng học Michael Wagner của Đại học Vienna, Áo, cho biết vi khuẩn anammox mới chỉ được phát hiện ra 20 năm trước và có thể dẫn tới sự ra đời của một thế hệ thiết bị xử lý nước thải bền vững.
+
+“Câu chuyện về vi khuẩn anammox cho thấy khám phá cơ bản của các nhà vi trùng học có thể tạo ra một cuộc cách mạng đối với quá trình xử lý chất thải như thế nào", Wagner bình luận.

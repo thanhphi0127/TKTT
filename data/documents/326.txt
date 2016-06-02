@@ -1,0 +1,25 @@
+﻿Robot tạo dáng và ca hát
+
+Các nhà khoa học Nhật Bản chế tạo thành công loại robot có khả năng bắt chước nhiều động tác khó của người và ca hát như những sao ca nhạc.
+
+AFP đưa tin công ty Kawada Industries cùng Viện Khoa học và Công nghệ công nghiệp cao cấp Nhật Bản (AIST) vừa công bố các phiên bản mới nhất trong loạt robot HRP hôm 13/10, trong đó có HRP-4 và HRP-4C.
+
+
+HRP-4 thực hiện động tác dang tay và đứng trên một chân. Ảnh: Cnet.
+Với hình dáng giống vận động viên điền kinh, HRP-4 có khả năng đứng bằng một chân, phân biệt khuôn mặt người và vật thể, làm theo khẩu lệnh của người. Với trọng lượng gần 39 kg bao gồm cả pin và chiều cao 1,5 m, nó có 34 khớp động (7 khớp trên mỗi cánh tay). Các ngón tay của HRP-4 có thể sử dụng nhiều công cụ và rót đồ uống ra cốc. Mỗi cánh tay có thể nâng vật nặng chừng 2,5 kg.
+
+“Chúng tôi thiết kế một robot có hình dáng giống vận động viên điền kinh, tức là mảnh khảnh song đầy cơ bắp”, Noriyuki Kanehira, nhà quản lý các dự án robot của công ty Kawada Industries, phát biểu.
+
+Để tăng tốc độ xử lý dữ liệu của HRP-4, người sử dụng của thể cài máy tính notebook vào lưng của nó.
+
+Xem HRP-4 cử động và nhìn theo khuôn mặt
+Cnet cho biết, HRP-4 là kết quả của nhiều nghiên cứu trong suốt hơn một thập kỷ của cả chính phủ và các công ty tư nhân tại Nhật Bản. Nó được thừa hưởng công nghệ robot của Honda. Giá bán của nó sẽ vào khoảng gần 300.000 USD. Khách hàng mục tiêu mà Kawada Industries và AIST hướng tới là các trung tâm nghiên cứu, trường đại học trong nước và tại nước ngoài.
+
+
+HRP-4C có hình dáng giống phụ nữ. Ảnh: Cnet.
+HRP-4C có hình dáng giống phụ nữ và khả năng ca hát nhờ phần mềm tổng hợp giọng hát VocalListener. Một phần mềm khác, có tên Vocawatcher, cho phép robot thể hiện những trạng thái cảm xúc trong khi hát.
+
+Masataka Goto, một chuyên gia của AIST, cho biết nhóm thiết kế ghi hình toàn bộ cử động và cách biểu cảm trên khuôn mặt của một nữ ca sĩ nổi tiếng khi cô hát. Sau đó họ đưa toàn bộ dữ liệu vào bộ nhớ của HRP-4C. Thậm chí trong lúc HRP-4C hát, khán giả còn nghe thấy cả tiếng hít hơi giống như người.
+
+Xem HRP-4C ca hát
+“Một trong những nhiệm vụ cấp bách của Nhật Bản trong giai đoạn đầu thế kỷ 21 là chế tạo những robot có khả năng thực hiện những công việc đơn giản, lặp đi lặp lại để bổ sung vào lực lượng lao động tại một đất nước có dân số đang già nhanh do ngày càng ít trẻ em chào đời”, AIST và Kawada Industries tuyên bố.

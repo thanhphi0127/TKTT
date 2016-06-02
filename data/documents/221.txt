@@ -1,0 +1,10 @@
+﻿Robot cứu hỏa trên tàu
+
+Các nhà khoa học của Hải quân Mỹ chế tạo robot cứu hỏa để xử lý những đám cháy trên các phương tiện đường thủy.
+
+
+Octavia, tên của robot cứu hỏa, được thiết kế để có thể tương tác với người qua giọng nói và hình ảnh. Nó được trang bị cặp camera hồng ngoại, bình chứa nước và không khí nén ở phía "lưng", vòi cứu hỏa, Telegraph đưa tin.
+
+Sau khi được hướng dẫn tới vị trí của đám cháy, Octavia sử dụng hai camera hồng ngoại để quan sát ngọn lửa. Sau đó nó phun không khí và nước vào đám cháy.
+
+Nhóm nghiên cứu Octavia hy vọng sản phẩm của họ sẽ là công cụ đắc lực trong nỗ lực phòng, chống hỏa hoạn trên biển. Hiện tại Octavia chưa thể phản ứng nhanh trong những tình huống khẩn cấp, song nhóm nghiên cứu khẳng định họ sẽ tiếp tục cải tiến robot để nó có khả năng đó. Ngoài ra họ cũng sẽ tiếp tục nâng cao khả năng giao tiếp của robot với người và khả năng phát hiện hỏa hoạn.

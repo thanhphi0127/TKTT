@@ -1,0 +1,19 @@
+﻿Robot đưa thuốc trong bệnh viện
+
+Một bệnh viện tại Mỹ sử dụng robot để vận chuyển thuốc, dụng cụ y tế và các loại hàng hóa nhằm giảm thiểu sai sót và chi phí hoạt động.
+> Robot tương lai biết lừa người
+
+
+Một robot mang tên TUG trong bệnh viện Aethon, thành phố Pittsburgh, bang Pennsylvania, Mỹ. Ảnh: Discovery.
+Bệnh viện là nơi mà những dụng cụ y tế phải được đặt đúng chỗ và đúng thời điểm để cứu chữa các bệnh nhân. Với hàng trăm bác sĩ, y tá và người phục vụ ở bệnh viện, sai sót là điều không thể tránh khỏi.
+
+Con người dễ mắc lỗi, nhưng robot thì không. Ngoài ra chúng còn chẳng cần lương và thức ăn. Suy nghĩ đó thúc đẩy nhiều bệnh viện sử dụng robot để vận chuyển hàng hóa bên trong các tòa nhà.
+
+Discovery cho biết, Aethon, một bệnh viện ở thành phố Pittsburgh, bang Pennsylvania, là một trong những bệnh viện như thế. Họ thuê các kỹ sư chế tạo một loại robot có khả năng “đọc” bản đồ kỹ thuật số để định hướng và di chuyển trong bệnh viện. Chúng được gọi là TUG. Mỗi robot được trang bị nhiều ăng-ten nhỏ xíu để phát hiện con người và chướng ngại vật. Những chiếc ăng-ten có thể phát ra sóng siêu âm, tia hồng ngoại và tia laser để dò tìm các vật thể xung quanh robot.
+
+Video TUG di chuyển trong bệnh viện
+
+
+Với khối lượng 25 kg, TUG hoạt động nhờ hai motor điện một chiều có khả năng tự sạc khi chúng không hoạt động. Khi lượng điện trong pin đạt mức tối đa, TUG sẽ hoạt động liên tục trong 10 tiếng đồng hồ.
+
+Khả năng giao tiếp với nhau của các robot ngày càng được nâng cao và TUG cũng không phải trường hợp ngoại lệ. Chúng có thể “nói chuyện” với nhau trong hành lang để trao đổi thông tin về lộ trình hiệu quả nhất để tới đích.

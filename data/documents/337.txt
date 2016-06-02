@@ -1,0 +1,17 @@
+﻿Robot tương lai sẽ biết lừa người
+
+Cảnh tượng một robot dẫn kẻ thù vào bãi mìn hoặc giả chết vốn chỉ xuất hiện trong các phim khoa học viễn tưởng, song chẳng bao lâu nữa người máy sẽ có khả năng thực hiện những hành vi đó trong cuộc sống.
+
+
+Robot HRP-4C có khả năng trình diễn thời trang tại Nhật Bản. Ảnh: roboticstation.com.
+“Chúng tôi vừa tạo ra một số thuật toán cho phép robot tự ra quyết định về việc đánh lừa con người hoặc những cỗ máy thông minh khác. Robot cũng sẽ có khả năng lựa chọn chiến thuật đánh lừa tốt nhất để giảm nguy cơ bị phát hiện”, Livescience dẫn lời Ronald Arkin, một chuyên gia về robot của Viện Công nghệ Georgia tại Mỹ.
+
+Arkin và các đồng nghiệp lập trình để các robot tự nhận biết những tình huống mà chúng có thể thực hiện hành vi đánh lừa. Đó là những tình huống gây phát sinh mâu thuẫn, xung đột giữa robot với những đối tượng tìm kiếm chúng và robot phải có lợi nếu lừa gạt. Sau khi robot xác định được tình huống cần thực hiện hành vi đánh lừa, chúng sẽ tung ra thông tin giả hoặc áp dụng chiến thuật lừa gạt trên những thông tin mà chúng đã biết về đối thủ.
+
+Nhóm nghiên cứu đã thực hiện 20 thử nghiệm “trốn tìm” đối với hai robot. Họ đặt những vật có màu sắc sặc sỡ dọc theo ba con đường dẫn tới nơi mà robot có thể trú ẩn. Khi cặp robot được đưa vào tình huống buộc phải lẩn trốn, chúng phá hủy những vật có màu sắc trên một con đường rồi chạy sang con đường khác. Bằng cách đó chúng khiến những kẻ rượt đuổi nghĩ rằng chúng đã chạy qua con đường có những vật bị phá hủy.
+
+Tỷ lệ đánh lừa thành công là 75%, nghĩa là cặp robot không bị phát hiện trong 15 trên tổng số 20 thử nghiệm.
+
+Nhóm nghiên cứu cho rằng những thuật toán của họ cũng có thể giúp robot lừa gạt người. Trên chiến trường, robot có thể ẩn nấp và đánh lừa binh lính đối phương. Trong các chiến dịch tìm kiếm và cứu hộ robot có thể giấu diếm tình hình thực tế để các nạn nhân cảm thấy yên tâm và lạc quan hơn.
+
+Tất nhiên, Arkin thừa nhận những robot biết đánh lừa có thể gây nên nhiều vấn đề về đạo đức. Theo ông, sự lừa gạt được chấp nhận trong hoàn cảnh chiến tranh, song nó bị xã hội lên án trong những tình huống khác. Vì thế trong tương lai có lẽ các chính phủ cần ban hành quy định về những trường hợp mà người máy có thể thực hiện hành vi đánh lừa.

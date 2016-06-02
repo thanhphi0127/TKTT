@@ -1,0 +1,15 @@
+﻿Bắt cóc máy bay không người lái
+
+Trong một cuộc cá cược, các nhà nghiên cứu tại đại học bang Texas đã đột nhập và bắt cóc một máy bay không người lái của Bộ An ninh Nội địa Mỹ trước mắt của các quan chức đang điều hành nó.
+
+Sử dụng một kỹ thuật gọi là 'giả mạo', các sinh viên đã gửi một lệnh đến bộ thu tín hiệu GPS trên máy bay không người lái, giành quyền kiểm soát UAV nhỏ nhưng mạnh mẽ đang bay giữa không trung.
+
+Phía trên sân vận động của trường Đại học Texas, một chiếc máy bay không người lái nhỏ màu đỏ vút lên trời cao sau khi máy tính của máy bay nhận được một cặp lệnh chỉ huy. Ngay sau đó, máy bay đã bay chệch sang một bên, rõ ràng chứng tỏ rằng chiếc máy bay không còn tuân theo những mệnh lệnh ban đầu nữa.
+
+Sau đó, chiếc UAV lao ầm về phía mặt đất như nhận được lệnh tự hủy, và đến phút cuối cùng lại được cứu, báo chí Mỹ đưa tin.
+
+Và vụ bắt cóc này được đặt cược 1.000 USD. Tuy nhiên, vụ việc đã làm cho các quan chức của Bộ An ninh nội địa lo lắng, vì với công nghệ đơn giản mọi người đều có thể bắt cóc được máy bay không người lái. Giới chức lo rằng một khi bị cướp quyền điều khiển, các UAV có thể bị biến thành những quả bom bay đe dọa an ninh.
+
+Nhóm bắt cóc máy bay UAV do giáo sư Todd Humphreys lãnh đạo, thuộc Phòng thí nghiệm dẫn đường bằng sóng vô tuyến Austin, nói nhóm của ông có thể thiết kế được một hệ thống giả mạo tín hiệu hiện đại nhất chưa từng có để đánh lừa chiếc UAV tuân theo một bộ lệnh hoàn toàn mới. Giáo sư Humphreys nói: “Giả mạo một máy nhận tín hiệu GPS trên một UAV là một cách để bắt cóc chiếc máy bay.”
+
+Cuộc biểu diễn trên sân vận động hôm đó không phải là lần bắt cóc đầu tiên. Thứ ba tuần trước các quan chức của Cục hàng không liên bang (FAA) và Bộ an ninh nội địa đã quan sát nhóm của giáo sư Humphreys liên tục bắt cóc một máy bay không người lái từ một đỉnh đồi hẻo lánh ở bang New Mexico.

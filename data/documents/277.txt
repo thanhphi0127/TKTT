@@ -1,0 +1,12 @@
+﻿Tàu cao tốc bay sát mặt đất
+
+Các kỹ sư Nhật Bản chế tạo loại phương tiện giao thông mới bằng cách kết hợp tàu cao tốc với máy bay.
+
+
+Mô hình loại phương tiện giao thông lai giữa tàu cao tốc và máy bay. Ảnh: Discovery.
+Discovery News đưa tin, tại Hội thảo về Robot và Tự động hóa tại Thượng Hải, Trung Quốc vào tuần trước, các nhà sáng chế của Đại học Tohoku tại Nhật Bản đã công bố phiên bản mẫu của một loại tàu cao tốc có khả năng bay nhờ đệm không khí.
+
+Về cơ bản thì phương tiện vận tải lai có hình dáng giống phi cơ nhiều hơn với sáu cánh, một đuôi và các động cơ đẩy. Do phương tiện không tiếp xúc với mặt đất, chuyển động của nó sẽ không bị cản trở bởi lực ma sát. Vì thế trong cùng một khoảng thời gian nó sẽ đạt tốc độ cao hơn, đồng thời sử dụng ít nhiên liệu hơn, so với các tàu cao tốc chạm đường ray.
+
+Xem phương tàu cao tốc bay sát mặt đất
+Vấn đề duy nhất đối với "tàu hỏa kiêm máy bay" là nó luôn đối mặt với nguy cơ liệng, bổ nhào và bay trệch giống như mọi phi cơ khác. Vì thế phần dưới của thân tàu sẽ khó duy trì được tư thế song song so với mặt đất. Một trong những giải pháp để khắc phục những yếu điểm này là cho phương tiện di chuyển trong đường ray hình chữ U.

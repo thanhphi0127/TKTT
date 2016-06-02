@@ -1,0 +1,21 @@
+﻿Tháo gỡ hoàn toàn bất kỳ ứng dụng nào đã được cài đặt.
+Quét sâu vào registry và toàn bộ đĩa để tìm các file và các phần nhập vào registry.
+Tháo gỡ các chương trình mà Add/Remove Program không thể gỡ bỏ.
+Tháo gỡ các screen savers.
+Thể hiện tất cả các ưng dụng đã cài đặt trên máy tính của bạn với cửa sổ tùy chỉnh. Chương trình Disk Cleaner tích hợp giúp bạn tìm và gỡ bỏ những file không cần thiết trên đĩa cứng của bạn để tiết kiệm đĩa và làm cho máy tính bạn nhanh hơn!
+IE Context Menu Cleaner tích hợp, dọn dẹp menu ngữ cảnh của Internet Explorer.
+Tích hợp Startup Manager, kiểm soát các phần khởi động của Windows.
+Tích hợp Start Menu Manager giúp bạn giữ sạch Start Menu.
+Thu thập các thông tin chi tiết về các ứng dụng ngay cả trong trường hợp nó tự ẩn sâu trong các thư mục, đặc biệt hữu dụng cho việc tìm kiếm các ứng dụng “Gián điệp”.
+Sao lưu/Phục hồi thông tin các hứng dụng cài đặt.
+Tháo gỡ cài đặt với chức năng kéo-thả! Chỉ cần thả một file lên biểu tượng Your Uninstaller! trên desktop và bạn sẽ thấy những gì xãy ra!
+Liệt kê các ưng dụng đã được cài đặt với các biểu tượng thích hợp (giống như bạn thấy trong Start Menu), bạn có thể tìm ứng dụng mà bạn muốn tháo gỡ dễ dàng.
+Tính năng tìm kiếm mạnh mẽ cho phép bạn tìm chương trình bạn muốn tháo gỡ nhanh chóng.
+Tự động dò tìm các sự cài đặt không hợp lệ và tháo gỡ chúng chỉ với một cú click.
+Gỡ bỏ bắt buột các giá trị nạp vào trong registry liên quan đến việc tháo gỡ cài đặt (cẩn thận khi dùng)!
+Khởi động cực nhanh, từ 5-10 lần nhanh hơn Add/Remove Program của Windows XP!
+Xem tất cả các chi tiết của một ứng dụng nào đó được cài đặt trên máy tính của bạn.
+Xuất danh sách các chương trình thành file hoặc in ra.
+Và các tính năng khác..
+
+

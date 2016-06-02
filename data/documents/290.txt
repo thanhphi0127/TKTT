@@ -1,0 +1,27 @@
+﻿Dập lửa bằng điện
+
+Nhờ sự hỗ trợ của điện, trong tương lai lính cứu hỏa chẳng cần xông vào đám cháy và mà vẫn dập được lửa.
+
+
+Điện trường đẩy ngọn lửa ra xa khỏi nguồn cung cấp nhiên liệu khiến lửa tắt. Ảnh: Ludovico Cademartiri.
+Hiện nay lính cứu hỏa trên khắp thế giới dùng bọt, bột và nhiều loại chất khác để dập lửa. Nhưng một nhóm chuyên gia của Đại học Harvard tại Mỹ vừa chứng minh rằng điện trường cũng có thể khiến ngọn lửa tắt.
+
+National Geographic cho biết, trong một thử nghiệm, các nhà khoa học nối một dây nhỏ với máy khuếch đại 600 W để tạo ra một điện trường có điện áp hàng triệu V trên mỗi mét.
+
+“Mức điện áp ấy đủ lớn để tạo ra tia lửa trong không khí khô”, nhà hóa học Ludovico Cademartiri, một nghiên cứu sinh sau tiến sĩ của Đại học Harvard, cho biết.
+
+Mỗi khi Cademartiri và các đồng nghiệp đưa điện trường tới gần một ngọn lửa có độ cao khoảng 50 cm, ngọn lửa gần như tắt ngay lập tức.
+
+Dù dập được lửa nhưng điện trường lại rất an toàn. Cademartiri nói tần số, điện áp và dòng điện mà hệ thống tạo ra không đủ lớn để gây nên nguy hiểm đối với người khỏe mạnh. Những phiên bản đũa điện trong tương lai có thể không chế đám cháy với mức điện áp chỉ bằng một phần mười so với mức được tạo ra trong thử nghiệm.
+
+Vậy điện trường dập lửa theo cơ chế nào?
+
+Các điện tử (electron), ion và hạt muội bên trong ngọn lửa có thể tương tác với điện trường. Dựa trên nguyên tắc đó, các nhà khoa học dùng dòng điện để đẩy lửa ra khỏi nguồn gây cháy khiến nó tắt.
+
+Nhóm nghiên cứu muốn dập tắt lửa từ khoảng cách xa hơn và mở rộng phạm vi tác động của điện trường bằng cách thay đổi điện cực, dòng điện, tần số và điện áp. Trong tương lai, hệ thống có thể được lắp đặt trong trần của những tòa nhà hoặc tàu biển để chống cháy. Nó cũng sẽ được thu nhỏ để lính cứu hỏa có thể mang theo trên lưng.
+
+Tất nhiên, điện trường không thể dập mọi loại đám cháy. Chẳng hạn, có thể nó sẽ hoạt động không hiệu quả đối với đám cháy rừng và các đám cháy lớn.
+
+“Những tác động của điện trường phụ thuộc vào sức mạnh của nó. Tạo ra điện trường trên những khu vực rộng lớn là một thách thức lớn”, Cademartiri nói.
+
+Các chuyên gia nhận thấy điện trường cũng có thể tác động tới nhiệt độ và vị trí cháy của lửa. Vì thế nó có thể được dùng để kiểm soát độ lớn của lửa trong những không gian hẹp – như động cơ, lò sưởi.

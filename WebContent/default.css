@@ -354,7 +354,7 @@ ul.contact li a.icon-rss:before
 
 	.title
 {
-	margin-bottom: 3em;
+	margin-bottom: 0.2em;
 }
 
 .title h2
@@ -1014,7 +1014,7 @@ ul.contact li a.icon-rss:before
     /*-------------------------------------*/	
     
     .form-wrapper {
-        width: 700px;
+        width: 770px;
         padding: 15px;
         margin: 0px auto 0px auto;
         background: #444;
@@ -1028,7 +1028,7 @@ ul.contact li a.icon-rss:before
     }
     
     .form-wrapper input {
-        width: 580px;
+        width: 650px;
         height: 20px;
         padding: 10px 5px;
         float: left;    
@@ -1122,7 +1122,7 @@ div.rtitle{
     font-size: 14pt;
     font-family: 'arial';
     text-align: left;
-    margin-left: 307px;
+    margin-left: 276px;
 }
 
 div.rtitle > a{
@@ -1130,13 +1130,14 @@ div.rtitle > a{
 }
 
 div.rcontent{
-    padding: 5px 5px 5px 0px;
     font-size: 13pt;
     font-family: 'times new roman';
     text-align: left;
-    margin-left: 307px;
+    margin-left: 269px;
     margin-bottom: 20px;
-	width: 750px;
+	width: 797px;
+	border-radius: 5px;
+    padding: 5px 5px 5px 7px;
 }
 
 div.result, div.result_input{
@@ -1144,7 +1145,7 @@ div.result, div.result_input{
     font-size: 12pt;
     font-family: 'arial';
     text-align: left;
-    margin-left: 307px;
+    margin-left: 276px;
     margin-bottom: 5px;
 }
 
@@ -1164,4 +1165,14 @@ td.indextd{
 	padding-left: 5px;
     font-family: arial;
     font-size: 14px;
+}
+
+img.imgRadius{
+	height: 128px;
+    border-radius: 50%;
+}
+
+h3#group{
+	color: blue;
+	text-align: center;
 }

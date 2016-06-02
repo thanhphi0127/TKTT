@@ -1,0 +1,13 @@
+﻿Robot do thám phát hiện người qua hơi thở
+
+Một công ty của Mỹ chế tạo loại robot có khả năng bay và phát hiện con người qua tường bằng âm thanh mà hơi thở phát ra.
+
+
+Phoenix40-A. Ảnh: TiaLinx.
+Discovery News cho biết, Phoenix40-A, tên của robot, là phát minh của công ty TiaLinx tại bang California, Mỹ. Nó có khả năng phát hiện chuyển động và hơi thở của người trong các công trình xây dựng dưới đất khi bay. Con người có thể điều khiển Phoenix40-A từ khoảng cách khá xa.
+
+Nhờ khả năng phát ra những chùm sóng radio hẹp có tần số vài GHz, Phoenix40-A có thể xâm nhập vào các tòa nhà kiên cố. Nó được trang bị các camera có khả năng ghi hình cả ngày lẫn đêm. Robot này khá nhẹ và có khả năng di chuyển linh hoạt. Tất cả những yếu tố đó khiến nó trở thành công cụ do thám lý tưởng trong nhiều tình huống.
+
+Ngoài ra, Phoenix40-A còn có thể dựng sơ đồ tòa nhà nhiều tầng, phát hiện các quả mìn được chôn dưới đất, tìm kiếm những người bị chôn vùi dưới đống đổ nát do thiên tai.
+
+Quân đội Mỹ đã tài trợ cho TiaLinx để hãng phát triển Phoenix40-A thành thiết bị bay tự động có khả năng tham gia các chiến dịch quân sự.

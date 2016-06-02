@@ -1,0 +1,28 @@
+﻿FPT chế tạo camera cho vệ tinh nhỏ của Nhật Bản
+
+Trong dự án vệ tinh số 2 của Nhật Bản có tên gọi RISESAT, Viện nghiên cứu Công nghệ FPT sẽ tham gia chế tạo phần điện tử điều khiển camera quan sát trái đất có độ phân giải 5 m/pixel.
+> FPT dự kiến năm 2011 phóng vệ tinh đầu tiên
+
+Hai giáo sư của ĐH Tohoky và Hokkaido (Nhật Bản) vừa có buổi làm việc với cán bộ Viện nghiên cứu Công nghệ FPT, Viện Công nghệ Vũ trụ và ĐH Quốc gia Hà Nội về cơ hội hợp tác chế tạo, ứng dụng vệ tinh nhỏ (50 kg - RISESAT) mang theo camera quan sát trái đất với độ phân giải 5 m/pixel.
+
+
+Thiết kế sơ bộ vệ tinh RISESAT và camera HPT mà phía Việt Nam sẽ tham gia chế tạo.
+Nội dung được các bên quan tâm là khả năng ứng dụng của vệ tinh nhỏ ở Việt Nam. Theo các chuyên gia viễn thám, bên cạnh việc chụp ảnh những địa điểm cần quan tâm thì ảnh của RISESAT có thể có ứng dụng tiềm năng trong lĩnh vực nông nghiệp như theo dõi sự phát triển của cây trồng hay theo dõi biến đổi của rừng, phát hiện những vụ chặt phá rừng... trong lâm nghiệp.
+
+Về mặt kỹ thuật, Viện nghiên cứu Công nghệ FPT đề nghị được tham gia chế tạo phần điện tử điều khiển camera có độ phân giải 5 m/pixel đặt trên vệ tinh này.
+
+Đến thăm phòng nghiên cứu không gian FSpace, 2 giáo sư Nhật đánh giá cao sự quyết tâm, nỗ lực của các thành viên dự án chế tạo vệ tinh nhỏ F-1 dù điều kiện trang thiết bị nghiên cứu còn rất thiếu thốn. Hai giáo sư chúc dự án hoàn thành với việc phóng vệ tinh F-1 lên quỹ đạo vào cuối năm nay.
+
+
+Vệ tinh F1 được Viện Tên lửa giúp thử nghiệm chấn động (shock test), với kết quả thành công.
+Viện nghiên cứu Công nghệ FPT, ĐH FPT và Phòng thí nghiệm robot không gian (Space Robotics Laboratory) của ĐH Tohoku đã ký kết biên bản ghi nhớ về việc phía Việt Nam tham gia chế tạo thiết bị camera đặt trên vệ tinh RISESAT.
+
+Theo đúng kế hoạch, cuối năm 2013 vệ tinh RISESAT sẽ được phóng lên quỹ đạo và phía Việt Nam sẽ được chia sẻ thời gian sử dụng vệ tinh tương ứng với đóng góp của mình so với các đối tác khác trong dự án.
+
+Lãnh đạo Viện nghiên cứu Công nghệ FPT đánh giá, đây là cơ hội rất thách thức nhưng cũng rất quý giá để các cán bộ của viện có điều kiện học tập, nâng cao năng lực dần hướng tới mục tiêu nội địa hóa việc chế tạo vệ tinh và các thiết bị vũ trụ phục vụ các lợi ích của Việt Nam. Các tổ chức, cá nhân quan tâm tới dự án xin liên hệ với quản trị dự án - anh Vũ Trọng Thư qua địa chỉ email thuvt@fpt.edu.vn hoặc điện thoại 0905 369821.
+
+Năm 2010, Chính phủ Nhật Bản triển khai chương trình "Funding Program for World-Leading Innovative R&D on Science and Technology" nhằm đẩy mạnh nghiên cứu phát triển những công nghệ tiên tiến nhất, trong đó bao gồm khoản ngân sách hơn 4 tỷ Yên (40 triệu USD) dành cho hướng phát triển vệ tinh nhỏ dưới 50kg (microsatellite) và giao cho các trường ĐH của Nhật quản lý.
+
+Trên thế giới đang hình thành một xu hướng mới dần thay thế các vệ tinh cỡ lớn (nặng hàng trăm kg hoặc hàng tấn) bằng các vệ tinh nhỏ để giảm chi phí chế tạo cũng như chi phí phóng. Ngoài ra, thời gian chế tạo các vệ tinh nhỏ này cũng được rút ngắn đáng kể chỉ còn 2, 3 năm. Tham vọng của các trường ĐH Nhật Bản là chế tạo 5 vệ tinh nhỏ lớp microsatellite trong 4 năm từ 2010 đến 2013.
+
+Vệ tinh số 1 sẽ có nhiệm vụ theo dõi tình hình băng ở Bắc cực để giúp cảnh báo cho tàu thuyền đi lại ở khu vực này (rút ngắn đường biển đi từ châu Âu sang Thái Bình Dương), các vệ tinh số 3, 4, 5 sẽ tạo thành 1 chùm vệ tinh để tăng cường năng lực, ưu điểm của các vệ tinh nhỏ so với các vệ tinh lớn truyền thống. Trong dự án chế tạo và sử dụng vệ tinh số 2 tên gọi RISESAT, phía Nhật Bản mong muốn có sự tham gia đóng góp của các đối tác quốc tế.

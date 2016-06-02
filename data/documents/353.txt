@@ -1,0 +1,13 @@
+﻿Rắn cứu nạn
+
+Có những con rắn giúp người phá bom hay tìm kiếm người mất tích trong các thảm họa, bởi chúng là rắn robot.
+
+
+Một con rắn máy do Trung tâm nghiên cứu quân đội Mỹ chế tạo đang xoay và giữ thăng băng vật thể. Ảnh: Discovery News.
+Discovery News cho biết, trong một dự án mang tên Robotic Tentacle Manipulator, các kỹ sư thuộc Trung tâm nghiên cứu của quân đội Mỹ, đang tìm cách chế tạo những robot tự động có hình dạng giống rắn. Những robot này có thể bò tới những nơi nguy hiểm để phá bom hay tìm kiếm người mất tích trong thảm họa.
+
+Bom được kích nổ từ xa giết chết rất nhiều binh sĩ phương Tây tại Iraq và Afghanistan. Cụ thể, khoảng một nửa số trường hợp tử vong của lính Mỹ tại hai quốc gia này do bom được kích nổ từ xa gây nên. Những robot rắn có thể đảm nhiệm công việc tìm và vô hiệu hóa bom thay cho binh sĩ.
+
+Loại robot mới được trang bị nhiều cảm biến điện tử, thiết bị dò tìm bằng tia laser. Sau khi gặp một vật thể đáng nghi, thiết bị dò tìm bằng laser sẽ cung cấp những hình ảnh ba chiều về hình dạng, các đặc tính vật lý của vật thể. Một cảm biến xúc giác cực nhạy cho phép robot chạm, nắm, xoay và giữ thăng bằng vật thể trên không.
+
+So với những robot trước đây, robot rắn của Trung tâm nghiên cứu quân đội Mỹ có nhiều lợi thế hơn. Ưu điểm đáng chú ý nhất là chúng có thể tự mở các cánh cửa nhờ khả năng nắm, xoay các loại nắm cửa. Thứ hai, người ta có thể chế tạo chúng với nhiều kích cỡ khác nhau cho phù hợp với từng loại nhiệm vụ và địa hình. Ưu điểm thứ ba là chúng có thể bò trên định hình gồ ghề hoặc leo cầu thang. Cuối cùng, chúng có khả năng liên lạc với nhau, nghĩa là nhiều con rắn máy có thể phối hợp với nhau để tìm kiếm trong một căn phòng hay xử lý vật thể.

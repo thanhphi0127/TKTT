@@ -1,0 +1,24 @@
+﻿Nhựa phóng điện
+
+Điện thoại di động sẽ mỏng như thẻ ngân hàng, còn màn hình máy tính có thể được cuộn lại như tờ báo nhờ sự ra đời của một loại vật liệu mới.
+> Pin sản xuất điện từ không khí
+
+
+Natasha Shirshova, một thành viên trong nhóm nghiên cứu, chụp ảnh cùng loại nhựa phóng điện. Ảnh: David Paker.
+Tiến sĩ Emile Greenhalgh - một chuyên gia thuộc Khoa Hàng không của Đại học Thực nghiệm London, Anh - tuyên bố ông cùng các đồng nghiệp đã thành công trong việc chế tạo nhựa tích điện. Nó không thực sự là một loại pin, mà là một tụ điện hóa hai lớp – giống như những tụ mà chúng ta thường thấy trong các mạch điện.
+
+Sản phẩm mẫu của nhóm Greenhalgh là một tấm nhựa mỏng có diện tích khoảng 13 cm vuông và có khả năng nạp điện từ nguồn thông thường. Nó được tạo nên bởi hai lớp sợi carbon. Hai lớp này được phủ nhựa chống dẫn điện. Ở giữa hai lớp có một lớp sợi quang. Khi dòng điện chạy qua nhựa, các electron (điện tử) di chuyển từ một lớp carbon sang lớp sợi quang rồi tới lớp carbon kia. Quá trình di chuyển đó sẽ tạo ra các cực dương và cực âm.
+
+Thử nghiệm cho thấy sau khi xạc đủ điện, tấm nhựa thắp sáng một bóng LED trong 20 phút.
+
+Hãng sản xuất xe hơi Volvo tài trợ 4,2 triệu USD cho dự án nghiên cứu của tiến sĩ Greenhalgh. Mục tiêu của hãng là tạo ra nguồn điện mới dành cho những xe ô tô chạy sử dụng cả xăng và điện.
+
+“Chúng tôi nghĩ xe cộ trong tương lai có thể lấy điện từ nóc hoặc cửa nhờ loại nhựa mà chúng tôi chế tạo”, Greenhalgh nói.
+
+Greenhalgh khẳng định loại nhựa mới nạp và phóng điện nhanh hơn so với pin truyền thống, đồng thời không sử dụng hóa chất nên có tuổi thọ dài hơn.
+
+Nhóm nghiên cứu muốn sử dụng nó để thay thế sàn và ngăn đựng hành lý của các xe do Volvo sản xuất. Nếu họ thành công, Volvo có thể thu nhỏ kích thước của pin điện trong xe lai và giảm trọng lượng của xe. Trọng lượng càng nhỏ thì lượng nhiên liệu mà xe tiêu thụ trên mỗi km càng thấp.
+
+Những ứng dụng đối với nhựa tích điện không dừng lại ở đó. Theo Greenhalghe, trong tương lai chúng ta có thể mua những chiếc điện thoại di động mỏng như thẻ tín dụng vì chúng không cần pin nữa. Những chiếc máy tính xách tay sẽ hoạt động lâu hơn hiện nay vì chúng có khả năng lấy điện từ vỏ máy. Các công ty cũng có thể sản xuất những màn hình máy tính mỏng như tờ giấy và người sử dụng có thể cuộn chúng rồi mang theo.
+
+“Chưa có ai tạo ra một vật liệu giống như thế. Chỉ trong vòng 10 năm nữa nó có thể thay thế pin truyền thống”, Greenhalgh khẳng định.

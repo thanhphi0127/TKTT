@@ -1,0 +1,11 @@
+﻿Thiết bị 'chặn họng' người nói nhiều
+
+Hai nhà khoa học Nhật Bản vừa chế tạo một thiết bị có khả năng “hủy diệt” sự hưng phấn của những người nói quá nhiều hoặc quá to.
+
+Một nghiên cứu trước đây chỉ ra rằng con người gần như không thể phát ngôn nếu những từ mà chúng ta nói dội lại tai của chúng ta trong khoảng thời gian nhỏ hơn một giây.
+
+Từ kết quả nghiên cứu đó, Kazutaka Kurihara, một nhà khoa học của Viện Khoa học và Công nghệ cao cấp Nhật Bản, cùng giáo sư Koji Tsukada của Đại học Ochanomizu tại Tokyo, nảy ra ý tưởng chế tạo thiết bị ngăn chặn những “diễn giả” gây phiền toái cho người khác, Telegraph đưa tin.
+
+SpeechJammer, tên của thiết bị, chứa một microphone hướng về phía người nói để ghi âm. Sau đó nó truyền âm thanh sang một loa để phát về phía người nói. Độ trễ thời gian từ lúc người nói phát ngôn tới khi âm thanh được phát lại là 0,2 giây.
+
+“Thiết bị của chúng tôi có thể ngăn chặn hành vi phát ngôn của con người mà không gây nên bất kỳ phiền toái nào về mặt thể chất”, hai nhà sáng chế khẳng định.

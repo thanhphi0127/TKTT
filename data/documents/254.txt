@@ -1,0 +1,19 @@
+﻿Phát hiện bom từ xa bằng tia laser
+
+Các nhà khoa học tại Mỹ tuyên bố họ nghiên cứu thành công kỹ thuật phát hiện chất nổ từ xa bằng tia laser.
+
+
+Một xe bọc thép bị phá hủy bởi bom tự chế tại Iraq. Ảnh: wired.com.
+Bom tự chế là loại vũ khí gây ra hơn 50% số trường hợp tử vong của binh sĩ liên quân tại Iraq và Afghanistan vì chúng được kích nổ từ xa.
+
+Tiến sĩ Marcos Dantus, một chuyên gia về cảm biến laser của Đại học Michigan tại Mỹ, nói rằng bom tự chế là một thách thức lớn bởi phát hiện những hợp chất tạo ra chúng là việc rất khó. Vì thế Dantus cùng các đồng nghiệp nghĩ tới việc sử dụng tia laser để dò tìm bom. Loại laser mà họ sử dụng có khả năng xác định thành phần hóa học của mọi vật thể.
+
+Máy phát tia laser sẽ tạo ra những xung ngắn xen kẽ với các xung dài để những phân tử trong môi trường xung quanh dao động. Mọi phân tử đều dao động với một tần số nào đó. Căn cứ vào tần số dao động của các phân tử, các chuyên gia có thể xác định một vật nào đó là bom hay không.
+
+Nhóm nghiên cứu khẳng định kỹ thuật của họ có thể phát hiện một lượng thuốc nổ rất nhỏ (khoảng vài phần triệu gam trên một cm vuông) từ khoảng cách một mét.
+
+“Ban đầu chúng tôi định nghiên cứu kỹ thuật này để cải tiến kính hiển vi, nhưng sau đó chúng tôi đã mở rộng phạm vi ứng dụng của nó sang dò tìm chất nổ”, Dantus phát biểu.
+
+Vị tiến sĩ nói ông không thể mô tả chi tiết phát minh mới vì mức độ nhạy cảm của dự án. “Chúng tôi chỉ có thể nói rằng công nghệ của chúng tôi giúp con người phát hiện chất nổ từ khoảng cách xa”, ông nói.
+
+Nghiên cứu của Đại học Michigan là một trong những nỗ lực nhằm làm giảm số lượng người chết do bom chôn trên đường tại những nơi bất ổn, như Afghanistan.

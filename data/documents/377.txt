@@ -1,0 +1,20 @@
+﻿Người máy làm việc nhà
+
+Robot có tên PR2 gấp khăn khá thành thạo, song nó mất tới 25 phút để gấp một chiếc.
+
+
+Những động tác gấp khăn chậm chạp của PR2 là thành tựu đột phá trong lĩnh vực chế tạo robot. Ảnh: scientias.nl.
+Từ trước tới nay robot được chế tạo để thực hiện những công việc phức tạp song lặp đi lặp lại - như lắp ráp ô tô. Tất cả những thứ mà chúng xử lý trong quá trình làm việc có hình dạng và kích thước giống hệt nhau.
+
+Một trong những thách thức lớn nhất của giới chuyên gia chế tạo người máy là thiết kế loại robot có khả năng xử lý những vật thể mà chúng chưa từng nhìn thấy. Telegraph cho biết, sau một quá trình nghiên cứu, các kỹ sư và nhà khoa học của Đại học California, Mỹ đã chế tạo thành công PR2 - robot có khả năng học cách xử lý mọi vật thể. Họ tạo ra một phần mềm để giúp robot đạt được khả năng đó.
+
+Trong một thử nghiệm mới đây, các chuyên gia cho PR2 phân loại các khăn có kích thước, màu sắc và chất liệu khác nhau. Một đoạn video trên trang Youtube cho thấy PR2 tỏ ra khéo léo trong thao tác phân loại và gấp khăn. Theo Telegraph, do robot cần tới gần 25 phút để gấp một khăn, người ta phải tăng tốc độ của đoạn phim lên tới 50 lần để người xem cảm thấy bình thường.
+
+PR2 nhặt từng khăn bằng một tay rồi lại chuyển khăn sang tay kia. Hai camera độ phân giải cao của nó quét khăn để nhận dạng hình dáng. Sau khi tìm thấy hai góc kề nhau của khăn, robot đặt khăn lên bàn và bắt đầu gấp. Cuối cùng nó vuốt phẳng khăn bằng cả hai tay.
+
+Video robot gấp khăn
+Có lẽ các bà nội trợ không cảm thấy ấn tượng với cách gấp khăn của PR2, song những thao tác chậm chạp của nó thực sự là thành tựu đột phá trong lĩnh vực chế tạo robot.
+
+"Những vật thể biến dạng gây nên rất nhiều vấn đề khó khăn trong lĩnh vực chế tạo robot và khoa học máy tính", Telegraph dẫn lời giáo sư Pieter Abbeel, một chuyên gia về khoa học máy tính trong nhóm nghiên cứu.
+
+Kết quả các thử nghiệm khác đối với PR2 sẽ được công bố tại Hội nghị quốc tế về Robot và Tự động hóa tại thành phố Anchorage, bang Alaska, Mỹ vào tháng sau.

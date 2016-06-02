@@ -21,10 +21,10 @@
 		</div>
 		<div id="menu">
 			<ul>
-				<li class="current_page_item"><a href="#" accesskey="1" title="">Trang chủ</a></li>
+				<li class="current_page_item"><a href="index.jsp" accesskey="1" title="">Trang chủ</a></li>
 				<li><a href="search.jsp" accesskey="2" title="">Tìm kiếm</a></li>
 				<li><a href="invertedindex.jsp" accesskey="3" title="">Lập chỉ mục</a></li>
-				<li><a href="introduction.jsp" accesskey="5" title="">Giới thiệu</a></li>
+				<li><a href="index.jsp" accesskey="5" title="">Giới thiệu</a></li>
 			</ul>
 		</div>
 	</div>

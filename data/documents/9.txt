@@ -1,0 +1,10 @@
+﻿Tại đây, bạn cũng có thể nhấn nút ‘Add’ để chọn và thêm những phần mềm mà bạn muốn chúng được khởi động cùng hệ thống.
+
+Mục ‘File and Registry Tools’ cung cấp những công cụ để dọn dẹp file và các khóa registry trên hệ thống, để giúp tiết kiệm dung lượng ổ cứng và Windows hoạt động mượt mà hơn.
+- Chức năng Duplicate files cho phép phần mềm quét để liệt kê những file có nội dung giống nhau trên ổ cứng, từ đó bạn có thể xóa bớt đi và chỉ giữ lại 1 file duy nhất. Điều này giúp tiết kiệm dung lượng lãng phí không cần thiết trên ổ cứng.
+Sau khi quá trình quét kết thúc, phần mềm không chỉ liệt kê những file có nội dung trùng lặp nhau trên ổ cứng mà còn liệt kê cả những thư mục rỗng đang có trên hệ thống, để từ đó cho phép người dùng xóa bỏ những thư mục rỗng này đi nếu muốn.
+- Một trong những tính năng nổi bật và hữu ích nhất trên Advanced Uninstall Pro đó là tính năng “Live file Compression”, cho phép nén dữ liệu trên ổ cứng để tiết kiệm dung lượng lưu trữ.
+Nói một cách nôm na, file sẽ được lưu trên ổ cứng dưới dạng nén nên dung lượng sẽ được thu gọn hơn so với định dạng gốc. Sau khi nén, file vẫn có thể mở và xem nội dung bình thường mà không hề bị ảnh hưởng gì. 
+Để sử dụng chức năng này, bạn chọn ‘Compress your file to save disk space’ ở chức năng “Live file Compression”, sau đó nhấn “Add drive” để thêm vào ổ đĩa muốn thực hiện chức năng nén dữ liệu.
+Tùy vào dung lượng và số lượng file có trên ổ đĩa, thời gian nén sẽ diễn ra dài ngắn khác nhau. Những file/thư mục đã được nén bởi phần mềm sẽ xuất hiện dưới dạng tên file màu xanh. Tuy nhiên những file/thư mục này vẫn có thể sử dụng như bình thường.
+

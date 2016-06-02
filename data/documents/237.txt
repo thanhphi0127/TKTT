@@ -1,0 +1,21 @@
+﻿Điện thoại thông minh giúp tránh stress
+
+Giống như chuyên gia tâm lý, điện thoại di động thông minh sẽ cảnh báo người sử dụng khi họ rơi vào trạng thái chán nản và khuyên họ gặp bạn bè để giải tỏa tâm trạng xấu.
+> 95% điện thoại di động chứa vi khuẩn
+> Điện thoại làm thay đổi hoạt động của não
+
+“Chúng tôi đang nghiên cứu những cách thức mới để công nghệ có thể giúp những người gặp các vấn đề về sức khỏe thần kinh. Tiềm năng của công nghệ trong giảm hoặc thậm chí ngăn chặn trạng thái trầm cảm ở người là rất lớn”, Livescience dẫn lời David Mohr, một chuyên gia y khoa của Đại học Northwestern tại Mỹ.
+
+Một số điện thoại thông minh hiện nay được trang bị tới 35-40 cảm biến, trong đó nhiều cảm biến có khả năng theo dõi hoạt động hàng ngày của người sử dụng. Chẳng hạn, điện thoại có thể dùng chức năng định vị toàn cầu và danh bạ để xác định chủ nhân đang ở công ty, nhà riêng hay nhà bạn; dùng thiết bị đo tốc độ để xem chủ nhân phóng xe nhanh tới mức nào; đếm số lần gửi thư điện tử, gọi điện để đánh giá mức độ quảng giao của chủ nhân.
+
+
+Ảnh minh họa: pixdaus.com.
+Bằng cách phân tích hành vi, một phần mềm dành cho điện thoại di động thông minh trong tương lai - có tên Mobilyze! - có thể đánh giá tâm trạng của người sử dụng. Nếu phần mềm kết luận chủ nhân đang cảm thấy cô đơn, điện thoại sẽ gợi ý rằng bạn nên tham quan một nơi nào đó hoặc tụ tập với bạn bè.
+
+“Thông qua việc thúc giục con người thực hiện những hành động gây cảm giác vui vẻ hoặc hưng phấn, chúng tôi tin Mobilyze! sẽ giúp người sử dụng điện thoại xua đuổi tâm trạng tiêu cực. Với nó chi phí điều trị hội chứng chán nản, trầm cảm sẽ thấp hơn nhiều so với nhiều liệu pháp truyền thống”, Mohr tuyên bố.
+
+Trong một thử nghiệm kéo dài 8 tuần đối với 7 người trưởng thành mắc hội chứng trầm cảm trong năm 2011, Mohr và các đồng nghiệp nhận thấy Mobilyze! làm giảm mức độ trầm cảm của tất cả đối tượng nghiên cứu. Nhóm người tham gia thử nghiệm cũng xác nhận phần mềm giúp họ nhận ra và điều chỉnh những suy nghĩ, hành vi gây tâm trạng tiêu cực.
+
+Nhóm nghiên cứu đang cố gắng tạo ra phiên bản phần mềm Mobilyze! dành cho những thiết bị di động sử dụng hệ điều hành Android.
+
+“Từ tháng 3 chúng tôi sẽ bắt đầu thử nghiệm phần mềm với những thiết bị dùng hệ điều hành Android. Chúng tôi hy vọng thử nghiệm quy mô lớn trong thực tế sẽ diễn ra vào một thời điểm nào đó trong mùa hè năm nay”, Mohr nói.

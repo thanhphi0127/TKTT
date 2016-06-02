@@ -1,0 +1,4 @@
+﻿Một độc giả vừa cho biết, hai hôm nay, khi dùng trình duyệt Firefox truy cập vào chuyên trang công nghệ Số hóa của báo điện tử VnExpress, đều bị chặn bởi dòng thông báo "trang web ác ý".
+ồng thời, khi tìm kiếm trang Số hóa trên Google, ở liên kết tới mục Điện thoại của Số hóa cũng hiển thị dòng thông báo trang web gây hại.
+Mặc dù trên trang tổng hợp thông tin tự động Baomoi.com, chuyên trang công nghệ Số hóa của VnExpress vẫn cập nhật tin bài mới, nhưng từ bài viết mới, click vào các chuyên mục như điện thoại, máy tính, camera... trên trang này, thì đều bị chặn bởi thông báo trên.
+Hiện, nếu truy cập trực tiếp vào Số hóa, địa chỉ sohoa.vnexpress.net sẽ tự động chuyển về 210.245.86.194:8080/SH/Home

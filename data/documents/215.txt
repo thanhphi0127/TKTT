@@ -1,0 +1,21 @@
+﻿Robot được điều khiển bằng ý nghĩ
+
+Một robot do người tàn tật điều khiển bằng sóng não vừa được thử nghiệm tại một bệnh viện ở Thụy Sĩ.
+
+
+Tín hiệu điện từ não Mark Andre Duc được mã hóa để điều khiển robot cách ông khoảng 100 km. Ảnh: AP.
+Mark-Andre Duc - một người đàn ông bị liệt trong bệnh viện thành phố Sion, Thụy Sĩ - dùng ý nghĩ để điều khiển một máy tính trong phòng. Sau đó mệnh lệnh được truyền sang một máy tính khác để điều khiển một robot ở thành phố Lausanne, nơi cách bệnh viện khoảng 100 km, AP đưa tin.
+
+Suy nghĩ của Duc – hay chính xác hơn là các tín hiệu điện phát ra từ não của Duc khi ông tưởng tượng những ngón tay liệt của ông cử động – được thu nhận bởi các điện cực trong mũ mà ông đội. Chiếc máy tính xách tay trong phòng của ông mã hóa những tín hiệu điện thành mệnh lệnh ngay lập tức. Mệnh lệnh – chỉ bao gồm sang phải hoặc sang trái – được chiếc máy tính truyền tới một máy tính ở tận Lausanne để điều khiển một robot di chuyển xung quanh phòng thí nghiệm.
+
+Jose Millan, một giáo sư của Đại học Bách khoa Liên bang tại thành phố Lausanne, là người thiết kế hệ thống nói trên. Ông là chuyên gia về các giao diện giữa người và máy.
+
+“Kỹ thuật tương tự có thể được áp dụng để giúp người tàn tật điều khiển xe lăn. Sau khi xe lăn chuyển động, não có thể nghỉ ngơi, nếu không người điều khiển sẽ cảm thấy mệt mỏi”, Millan nói.
+
+Duc mất khả năng điều khiển hai chân và các ngón tay sau một cú ngã. Giờ đây ông là một người bị liệt một phần. Ông nói rằng điều khiển robot không phải là việc khó.
+
+“Nhưng khi tôi có cảm giác đau thì việc điều khiển trở nên khó khăn hơn”, ông nói.
+
+Nhưng công nghệ của Millan cũng có khiếm khuyết. Theo Millan, tiếng ồn từ môi trường xung quanh, cảm giác đau và sự phân tán tư tưởng của người điều khiển robot có thể khiến mệnh lệnh không tới được robot.
+
+“Ngoài việc giúp người tàn tật di chuyển, hệ thống còn có thể được sử dụng để giúp bệnh nhất phục hồi các cảm giác”, nhóm nghiên cứu khẳng định.

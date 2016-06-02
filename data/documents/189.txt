@@ -1,0 +1,11 @@
+﻿Trình duyệt Opera Mini 7 dành cho điện thoại cơ bản
+
+Trình duyệt di động phổ biến nhất tại Việt Nam vừa được công ty phần mềm Opera nâng cấp lên thế hệ thứ bảy. Phiên bản này có thể hoạt động trên cả những điện thoại không phải smartphone.
+
+Điểm nổi bật của Opera Mini 7 là Smart Page (Trang thông minh). Đây là nơi tổng hợp tin tức từ các mạng xã hội và website mà người dùng yêu thích như Twitter, Facebook... Nhờ công nghệ tốc hoạt dữ liệu (data-crunching) và tiết kiệm chi phí của Opera Mini, Smart Page giúp dễ dàng cập nhật thông tin mà không tốn quá nhiều chi phí cũng như không phải chờ đợi lâu để tải nội dung.
+
+	
+Opera Mini 7 giúp điện thoại cơ bản cũng có thể truy cập nhanh các website.
+"Tôi từng mất nhiều thời gian để nhập địa chỉ web vào điện thoại di động, nhưng giờ đã có cách truy cập nội dung trong chốc lát", Lars Boilesen, Giám đốc điều hành Opera, cho biết. "Với Smart Page, bạn chỉ cần mở trình duyệt và nội dung sẽ hiển thị ngay bên cạnh phím tắt Quay số nhanh trong màn hình khởi động để bạn có thể lướt qua nội dung".
+
+Người dùng điện thoại có tính năng tương thích Java (J2ME), S60 và Blackberry đã có thể tải miễn phí Opera Mini 7 từ ngày 31/7.

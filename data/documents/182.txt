@@ -1,0 +1,14 @@
+﻿Google đăng ký tên miền mang biểu tượng tiếng cười '.lol'
+
+Hãng dịch vụ tìm kiếm Mỹ đã nộp đơn xin cấp quyền sở hữu tới 50 domain cấp cao (TLD) như .google, .docs, .youtube và cả đuôi tên miền vốn là từ lóng thể hiện tiếng cười to của cư dân mạng.
+
+Google viết trên blog rằng tính đến 2016, gần một nửa dân số thế giới sẽ gia nhập cộng đồng mạng. Tuy nhiên, gần 50% website mà mọi người ghé thăm hiện nay có địa chỉ .com - đuôi tên miền được tạo từ năm 1984, dẫn đến tình trạng "trâu chậm uống nước đục" vì các địa chỉ web hay đã bị đăng ký hết từ lâu.
+
+Năm 2008, tổ chức tên miền quốc tế ICANN công bố chương trình mở rộng số lượng tên miền TLD. Google quyết định nộp đơn đề nghị cấp và quản lý bốn loại domain bao gồm: liên quan đến thương hiệu của họ (như .google), liên quan đến lĩnh vực kinh doanh chính của họ (như .docs), tên miền giúp cải thiện trải nghiệm người dùng (như .youtube) và các địa chỉ họ cho là hấp dẫn, tiềm năng (như .lol).
+
+
+Tên miền .lol có khả năng thuộc về Google.
+Google đã giữ bí mật kế hoạch này cho đến hết ngày 31/5 - hạn cuối để nhận đơn xin cấp LTD mở rộng. Nếu được chấp thuận, địa chỉ tài khoản của người dùng sẽ trở nên ngắn gọn hơn, chẳng hạn youtube.com/abcd sẽ trở thành abcd.youtube.
+
+Google đã nộp tất cả hơn 50 đơn và mức phí cho mỗi đơn lên tới 185.000 USD. ICANN tiết lộ họ đã nhận được tổng cộng hơn 1.900 đơn. Bên được chấp thuận (vào đầu năm tới) sẽ còn phải đóng phí duy trì hàng năm 25.000 USD.
+

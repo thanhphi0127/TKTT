@@ -1,0 +1,23 @@
+﻿Điều khiển chó từ xa
+
+Nhờ một bộ yên đặc biệt, người huấn luyện có thể sai chó nghiệp vụ tìm ma túy, đưa đạn cho binh lính ngoài chiến trường hay cứu nạn nhân động đất mà không cần phải đứng gần con vật.
+
+
+Các nhà khoa học thử nghiệm hệ thống điều khiển từ xa với một con chó có tên Major. Ảnh: Đại học Auburn.
+Chó nghiệp vụ đủ thông minh để tìm bom, ma túy hay chỗ sang đường. Tuy nhiên, chúng chỉ làm được việc đó khi có người bên cạnh hoặc nhìn thấy chủ. Giờ đây các nhà nghiên cứu của Đại học Auburn tại bang Alabama, Mỹ tạo ra một hệ thống có khả năng giúp con người điều khiển chó nghiệp vụ mà không cần đứng gần chúng, Discovery News đưa tin.
+
+“Với hệ thống của chúng tôi bạn sẽ không phải ở bên cạnh chó hay trong tầm nhìn của chúng để ra lệnh”, David M. Bevly, giáo sư bộ môn cơ khí của Đại học Auburn, khẳng định.
+
+Một số nghiên cứu về hệ thống điều khiển động vật trước đây tập trung vào các loài thú khác, chứ không phải chó, và các nhà khoa học phải cấy các điện cực vào cơ thể chúng để nhận mệnh lệnh. Bevly và các đồng nghiệp tạo ra một hệ thống định hướng thời gian thực dành cho những con chó được huấn luyện. Hệ thống này nằm ngoài cơ thể chó.
+
+Hệ thống của họ gồm một bộ yên dành cho chó được gắn thiết bị định vị toàn cầu, một số cảm biến, một bộ vi xử lý và một modem radio có khả năng kết nối không dây với máy tính. Tất cả những thứ đó được đặt lên lưng chó. Nó rung nhẹ phía bên phải hoặc trái, đồng thời phát ra âm thanh để điều khiển con vật.
+
+Nhóm nghiên cứu thử nghiệm hệ thống trên lưng một con chó có tên Major trong khuôn viên trường Đại học Auburn. Kết quả cho thấy, khi nhận được mệnh lệnh tới một số điểm cách xa vị trí ban đầu vài trăm mét, Major tới đúng đích trong phần lớn trường hợp. Cụ thể, tỷ lệ tới đích thành công của con chó là 80%, còn mức độ chính xác của máy tính trong việc ra lệnh đạt 99%.
+
+Trong nghiên cứu tiếp theo, nhóm nghiên cứu sẽ thử nghiệm hệ thống điều khiển ở cự ly vài km và với những công việc phức tạp hơn. Họ nhận định hệ thống có ý nghĩa to lớn đối lĩnh vực quân sự, an ninh và hành pháp.
+
+“Nếu tôi tìm cách phát hiện nơi mà bọn tội phạm giấu ma túy, đương nhiên tôi không thể để chúng biết rằng tôi đang dẫn chó đi tìm. Nhưng nếu chỉ thấy con chó, chúng sẽ không nghĩ rằng nó đang tìm ma túy”, Bevly phát biểu.
+
+Khi đeo hệ thống điều khiển, chó có thể đưa thuốc men, đạn tới những binh lính khi họ đang chiến đấu. Một người huấn luyện có thể điều khiển hàng chục con chó cùng lúc khi chúng chạy khắp sân bay để kiểm tra hành lý.
+
+“Với hệ thống điều khiển trên lưng, những con chó nghiệp vụ có thể thực hiện nhiệm vụ của chúng trong mọi địa hình, mọi tình huống mà không cần có người bên cạnh. Khả năng đó làm tăng mức độ hiệu quả của chó nghiệp vụ”, Alan Poling, một giáo sư tâm lý của Đại học Western Michigan tại Mỹ, phát biểu. Poling không tham gia nghiên cứu của Đại học Auburn nhưng đang tìm hiểu khả năng dò mìn của chuột túi lớn châu Phi.

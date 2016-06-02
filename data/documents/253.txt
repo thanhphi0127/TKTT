@@ -1,0 +1,19 @@
+﻿Máy theo dõi mặt để phát hiện người nói dối
+
+Các nhà khoa học Anh chế tạo hệ thống thiết bị có thể phát hiện hành vi nói dối bằng cách theo dõi khuôn mặt của người nói.
+
+BBC đưa tin Đại học Bradford, Đại học Aberystwyth, Cục Biên giới Anh hợp tác với nhau để nghiên cứu hệ thống camera phát hiện nói dối. Phiên bản mẫu của họ được trưng bày trong lễ hội Khoa học Anh tại thành phố Bradford.
+
+Hệ thống bao gồm một camera, một cảm biến hình ảnh nhiệt có độ phân giải cao và một số thuật toán.
+
+Cảm xúc của con người được thể hiện qua chuyển động của mắt, đồng tử, môi, mũi. Hành động thở, nuốt, nháy mắt cũng giúp chúng ta phán đoán cảm xúc của người khác. Đương nhiên, camera có thể ghi lại tất cả những chuyển động mà con người thấy.
+
+Thậm chí sự phồng lên của mạch máu xung quanh mắt cũng có thể tố cáo người nói dối. Cảm biến nhiệt có thể phát hiện sự thay đổi đó.
+
+
+Máy theo dõi cảm xúc có thể phát hiện cả hiện tượng phồng lên của mạch máu quanh mắt. Ảnh: BBC.
+Nhóm nghiên cứu mới chỉ thử nghiệm máy phát hiện nói dối với tình nguyện viên, chứ chưa thử nghiệm nó trong những tình huống thực. Họ có ý định triển khai nó tại một sân bay của Anh vào cuối năm nay. Rất có thể ban đầu máy sẽ được đặt gần những nhân viên di trú giàu kinh nghiệm khi họ phỏng vấn hành khách. Nhờ đó người ta có thể đối chiếu nhận định của máy với kết luận của nhân viên di trú.
+
+“Trong những tình huống thực và gây căng thẳng, có lẽ tỷ lệ thành công của hệ thống sẽ tăng lên. Một ngày nào đó, chúng tôi sẽ có thể phát hiện 90% người nói dối”, giáo sư Hassan Ugail, một nhà nghiên cứu của Đại học Bradford, phát biểu.
+
+Tuy nhiên, nhóm nghiên cứu thừa nhận hệ thống của họ không thể phát hiện người nói dối với tỷ lệ chính xác 100%. Chẳng hạn, sự sợ hãi là một dấu hiệu của hành vi không nói thật. Nhưng khi một hành khách tỏ ra sợ hãi thì rất có thể người đó sợ nhân viên di trú không tin lời khai của anh ta, chứ không phải vì anh ta nói dối.

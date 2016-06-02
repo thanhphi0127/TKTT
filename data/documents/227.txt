@@ -1,0 +1,19 @@
+﻿Thay đổi tốc độ xe đạp bằng ý nghĩ
+
+Một công ty tại Mỹ chế tạo loại xe đạp cho phép người điều khiển thay đổi tốc độ bằng ý nghĩ nhờ loại mũ bảo hiểm đặc biệt.
+
+
+Xe đạp Prius cho phép người sử dụng thay đổi tốc độ bằng suy nghĩ. Ảnh: MSNBC.
+Innovation News Daily đưa tin Deeplocal, một công ty tiếp thị sản phẩm công nghệ cao tại Mỹ, đã chế tạo loại xe đạp cho phép người lái thay đổi tốc độ bằng ý nghĩ. Patrick Miller, kỹ sư sáng tạo của Deeploacal, chịu trách nhiệm chế tạo hệ thống phát tín hiệu không dây trong mũ bảo hiểm để thay đổi tốc độ xe. Parlee Cycles, công ty chuyên sản xuất những xe đạp đua bằng sợi carbon, chế tạo khung xe của Deeplocal.
+
+Hệ thống điện cực bên trong mũ bảo hiểm liên tục dò tìm các tín hiệu điện từ não. Sau đó hệ thống gửi các tín hiệu tới một máy tính bên trong áo vest của người lái.
+
+"Máy tính sẽ chuyển các tín hiệu thành lệnh tương ứng, ví dụ như tăng số hay giảm số. Lệnh sẽ được chuyển tới một thiết bị điều khiển nhỏ xíu trong khung xe đạp. Thiết bị điều khiển sẽ tác động tới bộ chuyển đổi tốc độ của xe", Miller giải thích.
+
+Miller khẳng định công ty Deeplocal chỉ áp dụng những công nghệ cũ để chế tạo Prius, tên của loại xe đạp mới.
+
+"Nó là thành quả của sự tổng hợp các công nghệ đang tồn tại", Miller nói.
+
+Bộ chuyển đổi tốc độ điện tử, bao gồm cả những dây phanh, được giấu bên trong khung. Việc đưa các loại dây vào khung làm khiến lực cản của không khí giảm, nhờ đó tốc độ tăng. Hệ thống dò tín hiệu trong mũ bảo hiểm không thể hiểu được mệnh lệnh tăng hay giảm tốc độ trong não người. Thay vào đó, người lái phải được huấn luyện để tạo ra mệnh lệnh trong não sao cho hệ thống có thể xác định được.
+
+Nhược điểm của hệ thống biến tín hiệu điện trong não thành mệnh lệnh điều khiển tốc độ xe đạp là nó có thể ngừng hoạt động do tác động của sóng từ điện thoại di động hoặc máy tính xách tay.

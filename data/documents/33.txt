@@ -1,0 +1,54 @@
+﻿Giải đáp thắc mắc về nền tảng Windows Phone 8
+
+Hệ điều hành Windows Phone thế hệ mới (WP8) đã được Microsoft công bố ngày 20/6 với nhiều thay đổi quan trọng nhưng cũng khiến người dùng băn khoăn.
+>Tính năng nổi bật của Windows Phone 8
+
+Điều đáng tiếc nhất là điện thoại Windows Phone hiện tại không thể nâng cấp lên bản 8. Những chiếc Samsung Focus II hay Lumia 900... mà người dùng vừa mua về sẽ sớm trở nên lạc hậu. Thay vào đó, chúng sẽ chỉ được nâng cấp lên Windows Phone 7.8 với giao diện màn hình mới.
+
+
+Windows Phone 8 với nhiều thay đổi lớn.
+WP8 hỗ trợ phần cứng thế nào?
+
+Giao tiếp trường gần NFC, đa nhân (lõi kép, lõi tứ...), hỗ trợ độ phân giải màn hình lớn hơn (như HD 1.280 x 720 pixel), khe cắm thẻ nhớ mở rộng... là những thay đổi đáng chú ý nhất về mặt phần cứng.
+
+Màn hình chính
+
+Microsoft đã thiết kế lại màn hình chính (start screen), tăng độ rộng màn hình và đặc biệt là người dùng có thể điều chỉnh từng ô thông tin (Live Tile) theo ba kích thước khác nhau. Hệ điều hành mới cũng có thêm nhiều màu nền hơn nhưng chưa được công bố.
+
+
+Ba kích cỡ của Live Tile.
+Nhân của WP8 khác Windows Phone 7?
+
+Đúng vậy. WP8 dùng Windows NT - nhân hệ điều hành máy tính từ Windows 2000 cho tới Windows 8 hiện nay. Còn Windows Phone 7 và Windows Mobile cũ được phát triển trên nhân Windows CE vốn được xây dựng cho các hệ thống nhúng (embedded). Việc dùng Windows NT giúp Microsoft hướng gần hơn đến mục tiêu tạo dựng nền tảng hợp nhất và xuyên suốt cho tất cả các dòng thiết bị.
+
+Khi nào điện thoại WP8 có mặt?
+
+Những điện thoại chạy hệ điều hành mới sẽ được xuất xưởng vào "kỳ nghỉ lễ" nên có thể hiểu là vào mùa thu, muộn nhất là trước Giáng sinh. Về sau, hệ điều hành sẽ được cập nhật trực tiếp trên smartphone thay vì phải kết nối với máy tính.
+
+Nokia phản ứng gì về chuyện này?
+
+Việc Windows Phone 7.5 không thể nâng cấp lên bản 8 có thể là một tin xấu với Nokia khi hãng này đang rất kỳ vọng vào Lumia 900 và 800. Tuy nhiên, họ cũng đã nhanh chóng cung cấp một số ứng dụng cho dòng Lumia hiện tại như dịch vụ bản đồ tương tác thông minh, các tính năng chụp ảnh mới. Các trò chơi của Zynga như Words with Friends hay Draw Something cũng sẽ xuất hiện trong một vài tháng tới.
+
+Khi nào có bộ phát triển ứng dụng?
+
+Microsoft sẽ mô tả chi tiết hơn với các nhà chuyên gia phát triển ứng dụng cuối hè này và khi đó họ sẽ nhận được bộ SDK.
+
+Ai sẽ sản xuất Windows Phone 8?
+
+Samsung, Nokia, HTC, Huawei và ZTE là 5 đối tác lớn nhất của Microsoft nhưng sẽ còn nhiều nhà sản xuất nữa tham gia. Samsung và Nokia đã trình làng điện thoại cao cấp và tầm trung chạy Windows Phone 7.5 trong khi Huawei, ZTE tập trung vào dòng giá rẻ. Xu hướng này có thể sẽ tiếp tục được duy trì với WP8.
+
+Điện thoại WP8 dùng chip gì?
+
+Điện thoại Windows Phone cao cấp sẽ dùng chip Qualcomm Snapdragon S4 Plus lõi kép với xung nhịp lên đến 1,7 GHz. Một số phiên bản khác có thể được trang bị chip với tốc độ thấp hơn để có giá rẻ hơn.
+
+WP8 có tích hợp Skype?
+
+Không. Ứng dụng VoIP này không được tích hợp sẵn nhưng người dùng có thể tải về. Microsoft cho hay họ sẽ nhúng các ứng dụng bên thứ ba như Skype vào trong menu cuộc gọi để các cuộc gọi VoIP sẽ diễn ra y hệt như cuộc gọi được thực hiện từ việc quay số qua mạng di động.
+
+NFC được sử dụng như thế nào?
+
+Windows Phone lần đầu sẽ hỗ trợ công nghệ giao tiếp trường gần theo ba cách. Thứ nhất là Tap + Share để chia sẻ URL giữa các thiết bị NFC và đọc các "tag" trên đồ vật như danh thiếp, thẻ, poster, menu... Thứ hai là cho phép các nhà cung cấp kiểm soát và triển khai việc giao dịch, thanh toán di động. Microsoft cũng giới thiệu ví điện tử Mobile Wallet Hub lưu trữ thông tin về tài khoản, tương tự Apple Passbook trong iOS 6.
+
+Tính năng 'trò chuyện với ứng dụng' được hiểu ra sao?
+
+Đây thực chất là tính năng mở rộng mang tên Audible của phần mềm nhận diện giọng nói để người dùng có thể ra lệnh điều khiển ứng dụng. Sau khi kích hoạt, họ có thể mở một ứng dụng, tạm dừng, đóng... bằng giọng nói.

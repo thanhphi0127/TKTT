@@ -1,0 +1,12 @@
+﻿Apple trình làng iOS 6 tại sự kiện WWDC
+
+Apple bắt đầu treo băng rôn quảng cáo nền tảng mới nhất của họ (dành cho iPhone, iPad và iPod Touch) tại nơi tổ chức hội thảo Worldwide Developers Conference.
+
+iOS 6 nhiều khả năng là hệ điều hành di động đầu tiên không dùng Google Maps mà thay bằng dịch vụ bản đồ do Apple tự phát triển. Theo Wall Street Journal, bản đồ mới của "Quả táo" có khả năng định vị GPS trên ôtô và chỉ đường chi tiết (turn-by-turn) bằng giọng nói.
+
+Những cải tiến được mong chờ khác trên iOS6 bao gồm tích hợp mạng xã hội Facebook, nâng cấp trợ lý giọng nói Siri, thiết kế lại kho ứng dụng App Store, hệ thống nhạc, sách số iTunes Store, iBookStore được làm mới...
+
+
+Hình ảnh chuẩn bị trước sự kiện WWDC của Apple.
+Sự kiện WWDC (Worldwide Developers Conference) diễn ra ngày 11-16/6 tại San Francisco (Mỹ) và vé được bán sạch chỉ trong 2 tiếng với giá lên đến 1.600 USD. Tại đây, ngoài iOS, Apple cũng thảo luận với các nhà phát triển về tương lai của hệ điều hành OS X dành cho máy tính.
+

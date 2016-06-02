@@ -1,0 +1,13 @@
+﻿Phanh xe đạp tạo ra điện
+
+Một nhóm sinh viên tại Mỹ vừa chế tạo loại xe đạp tự sản xuất điện trong quá trình lăn trên đường.
+
+
+Bánh xe Copenhagen Wheel của nhóm sinh viên thuộc Viện Công nghệ Massachusetts, Mỹ. Ảnh: web.mit.edu.
+Discovery cho biết, chiếc bánh xe là phát minh của một nhóm sinh viên tại Viện Công nghệ Massachusetts, Mỹ. Họ đặt tên nó là Copenhagen Wheel (bánh xe Copenhagen) vì Copenhagen, thủ đô của Đan Mạch, là thành phố mà xe đạp là phương tiện giao thông phổ biến.
+
+Nhóm thiết kế áp dụng một kỹ thuật trong xe đua công thức một. Đó là hệ thống phục hồi động năng. Thông thường khi tài xế ô tô đạp phanh, năng lượng được tạo ra dưới dạng nhiệt trên khối quay trong máy phát điện và chân phanh. Trong những xe được trang bị hệ thống phục hồi động năng, năng lượng này bị thu lại để motor sử dụng khi tăng tốc.
+
+Bánh xe Copenhagen Wheel hoạt động dựa trên nguyên lý tương tự. Nhiệt năng từ phanh được biến thành điện bởi một động cơ. Sau đó lượng điện này được tích trên một quả pin.
+
+Khi người sử dụng nối pin với điện thoại, chiếc bánh xe sẽ trở thành nguồn cung cấp điện. Nó được trang bị nhiều cảm biến và thiết bị phát sóng Bluetooth. Các cảm biến theo dõi tốc độ, hướng, quãng đường, tình hình giao thông và mức độ ô nhiễm không khí.

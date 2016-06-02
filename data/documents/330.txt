@@ -1,0 +1,13 @@
+﻿Robot gội đầu
+
+Tập đoàn Panasonic của Nhật Bản chế tạo thành công robot có khả năng gội đầu và sấy tóc bằng 16 ngón tay.
+
+
+Phiên bản mẫu của robot gội đầu. Ảnh: Telegraph.
+Theo Telegraph, robot gội đầu của Panasonic được thiết kế để thay thế đôi tay của những người thợ làm tóc. Hai cánh tay của nó - được trang bị camera - quét đầu khách hàng trong quá trình di chuyển để tạo nên hình ảnh ba chiều. Hình ảnh cho phép robot xác định khoảng cách, hình dạng của đầu để tính toán lực tác dụng tại các vị trí trên đầu.
+
+Mỗi cánh tay của robot có 8 ngón và ba motor. Các motor hoạt động độc lập với nhau để kiểm soát chuyển động và lực tác động của các ngón.
+
+“Robot gội đầu được chế tạo để đáp ứng nhu cầu của những người làm việc trong bệnh viện và các cơ sở y tế. Nhiều nghiên cứu cho thấy các nhân viên y tế phải làm rất nhiều việc nên không thể túc trực bên cạnh bệnh nhân cả ngày để đáp ứng các yêu cầu của họ, chẳng hạn như gội đầu”, một người phát ngôn của Panasonic phát biểu.
+
+Phiên bản mẫu của robot gội đầu được trưng bày tại Triển lãm quốc tế về thiết bị chăm sóc sức khỏe tại gia và phục hồi chức năng lần thứ 37 tại Tokyo, Nhật Bản vào tuần trước.

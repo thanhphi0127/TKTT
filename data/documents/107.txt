@@ -1,0 +1,47 @@
+﻿Siri lên iPad và những tính năng nổi bật khác của iOS 6
+
+Nền tảng dành cho iPhone, iPad và iPod Touch đã được cập nhật tới hơn 200 tính năng mới, trong đó đáng chú ý là tích hợp Facebook, Twitter, khả năng tùy biến sâu, bản đồ 3D mới, Siri hoạt động trên cả xe hơi...
+>MacBook Pro độ phân giải màn hình Retina trình làng
+
+iOS 6 vừa được Apple công bố tại sự kiện WWDC diễn ra rạng sáng 12/6 tại San Francisco (Mỹ). Hệ điều hành này sẽ có mặt trong mùa thu, hoạt động trên iPhone 4S, iPhone 4, iPhone 3GS, hai thế hệ iPad gần nhất và iPod Touch đời thứ tư.
+
+
+
+"Trợ lý" Siri sẽ lấy thông tin về thể thao từ Yahoo, kết hợp với Rotten Tomatoes để phát trailer. Người sử dụng có thể kích hoạt ứng dụng bất kỳ bằng cách ra lệnh cho Siri (chẳng hạn "Play Temple Run"), cập nhật Facebook, Twitter qua giọng nói. Một số hãng xe hơi như BMW, GM, Land Rover, Audi và Honda hứa hẹn sẽ tích hợp một nút dành cho Siri trên tay lái. Và cuối cùng, Siri đã có thể hoạt động trên iPad
+
+
+
+Tích hợp Facebook: Đúng như lời hứa của Tim Cook tại diễn đàn D10 cuối tháng 5, Facebook đã "hòa hợp" với iOS. Người sử dụng chỉ cần đăng nhập và mọi thứ sẽ tự động được thiết lập. Họ có thể nhanh chóng chia sẻ ảnh, link, bản đồ và các nội dung trên iTunes và Game Center. Số điện thoại hiển thị ngay trong Contact.
+
+
+
+Apple giới thiệu chức năng nhắc người dùng gọi lại sau một thời gian nhất định nếu họ không thể hoặc không muốn nhận cuộc gọi tại thời điểm đó.
+
+
+
+Bạn cũng có thể chọn gửi tin nhắn thay vì nghe máy.
+
+
+
+Mail VIP: Người dùng có thể đánh dấu sao những người mà họ thường xuyên liên lạc hoặc có vai trò quan trọng và các e-mail đó sẽ xuất hiện trong thư mục riêng. Phần soạn thư (Compose) cũng đã có thể đính kèm ảnh và video.
+
+
+
+Tính năng Do Not Disturb (Không làm phiền) ra lệnh cho thiết bị tạm thời không hiển thị các nhắc báo. Nhưng giống như Mail VIP, nó cũng cho phép người dùng lựa chọn nhận được nhắc báo khi có cập nhật mới từ một số bạn bè nhất định.
+
+
+
+FaceTime qua mạng di động: Tính năng chat hình của Apple từ lâu chỉ hoạt động qua kết nối Wi-Fi. Tuy nhiên, với iOS 6, người dùng đã có thể trò chuyện thông qua 3G/4G.
+
+
+
+Safari: Người sử dụng có thể lập một danh sách để đọc thông tin offline.
+
+
+
+Hay đăng ảnh lên website trực tiếp từ trình duyệt.
+
+
+
+Apple đã từ bỏ Google Maps và xây dựng bản đồ riêng với các tính năng tương tự như hỗ trợ chỉ đường bằng giọng nói với Siri, chế độ xem 3D đẹp mắt...
+

@@ -1,0 +1,13 @@
+﻿Tai thần' của máy bay
+
+Bộ Quốc phòng Mỹ sẽ lắp một loại thiết bị âm thanh có khả năng phát hiện đường bay của những viên đạn bay từ mặt đất vào máy bay trực thăng vận tải.
+
+
+Một trực thăng vận tải của quân đội Mỹ tại Afghanistan. Ảnh: wired.com.
+Trang web của Bộ Quốc phòng Mỹ cho biết, thiết bị âm thanh nói trên được gọi là HALTT (Helicopter Alert and Threat Termination). Nó có khả năng xác định hướng của đạn, nhờ đó phi công có đủ thời gian để tránh đạn.
+
+HALTT sử dụng nhiều cảm biến cao cấp để phát hiện sóng siêu thanh và tiếng động mà những viên đạn hay hỏa tiễn tạo nên khi bay trong không trung. Thiết bị có thể tương thích với trực thăng vận tải cùng nhiều loại trực thăng khác. Các thử nghiệm cho thấy HALTT thoạt động rất hiệu quả. Các thiết bị HALTT đầu tiên sẽ được lắp vào những máy bay trực thăng vận tải tại Afghanistan vào tháng 10 tới.
+
+Về mặt lý thuyết, HALTT cảnh báo phi công khi ai đó bắn về phía trực thăng ngay cả khi đường bắn không hướng thẳng về phía phi cơ. Đây là tình huống tiêu biểu nhất trên chiến trường, bởi phi công không thể nghe âm thanh phát ra từ đạn và cũng không thể nhìn thấy đạn. Vì thế HALTT báo cho phi công hướng cụ thể của viên đạn, nhờ đó họ có thể tránh đường bay của nó. Nếu trực thăng mang theo vũ khí, sự hiện diện của HALTT sẽ giúp phi công xác định được nơi phát ra hỏa lực và bắn trả nhanh chóng.
+
+Wired cho biết, HALTT được chế tạo dựa trên những thiết bị phát hiện xạ thủ bắn tỉa bằng cách dò tìm âm thanh từ đạn. Những thiết bị này ra đời cách đây chừng một thập kỷ và khả năng hoạt động của chúng ngày càng được cải thiện. Hàng chục nghìn thiết bị phát hiện xạ thủ bắn tỉa đã được đưa tới Iraq và Afghanistan, những nơi mà vai trò của chúng ngày càng trở lên lớn hơn. Thiết bị cung cấp thông tin về hướng của viên đạn, nhờ đó người sử dụng có thể xác định vị trí của tay súng bắn tỉa. Đa số những thiết bị đó được sản xuất tại Anh, Mỹ, Pháp và Israel.

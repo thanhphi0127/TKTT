@@ -1,0 +1,16 @@
+﻿Robot gián điệp có khả năng tìm trốn người
+
+Một vật thể lặng lẽ tiến tới tòa nhà trong màn đêm, thực hiện một lộ trình lắt léo để tránh những khu vực có ánh sáng và thoát khỏi tầm quan sát của hệ thống camera an ninh và lính gác.
+
+
+Phiên bản thử nghiệm của robot gián điệp có khả năng tự tìm chỗ nấp do tập đoàn Lockheed Martin. Ảnh: Tập đoàn Lockheed Martin.
+Kẻ đột nhập nấp sau một thùng rác khi nghe tiếng bước chân của một lính gác nào đó. Khi tiếng bước chân nhỏ dần, vật thể tiếp tục di chuyển trên bốn bánh xe.
+
+Cảnh tượng trên có thể xảy ra trong tương lai, khi những robot gián điệp mới của tập đoàn Lockheed Martin tại Mỹ chính thức gia nhập thế giới của các thiết bị gián điệp. Lockheed Martin tuyên bố họ sẽ chế tạo những mẫu robot có khả năng thực hiện nhiệm vụ do thám, theo dõi mà không bị con người phát hiện. Phiên bản mẫu của loại robot này đã được thử nghiệm từ cuối năm ngoái, Newscientist đưa tin.
+
+Điểm đặc biệt của thế hệ robot do thám mới là khả năng dựng mô hình máy tính về môi trường xung quanh, kết hợp thông tin để xác định đường đi an toàn nhất. Nó được trang bị một máy quét laser để có thể dựng bản đồ 3D về môi trường xung quanh, vài cảm biến âm thanh để phát hiện những tiếng bước chân gần nó.
+
+“Robot này được thiết kế để có thể chạy nhanh trong bóng tối, tránh những khu vực được chiếu sáng. Để tăng khả năng ẩn nấp trong bóng tối, nó được sơn màu đen”, Brian Satterfield, trưởng nhóm kỹ sư chế tạo robot, phát biểu.
+
+Satterfield nói nếu robot do thám tin rằng nó có thể bị phát hiện bởi một người bảo vệ, nó sẽ cố gắng chạy tới một vị trí mà nó có thể ẩn nấp nhờ một phần mềm đặc biệt. Phần mềm này cho phép nó đặt ra nhiều phương án hành động khi phát hiện con người. Tất nhiên, phần mềm sẽ chỉ đưa ra các chỉ dẫn cụ thể trong từng nhiệm vụ, như "Nếu nghe thấy tiếng động đáng nghi, hãy chạy vào vị trí tối nhất trong tòa nhà".
+

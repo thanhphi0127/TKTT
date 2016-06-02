@@ -1,0 +1,21 @@
+﻿Quần áo giúp giảm nỗi buồn
+
+Nhờ những cảm biến sinh học và khả năng kết nối Internet, một loại trang phục thông minh có thể đưa ra những thông điệp phù hợp với sự thay đổi tâm trạng của con người.
+
+
+Phiên bản trang phục thông minh dành cho nữ. Ảnh: Tech News Daily.
+Tech News Daily cho biết, một nhóm chuyên gia của Đại học Concordia tại Mỹ nghiên cứu thành công một loại vải công nghệ cao để tạo nên trang phục thông minh. Loại vải này chứa những cảm biến sinh học để đo nhịp tim, thân nhiệt và nhiều chỉ số tâm sinh lý khác. Các phụ kiện kèm theo gồm cặp loa cỡ nhỏ và một số thiết bị điện tử khác. Cảm biến, loa và thiết bị điện tử có tính năng kết nối với điện thoại thông minh hoặc thiết bị kỹ thuật số hỗ trợ cá nhân (PDA).
+
+Dữ liệu từ các cảm biến được gửi tới điện thoại, nơi chúng được phân loại theo 16 trạng thái cảm xúc của người. Sau khi so sánh với kho dữ liệu có sẵn, điện thoại tự động gửi thông điệp có nội dung tương ứng với tâm trạng của người mặc. Chẳng hạn, nếu người mặc đang chán nản, nội dung của thông điệp sẽ là những lời động viên, cổ vũ.
+
+Thông điệp có thể là tin nhắn văn bản, giai điệu âm nhạc, ảnh hoặc video. Nếu thông điệp là tin nhắn văn bản, chúng sẽ được hiển thị trên một màn hình trên ống tay áo. Giai điệu âm nhạc được phát qua cặp loa. Ảnh và video được chiếu trên màn hình của điện thoại.
+
+Âm thanh, ảnh và video mà điện thoại gửi tới người mặc trang phục thông minh không phải là dữ liệu cố định mà có thể thay đổi. Chẳng hạn, người mặc có thể ghi âm giọng nói của người thân để đọc tin nhắn.
+
+“Khi mặc trang phục thông minh, bạn bật điện thoại và chọn giọng nói mà bạn muốn nghe trong ngày. Đó có thể là một người thân đã mất, bạn thân hay người yêu của bạn”, Barbara Layne, một giáo sư của Đại học Concordia, phát biểu.
+
+Tất nhiên, để thực hiện được chức năng này, người sử dụng phải yêu cầu những người thân hoặc bạn bè đọc những mẫu tin nhắn soạn sẵn rồi ghi âm. Sau đó họ đưa dữ liệu âm thanh vào điện thoại.
+
+“Điện thoại liên tục phân tích dữ liệu từ cảm biến sinh học, phân loại chúng theo trạng thái tình cảm rồi tìm kiếm dữ liệu liên quan tới trạng thái cảm xúc trên mạng Internet. Cuối cùng nó sẽ đem về cho người sử dụng một thông điệp phù hợp với tâm trạng của họ”, Layne giải thích.
+
+Lợi ích của trang phục thông minh rất to lớn, Layne khẳng định. Chẳng hạn, các bệnh viện có thể dùng nó để động viên tinh thần bệnh nhân. Layne hy vọng rằng trong thời gian tới nhóm nghiên cứu có thể hợp tác với một nhà tâm lý hành vi để trang phục thông minh có thể phân tích trạng thái cảm xúc của con người dựa vào nhịp tim và thân nhiệt.

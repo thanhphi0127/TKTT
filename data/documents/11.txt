@@ -1,0 +1,16 @@
+﻿Handy Backup là một phần mềm sao lưu thật chuyên nghiệp, dành cho giới chuyên môn cao và các doanh nghiệp nhỏ. Nó hoàn toàn khác với các phần mềm sao lưu, phục hồi phân vùng, ổ cứng như Acronis True image 2011 , hoặc Norton Ghost 15: chúng chỉ sao lưu nguyên phân vùng, hoặc ổ đĩa.
+Handy Backup có thể sao lưu thật hiệu quả cho từng phần riêng biệt hoạt động chủ yếu trong windows, như là từ Outlook Express, Registry và nhiều thứ khác nữa tuỳ theo nhu cầu người dùng cá nhân hay doanh nghiệp...
+Nó còn cho phép bạn lưu trữ dữ liệu trên servers từ xa qua dùng SFTP, chạy mọi tác vụ sao lưu và phục hồi trong dịch vụ Windows, thực hiện sao lưu toàn bộ hình ảnh đĩa cứng, sao lưu mọi thứ ảnh hưởng đến hệ điều hành, các ứng dụng, drivers và mọi dữ liệu của người dùng. Handy Backup cho phép thực hiện việc sao lưu vào ngay dĩa DVD, CD, Blu-ray, HD DVD. ZIP dạng nén nhằm giúp tiết kiệm dung lượng nơi lưu trữ.
+Nó còn có thể dùng đồng bộ hoá các files, mọi thư mục giữa các máy tính với nhau (được nổ sung các plugin trả tiền).
+Handy Backup Pro chính là một giải pháp sao lưu lý tưởng cho mọi hệ điều hành của Microsoft Windows®2000/XP/2003/Vista/Win 7, do cung cấp được phương pháp lưu trữ dữ liệu tin cậy và hiệu quả nhất cho máy tính tại nhà hay cơ quan.
+Trong lúc ấy nó hoàn toàn không đòi hỏi một kỹ thuật hay trình độ khéo léo gì và có thể dùng được cho mọi đối tượng có trình độ thật khác nhau.
+Handy Backup Pro còn đặc biệt hơn nữa là hoàn toàn chính xác và thật dễ dùng, cung cấp quá nhiều tiện ích như sau:
+• Sao lưu định kỳ,phục hồi và đồng bộ hoá files và thư mục. 
+• Sao lưu hình ảnh ổ đĩa – khả năng tạo ra một phiên bản y chang của ổ cứng bao gồm hệ điều hành, tất cả các ứng dụng và thiết lập. Như thế hệ thống có thể nhanh chóng phục hồi lại một khi có sự cố hệ thống nào đó xảy ra. 
+• Chọn lựa dễ dàng các nơi lưu trữ bao gồm CD, DVD, ổ LAN và FTP/SFTP servers;
+• Khả năng chạy y như dịch vụ windows, cho phép thực hiện các tác vụ trên thời gian nhất định không cần đòi hỏi người dùng phải đăng nhập vào. 
+• Tích hợp nén ZIP, bảo vệ bằng mật mã và mã hoá mọi dữ liệu của bạn;
+• Tuỳ chọn bằng một cú click: sao lưu ngay Outlook Express, Windows registry, My Documents và nhiều loại dữ liệu thông thường nhất. 
+• Chi tiết ghi chú và luu ý Email của mọi quá trình thực hiện.
+
+

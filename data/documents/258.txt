@@ -1,0 +1,21 @@
+﻿Robot bắt côn trùng
+
+Trong tương lai những robot có hình dạng giống cây bắt ruồi có thể bắt côn trùng và biến chúng thành điện để chạy robot.
+
+
+Lá của cây nắp ấm có thể khép lại trong 1/10 giây nên con mồi hầu như không thể thoát. Ảnh: funguerilla.com.
+Cây bắt ruồi (Dionaea muscipula) bắt côn trùng nhờ những chiếc lá có hình dạng giống vỏ sò. Khi một con ruồi chạm phải những sợi lông trên bề mặt lá, chúng nhanh chóng cụp lại để nhốt con mồi bên trong. Lá cụp trong khoảng 1/10 giây, nhanh hơn cái chớp mắt, nên con mồi hầu như không có cơ hội thoát thân. Sau đó cây giết chết mồi và tiêu hóa phần mô của chúng.
+
+Newscientist cho biết, để tạo ra robot có khả năng bắt côn trùng, các nhà khoa học phải tìm ra loại vật liệu không chỉ có khả năng phát hiện sự xuất hiện của côn trùng, mà còn phải gập thật nhanh. Một số chuyên gia của trường Đại học Quốc gia Seoul đã giải quyết được thách thức đó bằng cách chọn những vật liệu có khả năng phục hồi hình dạng. Sau khi biến dạng, những vật liệu đó sẽ trở về hình dạng ban đầu dưới tác động của lực, nhiệt hoặc dòng điện.
+
+Nhóm nghiên cứu dùng sợi carbon để chế tạo “lá” có hình dạng vỏ sò. Lá này được nối với một lò xo kim loại có khả năng phục hồi hình dạng. Khi côn trùng đậu lên “lá”, khối lượng của nó khiến lò xo co lại, “lá” khép vào và nhốt con mồi. “Lá” mở ra sau khi một dòng điện chạy qua lò xo.
+
+Mohsen Shahinpoor, một nhà nghiên cứu của Đại học Maine tại Mỹ, áp dụng phương pháp khác. Ông dùng màng polymer mỏng để tạo ra những chiếc lá rồi phủ các điện cực bằng vàng lên phía trên. Khi một dòng điện chạy qua lá, nó sẽ uốn cong về một phía. Sau đó dòng điện đảo chiều và lá mở ra.
+
+“Con người có thể thu được lợi ích to lớn từ những robot bắt côn trùng”, Ioannis Ieropoulos, một nhà nghiên cứu của Phòng thí nghiệm robot Bristol tại Anh, phát biểu.
+
+Ieropoulos cùng các đồng nghiệp từng chế tạo Ecobot, loại robot có khả năng “tiêu hóa” côn trùng, thực phẩm bị vứt và rác để tạo ra điện. Ecobot sử dụng vi khuẩn để phân hủy bộ xương ngoài của côn trùng trong một phản ứng tạo ra điện tử (electron). Các điện tử di chuyển trong một mạch và tạo ra điện.
+
+Nhưng do Ecobot không thể tự bắt côn trùng nên nhóm của Ieropoulos phải cho nó “ăn” ruồi chết. Điều đó không tốt đối với một robot tự động. Nếu kết hợp các tính năng của Ecobot và robot bắt ruồi, trong tương lai robot có thể tự bắt côn trùng và tạo ra điện.
+
+“Chúng tôi cảm thấy rất vui khi hai nhóm nghiên cứu kia chế tạo thành công robot bắt ruồi”, Ieropoulos nói.

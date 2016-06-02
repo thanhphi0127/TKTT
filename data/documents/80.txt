@@ -1,0 +1,7 @@
+﻿Màn hình Retina phô diễn độ nét qua kính lúp
+
+Đặc điểm thu hút sự chú ý nhất trên máy tính MacBook Pro đời mới chính là màn hình có độ phân giải lên tới hơn 5 triệu điểm ảnh, cao hơn cả HDTV đang được bán trên thị trường.
+
+Notebook của Apple được trang bị màn hình 15 inch 2.880 x 1.800 pixel. Tương tự trên iPad, công nghệ này giúp hiển thị nội dung sắc nét hơn. Trang Mashable đã so sánh máy với phiên bản MacBook Pro cùng kích cỡ nhưng có màn hình 1.680 x 1.050 để chứng minh sự khác biệt.
+
+Tuy nhiên, điểm hạn chế là text (văn bản) trên các trang web chỉ hiển thị tốt trên trình duyệt Safari trong khi Chrome và Firefox chưa được cập nhật để đáp ứng độ phân giải cao của Retina, nhưng điều này sẽ sớm thay đổi.

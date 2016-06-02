@@ -1,0 +1,18 @@
+﻿Phần mềm diệt virus Bkav 2012 ngăn nạn trộm nick Yahoo
+
+Nạn lừa đảo trên Yahoo Messenger thời gian qua có nguyên nhân chính từ việc người dùng bị đánh cắp mất mật khẩu, và keylogger (công cụ ghi lại các ký tự nhập từ bàn phím) là phương tiện chính mà những kẻ lừa đảo sử dụng.
+
+Để chống lại keylogger, người dùng sẽ phải cài thêm phần mềm chống gián điệp (anti-keylogger) song song với phần mềm diệt virus. Điều này gây phiền hà và có thể không đem lại hiệu quả cao.
+
+
+Bkav 2012 được công bố sáng 19/6 tại Hà Nội.
+Bkav 2012 là một trong những phần mềm diệt virus đầu tiên trên thế giới được tích hợp sẵn công nghệ anti-keylogger nhằm chống lại hành vi theo dõi những thao tác từ bàn phím, chụp màn hình, chèn mã thực thi vào tiến trình đang chạy và lấy cắp dữ liệu, thông tin trong clipboard…
+
+"Một giải pháp phòng chống virus không đơn thuần chỉ ngăn mã độc, mà còn phải chống lại được các hành vi mang tính phá hoại có chủ đích của con người, như cài keylogger lấy cắp thông tin của đối thủ kinh doanh, theo dõi hoạt động của người khác. Đó là lý do chúng tôi quyết định đưa anti-keylogger vào sản phẩm", ông Vũ Ngọc Sơn, Giám đốc Bộ phận nghiên cứu của Bkav (Bkav R&D), cho biết.
+
+
+Công nghệ Anti-keylogger trên phần mềm bảo mật.
+Bên cạnh đó, gói phần mềm bảo mật mới sử dụng công nghệ điện toán đám mây, tăng tốc độ quét nhanh gấp hai lần so với phiên bản trước. Nhà sản xuất cho biết trong phiên bản mới, công nghệ SafeRun (Thực thi an toàn) đã được nâng cấp và cho phép mở các file tải về từ Internet trong môi trường cách ly. Còn Site Advisor (Giám sát truy cập) giúp người sử dụng tránh được các website lừa đảo dựa trên "danh sách đen" được cập nhật từ Tổ chức toàn cầu về chống lừa đảo trên mạng (APWG) mà Bkav là thành viên.
+
+Bkav 2012 vẫn giữ nguyên mức giá của phiên bản 2011 là 299.000 đồng.
+

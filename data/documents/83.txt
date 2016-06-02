@@ -1,0 +1,6 @@
+﻿Tablet BlackBerry chạy được ứng dụng của iPhone, iPad
+
+Nhà phát triển Businesscat2000 đã viết phần mềm giả lập cho phép máy tính bảng PlayBook của RIM hay Windows PC có thể chạy được phần mềm vốn của nền tảng Apple iOS.
+
+Để chứng minh, người này đã chia sẻ video trình diễn tablet BlackBerry chạy trò chơi Super Monkey Ball và máy tính Windows khởi động game Angry Bird.
+

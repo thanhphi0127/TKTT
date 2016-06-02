@@ -1,0 +1,19 @@
+﻿Cây chiếu sáng đường phố trong tương lai
+
+Diện mạo các thành phố sẽ thay đổi ngoạn mục khi những cây phát sáng thay thế cột đèn trên các đường phố.
+
+
+Cây phát sáng có thể chiếu sáng đường phố. Ảnh: Theo Sanderson.
+Vô số loài sinh vật có khả năng phát sáng trong tự nhiên, như đom đóm hay vi khuẩn Vibrio fischeri. Chúng có khả năng tạo ánh sáng nhờ một số gene đặc biệt trong cơ thể. Những gene này ra lệnh cho cơ thể sản xuất các enzyme tạo ánh sáng. Tuy nhiên, đa số sinh vật chỉ tạo ra loại ánh sáng yếu ớt nên con người không thể thấy.
+
+Để tăng độ sáng của chúng, một nhóm sinh viên ngành di truyền của Đại học Cambridge tại Anh biến đổi gene tham gia vào quá trình tạo ánh sáng của đom đóm và vi khuẩn Vibrio fischeri. Sau quá trình biến đổi gene, lượng enzyme mà cơ thể sản xuất và khả năng tạo ánh sáng của enzyme đều tăng mạnh, Newscientist cho biết.
+
+Nhóm sinh viên cấy những gene đã biến đổi vào Escherichia coli – vi khuẩn sống ký sinh trong ruột của con người và động vật máu nóng – để tạo ra nhiều loại ánh sáng có màu sắc khác nhau. Họ phát hiện ra rằng khi số lượng vi khuẩn tăng tới mức tương đương một chai rượu, ánh sáng mà chúng phát ra đủ mạnh để mắt người có thể cảm nhận.
+
+Nếu các gene đột biến nói trên được cấy vào bộ gene của cây, chúng cũng sẽ phát ra ánh sáng.
+
+Theo Sanderson, một thành viên trong nhóm nghiên cứu, nói rằng họ chưa tạo ra cây phát sáng, song thành quả của họ sẽ giúp ích cho nỗ lực tạo cây phát sáng trong tương lai.
+
+Một trong những trở ngại của quá trình tận dụng vi khuẩn phát sáng là quá trình tạo ra ánh sáng phụ thuộc vào một nhóm hợp chất có tên luciferin. Những hợp chất này phát ra ánh sáng rồi biến thành oxyluciferin, loại chất không tạo ra ánh sáng. Để khắc phục trở ngại, nhóm nghiên cứu của Đại học Cambridge đã tìm ra một cách để giúp vi khuẩn tạo ra các enzyme có khả năng tái chế oxyluciferin thành luciferin.
+
+Sanderson và các cộng sự dự đoán cây phát sáng sẽ mở ra nhiều ứng dụng to lớn trong tương lai. Chẳng hạn, chúng có thể thay thế những cột đèn đường trong đô thị. Khi cây thay thế cột đèn đường, lượng điện mà con người sản xuất sẽ giảm khiến mức độ ô nhiễm môi trường giảm theo. Để tăng lượng ánh sáng trên đường, người ta chỉ cần trồng thêm cây. Nếu cấy những gene phát sáng vào tảo, con người có thể dùng chúng để "tích trữ" ánh sáng mặt trời và sử dụng vào ban đêm. Các nhà khoa học còn tính tới việc dùng rác thải để kích thích quá trình tạo ánh sáng trong cây, nhờ đó rác sẽ trở thành nguyên liệu có ích.

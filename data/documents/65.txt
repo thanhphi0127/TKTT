@@ -1,0 +1,22 @@
+﻿Những thất bại công nghệ nửa đầu 2012
+
+Dù mới trải qua 6 tháng, nhiều sự kiện "hứa hẹn" sẽ góp mặt trong danh sách các thất bại công nghệ gây xôn xao nhất cả năm 2012 như vụ cổ phiếu Facebook lên sàn, virus lây lan trên máy Mac...
+
+
+Facebook bắt đầu IPO từ ngày 18/5 với giá mỗi cổ phiếu là 38 USD, tức công ty được ước tính có giá trị 104 tỷ USD, dù doanh thu năm 2011 chỉ đạt 3,7 tỷ USD. Cổ phiếu Facebook hiện được giao dịch tầm 27 USD, tức sụt tới 11 USD dù mới chỉ IPO hơn 2 tuần.
+
+Sự luật SOPA (yêu cầu các nhà cung cấp dịch vụ Internet cắt hoàn toàn truy cập đến các tên miền chứa nội dung vi phạm bản quyền và sở hữu trí tuệ) đã làm nổ ra một làn sóng phản đối mạnh trên Internet. Hàng loạt các website lớn như Google, Wikipedia, Wired... đã ẩn thông tin trên trang nhằm cho thấy thế giới ra sao nếu tri thức online bị kiểm duyệt. Ngày 20/1, SOPA bị hoãn phê duyệt vô thời hạn.
+
+Path, mạng xã hội hoạt động trên smartphone, là một ý tưởng hợp thời và thu hút được hàng triệu người dùng trên toàn cầu, trong đó có Việt Nam, cho đến tháng 2 khi một chuyên gia phát hiện ra ứng dụng này đã âm thầm sao chép toàn bộ danh bạ của thành viên (như tên, địa chỉ e-mail, số điện thoại... của bạn bè họ) lên máy chủ mà không xin phép. Dù Path không phải là ứng dụng duy nhất, nhưng là ứng dụng đầu tiên, bị tố cáo thực hiện điều này, khiến nó đang bị người dùng dần cho vào dĩ vãng.
+
+Dù Blu-ray đã xuất hiện 6 năm, DVD vẫn đóng vai trò lớn trên thị trường giải trí và lưu trữ. Nhưng nó đang đối mặt với thách thức lớn khi Microsoft tuyên bố nền tảng Windows 8 sẽ không mặc định hỗ trợ DVD (nếu muốn, người dùng sẽ phải chi tiền) khiến tương lai của DVD đang dần ảm đạm.
+
+Google Wallet: Các hãng công nghệ đang háo hức trước xu hướng thanh toán di động với chip NFC. Tháng 2/2012, một blog đã phát hiện lỗ hổng bảo mật trong công cụ giao dịch Google Wallet khiến người tiêu dùng tiếp tục chần chừ trong việc đón nhận xu thế mới.
+
+Yahoo đã mời Scott Thompson về làm tổng giám đốc vào tháng 1/2012. Chỉ sau đó 3 tháng, ông đã bị một cổ đông tố cáo dùng bằng giả để được chọn vào chiếc ghế CEO (ông tốt nghiệp chuyên ngành kế toán nhưng lại ghi là ngành máy tính). Ngày 13/5, Thompson ra đi, nhưng khẳng định là vì "lý do cá nhân" và trở thành một trong những CEO có thời gian làm việc ngắn nhất trong lịch sử.
+
+Apple vẫn tự hào vì máy tính của họ hiếm khi bị tin tặc khai thác, hoặc chỉ là các vụ nhỏ lẻ. Nhưng cuối cùng, đầu năm nay, sâu Flashback tấn công dữ dội và lây nhiễm trên hơn nửa triệu hệ thống Mac bằng cách khai thác lỗ hổng Java. Apple đã cung cấp công cụ duyệt nhưng virus này hiện vẫn tồn tại trên khoảng 140.000 máy.
+
+Siri, ứng dụng tương tác bằng giọng nói, được Apple và người hâm mộ "Táo" ca ngợi, đã khiến Apple một phen khó xử khi khẳng định smartphone tuyệt nhất thế giới không phải iPhone 4S mà là Nokia Lumia 900. Sau đó, hãng này đã phải can thiệp để thay đổi câu trả lời của Siri. Mới đây, nhà đồng sáng lập Steve Wozniak còn nói Siri không thông minh như xưa.
+
+Người dùng đang bắt đầu mệt mỏi trước con số khổng lồ: 8.232.525 cuộc chiến bản quyền đang diễn ra trong giới công nghệ, nổi bật là việc Apple kiện Samsung, Motorola, HTC và ngược lại, Oracle kiện Google, Yahoo kiện Facebook, Nokia đối đầu với Google và Microsoft...

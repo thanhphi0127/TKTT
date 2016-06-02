@@ -1,0 +1,24 @@
+﻿Những sản phẩm đầu tiên có Wi-Fi tốc độ 1 Gb/giây
+
+Asus giới thiệu laptop chơi game còn Buffalo công bố thiết bị định tuyến được trang bị kết nối Internet không dây theo công nghệ 802.11ac siêu tốc (dự kiến trở thành chuẩn vào cuối năm nay).
+>Chuẩn Wi-Fi tốc độ 1 Gb/giây sẽ ra mắt cuối năm nay
+
+Đầu tháng 1/2012, Broadcom trở thành công ty đầu tiên giới thiệu các dòng chip hỗ trợ Wi-Fi thế hệ 5. Họ đang phối hợp với các đối tác như Netgear, Motorola, Microsoft, Huawei, Lenovo, Belkin, LG và nhiều công ty khác để tích hợp sản phẩm trong thiết bị điện tử tiêu dùng.
+
+
+Chip "hai trong một" của MediaTek.
+Giữa tháng 2 và cuối tháng 3, Qualcomm và MediaTek lần lượt trình làng thiết kế chip kết hợp giữa 802.11ac và Bluetooth 4.0. Trong khi đó, công ty Marvell (sản xuất linh kiện cho Kinect và OnLive Microconsole) lại tung ra chip radio không chỉ có 802.11ac, Bluetooth 4.0 mà còn cả công nghệ giao tiếp trường gần NFC.
+
+Trong tháng 4, công ty Netgear khẳng định sẽ sớm giới thiệu router dùng kết nối mới. Sản phẩm có tên R6300 này sử dụng chip Broadcom và áp dụng một số kỹ thuật riêng để đạt tốc độ lên tới 1,3 Gb/giây trên băng tần 5 GHz, gấp 3 lần chuẩn 802.11n và sẽ có giá 200 USD.
+
+
+Router của Buffalo.
+Trước kế hoạch của Netgear, Buffalo gấp rút tung ra thị trường thiết bị định tuyến tương tự ngay trong tháng 5 để được ghi danh là công ty đầu tiên cho ra lò router 802.11ac. Thiết bị này hoạt động tương thích với các thiết bị theo chuẩn n.
+
+Nhưng đáng chú ý nhất là tuần trước, Asus đã gây ấn tượng mạnh với laptop chơi game G75VW sử dụng 5G Wi-Fi và đạt tốc độ khoảng 800-850 Mb/giây. Bên cạnh đó, sản phẩm có màn hình 1080p, chip Ivy Bridge, đồ họa GeForce GTX 670M.
+
+
+Máy tính xách tay đầu tiên có 5G Wi-Fi.
+Tuy vậy, 802.11ac vẫn chưa được tổ chức IEEE chính thức phê duyệt, do đó nếu mua các thiết bị trên, người sử dụng cũng chưa thể khai thác được các lợi thế của nó.
+
+802.11ac - Wi-Fi thế hệ năm, hay còn gọi là 5G Wi-Fi (5G viết trước để tránh nhầm với kết nối di động 3G, 4G, 5G...) dự kiến được tổ chức IEEE thông qua vào cuối năm rồi được chuyển lên liên minh Wi-Fi Alliance để cấp chứng nhận vào đầu 2013. Loạt smartphone, tablet đầu tiên có 802.11ac sẽ được công bố tại những triển lãm như CES và MWC năm tới. 802.11ac hoạt động trong dải 5 GHz, đạt tốc độ vượt mốc 1 gigabit mỗi giây, do đó smartphone sẽ có khả năng truyền không dây video độ nét cao tới TV. Nó cũng đạt độ phủ lớn và không ngốn năng lượng như thế hệ Wi-Fi hiện tại.

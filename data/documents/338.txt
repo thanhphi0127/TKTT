@@ -1,0 +1,19 @@
+﻿Da người nhân tạo ra đời
+
+Các nhà khoa học vừa chế tạo thành công loại vật liệu có khả năng cảm nhận áp lực như da người.
+
+AFP cho biết, Ali Javey, một giáo sư khoa học máy tính của Đại học California tại Mỹ, cùng các đồng nghiệp tìm ra cách chế tạo da điện tử. Nó bao gồm mạng lưới sợi nano được tạo nên từ gecmani (Ge) và silicon (Si). Mạng lưới sợi nano cuộn quanh một màng polyimide có độ dính cao. Các transitor kích cỡ nano được đặt lên phía trên mạng lưới sợi. Một lớp cao su có tính đàn hồi cao và nhạy cảm với áp lực nằm trên cùng.
+
+Phiên bản mẫu của da điện tử có kích thước 49 cm2. Thử nghiệm cho thấy nó có thể phát hiện áp lực từ 0 tới 15 kilopascal – tương đương với lực trong các hoạt động hàng ngày của con người như đánh chữ trên máy tính, cầm cốc.
+
+Nghiên cứu của Đại học California được công bố trên tạp chí Nature Materials của Anh.
+
+
+Phiên bản da điện tử đầu tiên của Đại học California tại Mỹ có thể phát hiện áp lực từ 0 tới 15 kilopascal . Ảnh: AFP.
+Giáo sư Zhenan Bao của Đại học Stanford – hiện được coi là một trong những nữ chuyên gia hóa học hàng đầu tại Mỹ - cũng chế tạo được da điện tử nhờ một kỹ thuật khác. Bà dùng một tấm màng cao su có đặc tính thay đổi độ dày theo áp lực. Những tụ điện được cấy vào trong màng cao su để đo sự biến đổi của áp lực. Điểm yếu của da điện tử do Bao chế tạo là nó không giãn.
+
+“Tốc độ đáp ứng của da điện tử này đối với áp lực tương đương với da người, tức là chỉ trong vòng vài phần nghìn của giây. Đặc tính đó cho phép da điện tử cảm nhận được áp lực ngay tức thì”, Bao nói với AFP.
+
+John Boland, một chuyên gia về công nghệ nano của Đại học Trinity, Ireland, bình luận rằng hai phát minh nói trên là bước tiến quan trọng trong lĩnh vực trí tuệ nhân tạo. Trong nỗ lực tìm kiếm những thiết bị điện tử có khả năng thay thế 5 giác quan của người, giới khoa học đã chế tạo được mắt điện tử và tai điện tử. Mũi điện tử, lưỡi điện tử và da điện tử vẫn chưa được phát minh. Nhiều nhà khoa học nhận định da điện tử là thách thức lớn nhất.
+
+Các robot ngày nay đảm nhận được rất nhiều việc khó, song vì không có khả năng cảm nhận áp lực như người nên chúng không thể thực hiện nhiều việc cần thiết cho cuộc sống hàng ngày của người như lật trang báo, cầm cốc thủy tinh, xếp đĩa. Những người mất chân, tay có thể sử dụng chi giả, song những chi đó không thể cảm nhận được áp lực như chi thật. Sự ra đời của da điện tử có thể chấm dứt những vấn đề này, dẫn tới sự ra đời của thế hệ robot và chi giả có lớp da tinh vi như da người.

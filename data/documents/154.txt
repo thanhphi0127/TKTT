@@ -1,0 +1,14 @@
+﻿Windows Phone 7 đạt mốc 100.000 ứng dụng
+
+Hệ điều hành dành cho thiết bị di động của Microsoft vừa đạt cột mốc đáng chú ý sau hơn 20 tháng xuất hiện, nhanh hơn Google Android (mất 24 tháng) và chậm hơn Apple iOS (16 tháng).
+
+
+Thời gian đạt mốc 100.000 ứng dụng của các hệ điều hành (tháng).
+Theo website All About Windows Phone, 100.000 là con số ứng dụng mà các nhà phát triển đã gửi cho Microsoft kiểm duyệt. Lượng phần mềm thực tế trên Market vào khoảng 90.000, thấp hơn nhiều so với Android (đạt khoảng 500.000) hay iOS (600.000). Tuy nhiên, chiến thuật của Microsoft là muốn kho có nhiều ứng dụng chất lượng thay vì số lượng. Trung bình một ngày có khoảng 313 ứng dụng mới cho Windows Phone 7 được thêm vào.
+
+Trong tất cả phần mềm dành cho Windows Phone 7, có đến 62% là miễn phí và 10% cho phép dùng thử, còn lại là phải trả phí với số tiền từ 1 USD.
+
+
+Bảng so sánh giá phần mềm dành cho hệ điều hành Windows Phone.
+Microsoft nhiều khả năng sẽ giới thiệu hệ điều hành mới Windows Phone 8 vào ngày 20/6 tới trong một sự kiện riêng diễn ra ở Mỹ. Nền tảng này có thể hỗ trợ độ phân giải cao hơn, chip đa nhân, thẻ nhớ ngoài và thanh toán điện tử NFC.
+

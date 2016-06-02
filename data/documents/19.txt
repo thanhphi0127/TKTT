@@ -1,0 +1,11 @@
+﻿iPhone, iPad có thể bị hack qua 'củ sạc' trong chưa đầy 1 phút
+Trong sự kiện Black Hat dành cho các hacker và chuyên gia bảo mật tổ chức tại Las Vegas (Mỹ), một nhóm nghiên cứu đã trình bày cách xâm nhập iPhone, iPad chỉ nhờ một mẫu máy tính có hình dạng giống hệt với củ sạc trong nháy mắt.
+iPhone bị hack nhưng chưa thể thực hiện cuộc gọi
+iPhone bị hack 'chết đứng' vì bản cập nhật mới
+iPhone bị hack trong 20 giây
+Theo Ibtimes, các công cụ hack thực chất là một mẫu máy tính siêu nhỏ sử dụng bảng mạch BeagleBoard và chạy trên hệ điều hành Linux, gần giống với bo mạch Rasberry Pi. Thậm chí, nhóm nghiên cứu còn cho biết những sản phẩm như Rasberry Pi cũng có thể được dùng để sản xuất ra những loại sạc trá hình tương tự.
+Các chuyên gia nói thêm rằng, những loại sạc dùng để hack thiết bị iOS không có hình dạng nhất định. Chúng có thể sở hữu kích cỡ giống như những củ sạc thường thấy nhưng cũng có thể lớn hoặc nhỏ hơn nhiều, tuỳ theo chủ ý của hacker. Nhờ đó, kẻ xấu có thể đặt chúng ở bất kỳ đâu, đặc biệt là ở những nơi cho phép sạc công cộng để tấn công được nhiều người dùng hơn.
+Billy Lau, thành viên của nhóm nghiên cứu và là nhà nghiên cứu tại Viện Khoa học Georgia (Mỹ), cho biết Apple chỉ cho phép hãng và các nhà phát triển duyệt mã để giúp hệ điều hành trở nên bảo mật hơn. Nhờ đó, "Quả táo" có thể ngăn chặn được việc một số người cài đặt ứng dụng tuỳ ý lên thiết bị.
+Người dùng iPhone, iPad có nguy cơ bị tấn công khi kết nối thiết bị với công cụ hack giả mạo thành củ sạc. Ảnh: Rankexecutives.
+Tuy vậy, biện pháp này có thể bị các hacker "qua mặt" nhanh chóng. Billy cho biết, kẻ xấu chỉ cần truy cập vào website dành cho các nhà phát triển, xác nhận danh tính rồi trả 99 USD là họ có thể duyệt mã bất kỳ ứng dụng nào để chạy trên thiết bị iOS.
+Bên cạnh đó, hệ điều hành iOS cũng có những lỗ hổng nhất định. Khi kiểm tra các ứng dụng bị từ chối, nhóm nghiên cứu phát hiện bất kỳ phần mềm nào sử dụng API (giao diện lập trình ứng dụng) riêng của Apple thì đều bị cấm. Do đó, các hacker chỉ cần tránh điều này. Ngoài ra, một số tính năng trên iOS như sandbox (công cụ thử nghiệm dựa trên môi trường ảo mà không ảnh hưởng đến hệ thống thực) hay phần mềm kiểm tra độ tương thích giữa các phần mềm với nhau cũng có những lỗi bảo mật nhất định, có thể bị kẻ xấu lợi dụng để tấn công.

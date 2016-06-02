@@ -1,0 +1,20 @@
+﻿Hiệu ứng domino từ sự cố sập mạng của Facebook
+
+Facebook đã ăn sâu vào nhiều hoạt động trên web tới mức chỉ cần nó ngưng hoạt động khoảng 2 giờ, nhiều dịch vụ online khác cũng bị ảnh hưởng theo.
+
+Điều đó đã xảy ra vào cuối tuần qua khi mạng xã hội này chập chờn khiến một lượng người dùng truy cập lúc được lúc không. Đại diện Facebook cho hay sự cố không ảnh hưởng đến toàn bộ hệ thống mà chỉ một phần Facebook, cũng như nó không "chết" mà chỉ hoạt động chậm hơn mức bình thường.
+
+Tuy chỉ diễn ra trong thời gian ngắn, công ty chuyên theo dõi các hoạt động trực tuyến Compuware APM nhận thấy nó đã ảnh hưởng đến nhiều website khác nhau trên toàn cầu.
+
+"Điều này phản ánh sự liên kết qua lại trên web. Trước đây, khi website của bạn bị sập, nó chỉ ảnh hưởng đến công ty và khách hàng của bạn. Nhưng giờ đây, một dịch vụ lớn bị lỗi sẽ kéo theo hàng loạt dịch vụ khác", Compuware cho hay.
+
+Chẳng hạn, nút "Like" của Facebook được tích hợp trên vô số website và trong thời gian gặp trục trặc, nó không hoạt động tốt khiến tốc độ truy cập các trang tin tức và bán hàng bị giảm xuống.
+
+
+Thời gian truy cập của các site bán hàng ở Mỹ lên xuống tương ứng với Facebook.
+Ngày 1/6 khi Facebook trục trặc, thời gian tải trang của các website tin tức hàng đầu ở Mỹ trung bình là 5-5,7 giây đã tăng lên thành 12,5 giây. Thời gian tải trang trung bình của khoảng 60 site bán lẻ còn nhân đôi lên 5,7 giây so với 2,2 giây trước đó. Đôi khi chúng còn đạt đỉnh 32 giây.
+
+"Nghiên cứu của chúng tôi nhận thấy sức chịu đựng và sự kiên nhẫn của con người khi chờ một site hiển thị nội dung là khoảng 8 giây. Sau thời gian đó, họ từ bỏ và vào trang của đối thủ. Các website cũng bắt đầu nhận thấy sự ảnh hưởng của các công cụ tích hợp như nút Like trên trang của họ. Nếu không hoạt động tốt, họ sẽ tắt nó đi để tránh mang tiếng", Compuware nhấn mạnh.
+
+Khi xuất hiện thông tin dịch vụ Facebook bị treo, một số trang tin khẳng định là do nhóm Anonymos tấn công. Tuy nhiên, sau đó nhóm hacker này tuyên bố không liên quan: "Chúng tôi không đánh Facebook mà cũng không ai khác làm vậy. Facebook chỉ đang trải qua một ngày xui xẻo mà thôi".
+

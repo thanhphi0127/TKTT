@@ -1,0 +1,15 @@
+﻿Pin điện thoại sẽ nhỏ bằng hạt muối
+
+Những quả pin lithium mà chúng ta thấy trong điện thoại di động và máy tính xách tay có thể được thu nhỏ bằng hạt muối trong tương lai, song khả năng sản xuất điện của chúng không giảm.
+
+
+Ảnh minh họa: quezi.com.
+Điểm mấu chốt của loại pin siêu nhỏ là cấu trúc của chúng. AP cho biết, các nhà khoa học của Đại học California tại Mỹ tạo ra một màng gồm những dây nano. Sau đó họ đặt các lớp lithium aluminosilicate (gồm lithium, nhôm, silicon, oxy) lên phía trên màng nano, tạo nên một cấu trúc ba chiều.
+
+Phần lớn pin ngày nay có cấu trúc hai chiều. Cấu trúc ba chiều cho phép pin tích nhiều điện năng hơn trong cùng một đơn vị thể tích. Ngoài ra cấu trúc bề mặt giống như vải của pin cũng giúp chúng truyền điện sang các thiết bị một cách dễ dàng hơn.
+
+“Chúng tôi đang cố gắng nghiên cứu các giải pháp để pin siêu nhỏ đạt được mật độ năng lượng như pin lithium-ion truyền thống”, Jane Chang, một kỹ sư của Đại học California, tuyên bố.
+
+Mặc dù vài năm nữa những quả pin nhỏ như hạt muối mới xuất hiện trong điện thoại di động hay máy tính xách tay, song Philip Collins, một thành viên trong nhóm nghiên cứu, dự đoán rằng trong tương lai chúng có thể cấp điện cho mọi thứ - từ những robot siêu nhỏ tới các bộ phận cấy ghép trong y học.
+
+“Chúng ta có thể tạo ra những cảm biến nhỏ bằng hạt muối, nhưng chúng ta chưa tìm ra cách cấp điện hiệu quả cho chúng. Một ngày nào đó pin siêu nhỏ sẽ cấp điện cho cả những robot siêu nhỏ”, Collins cho biết.

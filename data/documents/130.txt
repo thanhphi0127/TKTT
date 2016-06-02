@@ -1,0 +1,18 @@
+﻿Những phím tắt thú vị cho bàn phím iPad
+
+Apple đã trang bị một số chức năng hữu ích cho bàn phím ảo trên máy tính bảng của họ nhưng không phải ai cũng biết đến.
+
+
+Bấm và giữ các phím chữ cái để truy cập một số chữ đặc biệt.
+
+Tương tự, giữ phím biểu tượng hoặc dấu câu để xem các biểu tượng ẩn khác.
+
+Chia đôi bàn phím: Vào Settings -> General -> Keyboard để kích hoạt. Sau đó, người dùng có thể bấm và giữ nút bàn phím để chia đôi (split) hoặc undock.
+
+Khi bàn phím chia đôi, bạn có thể bấm vào màn hình để sử dụng các phím ẩn như ở ảnh trên (vị trí các chữ cái màu đỏ).
+
+Còn undock nghĩa là bạn có thể di chuyển bàn phím sang các vị trí khác nhau trên màn hình.
+
+Khi soạn e-mail, giữ phím chấm câu để chọn nhanh đuôi e-mail như .com, .org...
+
+Gõ phím cách hai lần để vừa chấm câu vừa cách chữ.

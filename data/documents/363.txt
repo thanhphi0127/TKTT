@@ -1,0 +1,33 @@
+﻿Nắng nóng, sao ta không tận dụng năng lượng mặt trời?
+
+Trong những ngày nắng nóng như đợt vừa qua, tôi nhận thấy chúng ta đã và đang bỏ qua một nguồn năng lượng sạch rất cần thiết cho con người. 
+> Hà Nội nắng nóng kỷ lục
+> Nắng thiêu đốt toàn cầu
+
+Tôi tên Lê Xuân Long đang sống tại TP. Lào Cai, là độc giả thường xuyên của VnExpress.net. Tôi rất quan tâm đến các ý tưởng của các độc giả về vấn đề năng lượng sạch và tận dụng năng lượng phục vụ cho cuộc sống. Hôm nay tôi nêu ra ý tưởng này có lẽ cũng không phải là mới nhưng tôi lại cảm thấy nó rất khả thi vì vừa có thể phục vụ sinh hoạt trong đời sống của nhân dân, vừa đem lại hiệu quả kinh tế. Tôi mạo muội xin nêu ra để bạn đọc cùng nhau phân tích và góp ý. 
+
+1. Đặt vấn đề:
+
+Nước ta là một nước nhiệt đới nên có cường độ ánh sáng rất cao, đặc biệt là các khu đô thị nếu các mái nhà được lắp các tấm pin năng lượng mặt trời thì vừa có tác dụng chống nóng lại vừa tận dụng đường nguồn năng lượng sạch này. Trong điều kiện thiếu điện và nước như hiện nay, chúng ta đang phải bỏ ra hàng ngàn tỷ đồng xây dựng các nhà máy điện nhưng vẫn không đáp ứng đủ nhu cầu sử dụng điện, hàng ngày ở các khu đô thị vẫn phải thường xuyên cắt điện luôn phiên, ở các vùng nông thôn thì việc cắt điện diễn ra như cơm bữa.
+
+Đứng trước thực trạng đó thì việc có một nguồn năng lượng bổ sung phục vụ cho nhu cầu sinh hoạt hàng ngày làm giảm gánh nặng điện quốc gia là vô cùng cần thiết. Do đó, ý tưởng này có thể mang lại một hiệu quả cao nếu được thực hiện thành công!
+
+2. Giải pháp:
+
+Nghiên cứu đầu tư xây dựng một nhà máy sản xuất pin mặt trời để từ đó sản xuất ra các máy phát điện mini sử dụng năng lượng mặt trời. Nguyên lý hoạt động của máy phát rất đơn giản: Khi ánh sáng mặt trời chiếu vào các tấm pin thì nó được chuyển hoá thành điện năng được dự trữ trong các bình ắc quy để phục vụ cho sinh hoạt. Công nghệ sản xuất pin mặt trời thì đã có từ lâu chỉ có điều là giá thành còn quá cao do chưa được sản xuất theo dây truyền đại trà. Nếu chúng ta có thể đầu tư một nhà máy sản xuất với số lượng lớn với giá thành vửa phải khoảng dưới 10 triệu đồng một bộ thì việc nhà nhà dùng năng lượng mặt trời là khả thi rất cao.
+
+3. Ứng dụng:
+
+Mỗi hộ dân sẽ sử dụng 1, 2 hoặc nhiều hơn nữa các bộ máy phát điện sử dụng năng lượng mặt trời tuỳ theo điều kiện kinh tế và nhu cầu sử dụng, biến các hộ gia đình thành những nhà máy điện mini có thể tự đáp ứng một phần nhu cầu về điện thì trước tiên người dân sẽ là người hưởng lợi vì chi phí tiền điện hàng tháng sẽ giảm đi lại không hay bị cắt điện, rồi chính phủ được lợi vì không phải đau đầu cho xây dựng thêm những nhà máy điện tốn kém và giải bài toán nan giải về điện.
+
+Thứ ba là người đứng ra xây dựng nhà máy và bán các bộ máy phát điện sẽ thu được nguồn lợi không nhỏ. Tôi tính nước ta hiện có hơn 80 triệu dân với gần 20 triệu hộ gia đình, nếu trong số này có một nửa số hộ gia đình sử dụng tức là 10 triệu hộ tôi làm một bài toán như sau:
+
+- Doanh thu bán máy phát điện năng lượng mặt trời = 10.000.000 máy x 10.000.000 đồng = 10.000 tỷ.
+
+- Số điện năng tiết kiệm được:
+
+Nếu tính công xuất trung bình của mỗi máy phát là 200 W hoạt động trong 8h đồng hồ/ngày
+
+200 W x 8 h x 10.000.000 máy = 16.000.000.000 Wh = 16.000 megawatt (gấp 8,3 lần công suất của nhà máy thủy điện Hoà Bình).
+
+Trên đây là một ý tưởng nhỏ mà tôi nghĩ sẽ rất khả thi và hiệu quả cao nếu được ứng dụng phổ biến trong nhân dân. Rất mong các bạn cùng tôi nghiên cứu, bổ sung góp ý và cũng mong các ngành có chức năng quan tâm nghiên cứu để có thể đưa ý tưởng trên thành hiện thực đem lại lợi ích to lớn cho quốc gia và cho nhân dân.

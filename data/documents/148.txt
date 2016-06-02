@@ -1,0 +1,20 @@
+﻿Notebook 'biến hình' lên ngôi tại Computex 2012
+
+Tại triển lãm công nghệ đang diễn ra ở Đài Loan, nhiều "tư tưởng lớn" đã gặp nhau khi Samsung, Asus, Acer... cùng giới thiệu sản phẩm có thiết kế giống nhau như notebook cảm ứng, bàn phím rời hoặc có hai màn hình...
+>Vũ khí chống lại Apple của Intel và Microsoft
+
+Những sản phẩm được công bố mô tả rõ nét xu hướng của các nhà sản xuất châu Á năm nay là phát triển laptop dùng màn hình cảm ứng và chạy Windows 8. Đặc biệt hơn, xu hướng đó hội tụ trong các sản phẩm lai (hybrid) có khả năng biến hóa, chuyển đổi linh hoạt giữa tablet và notebook.
+
+Động lực cho ra đời thiết bị lai xuất phát từ nền tảng Windows 8. Khác với thế hệ cũ, hệ điều hành của Microsoft hỗ trợ cả giao diện desktop truyền thống lẫn Metro cho các thiết bị cảm ứng. Microsoft có mối quan hệ mật thiết với các nhà sản xuất máy tính Windows, do đó họ biết cách thuyết phục các đối tác phần cứng ưu tiên ưu tiên đưa màn hình cảm ứng vào laptop và desktop để khai thác sức mạnh của Metro (dù giá máy có thể tăng lên ít nhất 100 USD).
+
+Tuy nhiên, máy tính tích hợp màn hình cảm ứng thôi là chưa đủ. Microsoft cần đến một dòng thiết bị đột phá, không phải ultrabook (vẫn bị coi là MacBook Air chạy Windows) hay tablet (đang chịu sức ép lớn từ iPad) để chinh phục người sử dụng. Giới phân tích tin rằng đó sẽ là thiết bị dạng hybrid (lai), mang đến giải pháp "vẹn cả đôi đường": nó vừa là một laptop với cấu hình mạnh cho công việc nhưng vừa là tablet phục vụ giải trí với giao diện Metro và kho ứng dụng phong phú.
+
+
+Asus Transformer Book với màn hình rời.
+Dự đoán đó đang trở thành hiện thực, ít ra là tại triển lãm Computex 2012. Hãng Asus giới thiệu laptop Taichi - sản phẩm họ tuyên bố là "một sự đột phá". Khi mở nắp, nó là máy tính xách tay 13,3 inch và bàn phím Qwerty kích thước chuẩn, còn khi đóng lại, nó trở thành tablet 11,6 inch cảm ứng đa điểm. Sản phẩm thứ hai mà Asus giới thiệu là ultrabook Transformer Book với màn hình tháo rời để hoạt động như một tablet độc lập.
+
+Ngay sau đó, đến lượt Samsung công bố Series 5 Ultra Convertible có phần nắp máy có thể gập ra phía sau để biến thành máy tính bảng. Công ty MSI cũng trình làng mẫu Slider S20 sử dụng bàn phím trượt để hoạt động như một laptop hoặc tablet (dù không thể tháo rời).
+
+
+Samsung Ultra Convertible với màn hình gập ngược.
+Cả bốn sản phẩm trên đều có cấu hình cao với chip Core i thế hệ ba (Ivy Bridge) trên nền kiến trúc x86. Do đó, chúng là giải pháp phù hợp những ai vừa muốn mua laptop để làm việc, vừa muốn sở hữu tablet. Dù vậy, mối quan tâm lớn nhất của người dùng là giá bán lại chưa được các hãng nào tiết lộ, trừ MSI cho biết máy sẽ được phân phối vào tháng 9 với giá dao động từ 996 USD đến 1.121 USD.

@@ -1,0 +1,20 @@
+﻿Phi thuyền biết 'hy sinh'
+
+Cơ quan Hàng không vũ trụ Mỹ (NASA) tuyên bố những tàu vũ trụ tương lai sẽ có khả năng tự hủy diệt khi chúng gặp sự cố nghiêm trọng.
+
+
+Ảnh minh họa: esa.itn.
+Theo Newscientist, NASA cho rằng một ngày nào đó loài người sẽ không phóng các tàu vũ trụ cỡ lớn nữa. Thay vào đó các đội phi thuyền cỡ nhỏ sẽ thực hiện những nhiệm vụ trong vũ trụ. Chẳng hạn, nếu muốn phóng kính thiên văn lên vũ trụ, người ta sẽ không sản xuất kính thiên văn nữa, mà đưa một đội tàu lên không gian. Sau đó các tàu dàn đội hình thành kính thiên văn.
+
+Tuy nhiên, nếu chẳng may một phi thuyền trong đội hỏng hay gặp sự cố, nó có thể ngừng hoạt động và đâm trúng một phi thuyền khác. Để những vụ va chạm như vậy không xảy ra, các phi thuyền phải có khả năng tự nhận biết “ngày tận số” của chúng và tự hủy diệt hoặc tách khỏi đội hình. Chẳng hạn, khi gặp sự cố nghiêm trọng và chỉ còn rất ít thời gian để tồn tại, tàu sẽ tự xả điện ra khỏi pin, đẩy nhiên liệu ra khỏi thùng chứa, tắt mọi hệ thống điện để giảm thiểu thiệt hại nếu va chạm với tàu khác. Những tàu khác được lập trình để có khả năng tránh những tàu "chết".
+
+Để biến hành động “hy sinh” của tàu vũ trụ thành hiện thực, Michael Vinchey và Emil Vassev - hai kỹ sư thuộc Trung tâm bay vũ trụ Goddard của NASA – tạo ra một phần mềm điều khiển đặc biệt dành cho tàu vũ trụ. Phần mềm này tự động hướng dẫn mọi phi thuyền trong một đội khi chúng làm nhiệm vụ trong không gian, đồng thời liên tục kiểm tra các hệ thống điện tử trong mỗi tàu.
+
+Khi máy tính phát hiện sự cố không thể khắc phục trong một phi thuyền bất kỳ, phi thuyền đó phải lập tức chuyển sang chế độ tự hủy. Vinchey và Vassev ví hành động tự hủy của tàu vũ trụ với cách thức hoạt động của bầy ong. Những con ong thợ sẵn sàng làm mọi việc để, kể cả hy sinh tính mạng của chúng, để đảm bảo khả năng sinh sản của ong chúa. Hai kỹ sư vừa yêu cầu chính phủ Mỹ cấp bằng sáng chế cho phần mềm điều khiển tàu vũ trụ của họ.
+
+Đây không phải lần đầu tiên giới khoa học đề cập tới khả năng tự hủy của tàu vũ trụ. Trung tâm vũ trụ Surrey tại Anh đang thiết kế một loại phi thuyền hoạt động nhờ những tấm pin năng lượng mặt trời. Sau khi tàu hoàn thành nhiệm vụ và lao vào bầu khí quyển của trái đất, những tấm pin được giương lên để hãm tốc độ lao của tàu. Sự cọ xát giữa không khí với các tấm pin cũng khiến tàu bốc cháy. Cơ quan Thám hiểm vũ trụ Nhật Bản cũng lên kế hoạch chế tạo những vệ tinh nhân tạo có khả năng tự hủy để tiêu diệt rác vũ trụ hoặc thiên thạch. Sau khi "bám" vào mục tiêu vệ tinh sẽ tự kích hoạt động cơ tên lửa để đẩy mục tiêu vào bầu khí quyển trái đất. Mục tiêu sẽ bị đốt cháy trong quá trình cọ xát với không khí.
+
+Richard Holdaway, giám đốc công nghệ vũ trụ của Phòng thí nghiệm Rutherford Appleton tại Anh, nói rằng ý tưởng tàu vũ trụ tự hủy của NASA đang thu hút sự chú ý của các nước châu Âu. Theo ông, đó là ý tưởng mà các nhà khoa học muốn áp dụng trong các chuyến thám hiểm vũ trụ trong tương lai.
+
+“Một phi đội gồm 10 tới 100 tàu vũ trụ được trang bị radar, cảm biến quang học và cảm biến hồng ngoại sẽ thực hiện được rất nhiều nhiệm vụ khoa học. Nhưng sự phối hợp giữa các phi thuyền là một thách thức kỹ thuật to lớn. Cơ chế tự hủy diệt để bảo toàn đội hình là một ý tưởng sáng suốt”, ông nhận xét.
+

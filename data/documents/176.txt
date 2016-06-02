@@ -1,0 +1,16 @@
+﻿'Quy tắc 10 giây' của Facebook phá bẫy ảnh nude
+
+Tình trạng phát tán ảnh, clip chứa virus mà nhiều thành viên Việt Nam từng "dính" sẽ được xử lý đáng kể khi Facebook quy định: người dùng phải xem, đọc ít nhất 10 giây thì nội dung đó mới được phép xuất hiện trên Timeline.
+>'Bẫy' Rihanna hoành hành trên cộng đồng Facebook Việt
+
+Thời gian qua, kẻ xấu đã tìm cách khai thác lỗ hổng trên một số trình duyệt web nhằm phát tán các đường link mà họ khẳng định là chứa ảnh khỏa thân hoặc clip sex của người nổi tiếng như Rihanna, Miley Cyrus, Anne Hathaway...
+
+
+Bẫy ảnh nude lan tràn trên Facebook Việt thời gian qua.
+Nếu cả tin bấm vào link, hệ thống của họ nhiễm virus ngay lập tức. Không những thế, virus còn "mượn" tài khoản của người dùng để đăng link lên trang cá nhân của bạn bè cùng lời nhận xét như: "Thật sự thất vọng về Rihanna"... Nhầm tưởng là nội dung an toàn, bạn bè sẽ mở ra xem mà không chút nghi ngờ. Không ít người sau khi dính bẫy đã cảm thấy xấu hổ và bực mình vì vừa bị biến thành công cụ spam vừa bị virus "tố cáo" rằng họ cũng tò mò xem ảnh khỏa thân.
+
+Trước tình trạng này, Facebook đã đưa ra một giải pháp thông minh rằng người sử dụng phải xem một nội dung ít nhất 10 giây (nếu video ngắn hơn 10 giây thì họ phải xem trọn vẹn video) thì công cụ phát tán tự động mới phát huy tác dụng, tức khi đó nội dung mới có thể được chia sẻ lên Timeline của bạn bè họ.
+
+Các ứng dụng video cũng phải có lựa chọn để người dùng có thể thoát khỏi clip sau khi mở video. Nguyên tắc này sẽ ngăn chặn được các chương trình spam đang hoành hành hiện nay như Viddy hay Socilacam.
+
+"Cuộc chiến bảo mật luôn cần một giải pháp đa chiều. Ngoài một đội ngũ chuyên về luật, chúng tôi cũng có một nhóm kỹ sư và chuyên gia an ninh trong việc bảo vệ hệ thống và ngăn chặn hacker", Andrew Noyes, phát ngôn viên của Facebook, từng chia sẻ.

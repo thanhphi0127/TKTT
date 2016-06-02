@@ -1,0 +1,21 @@
+﻿Con người có thể viết bằng ý nghĩ
+
+Các nhà khoa học Mỹ vừa phát triển một chương trình máy tính cho phép người sử dụng viết chữ và số trên màn hình bằng cách nghĩ về chúng.
+
+Telegraph cho biết, một nhóm chuyên gia thần kinh lập trình một phần mềm có khả năng chuyển tín hiệu trên vỏ não thành tín hiệu trên máy tính. Sau đó họ cấy những điện cực nhỏ xíu trên vỏ não của hai bệnh nhân (bằng kỹ thuật rạch vỏ não). Những điện cực này theo dõi hoạt động trao đổi tín hiệu giữa các tế bào thần kinh.
+
+Nhóm nghiên cứu cho bệnh nhân xem một bảng gồm 36 ô (6 ô ngang x 6 ô dọc), trong đó mỗi ô có một chữ hoặc số. Họ yêu cầu bệnh nhân tập trung ý nghĩ vào một chữ hoặc số duy nhất trên bảng.
+
+
+Ảnh minh họa của brainstatetech.com.
+Khi bệnh nhân nhìn vào một ký tự, tín hiệu mà não phát ra được gửi tới máy tính thông qua điện cực. Phần mềm chuyển tín hiệu não thành tín hiệu điện tử và ký tự hiện ra trên màn hình máy tính.
+
+Tiến sĩ Jerry Shih, trưởng nhóm nghiên cứu, cho biết, kỹ thuật trên được gọi là “viết bằng sóng ở vỏ não” (viết tắt là EcoG).
+
+Theo Telegraph, hiện nay các nhà khoa học thường sử dụng kỹ thuật viết bằng máy ghi điện não (đặt các điện cực lên da đầu để ghi điện não). Tuy nhiên, EcoG cho kết quả chính xác hơn nhiều.
+
+“Sự khác biệt về chất lượng thông tin giữa kỹ thuật ghi điện vỏ não và kỹ thuật ghi điện não là rất lớn”, tiến sĩ Shih nói.
+
+Nhóm nghiên cứu tin rằng phần mềm của họ có thể dẫn tới sự ra đời của một hình thức giao tiếp mới dành cho người bị liệt hoặc mắc bệnh về thần kinh. Ngoài ra nó cũng có thể giúp các nhà khoa học chế tạo những bộ phận nhân tạo nhận lệnh trực tiếp từ não, như chân và tay giả.
+
+Shih cho rằng trong tương lai, mọi thiết bị hoạt động bằng sóng não của người sẽ đủ nhỏ để có thể cấy vào hộp sọ. Ngoài ra phần mềm sẽ được thiết kế riêng cho từng cá nhân.

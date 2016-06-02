@@ -1,0 +1,32 @@
+﻿Những vị trí được trả lương cao nhất tại Apple và Google
+
+Trong khi Apple ưu ái nhất đội ngũ thiết kế thì các chuyên gia phần mềm lại được trọng dụng ở Google.
+
+Dữ liệu do công ty phân tích Glassdoor thu thập cho thấy việc đánh giá tầm quan trọng của mỗi vị trí có sự khác nhau giữa Apple và Google. Tuy nhiên, điều thú vị là trong công ty có khối lượng dữ liệu khổng lồ như Google, lương của nhà quản trị database lại không thuộc hàng top còn công việc này lại được quan tâm đặc biệt ở Apple.
+
+Các công việc 'hot' tại Apple:
+
+
+Quản lý mỹ thuật (133.664 USD mỗi năm): Steve Jobs từng nói rằng Apple là một công ty giao thoa giữa thiết kế và công nghệ. Nhờ sự cảm nhận tinh tế về nghệ thuật, vẻ đẹp và âm nhạc, sản phẩm của họ trở nên khác biệt so với đối thủ. Do đó, những người chịu trách nhiềm về bề ngoài và giao diện tương tác của thiết bị luôn đóng vai trò then chốt ở Apple (nhà thiết kế Jonathan Ive được cho là hưởng lương cao hơn rất nhiều con số trên).
+
+Chuyên gia phần mềm cao cấp (126.325 USD): Họ được trả cao hơn các kỹ sư phần cứng bởi những chương trình họ làm ra từ bản đồ cho đến ứng dụng đều tác động trực tiếp đến trải nghiệm người dùng.
+
+Chuyên gia phần cứng cao cấp (124.893 USD): Là một công ty có những thiết bị dẫn đầu thị trường, phần cứng cũng đóng vai trò sống còn với Apple nên người làm ở vị trí này cũng được hưởng mức lương rất cao.
+
+Giám đốc sản phẩm (118.556 USD): Họ là người đảm bảo mỗi sản phẩm khi được xuất xưởng phải đáp ứng được các yêu cầu về chất lượng của Apple và tương tác với mọi bộ phận từ thiết kế, phần cứng, phần mềm cho tới marketing.
+
+Kỹ sư thiết kế sản phẩm (116.019 USD): Không cần đảm nhận chức vụ quan trọng, các chuyên gia thiết kế tại Apple cũng được chăm sóc với mức lương cao.
+
+Quản trị cơ sở dữ liệu (105.382 USD): Apple luôn phải xử lý hàng tấn dữ liệu như các ứng dụng trong App Store và phải đảm bảo những dịch vụ kết nối web như Siri hoạt động ổn định. Đây là nhiệm vụ của đội ngũ quản trị database.
+
+Kỹ sư phần cứng (105.316 USD): Apple về cơ bản là một công ty phần cứng nên người tham gia công việc này có thể yên tâm về thu nhập của mình.
+
+Chuyên gia kiểm định (104.926 USD): Họ thực hiện những khâu nghiêm ngặt để kiểm tra sản phẩm có đáp ứng được tiêu chuẩn Apple hay không và đảm bảo máy được xuất xưởng không bị lỗi.
+
+Kỹ sư phát triển firmware - phần mềm hệ thống (103.985 USD): Họ chịu trách nhiệm để mọi phần mềm hoạt động tốt với phần cứng. Đây là vị trí yêu cầu cao vì họ phải có kinh nghiệm cả về phần cứng lẫn phần mềm.
+
+Kỹ sư phần mềm (103.883 USD): Mức lương này cao hơn một chút so với các đồng nghiệp tại Google.
+
+Kỹ sư hệ thống cao cấp (101.794 USD): Đây là vụ trí cao cấp được trả lương thấp nhất tại Apple, nhưng vẫn gấp đôi những nhân viên làm việc ở các đại lý bán lẻ.
+
+Những công việc dưới 100.000 USD/năm ở Apple: Kỹ sư hệ thống (94.119 USD), Phân tích kinh doanh (87.768), Chuyên gia đảm bảo chất lượng phần mềm (87.651 USD), Chuyên gia phân tích tài chính (81.253 USD), Trưởng phòng kế toán (75.324 USD), nhân viên tại các Apple Store (38.937-49.176 USD).

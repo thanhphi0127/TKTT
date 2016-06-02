@@ -1,0 +1,15 @@
+﻿Robot hỗ trợ công nhân trong nhà máy điện hạt nhân
+
+Một công ty Nhật Bản chế tạo bộ khung máy có khả năng hỗ trợ người lao động trong các nhà máy điện hạt nhân.
+
+Bộ khung robot, mang tên Hybrid Assistive Limb (HAL), được nâng cấp từ một bộ khung đã ra đời trước. Nó là sản phẩm của Cyberdyne, một công ty có trụ sở ở phía đông bắc thành phố Tokyo, AFP đưa tin.
+
+Trước đây công nhân trong các nhà máy điện hạt nhân mặc áo vest được chế tạo từ nguyên tố vonfram. Áo vest đặc biệt đó có khả năng ngăn chặn chất phóng xạ xâm nhập cơ thể, song khối lượng của nó lên tới 60 kg - một yếu tố cản trở hoạt động của công nhân. Bộ khung robot HAL sẽ chống đỡ khối lượng của áo vest, giúp công nhân cử động dễ dàng và nhanh trong quá trình làm việc trong nhà máy.
+
+
+HAL giúp người làm việc trong các nhà máy điện hạt nhân di chuyển và cử động dễ dàng cùng với chiếc áo vest chống phóng xạ có khối lượng tới 60 kg. Ảnh: AFP.
+“Chúng tôi hy vọng HAL sẽ làm giảm nguy cơ tai nạn khi công nhân lao động trong những môi trường khắc nghiệt, đồng thời góp phần vào nỗ lực phục hồi hoạt động của nhà máy sau các thảm họa”, thông cáo của Cyberdyne nêu.
+
+Những cảm biến hiện đại nhất giúp HAL theo dõi những tín hiệu điện từ não tới các cơ. Vì thế nó có thể “đoán” những cử động mà người sử dụng sắp thực hiện, đồng thời đưa ra những phương án hỗ trợ hợp lý. HAL lấy điện từ pin.
+
+HAL có thể trở thành công cụ hữu ích đối với nỗ lực khắc phục cuộc khủng hoảng trong nhà máy điện hạt nhân Fukushima I của Nhật Bản. Tuy nhiên, công ty điện lực Tokyo – chủ sở hữu nhà máy Fukushima I – chưa quyết định về việc sử dụng HAL hay không.

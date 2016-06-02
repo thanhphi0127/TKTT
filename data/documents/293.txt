@@ -1,0 +1,27 @@
+﻿Người máy sẽ ra chiến trường
+
+Bộ Quốc phòng Mỹ vừa ký hợp đồng chế tạo loại robot có hình dạng giống người và con báo để hỗ trợ binh lính trên trận địa.
+> Chó máy biết chạy, leo trèo và khuân vác
+
+
+Mô hình báo máy của công ty Boston Dynamics. Ảnh: Boston Dynamics.
+New York Daily News đưa tin Boston Dynamics - một công ty chế tạo máy có trụ sở tại bang Massachusetts, Mỹ - vừa trúng thầu dự án chế tạo hai robot chiến trường mới dành cho quân đội. Lầu Năm Góc yêu cầu Boston Dynamics chế tạo một robot hình người và một robot hình con báo. Chúng phải có khả năng thực hiện nhiều động tác phức tạp và chạy với tốc độ hơn 110 km/h.
+
+Boston Dynamics cho biết, Atlas, tên của robot hình người, sẽ có hai tay và hai chân nhưng không có đầu. Nó có thể bước, leo dốc, luồn lách và sử dụng đôi tay.
+
+Hiện tại Boston Dynamics đang sản xuất một robot hình người. PETMAN, tên của loại robot này, được sử dụng trong các thử nghiệm trang phục chống vũ khí hóa học. Atlas sẽ có nhiều tính năng cao cấp hơn so với PETMAN.
+
+Xem người máy PETMAN
+Cheetah, tên của robot hình con báo, có khả năng bước, chạy nước rút, chuyển hướng, chạy ngoằn nghèo trên bốn chân.
+
+Mặc dù “báo máy” có thể chạy nhanh hơn người và thích hợp với nhiệm vụ truy kích kẻ thù, Boston Dynamics, khẳng định họ không chú trọng vào khả năng chiến đấu của nó. Thay vào đó công ty sẽ nâng cấp báo máy để nó phục vụ các lĩnh vực đời sống.
+
+“Chúng có thể tham gia cứu hộ, vận tải, làm nông nghiệp và cứu hỏa, chứ không chỉ tham gia chiến trận”, Marc Raibert, chủ tịch công ty Boston Dynamics, phát biểu với báo Boston Herald.
+
+Phiên bản đầu tiên của Cheetah sẽ được hoàn thành trong 20 tháng tới. Các kỹ sư của Boston Dynamics hy vọng nó có thể chạy được 50 km/h.
+
+Năm 2008 Boston Dynamics trở thành tâm điểm của các báo công nghệ trên thế giới sau khi công ty công bố đoạn video về chó máy BigDog trên mạng Internet.
+
+BigDog có kích thước tương đương một con chó lớn. Chân của nó gồm ba khớp xương nối tương tự như chó thật. Những khớp xương có thể thay đổi vị trí tới 500 lần/giây, giúp chó máy giảm chấn động khi di chuyển và thích nghi với địa hình nhấp nhô và dốc. Nhờ đó BigDog có thể đi trên đường núi gập ghềnh mà các loại xe bánh lốp không thể đi qua, đồng thời không gây tiếng động mạnh.
+
+Trong các thử nghiệm chó máy có thể chạy với tốc độ 6,4 km/h, leo những dốc nghiêng tới 35 độ và bước qua những đống gạch vụn với 153 kg hàng hóa trên lưng.

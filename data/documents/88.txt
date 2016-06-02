@@ -1,0 +1,13 @@
+﻿Nhiều công ty tranh nhau các tên miền mới lạ
+
+Hệ thống domain Internet sẽ được mở rộng và có cả những đuôi như .lol (chỉ tiếng cười) hay .apple nhưng đó vẫn chưa phải là những cái tên được nhiều người mong sở hữu nhất.
+>Google đăng ký tên miền mang biểu tượng tiếng cười
+
+Tổ chức tên miền quốc tế ICANN cho biết họ nhận được tới 13 đơn đăng ký mua .app, thể hiện xu hướng xây dựng ứng dụng cho thiết bị di động đang rất sôi động trên thế giới. Có 11 đơn đề nghị được cấp tên miền .home (gia đình) và .inc (công ty). Tiếp đến là .art (nghệ thuật) với 10 đơn, sau đó là .blog, .book, .shop, .llc, .design, .movie và .music.
+
+
+Chủ tịch ICANN Rod Beckstrom công bố một loạt tên miền mới tại một sự kiện ở London ngày 13/6. Ảnh: AP.
+Microsoft và Google sẽ phải "đối đầu" với nhau vì cùng muốn mua .docs và .live. Tuy nhiên, cuộc chiến lớn nhất lại là giữa Google và Amazon khi cả hai cùng đăng ký tới 20 đuôi tên miền giống hệt nhau là .book, .buy, .dev, .drive, .free, .game, .mail, .map, .movie, .music, .play, .search, .shop, .show, .spot, .store, .talk, .wow, .you và .cloud. Đây cũng là hai công ty nộp đơn nhiều nhất với Google là 102 còn Amazon là 76. Microsoft đề xuất 11 tên mới còn Apple gửi đi một đơn duy nhất cho đuôi .apple.
+
+Tổng cộng, ICANN đã nhận được 1.930 thư đăng ký, trong số đó còn có một số tên miền kỳ cục như .wtf, .sucks (câu chửi thề)... hoặc nhạy cảm như .sex, .adult, .porn. Những domain mới sẽ được triển khai đầu năm 2013. Chi phí mua mỗi tên miền cấp cao lên tới 185.000 USD và phí duy trì hàng năm 25.000 USD.
+

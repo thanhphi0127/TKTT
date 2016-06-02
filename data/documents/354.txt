@@ -1,0 +1,17 @@
+﻿Vi khuẩn có thể giúp ô tô chạy
+
+Con người có thể sử dụng một loại enzyme của vi khuẩn để sản xuất nhiên liệu dành cho động cơ ô tô.
+
+
+Nhờ vi khuẩn Azotobacter vinelandii, trong tương lai con người có thể dùng khí thải của ô tô để sản xuất nhiên liệu dành cho động cơ. Ảnh: thomasnet.com.
+Discovery cho biết, Azotobacter vinelandii là tên của một chủng vi khuẩn khá phổ biến trong rễ cây. Chúng tạo ra vanadium nitrogenase - một enzyme có khả năng sản xuất amoniac từ khí nitơ (N).
+
+Markus Ribbe, một nhà nghiên cứu của Đại học California tại Mỹ, nhận thấy, trong môi trường chỉ có khí carbon monoxide (CO), vanadium nitrogenase tự động tạo ra những chuỗi phân tử carbon ngắn gồm hai hoặc ba nguyên tử. Vì thế ông khẳng định khẳng định các nhà khoa học có thể tác động vào vanadium nitrogenase để enzyme này tạo ra dầu mỏ. Trên thực tế dầu mỏ là hỗn hợp của các chất hydrocarbon.
+
+“Đây là phát hiện mang tính đột phá. Nó sẽ mở đường cho sự ra đời của nhiều ứng dụng quan trọng trong công nghiệp”, Jonas Peters, một chuyên gia của Viện Công nghệ California tại Mỹ, phát biểu với Discovery.
+
+Tuy nhiên, điều khiến các nhà khoa học phấn khích nhất là khả năng sử dụng vanadium nitrogenase để chế tạo nhiên liệu dành cho động cơ.
+
+Quá trình đốt trong không hoàn toàn khiến ô tô thải ra khí CO. Như vậy, trong tương lai các nhà khoa học có thể dùng chính khí thải của ô tô để sản xuất nhiên liệu cho xe. Thậm chí chúng ta còn có thể tạo ra nhiên liệu trực tiếp từ không khí. Hiện nay công nghệ biến CO2 thành CO đã được ứng dụng. Do khí CO2 khá phổ biến trong bầu khí quyển, ô tô chỉ cần mang theo một thiết biến CO2 thành CO. Sau đó vanadium nitrogenase biến CO thành xăng.
+
+Mặc dù vậy, con đường phía trước còn rất dài, bởi theo tiến sĩ Ribbe, sản xuất và bảo quản một lượng vanadium nitrogenase là công việc cực kỳ khó khăn. Cách đây hơn 20 năm giới khoa học đã phát hiện những gene giúp vi khuẩn tạo ra vanadium nitrogenase, song công nghệ sản xuất enzyme này với số lượng lớn mới ra đời gần đây.

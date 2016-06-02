@@ -1,0 +1,13 @@
+﻿Mozilla phát triển trình duyệt cho iPad
+
+Công ty này cho ra mắt phần mềm lướt web trên máy tính bảng iPad với tên Junior và sẽ cạnh tranh trực tiếp với đối thủ Apple Safari.
+
+Theo Alex Limi, nhân viên cao cấp của Mozilla, Junior sẽ giúp người dùng thoải mái, vui vẻ hơn khi truy cập Internet. Người này đồng thời cho rằng, Safari trên iOS là một trải nghiệm tồi tệ.
+
+"Chúng tôi muốn tạo ra một trình duyệt hoàn toàn mới thân thiện hơn với người sử dụng. Hiện tại Mozilla chưa có phần mềm nào ấn tượng trên iOS, một trong nền tảng di động phổ biến nhất hiện nay", Limi nói trong video trình diễn.
+
+Junior là trình duyệt toàn màn hình giúp tạo cảm giác như đang đọc quyển tạp chí. Thanh địa chỉ sẽ được ẩn đi và trên trang web chỉ xuất hiện 2 hệ thống nút cảm ứng mờ chứa các chức năng. Mozilla chưa công bố ngày phát hành chính thức trình duyệt của họ cho nền tảng iOS.
+
+
+Video trình diễn phần mềm Junior trên iPad.
+Junior không phải là đối thủ đầu tiên của Apple Safari. Trước đó, Yahoo cũng giới thiệu phần mềm lướt web Axis chạy trên iPad. Ngoài ra còn có loạt trình duyệt Atomic, Dolphin, Opera Mini, hay Skyfire...

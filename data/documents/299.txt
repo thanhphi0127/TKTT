@@ -1,0 +1,17 @@
+﻿Robot sẽ có mạng Internet riêng
+
+Các nhà khoa học châu Âu vừa khởi động một dự án để giúp robot lưu trữ và chia sẻ dữ liệu mà chúng tự thu thập từ thế giới xung quanh.
+
+
+Một robot có khả năng nấu nướng tại Nhật Bản. Ảnh: weirdthings.com.
+BBC cho biết, RoboEarth, tên của dự án do các nhà khoa học châu Âu thực hiện, sẽ tạo ra một nơi mà các robot có thể đưa dữ liệu lên và yêu cầu trợ giúp khi thực hiện một nhiệm vụ nào đó. Các nhà khoa học tham gia dự án hy vọng RoboEarth sẽ giúp các robot thực hiện các nhiệm vụ nhanh hơn.
+
+Tiến sĩ Markus Waibel, một chuyên gia của Viện Công nghệ liên bang Thụy Sĩ, cho biết, mục đích chính của RoboEarth là nghiên cứu các biện pháp để robot có thể mã hóa, trao đổi và khai thác tri thức nhiều lần.
+
+“Phần lớn robot hiện nay nhìn thế giới theo cách riêng của chúng và con người có rất ít tiêu chuẩn chung đối với dữ liệu của robot. Thực trạng này khiến các chuyên gia về robot gặp vô vàn khó khăn trong nỗ lực chia sẻ thông tin dù họ phải giải quyết các vấn đề giống hệt nhau. RoboEarth sẽ bao gồm kho dữ liệu kiêm hệ thống liên lạc”, Waibel nói.
+
+RoboEarth cung cấp những bản đồ về vị trí mà robot hoạt động, mô tả những vật thể mà chúng thấy và chỉ dẫn về cách hoàn thành những nhiệm vụ cụ thể. Cơ sở dữ liệu đó giống như trang Wikipedia trên mạng.
+
+“Wikipedia là thứ mà loài người sử dụng để chia sẻ tri thức. Mọi thành viên đều có thể biên tập, đóng góp kiến thức và truy cập dữ liệu. Một thứ tương tự như thế dành cho robot không hề tồn tại”, Waibel phát biểu.
+
+Waibel nhận định con người sẽ hưởng nhiều lợi ích nếu một robot có thể tới một nơi mà chúng chưa từng thấy, truy cập RoboEarth để tham khảo thông tin về những vật thể, nhiệm vụ cần làm ở nơi đó. Chẳng hạn khi tiến vào một tòa nhà đổ vì động đất, robot có thể truy cập RoboEarth để học cách sử dụng các thiết bị cứu hộ, sơ cứu nạn nhân, di chuyển bên trong tòa nhà. Việc truy cập RoboEarth sẽ giúp chúng tiết kiệm rất nhiều thời gian khi thực hiện các nhiệm vụ mà con người giao.

@@ -21,20 +21,12 @@ import com.sun.org.apache.xalan.internal.xsltc.compiler.Template;
  */
 public class InvertedIndex {
 	public static Map<String, Map<Integer, Integer>> InvertedIndex;
-	public Map<String, Map<Integer, Integer>> wordCount;
-	public DocumentIndex documents;
-	//public Set<Integer> posting;
-	private int documentsSize;
 	
 	/**
 	 * 
 	 */
 	public InvertedIndex(){
-		//posting = new HashSet<Integer>();
-		//InvertedIndex = new HashMap<String, List<Integer>>();
 		InvertedIndex = new TreeMap<String, Map<Integer, Integer>>();
-		wordCount= new HashMap<String, Map<Integer, Integer>>();
-		documentsSize = 0;
 	}
 	
 	//Thêm từ vào chỉ mục
@@ -85,10 +77,4 @@ public class InvertedIndex {
 	public Map<String, Map<Integer, Integer>> getInvertedIndex(){
 		return InvertedIndex;
 	}
-	
-	
-	public Map<String, List<Integer>> xgetInvertedIndex(){
-		return null;
-	}
-	
 }

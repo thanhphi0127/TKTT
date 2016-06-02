@@ -13,8 +13,16 @@
 
 </head>
 <body>
-<%
+<%!
 String value = "";
+
+String checkNull(String s) {
+    return s == null ? "" : s;
+}
+%>
+
+<%
+
 try{
 	ServletContext applicationObject = getServletConfig().getServletContext();
 	value = (String)applicationObject.getAttribute("input");
@@ -29,10 +37,10 @@ try{
 		</div>
 		<div id="menu">
 			<ul>
-				<li class="current_page_item"><a href="#" accesskey="1" title="">Trang chủ</a></li>
+				<li class="current_page_item"><a href="index.jsp"" accesskey="1" title="">Trang chủ</a></li>
 				<li><a href="search.jsp" accesskey="2" title="">Tìm kiếm</a></li>
 				<li><a href="invertedindex.jsp" accesskey="3" title="">Lập chỉ mục</a></li>
-				<li><a href="introduction.jsp" accesskey="5" title="">Giới thiệu</a></li>
+				<li><a href="index.jsp" accesskey="5" title="">Giới thiệu</a></li>
 			</ul>
 		</div>
 	</div>
@@ -45,7 +53,7 @@ try{
 	<div id="featured-wrapper">
 		<div id="featured" class="extra2 margin-btm container">
 			<form class="form-wrapper cf" method="post" action="Search">
-				<input style="font:'Arial'" type="text" name="input_value" placeholder="Nhập từ khóa..." required value="<%=value%>">
+				<input style="font:'Arial'" type="text" name="input_value" placeholder="Nhập từ khóa..." required value="<%=checkNull(value)%>">
 				<button style="font:'Arial'" type="submit">Tìm kiếm</button>
 			</form>
 		</div>
@@ -58,10 +66,11 @@ try{
 					List<Integer> resultId = (List<Integer>) applicationObject.getAttribute("docIdResult");
 					List<Float> timeSearch = (List<Float>) applicationObject.getAttribute("timeSearch");
 					List<Integer> numResult = (List<Integer>) applicationObject.getAttribute("numResult");
+					String input = (String) applicationObject.getAttribute("input");
 					
 					if(numResult.get(0) > 0){
 						out.println("<div class = 'result'>Khoảng " + numResult.get(0) + " kết quả (" + timeSearch.get(0) + " giây) </div>");
-						out.println("<div class = 'result_input'>Hiển thị kết quả cho " + 1 + "</div>");
+						out.println("<div class = 'result_input'>Hiển thị kết quả cho <b>" + input + "</b></div>");
 					}
 
 					System.out.println(result.size());
@@ -69,7 +78,7 @@ try{
 						Iterator iterator = result.iterator(); 
 						Iterator iteratorId = resultId.iterator(); 
 						while (iterator.hasNext()){
-							out.println("<div class='rtitle'><a href=''>Tiêu đề nội dung tìm kiếm " + iteratorId.next() +"</a></div>");
+							out.println("<div class='rtitle'><a href=''>Tài liệu số thứ tự " + iteratorId.next() +"</a></div>");
 							out.println("<div class='rcontent'> " + iterator.next() + "</div>");
 							
 							//out.println("<div> Doc: " + iterator.next() + "</div>");  

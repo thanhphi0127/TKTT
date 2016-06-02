@@ -1,0 +1,23 @@
+﻿Pin sản xuất điện từ không khí
+
+Pin Lithium ion mà các máy tính xách tay và điện thoại di động sử dụng đang tiến tới gần giới hạn về kỹ thuật. Nhưng các nhà hóa học Anh khẳng định họ đã tìm ra cách để tăng lượng điện của loại pin này lên hàng chục lần.
+
+
+Mẫu pin sử dụng oxy của các nhà hóa học Anh. Ảnh: Newscientist.
+Pin Lithium ion (Li-Ion) tiêu chuẩn có một điện cực âm làm bằng than chì, điện cực dương bằng lithium cobalt oxide (LiCoO2) và chất điện phân chứa muối lithium. Các ion lithium di chuyển qua lại giữa hai điện cực trong quá trình nạp và xả điện, phóng điện tử (electron) ra mạch điện bên ngoài để phục vụ thiết bị.
+
+Theo Peter Bruce, một giảng viên của Đại học St Andrews (Anh), nhược điểm của pin Li-Ion là LiCoO2 chiếm nhiều không gian và khá nặng. Ông cho rằng có thể mượn ý tưởng từ loại pin kẽm dành cho thiết bị trợ thính. Những quả pin này tạo ra điện nhờ phản ứng giữa phân tử kẽm và oxy trong không khí. Vì thế Bruce hợp tác với các đồng nghiệp tại Đại học Strathclyde để chế tạo pin Li-Ion sử dụng oxy.
+
+Loại pin mới có mật độ năng lượng cao hơn so với pin Li-Ion do chúng không chứa điện cực dương làm bằng LiCoO2. Thay vào đó, điện cực dương được tạo nên bởi carbon xốp, còn các ion lithium được “nén” vào chất điện phân chảy qua tấm carbon.
+
+Khi pin xả điện, oxy từ không khí sẽ tràn qua một tấm màng để xâm nhập vào tấm carbon xốp – nơi nó phản ứng với các ion Lithium trong chất điện phân và electron từ mạch điện ngoài để hình thành Lithium oxit (Li2O) ở dạng rắn.
+
+Li2O dần dần chiếm chỗ hổng trong điện cực dương trong quá trình xả điện của pin. Nhưng khi pin được xạc điện Li2O sẽ phân li, giải phóng ion Lithium một lần nữa và thoát khỏi các lỗ hổng bên trong điện cực carbon. Oxy thoát ra sẽ quay trở lại không khí.
+
+“Bằng cách sử dụng oxy trong không khí, chúng ta sẽ giảm được khối lượng và thể tích của pin Li-Ion. Pin sử dụng oxy giống như pin nhiên liệu ở chỗ nó lấy chất phản ứng từ bên ngoài hệ thống”, Bruce nói.
+
+Quả pin thử nghiệm của nhóm Bruce có tỷ lệ năng lượng trên khối lượng là 4 Ampe/g, cao gấp 8 lần so với pin Li-Ion dành cho điện thoại di động. Nhóm thiết kế khẳng định nâng tỷ lệ này lên con số 10 là việc hoàn toàn khả thi. Trong khi đó, nếu cải tiến pin Li-Ion tiêu chuẩn thì người ta chỉ tăng được sản lượng điện lên gấp đôi.
+
+Nhà hóa học Saiful Islam, một chuyên gia về pin của Đại học Bath (Anh) nhưng không tham gia vào nghiên cứu nhận định: “Theo hiểu biết của tôi thì pin Lithium dùng không khí có khả năng tăng mật độ điện tích lên gấp 8-10 lần. Tuy nhiên, chúng ta vẫn cần phải nghiên cứu để tìm hiểu những quá trình xảy ra bên trong loại pin mới. Nó sẽ giúp tối ưu hóa công nghệ để pin sử dụng oxy có thể trở thành một sản phẩm thương mại”.
+
+Bruce và cộng sự đang tìm cách thu nhỏ kích thước của pin mới để chúng có thể nằm gọn trong các thiết bị điện tử di động.

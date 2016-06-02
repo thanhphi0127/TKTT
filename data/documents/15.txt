@@ -1,0 +1,27 @@
+﻿“Phẫu thuật” iPhone 5s: Không dễ nhưng cũng không khó sửa
+iPhone 5s mới chính thức được bán tại 10 thị trường đầu tiên và cùng với đó, trang iFixit cũng đã mổ xẻ chiếc smartphone mới nhất của Apple. Theo ý kiến nhận định, với số điểm 6/10 (10 là dễ nhất), iPhone 5s cũng không dễ nhưng cũng không khó sửa chữa.
+Theo iFixit, việc tháo lắp chiếc iPhone mới này khá dễ ở phần đầu như tháo màn hình, pin nhưng càng đi sâu vào trong càng khó khăn hơn, đặc biệt là phần cảm biến vân tay, nếu không cẩn thận có thể bung ra bất cứ lúc nào.
+Sau đây là những hình ảnh "phẫu thuật" iPhone 5s được thực hiện bởi iFixit:
+iPhone hoàn chỉnh
+Tháo máy bằng cách mở 2 chiếc ốc vít phía đuôi máy
+Mở máy bằng cụng cụ hút màn hình
+Và bằng tua vít
+Gỡ phần cáp để đưa màn hình vuông góc với máy
+Lấy pin
+Pin iPhone 5s
+Gỡ cáp kết nối màn hình
+Màn hình được lấy ra
+Gỡ phần nút Home (nơi có cảm biến dấu vân tay)
+Nút Home được tách riêng
+Tiếp theo, ta gỡ camera iSight
+iSight sau khi được gỡ ra
+Tiếp theo là phần Main (bo mạch chính), nơi có khe thẻ microSIM và loạt chip phía mặt sau
+Mô đun Wi-Fi của iPhone 5s
+tương tự iPhone 5
+Mặt trước bo mạch chính của iPhone 5s gồm chip điều khiển cảm ứng, bộ nhớ NAND Flash và chip quản lí năng lượng
+Mặt sau là VXL A7 cùng bộ phận kết nối LTE của Qualcomm
+Vị trí của A7 khá gần với khe thẻ microSIM
+Camera trước
+Sau khi tháo ra
+Đèn Flash kép
+Toàn bộ "ruột gan" của iPhone 5s

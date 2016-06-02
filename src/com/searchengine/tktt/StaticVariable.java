@@ -9,7 +9,9 @@ public class StaticVariable {
 	public static String INPUTPATH = PATH + "data//documents//";
 	public static String OUTPUTPATH = PATH + "data//tokenizes//";
 	public static String STOPWORDPATH = PATH + "data//stopwords//";
-		public static JVnTextPro jvnTextPro = new JVnTextPro();
+	public static JVnTextPro jvnTextPro = new JVnTextPro();
+	
+	public static String cmp = "•…\\_().,:\"“”\'/-+&;‘’?=–[]<>!";
 
 	public static void init(){
         jvnTextPro.initSenSegmenter(PATH + "models//jvnsensegmenter"); 

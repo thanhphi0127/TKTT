@@ -1,0 +1,19 @@
+﻿Lựu đạn biết 'nhìn' và đuổi theo mục tiêu
+
+Trong lúc giao tranh với nhiều tên khủng bố trong một tòa nhà kiên cố, những người lính ném một vật lạ vào trong tòa nhà. Sau khi quan sát xung quanh, vật lạ lặng lẽ di chuyển tới gần những tên khủng bố rồi phát nổ.
+
+
+Lựu đạn thông minh cho phép binh lính tiêu diệt những mục tiêu mà họ không nhìn thấy. Ảnh: Discovery.
+Câu chuyện trên không xuất hiện trong một bộ phim khoa học viễn tưởng, mà hoàn toàn có thể xảy ra trong thực tế. Discovery cho biết, công ty Hanwha ở Hàn Quốc đã chế tạo thành công một loại “lựu đạn thông minh”. Loại lựu đạn này, thực chất là một dạng robot cỡ nhỏ, có khả năng di chuyển theo sự điều khiển của người.
+
+Với khối lượng chỉ khoảng 670-700 g, lựu đạn thông minh có thân bằng nhựa kết nối với hai bánh cao su. Thân của nó chứa một camera nhỏ, thiết bị phát sóng radio, thuốc nổ và kíp nổ.
+
+Lựu đạn thông minh nằm gọn trong một vỏ bảo vệ. Khi được phóng nó vẫn nằm trong vỏ. Lựu đạn có thể di chuyển qua quãng đường tối đa 100 m để tới mục tiêu.
+
+Khi lựu đạn chạm đất, vỏ vỡ ra và di chuyển. Camera của nó cho phép người điều khiển đưa nó tới vị trí mong muốn và kích nổ.
+
+Kỹ sư Min Su Park, trưởng nhóm nghiên cứu lựu đạn thông minh của công ty Hanwha, khẳng định quân đội Hàn Quốc đã sử dụng sản phẩm của họ.
+
+Điểm yếu của lựu đạn thông minh là chúng không thể mang theo nhiều cảm biến như những robot to. Bên cạnh đó chúng không mang được pin to (nên thời gian hoạt động sẽ ngắn) và phạm vi hoạt động khá hẹp.
+
+Thách thức lớn nhất đối với công ty Hanwha là giảm khối lượng của lựu đạn thông minh, sao cho binh lính không cảm thấy nặng nhọc khi mang chúng.

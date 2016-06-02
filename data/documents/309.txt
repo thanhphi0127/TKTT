@@ -1,0 +1,23 @@
+﻿Lưu trữ thông tin trên vi khuẩn
+
+Rất có thể trong tương lai ổ cứng máy tính và ổ USB sẽ chứa vi khuẩn để thực hiện chức năng lưu trữ dữ liệu.
+
+
+Vi khuẩn E.coli bacterium. Ảnh: meningitis101.com.
+Vào năm 2007, một nhóm nghiên cứu của Đại học Keio tại Nhật Bản tuyên bố họ đã mã hóa thành công một công thức vật lý vào ADN của một vi khuẩn phổ biến trong đất. Họ chỉ ra rằng, do vi khuẩn sinh sản liên tục nên dữ liệu sẽ được truyền từ thế hệ này sang thế hệ khác. Nhờ đó một nhóm vi khuẩn đơn bào có thể lưu trữ dữ liệu trong vài nghìn năm.
+
+Nhưng nhóm sinh viên của Đại học Trung Quốc còn đạt được bước tiến xa hơn so với nhóm chuyên gia của Đại học Keio, AFP cho biết. Họ vừa tìm ra một số biện pháp để lưu trữ những dạng dữ liệu phức tạp hơn trong cơ thể E.coli bacterium – loại vi khuẩn ký sinh trong đường ruột của động vật máu nóng, bao gồm cả con người.
+
+Họ nén dữ liệu rồi cắt thành nhiều phần. Họ tách ADN ra khỏi vi khuẩn, mã hóa dữ liệu vào ADN rồi đặt nó vào một vi khuẩn khác. Quy trình này tương tự như biện pháp biến đổi gene ở thực vật.
+
+Số lượng vi khuẩn là vô tận nên không có bất kỳ giới hạn nào đối với lượng dữ liệu mà nhóm nghiên cứu có thể lưu trữ. Họ cũng có thể “lập bản đồ” ADN của vi khuẩn nên việc xác định vị trí lưu giữ thông tin trở nên dễ dàng.
+
+Kết quả nghiên cứu này mở ra khả năng lưu trữ văn bản, hình ảnh, âm nhạc và thậm chí video trong các tế bào. Các nhà nghiên cứu khẳng định mỗi gram vi khuẩn có thể chứa được lượng thông tin tương đương 450 ổ cứng dung lượng 2.000 GB.
+
+Các sinh viên cũng phát triển biện pháp bảo mật ba lớp trong quá trình mã hóa dữ liệu. Đây có thể là tin vui đối với các nhà ngoại giao Mỹ, những người từng điêu đứng vì vụ rò rỉ thông tin trên trang WikiLeaks.
+
+“Chẳng ai có thể trộm dữ liệu từ vi khuẩn. Mọi loại máy tính đều có thể rơi vào tình trạng mất điện hoặc mất cắp dữ liệu, song vi khuẩn chống được mọi hình thức tấn công trong thế giới ảo”, Allen Yu, một thành viên trong nhóm nghiên cứu, phát biểu.
+
+Giáo sư Chan Ting Fung, người hướng dẫn nhóm sinh viên, nói với AFP rằng nghiên cứu của họ sẽ dẫn tới sự ra đời của nhiều ứng dụng thực tế. Thông tin được lưu giữ trong vi khuẩn chẳng những tồn tại hàng nghìn năm, mà còn không bị mất sau các thảm họa mang tính hủy diệt.
+
+“Vi khuẩn xuất hiện khắp mọi nơi. Chúng có thể sống sót sau những thảm họa khủng khiếp nhất đối với con người. Một loại vi khuẩn có tên Deinococcus radiodurans còn có thể sống sót sau các vụ nổ hạt nhân”, Chan nói.

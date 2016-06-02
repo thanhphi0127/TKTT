@@ -1,0 +1,27 @@
+﻿'Mổ xẻ' MacBook Pro màn hình siêu mịn
+
+Sau khi tháo rời máy tính xách tay mới của Apple, các chuyên gia nhận thấy nó rất khó sửa chữa. Ngoài ra, bộ nhớ RAM bị đính chặt vào bo mạch chủ nên không thể nâng cấp dung lượng cao hơn.
+>MacBook Pro màn hình Retina giá 50 triệu đồng tại VN
+
+
+MacBook Pro 2012 được trang bị màn hình 15,4 inch độ phân giải 2.880 x 1.800 pixel với mật độ điểm ảnh đạt 220 pixel/inch, chip lõi tứ Core i7 Ivy Bridge 2,7 GHz và card đồ họa Nvidia Kepler GT 650M.
+
+
+Tháo đinh ốc để tách lớp vỏ mặt sau.
+
+Thỏi pin chiếm phần lớn diện tích cho thời gian sử dụng liên tục khoảng 7 giờ.
+
+Tách ổ SSD do Samsung sản xuất.
+
+Bộ phận đảm nhiệm kết nối không dây Wi-Fi, Bluetooth của Qualcomm.
+
+Tháo quạt tản nhiệt.
+
+
+Tách bo mạch chủ ra khỏi máy.
+
+Trên bo mạch chủ có chip Core i7 3720QM tốc độ 2,6 GHz (màu vàng cam), card màn hình Nvidia GT 650M (đỏ), RAM Hynix (xanh) và bộ phận điều khiển cổng Thunderbolt của Intel.
+
+Màn hình 15,4 inch độ phân giải 2.880 x 1.800 pixel.
+
+Toàn bộ linh kiện sau khi được tháo gỡ.

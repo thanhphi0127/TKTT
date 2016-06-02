@@ -1,0 +1,21 @@
+﻿Nông dân máy sẽ làm việc trên cánh đồng
+
+Xác định nông sản cần lấy, phun thuốc trừ sâu, thu hoạch là những việc mà robot nông dân có thể thực hiện trên đồng ruộng trong tương lai, các nhà khoa học Israel khẳng định.
+
+
+Các robot hiện nay hầu như chưa thể xác định được những quả có thể thu hoạch trên cây. Ảnh: qwikstep.eu.
+Nông dân ở các nước phát triển đã dùng máy máy kéo, máy gặt đập liên hợp, máy vắt sữa bò và nhiều loại thiết bị hiện đại khác. Nhưng hái quả và rau là việc mà hầu như chẳng máy móc nào làm được. Chẳng hạn, máy không thể xác định quả nho nào chín hay lá cải nào còn non. Mỗi trái cây, cành, lá, hoa đều có hình dạng, màu sắc, kích thước riêng biệt. Điều kiện ánh sáng khác nhau cũng khiến diện mạo của nông sản thay đổi. Robot có thể nhận ra quả màu vàng, đỏ, hay tím giữa đám lá xanh lục, song chúng sẽ "bất lực" nếu quả cũng có màu xanh lục như lá.
+
+Vì những lý do trên, các kỹ sư lập trình không thể tạo ra những phần mềm giúp robot hay máy tính xác định những nông sản có thể thu hoạch.
+
+“Công nghệ chế tạo robot phục vụ hoạt động nông nghiệp đã ra đời từ lâu, nhưng giờ đây chúng tôi mới bắt đầu xem xét việc chế tạo chúng để bán. Tôi nghĩ những robot như thế sẽ xuất hiện trên các cánh đồng trong 5 năm tới”, Yael Edan, một chuyên gia về cơ khí và robot của Đại học Negev tại Israel, phát biểu.
+
+Discovery cho hay, để giúp máy tính nhận ra những cây, hoa, quả, củ hoặc lá có thể thu hoạch, Edan cùng các cộng sự tìm cách chế tạo những hệ thống cảm biến thông minh. Chẳng hạn, họ dùng các camera đa quang phổ để phân tích các bước sóng ánh sáng tới vật thể. Trong hình ảnh mà camera ghi được, vật thể hiện ra với một diện mạo duy nhất trong mọi điều kiện ánh sáng.
+
+Cùng với các loại cảm biến khác và chương trình máy tính, nhóm nghiên cứu còn muốn tạo ra “bộ não” máy để giúp robot rút kinh nghiệm từ những sai lầm trong quá trình hoạt động để cải thiện chất lượng công việc.
+
+“Chúng tôi sẽ tạo ra một thuật toán giúp robot coi mọi vật là những hình khối đơn giản. Khi nông phẩm bị che khuất một phần bởi lá, nó sẽ vẫn nhận ra”, Edan cho biết.
+
+Thử nghiệm cho thấy robot mà nhóm Edan chế tạo có thể xác định được tình trạng (xanh, chín hay hỏng) của 80-85% số quả trên cây. Mục tiêu của họ là nâng con số đó lên 90%.
+
+Sau khi robot xác định nông phẩm cần thu hoạch, nó sẽ lấy nông phẩm bằng một công cụ có khả năng nắm. Thách thức lớn nhất của việc chế tạo công cụ này là nó phải tới đúng vị trí nông phẩm và nắm với một lực vừa phải để nông phẩm không dập, nát hoặc vỡ.

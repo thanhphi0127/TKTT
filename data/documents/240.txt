@@ -1,0 +1,21 @@
+﻿Cua máy 'cắp' tế bào ung thư
+
+Lấy cảm hứng từ loài cua, hai nhà khoa học Singapore đã tạo ra một loại robot nhỏ xíu có khả năng loại bỏ những mô bị ung thư trong hệ thống tiêu hóa.
+
+
+Cua máy được trang bị một kìm và một móc để lấy mô bị ung thư. Ảnh: Bệnh viện Đại học Quốc gia Singapore.
+Popular Science đưa tin Lawrence Ho, một chuyên gia phẫu thuật hệ tiêu hóa của bệnh viện Đại học Quốc gia Singapore, và Louis Phee, một giáo sư của Viện Công nghệ Nanyang tại Singapore, nảy ra ý tưởng chế tạo robot lấy tế bào ung thư sau khi ăn tối với bác sĩ phẫu thuật Sydney Chung từ Hong Kong vào năm 2004. Chung nổi tiếng khắp thế giới vì vai trò tích cực của ông trong cuộc chiến chống bệnh hô hấp cấp tính nặng (SARS).
+
+Trong lúc thưởng thức món cua, Chung nói rằng Ho và Phee nên chế tạo robot chống ung thư dựa theo những đặc điểm của cua. Vị bác sĩ tới từ Hong Kong nói rằng hai càng cua rất khỏe, song chúng lại có thể gắp được những hạt cát.
+
+Nhớ lời khuyên của Chung, Ho và Phee tạo ra robot hình con cua bằng cách gắn một kìm và móc vào đèn soi dạ dày. Họ cũng trang bị cho robot một camera để ghi hình. Robot chui qua miệng của bệnh nhân để vào dạ dày. Sau khi nó lọt vào dạ dày, bác sĩ phẫu thuật có thể điều khiển để robot gắp, cắt mô bị ung thư bằng kìm và móc.
+
+
+Robot hình cua trên lòng bàn tay. Ảnh: Bệnh viện Đại học Quốc gia Singapore.
+Ho nói robot giúp bác sĩ phẫu thuật cắt khối u dạ dày với mức độ chính xác rất cao.
+
+“Khi phẫu thuật bác sĩ phải thực hiện rất nhiều động tác. Nếu chúng tôi muốn thực hiện một thao tác nhẹ nhàng, hiện tượng tay rung sẽ làm giảm độ chính xác. Nhưng robot có thể thực hiện những động tác nhẹ nhàng mà hiện tượng rung không xảy ra”, Ho nói.
+
+Sự tham gia của robot hình cua còn mang đến nhiều lợi ích khác - như giảm thời gian phẫu thuật và nguy cơ nhiễm trùng, gây sẹo.
+
+Cua máy đã được sử dụng để lấy các khối u giai đoạn đầu trong dạ dày của 5 bệnh nhân tại Ấn Độ và Hong Kong. Ho và Phee hy vọng nó sẽ được bán trên thị trường trong ba năm tới.

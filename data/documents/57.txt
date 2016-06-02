@@ -1,0 +1,13 @@
+﻿Microsoft lần đầu trình làng tablet chạy Windows 8
+
+Hãng phần mềm lớn nhất thế giới giới thiệu 2 máy tính bảng dòng Surface do chính họ phát triển tại một sự kiện riêng diễn ra ở Los Angeles (Mỹ).
+
+Model chạy Windows 8 Pro nặng 903 gram, dày 13,5 mm, được trang bị chip Core i thế hệ ba (Ivy Bridge), màn hình ClearType độ phân giải Full HD. Thiết bị tích hợp bộ nhớ trong lên đến 128 GB (gấp đôi iPad), đầy đủ các kết nối USB 3.0, Wi-Fi, Bluetooth...
+
+
+Hình tablet Surface của Microsoft.
+Ảnh thực tế tablet Surface của Microsoft.
+Video quảng cáo tablet Surface của Microsoft.
+Trong khi đó, tablet Surface hoạt động dựa trên Windows RT có kiểu dáng mỏng và nhẹ hơn nhiều (9,3 mm và 670 gram) nhưng không có cổng USB 3.0 tiên tiến mà chỉ là kiểu cũ 2.0. Máy sử dụng chip tiết kiệm điện của Nvidia, màn hình ClearType 10,6 inch độ phân giải HD được bảo vệ bằng lớp kính chịu lực Gorilla Glass 2.
+
+Microsoft cho biết, cả hai sản phẩm có thể gắn với phụ kiện Touch Cover gồm bàn phím và trackpad để hỗ trợ công việc văn phòng, gõ văn bản tốt hơn. Hãng phần mềm chưa công bố giá và ngày phát hành thiết bị mới.

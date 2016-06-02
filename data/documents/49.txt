@@ -1,0 +1,16 @@
+﻿Những quốc gia sở hữu 10 siêu máy tính mạnh nhất
+
+Hai 2 năm "xuống hạng", Mỹ đã vượt Trung Quốc và Nhật để trở lại ngôi đầu về sản xuất và sử dụng siêu máy tính (supercomputer) nhanh nhất thế giới.
+
+Thành tích này là nhờ cỗ máy Sequoia của Bộ năng lượng Mỹ với 1,57 triệu nhân xử lý và đạt tốc độ 16,32 petaflop (16,32 triệu tỷ phép tính mỗi giây). Trước đó, năm 2010, Mỹ phải nhường vị trí số một cho Trung Quốc khi nước này công bố Tianhe-1A. Đến năm 2011, Nhật lên ngôi với K Computer khi đó là máy đầu tiên vượt ngưỡng 10 petaflop.
+
+
+Mỹ: Sequoia do IBM phát triển đạt tốc độ kỷ lục với số lõi xử lý lên tới 1,57 triệu nhưng vẫn tiết kiệm điện năng, tầm 2.069 megaflop/watt (1 megaflop = 1 triệu phép tính dấu phẩy động mỗi giây). IBM còn có một supercomputer khác là Mira đặt tại Viện quốc gia Argonne đạt 8,16 petaflop (đứng thứ ba thế giới). Hai hệ thống nữa của Mỹ trong Top 10 Supercomputer 2012 là "báo gấm" Cray Jaguar (đứng thứ 6) và FERMI (thứ 7).
+
+Nhật: Cỗ máy Fujitsu K có một năm tận hưởng ngôi vị cao nhất nhờ được trang bị 705.024 lõi và đạt 10,51 petaflop. Dù được giao cho nhiều nhiệm vụ hơn các siêu máy tính khác, K lại khá tốn điện khi chỉ có thể thực hiện 830 megaflop mỗi watt.
+
+Đức: SuperMUC không chỉ ít tốn năng lượng hơn Tianhe-1a mà còn đánh bại cỗ máy tính của Trung Quốc về hiệu suất với tốc độ 2,9 petaflop. Nó phục vụ cho công việc nghiên cứu và giảng dạy tại một số trường đại học ở Munich. Ngoài ra, Đức còn sở hữu JuQueen (xếp thứ 8) dù hệ thống do IBM sản xuất.
+
+Trung Quốc: Nước này có hai siêu máy tính góp mặt trong Top 10 năm nay, trong đó có hệ thống gây xôn xao năm 2010 là Tianhe-1a khi đạt 2,57 petaflop, chiếm ngai vàng mà Mỹ lúc đó nắm giữ. Tuy nhiên, nó khá ngốn năng lượng vì chỉ thực hiện được 635 megaflop mỗi watt. Hệ thống tiếp theo là Nebulae 1,27 petaflop.
+
+Pháp: Curie tốc độ 1,36 petaflop giúp Pháp được nhắc đến trong danh sách 10 siêu máy tính.

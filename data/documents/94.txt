@@ -1,0 +1,21 @@
+﻿Bản đồ mới của iOS 6 tại Việt Nam gây thất vọng
+
+Apple không sử dụng Google Maps, thay vào đó là TomTom và các đối tác khác. Thử nghiệm trên iOS 6 bản beta cho thấy dữ liệu tại Việt Nam hạn chế và không chi tiết như trước đây.
+>iOS 6 tiết lộ một số bí mật của iPhone thế hệ mới / Siri lên iPad và những tính năng nổi bật khác của iOS 6
+
+
+Logo bản đồ mới của Apple trên iOS 6.
+Xem ảnh bản đồ mới của iOS 6
+
+Ngay sau khi Apple công bố hệ điều hành mới, nhiều người dùng tại Việt Nam đã tiến hành cài đặt bản beta dành cho các lập trình viên. Trong khi người dùng iPad vui mừng vì thử nghiệm được Siri hoàn chỉnh, thì hệ thống bản đồ lại gây thất vọng.
+
+Anh Hà Trung (quận 1, TP HCM) cho biết TomTom trên iOS 6 không như kỳ vọng tại buổi giới thiệu của Apple. Ở chế độ bình thường, bản đồ TP HCM hầu như không có thông tin nào ngoài một vài màu xanh của công viên và màu tím ở sân bay Tân Sơn Nhất.
+
+Khi chuyển sang chế độ vệ tinh, sự chi tiết hiện ra tốt hơn, nhưng hình ảnh các con đường, tòa nhà không rõ như Google Maps. Chế độ 3D trên máy cũng không tạo được hiệu ứng như "Quả táo" công bố. Ngoài ra, tính năng dẫn đường bằng giọng nói vẫn chưa hoạt động.
+
+Theo anh Trung, ưu điểm lớn nhất của Maps mới từ Apple là các hướng dẫn chỉ đường rất đẹp. Apple mô phỏng các bảng chỉ đường thực tế để đưa vào bản đồ.
+
+Sự yếu kém của bản đồ cũng dẫn tới việc tìm kiếm địa điểm thông qua Siri bị hạn chế. Ứng dụng điều khiển giọng nói hầu như không tìm được địa chỉ nào tại Việt Nam. Trong khi trước đây, người dùng dễ dàng hỏi Siri về quán cafe, văn phòng... gần nhất và nhờ chỉ đường đến.
+
+Theo nhiều người dùng, đây vẫn chỉ là bản thử nghiệm dành cho các lập trình viên, Apple có thể sẽ cải tiến khi phát hành vào mùa thu này. Tuy nhiên, theo anh Ngô Tiến Nam (Biên Hòa, Đồng Nai), một người chơi GPS có kinh nghiệm, thì rất khó trong thời gian ngắn mà bản đồ Apple tự xây dựng có thể phong phú được như Google. "Trừ phi 'Quả táo' mua lại hệ thống của các đối tác bản địa để nâng cấp, nếu không Maps vẫn khó có thể tốt như trước đây'", anh Nam nói. "Việt Nam chưa phải là thị trường quan trọng như Trung Quốc hay các nước châu Âu, vì vậy, Maps có thể sẽ hạn chế trong giai đoạn đầu".
+

@@ -1,0 +1,25 @@
+﻿Tấm dán tường phát sáng
+
+Các kỹ sư Anh tuyên bố tấm dán tường phát sáng có thể thay thế bóng điện truyền thống trong vòng 10 năm tới.
+
+Daily Mail cho biết, LOMOX Ltd. - một công ty có trụ sở tại xứ Wale, đang phát triển một số loại vật liệu mới có khả năng phát sáng khi có dòng điện yếu chạy qua.
+
+Mặc dù ý tưởng có vẻ kỳ cục, song Carbon Trust - một tổ chức chống biến đổi khí hậu tại Anh - quyết định tài trợ 454.000 bảng (hơn 635.000 USD) cho công ty LOMOX Ltd để họ chế tạo tấm dán tường phát sáng.
+
+
+Ảnh minh họa tấm dán tường làm từ diode phát quang hữu cơ. Ảnh: Daily Mail.
+Nếu loại tấm dán tường phát sáng trong bóng tối xuất hiện trong các gia đình, nó có thể dẫn tới sự ra đời của nhiều đồ gia dụng đặc biệt khác - như rèm phát sáng, quần áo thay đổi màu sắc.
+
+Trên thực tế, tấm dán tường phát sáng là ứng dụng mới nhất của diode phát quang hữu cơ - công nghệ được kỳ vọng là sẽ tạo nên một cuộc cách mạng đối với màn hình của TV, máy tính và điện thoại di động trong vài năm tới.
+
+OLED được tạo nên bởi những màng phân tử hữu cơ. Những màng này phát sáng khi dòng điện truyền qua các phân tử. Do OLED chỉ cần dòng điện có hiệu điện thế thấp - từ 3 tới 5 V - nên chúng có thể lấy điện từ pin hoặc các tấm pin mặt trời. Do OLED tồn tại ở dạng màng mỏng nên người sử dụng có thể cuộn tròn hoặc gắn lên tường.
+
+Ken Lacey, giám đóc điều hành của LOMOX Ltd, đang nỗ lực đưa những tấm màng mỏng phát sáng ra thị trường trong hai năm tới.
+
+
+Với công nghệ OLED, các công ty có thể chế tạo những màn hình mỏng, dẻo mà người ta có thể cuộn sau khi xem và mang theo khắp nơi. Ảnh: edopter.com.
+Theo Daily Mail, đèn OLED đã được sử dụng trong vài năm qua, song giá thành của chúng rất cao trong khi tuổi thọ lại ngắn. Ngoài ra người ta không thể sử dụng OLED trong những màn hình lớn. Lacey nói rằng công ty ông đang phát triển những loại OLED rẻ hơn và có tuổi thọ dài hơn. Khi giá cả giảm xuống, các công ty sẽ chế tạo những màn hình mỏng, dẻo mà chúng ta có thể cuộn sau khi xem hoặc mang theo khắp mọi nơi. Ngoài ra, khi gắn lên tường, đèn OLED có thể chiếu sáng như bóng điện truyền thống nhưng tiêu thụ ít điện hơn 2-3 lần.
+
+Mark Williamson, giám đốc sáng kiến của tổ chức Carbon Trust, nói: "Bóng điện là một trong những nguồn tạo ra nhiều khí thải carbon. Vì thế lượng khí thải sẽ giảm xuống nếu đèn OLED được sử dụng rộng rãi trên toàn thế giới".
+
+OLED đang thực sự tạo nên cuộc cách mạng trong hoạt động sản xuất tivi. Khác với những màn hình LCD phẳng, màn hình OLED không cần ánh sáng nền và có độ dày vài mm. Màu trắng của màn hình OLED sáng hơn trong khi màu đen lại thẫm hơn so với màn LCD. Vì thế mà hình ảnh trên màn OLED sắc nét hơn.

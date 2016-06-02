@@ -1,0 +1,17 @@
+﻿Điều khiển xe lăn bằng hơi thở
+
+Xe lăn và bàn phím máy tính hoạt động nhờ hơi thở cho phép những người liệt điều khiển xe lăn, truy cập mạng Internet và viết thư điện tử.
+
+
+Xe lăn điều khiển bằng hơi thở sẽ là cứu cánh đối với những người liệt một phần hoặc toàn thân. Ảnh minh họa: brettmcarthur.com.
+Động tác hít phụ thuộc vào sự phối hợp chuyển động của các mô mềm ở phía sau của vòm họng. Mỗi khi con người muốn hít, nhiều tế bào thần kinh sẽ truyền tín hiệu tới vòm họng. Những tế bào thần kinh này vẫn hoạt động ngay cả khi con người bị liệt một chi, tứ chi hay toàn thân.
+
+National Geographic cho biết, dựa trên thực tế đó, các chuyên gia tại Viện Khoa học Weizmann, Israel phát minh một thiết bị điều khiển bằng động tác hít. Thiết bị thổi nhẹ không khí qua một ống đặt ngang mũi người liệt. Khi người sử dụng hít thở, luồng không khí bị chặn. Thiết bị xác định chính xác động tác được thực hiện vào thời điểm nào, diễn ra trong bao lâu và mạnh tới mức nào. Những thông số đó sẽ được chuyển đổi thành tín hiệu điện và truyền xuống nhiều thiết bị xe lăn, máy tính.
+
+Trong các thử nghiệm, một số người khỏe mạnh và bệnh nhân liệt điều khiển xe lăn điện chạy dọc theo một con đường dài 35 m bằng cách kết hợp động tác thở ra và hít vào.
+
+Hơi thở còn có thể giúp người sử dụng đánh văn bản, chơi game đơn giản và viết thư điện tử thông qua một con trỏ chuột trên màn hình. Con trỏ lần lượt di chuyển tới từng ký tự. Mỗi khi nó tới ký tự nào thì ký tự đó sáng lên để người sử dụng ra quyết định chọn hay bỏ. Tốc độ di chuyển của con trỏ là 6,7 giây/chữ. Bằng cách hít thở chính xác, người liệt có thể "viết" một ký tự trong mỗi phút. Để tăng tốc độ viết, nhóm chế tạo sử dụng phần mềm đoán chữ - giống như phần mềm mà các hãng điện thoại di động đang áp dụng.
+
+Tuy nhiên, thiết bị điều khiển xe lăn bằng hơi thở không phải là lý tưởng đối với mọi bệnh nhân liệt, bởi ngay cả người không liệt cũng gặp khó khăn trong việc kiểm soát vòm họng để tạo ra hơi thở theo ý muốn. Trong cả thử nghiệm, khoảng 25% tình nguyện viên bình thường gặp khó khăn trong việc kiểm soát hơi thở. Một nam giới 64 tuổi và liệt toàn thân không thể kiểm soát hơi thở sau khi luyện tập hàng ngày trong hai tháng.
+
+“Mặc dù vậy, thiết bị của chúng tôi sẽ giúp được rất nhiều người liệt trên thế giới. Chúng tôi tìm ra một giải pháp kỹ thuật thấp để giải quyết một vấn đề mà phần lớn nhà khoa học đang cố gắng giải quyết bằng công nghệ cao”, Noam Sobel, một thành viên trong nhóm nghiên cứu, phát biểu.

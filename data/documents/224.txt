@@ -1,0 +1,8 @@
+﻿Robot nhảy cao siêu đẳng
+
+Một công ty Mỹ chế tạo loại robot có khả năng bật tới độ cao 9 m để vượt những chướng ngại vật.
+> Phi đội robot chơi nhạc phim điệp viên 007
+
+Sand Flea, tên của robot, có hình dạng khá giống một ô tô đồ chơi được điều khiển từ xa. Nhưng thực ra nó là phát minh của một công ty có tên Boston Dynamics theo yêu cầu của quân đội Mỹ, Telegraph đưa tin.
+
+Với khối lượng 5 kg, Sand Flea di chuyển trên 4 bánh giống như một robot bình thường. Song khi gặp chướng ngại vật, nó có thể bật tới độ cao 9 m để vượt qua. Sand Flea được trang bị một bộ cân bằng điện tử để nó giữ thăng bằng trong lúc bay và đáp. Nhờ tư thế thăng bằng của robot trong lúc nhảy mà người điều khiển vẫn có thể quan sát môi trường xung quanh thông qua camera trên thân robot.

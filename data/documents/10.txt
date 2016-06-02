@@ -1,0 +1,14 @@
+﻿- Chức năng “File Shredder” cho phép người dùng xóa vĩnh viễn file/thư mục có trên ổ cứng mà không thể nào khôi phục lại được, dù sử dụng các phần mềm chuyên dụng nhất. Tính năng này cho phép xóa những dữ liệu quan trọng, nhạy cảm đang lưu trên ổ cứng mà không muốn ai tìm thấy.
+- “Windows Temporary Files” là tính năng cho phép tìm và quét các file rác được tạo ra bởi quá trình sử dụng Windows trên ổ cứng. Tính năng này giúp loại bỏ những file rác không cần thiết khiến ổ cứng bị chiếm dụng 1 cách lãng phí.
+- Một tính năng hữu ích khác của phần mềm đó là “Registry Cleaner”. Tính năng này sẽ quét và tìm những lỗi có trên khóa registry của hệ thống, đồng thời tìm và loại bỏ những registry thừa còn sót lại của các phần mềm sau khi đã bị gỡ bỏ… để giúp registry trên hệ thống trở nên gọn gàng hơn.
+Sau khi thực hiện quá trình quét, bạn nhấn nút Repair trên cửa sổ phần mềm để khắc phục những lỗi được phát hiện ra trên registry của hệ thống.
+- Tương tự, chức năng “Registry Optimizer” sẽ tiến hành tối ưu và chống phân mảnh toàn bộ khóa registry trên hệ thống. Điều này sẽ giúp cho hệ thống hoạt động mượt mà hơn, tránh tình trạng ì ạch hoặc máy bị treo, cũng như tăng tốc độ phản hồi, tốc độ khởi động của hệ thống…
+Lưu ý: sau khi thực hiện chức năng tối ưu registry, phần mềm sẽ tự động khởi động lại hệ thống, do vậy bạn cần phải thoát ra tất cả những phần mềm đang sử dụng để không bị ảnh hưởng.
+ Chức năng “Registry backup & restore” sẽ cho phép tạo sao lưu và khôi phục khóa registry của hệ thống. Tính năng này thực sự hữu dụng trong trường hợp bạn có dự định can thiệp hoặc chỉnh sửa nào đó trên registry hệ thống. 
+Nhóm chức năng “Internet Browser Tools” cung cấp các công cụ để quản lý trình duyệt trên hệ thống, bao gồm bộ 3 trình duyệt phổ biến nhất hiện nay, bao gồm Internet Explorer, Firefox và Chrome.
+Tại đây phần mềm cung cấp các chức năng để người dùng để dàng quản lý hay xóa bỏ các thông tin trên trình duyệt, như lịch sử duyệt web, cookies lưu trên trình duyệt, file tạm và các add-on cài đặt trên trình duyệt.
+Tùy vào loại trình duyệt bạn đang sử dụng cũng như muốn can thiệp vào phần nào trên trình duyệt để lựa chọn công cụ phù hợp và thực hiện theo các bước yêu cầu hiện ra sau đó.
+Nhóm chức năng “Report” trên phần mềm cho phép quản lý và báo cáo tình trạng trên hệ thống, như báo cáo các phần mềm tự khởi động, các loại font và phần mềm đang được cài đặt trên Windows, các ứng dụng đang chạy trên hệ thống…
+Dựa vào những kết quả báo cáo này bạn sẽ có được 1 cái nhìn tổng thể và khách quan hơn về hệ thống của mình.
+Trên đây là những nhóm chức năng và công cụ hữu ích mà Advanced Uninstaller Pro mang đến cho người dùng. Với những chức năng này chắc hẳn sẽ khiến cho hệ thống của bạn hoạt động mượt mà và nhẹ nhàng hơn so với trước đây.
+

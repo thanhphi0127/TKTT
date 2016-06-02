@@ -1,0 +1,21 @@
+﻿Cửa sổ tự động điều chỉnh lượng ánh sáng vào nhà
+
+Khi nhiệt độ trong nhà quá thấp, cửa sổ trở nên trong suốt để hấp thu thêm nhiệt từ bên ngoài. Nếu không khí trong nhà trở nên nóng, chúng sẽ chuyển sang trạng thái mờ để giảm lượng nhiệt hấp thu.
+
+
+Ảnh minh họa: thedailygreen.com.
+BBC cho biết, giới doanh nghiệp đã tung ra một số loại cửa số thông minh có khả năng tự điều chỉnh lượng ánh sáng vào nhà. Chúng được tạo nên bởi một loại kính đặc biệt, có khả năng chuyển sang trạng thái mờ khi nhiệt độ bên ngoài tăng để giảm nhiệt trong nhà. Ngược lại, khi nhiệt độ bên ngoài giảm, kính trở nên trong suốt để hấp thu nhiệt vào nhà.
+
+Những hãng chế tạo cửa sổ thông minh đưa các ion vào giữa những tấm kính. Khi cửa sổ được kết nối với dòng điện, các ion bị kích thích khiến cửa sổ chuyển từ trạng thái mờ sang trong suốt và ngược lại.
+
+Ho Sun Lim, một nhà nghiên cứu của Viện Công nghệ Điện tử Hàn Quốc, cùng hai chuyên gia của Đại học Soongsil là Jeong Ho Cho và Jooyong Kim đã tìm ra một giải pháp hoàn toàn khác.
+
+Họ dùng một loại polymer đặc biệt, một loại hạt mang điện tích có tên “ion bù trừ điện tích” và dung dịch methanol để chế tạo cửa sổ. Ion bù trừ điện tích thường cặp với các loại ion khác để duy trì điện tích bằng không.
+
+Ba nhà nghiên cứu khẳng định những vật liệu mà họ chọn làm giảm chi phí sản xuất cửa sổ, đồng thời sản phẩm cũng có mức độ độc hại thấp hơn so với những loại cửa sổ thông minh khác trên thị trường. Ngoài ra cửa sổ của họ còn có khả năng chuyển từ trạng thái mờ hoàn toàn sang trong suốt trong vài giây. Đối với những cửa sổ thông minh khác, người sử dụng phải thay đổi trạng thái bằng một hoặc vài thứ khác.
+
+Nhóm nghiên cứu cho hay, những công nghệ chế tạo cửa sổ thông minh không những sử dụng các hóa chất không bền nên không thể sử dụng lâu dài. Ngoài ra việc sản xuất chúng cần tới những thiết bị đắt tiền và quy trình xử lý phức tạp nên chi phí khá lớn.
+
+“Kiểu kiểm soát ánh sáng của chúng tôi giúp tiết kiệm tiền đối với hoạt động làm nóng, làm nguội và chiếu sáng thông qua việc điều chỉnh lượng ánh sáng vào bên trong ngôi nhà. Cửa sổ thông minh có thể ngăn chặn tình trạng quá nóng bên trong ngôi nhà bằng cách phản chiếu một lượng lớn ánh sáng vào mùa hè. Bên cạnh đó, chúng có thể sưởi ấm một căn phòng cách hấp thụ nhiệt từ bên ngoài vào mùa đông”, nhóm nghiên cứu nói.
+
+Tiến sĩ Stephen Morris, một chuyên gia thuộc Mạng lưới Chuyển giao Kiến thức về vật liệu tại Anh, nói rằng nếu phương pháp mới cho phép cửa sổ chuyển tức thời từ trạng thái mờ sang trạng thái trong suốt và ngược lại thì nó sẽ mang đến lợi ích thực sự trên phương diện tiết kiệm năng lượng. Chẳng hạn, do ánh sáng vào nhà nhanh, chủ nhà sẽ không phải bật điều hòa nhiệt độ hoặc lò sưởi để tăng nhiệt độ trong nhà vào mùa đông.

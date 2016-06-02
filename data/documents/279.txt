@@ -1,0 +1,13 @@
+﻿Không quân Mỹ sắp có phi cơ 'siêu thông minh'
+
+Một công ty phần mềm tại Mỹ đang phát triển phần mềm có khả năng giúp máy bay không người lái của không quân dự đoán được mọi hành động của phi công đối phương.
+
+Popular Science cho biết, Stottler Henke Associates, một công ty tại Mỹ, đang trong quá trình phát triển một bộ phần mềm có khả năng giúp các máy bay không người lái đoán trước những hành động của phi công trên các phi cơ khác.
+
+Dự án này được tiến hành sau khi Stottler Henke Associates ký hợp đồng với không quân Mỹ về việc phát triển hệ thống phần mềm phân tích ý định của phi công đối phương. Hệ thống mô phỏng hành vi của các phi công trong các bối cảnh thực và cả những bối cảnh phỏng đoán.
+
+
+Một máy bay không người lái Reaper của Mỹ. Ảnh: Popular Science.
+Theo đó phần mềm có thể dự đoán cách thức cất cánh, bay lượn, hạ cánh, xử lý thông tin của phi công đối phương. Thông tin thu được sẽ giúp máy bay không người lái xây dựng cơ sở dữ liệu của phi công. Dựa trên cơ sở dữ liệu đó, phi cơ sẽ quyết định cách thức phản ứng khi nó tới gần máy bay đối thủ. Phần mềm cũng có thể giúp phi cơ không người lái xử lý khi máy bay hỏng hoặc có sự cố.
+
+Dick Stottler, giám đốc điều hành công ty Stottler Henke Associates, thừa nhận phần mềm không thể làm gì nếu phi cơ không người lái có ý định “tạo phản”. Do đó ông cam kết: “Chúng tôi sẽ không dạy phi cơ tự động bất tuân mệnh lệnh của những người điều khiển”.

@@ -35,6 +35,7 @@ import org.apache.commons.fileupload.servlet.ServletFileUpload;
 import org.bson.Document;
 
 import com.mongodb.MongoClient;
+import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 
@@ -47,6 +48,8 @@ import vn.hus.nlp.utils.TextFileFilter;
 @WebServlet("/Index")
 public class Index extends HttpServlet {
 	private static final long serialVersionUID = 1L;
+	
+	MongoDBConnection db = new MongoDBConnection();
 	
 	//JVnTextPro jvnTextPro = new JVnTextPro(); 
 	
@@ -134,24 +137,38 @@ public class Index extends HttpServlet {
 		String output, result, line, filename;
 		List<Float> timeInvertedIndex = new ArrayList<Float>();
 		String[] name;
-		int id = 1, countDoc = 0;
+		Document docNumTerm;
+		int id = 1, countDoc = 0, numTerm;
 		DocumentIndex doc = new DocumentIndex();
-		InvertedIndex invertedInx = new InvertedIndex();	
+		InvertedIndex invertedInx = new InvertedIndex();
+		// Lay bang trong co so du lieu
+		MongoCollection<Document> collection = db.getCollectionLength();
+		collection.drop();
+		
 		
         TextFileFilter fileFilter = new TextFileFilter(".txt"); 				//Tìm các tài liệu có phần mở rộng là txt
         File inputDirFile = new File(StaticVariable.INPUTPATH); 				//Đường dẫn đầu vào DS tài liệu 
         File[] inputFiles = FileIterator.listFiles(inputDirFile, fileFilter);	//Lấy tất cả các tài liệu
         long startTime = System.currentTimeMillis();
         
+        List<Document> list_doc = new ArrayList<Document>();
+        
         for (File file : inputFiles) {
         	name = file.getName().toString().split(".txt");
         	id = Integer.parseInt(name[0]);
         	countDoc++;
-            doc.createDocumentIndex(file, StaticVariable.jvnTextPro, invertedInx, id); //Tạo chỉ mục cho 1 tài liệu gốc và tài liệu đã tách từ
+            numTerm = doc.createDocumentIndex(file, StaticVariable.jvnTextPro, invertedInx, id); //Tạo chỉ mục cho 1 tài liệu gốc và tài liệu đã tách từ
+            
+            docNumTerm = new Document();
+            docNumTerm.put("_id", id);
+            docNumTerm.put("length", numTerm);
+			list_doc.add(docNumTerm);	
         }
+        
+        collection.insertMany(list_doc);
 
         //So luong tai lieu
-        doc.numDoc = countDoc;
+        //doc.numDoc = countDoc;
 
         Map<String, Map<Integer, Integer>> resultIndex = invertedInx.getInvertedIndex();
         
@@ -160,8 +177,12 @@ public class Index extends HttpServlet {
         timeInvertedIndex.add(duration);
         System.out.print("Thời gian tách từ + lập chỉ mục: " + duration);
     
+        startTime = System.currentTimeMillis();
         //LUU CHI MUC NGHICH DAO VAO MONGODB
-        //saveInvertedIndex(resultIndex);
+        saveInvertedIndex(resultIndex);
+        endTime = System.currentTimeMillis();
+        duration = (float) (endTime - startTime) / 1000;
+        System.out.print("Thời gian lưu vào Mongodb: " + duration);
         
         ServletContext applicationObject = getServletConfig().getServletContext();
         applicationObject.setAttribute("InvertedIndex", resultIndex);
@@ -172,24 +193,18 @@ public class Index extends HttpServlet {
 	
 	public void saveInvertedIndex(Map<String, Map<Integer, Integer>> resultIndex){
 		Map<Integer, Integer> posting = new HashMap<Integer, Integer>();
-		// Cau hinh MongoDB
-		MongoClient mongoClient = new MongoClient("localhost", 27017);
-		// Lay co so du lieu
-		MongoDatabase mdb = mongoClient.getDatabase("test");
-		// Lay bang trong co so du lieu
-		MongoCollection<Document> collection = mdb.getCollection("invertedIndex");
-
+		MongoCollection<Document> collection = db.getcollectionInvertedIndex();
+		collection.drop();
+		
 		/*================================================*/
 		//LUU DU LIEU VAO MONGODB		
 		List<Document> list_doc = new ArrayList<Document>();
 		Document invert;
 		Map<String, Object> docID_TF;
 		for(String token : resultIndex.keySet()){
+			posting = (Map<Integer, Integer>)resultIndex.get(token);
 			invert = new Document();
 			invert.put("_id", token);				 				//TERM
-			invert.put("doc_fre", posting.size());   				//TERM FREQUENCY
-			
-			posting = (Map<Integer, Integer>)resultIndex.get(token);
 			docID_TF = new TreeMap<String, Object>();				//DANH SACH TAI LIEU
 			
             for(Integer p : posting.keySet()){
@@ -202,7 +217,6 @@ public class Index extends HttpServlet {
 		
 		collection.insertMany(list_doc);
 		/*================================================*/
-		
 	}
 		
 }	

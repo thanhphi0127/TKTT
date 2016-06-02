@@ -1,0 +1,24 @@
+﻿Phát minh giúp xe tăng tàng hình trong đêm
+
+Một công nghệ mới khiến các thiết bị quan sát trong bóng tối không thể phát hiện xe tăng và các phương tiện cơ giới khác.
+> Xe tăng đổi màu như tắc kè
+
+
+Công nghệ tàng hình của BEA Systems dựa trên những tấm lục giác nhiệt điện bao phủ lớp vỏ của phương tiện cơ giới. Ảnh: BBC.
+BBC đưa tin BAE Systems, một công ty sản xuất thiết bị quân sự tại Anh, đã tìm ra cách giúp phương tiện cơ giới quân sự thay đổi nhiệt độ vỏ theo môi trường xung quanh. Họ chế tạo một loại vật liệu nhiệt điện có khả năng thay đổi nhiệt độ cực nhanh. Vật liệu nhiệt điện là những chất có khả năng biến nhiệt thành điện.
+
+Từ vật liệu mới nhóm nghiên cứu tạo ra các tấm có hình lục giác đều. Khoảng 1.000 tấm lục giác, mỗi tấm có đường chéo 14 cm, có thể phủ kín một xe tăng cỡ nhỏ.
+
+Một số camera tầm nhiệt liên tục theo dõi nhiệt độ môi trường xung quanh xe tăng. Chúng có thể hoạt động khi xe tăng di chuyển. Dữ liệu mà các camera cung cấp sẽ giúp hệ thống điều khiển trong xe tăng điều chỉnh nhiệt độ trên lớp vỏ.
+
+Mọi vật có nhiệt độ lớn hơn 0 độ C đều phát ra tia hồng ngoại, loại bức xạ điện từ có bước sóng dài hơn ánh sáng nhìn thấy. Con người không thấy tia hồng ngoại, song giới khoa học đã chế tạo nhiều loại thiết bị (như ống nhòm hồng ngoại) có khả năng phát hiện những vật phát ra tia hồng ngoại trong đêm tối.
+
+Nhóm nghiên cứu không nói rõ nguyên lý điều chỉnh nhiệt độ trên các tấm lục giác. Các thử nghiệm thực địa cho thấy công nghệ của BAE Systems giúp xe tăng “tàng hình” tốt nhất trong đêm tối ở khoảng cách 300-400 m.
+
+BAE Systems cũng có khả năng tạo ra một thư viện chứa hình ảnh nhiệt của những vật thể khác – như xe tải, xe hơi, con bò, những viên đá lớn. Trong trường hợp cần thiết, bộ vi xử lý sẽ điều chỉnh nhiệt độ của vỏ xe tăng bằng nhiệt độ của các vật thể khác, nhờ đó người quan sát bằng ống nhòm hồng ngoại sẽ không thể phát hiện ra mục tiêu là xe tăng.
+
+“Những nỗ lực chế tạo lớp vỏ tàng hình trước đây gặp trở ngại do chi phí lớn hoặc cần nhiều điện”, Pader Sjolund, trưởng nhóm nghiên cứu, phát biểu. Công nghệ Adaptiv mang đến sự khác biệt hoàn toàn, bởi những tấm lục giác được phủ ngoài vỏ xe tăng và các phương tiện cơ giới khác tiêu thụ rất ít điện.
+
+“Chúng tôi có thể thay đổi kích thước các tấm lục giác để giúp vật thể tàng hình ở nhiều cự li khác nhau. Chẳng hạn, một tàu chiến hoặc tòa nhà không cần tàng hình ở cự li gần, vì thế chúng cần những tấm lục giác lớn”, Sjolund giải thích.
+
+Theo tính toán của BAE Systems, công nghệ Adaptive có thể được ứng dụng vào thực tế trong vòng hai năm nữa.

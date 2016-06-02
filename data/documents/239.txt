@@ -1,0 +1,29 @@
+﻿FPT giành giải Nhất cuộc thi công nghệ do EADS tổ chức
+
+Nhóm tác giả đến từ Phòng nghiên cứu không gian FSpace, Viện Nghiên cứu Công nghệ FPT, Trường ĐH FPT, đã giành giải Nhất Cuộc thi do Tập đoàn Hàng không Vũ trụ và Quốc phòng châu Âu (EADS) tổ chức.
+
+Ngày 7/2, EADS đã công bố kết quả chính thức cuộc thi Tìm kiếm giải pháp công nghệ cứu ngư dân trước thảm họa bão. Đây là cuộc thi tìm kiếm giải pháp công nghệ của EADS lần đầu tiên được tổ chức tại Việt Nam, bắt đầu từ tháng 10/2011.
+
+Các đội tham gia phải trải qua 2 vòng thi là viết đề án gửi qua mạng cho ban tổ chức duyệt và thuyết trình, bảo vệ ý tưởng tại văn phòng EADS tại Hà Nội. Vượt qua nhiều đơn vị đến từ các trường đại học, viện nghiên cứu trong cả nước, nhóm nghiên cứu của FPT gồm Vũ Trọng Thư - Phòng nghiên cứu không gian FSpace, Phạm Quang Hưng (Trường ĐH FPT) và Đào Văn Thắng (Trường ĐH Ngoại thương), đã giành vị trí cao nhất.
+
+
+Nhóm tác giả đang thuyết trình với EADS. Ảnh: FSpace.
+Chủ đề cuộc thi đưa ra khuyến khích các tác giả tìm kiếm giải pháp công nghệ để giảm thiểu thiệt hại về người cho ngư dân trước thảm họa bão. Sau khi tìm hiểu, phân tích thông tin, dựa trên các kết quả thực nghiệm về liên lạc tầm xa trên băng tần HF (dựa vào phản xạ tầng điện li) và qua phản xạ bề mặt Mặt Trăng, nhóm nghiên cứu không gian FSpace đã đưa ra giải pháp liên lạc dạng số (digital communication) cho các tàu cá với các trạm bờ trên băng tần HF và kênh liên lạc dự phòng thông qua chùm vệ tinh nhỏ trên băng tần VHF/UHF.
+
+Điểm độc đáo của giải pháp công nghệ này là việc ứng dụng phương thức điều chế tín hiệu số tiên tiến có độ tin cậy cao (có thể giải điều chế tín hiệu với hệ số SNR rất thấp tới -29dB), sử dụng băng thông rất nhỏ (cỡ 6Hz), hỗ trợ đa truy cập cho tối đa 30.000 tàu cá.
+
+Thiết bị đầu cuối lắp trên tàu cá có tính năng tự động thu thập các bản tin dự báo thời tiết hay dự đoán đường đi của bão, tự động cảnh báo giúp ngư dân tránh nạn cũng như tự động phát tín hiệu cấp cứu về bờ và các tàu xung quanh trong trường hợp khẩn cấp.
+
+
+Các thành viên nhóm FSpace cùng Ban tổ chức. Ảnh: FSpace.
+Bên cạnh đó, ý tưởng thiết kế chùm vệ tinh nhỏ (nano-satellite) với khối lượng 3kg làm nhiệm vụ trung chuyển các gói tin cũng như giám sát hoạt động tàu biển cũng được ban giám khảo đánh giá cao.
+
+Giải thưởng cho nhóm xuất sắc nhất gồm 4.000 USD và chuyến đi Singapore cho 3 người đến dự trao giải, diễn ra trong triển lãm hàng không tại quốc đảo Sư tử vào ngày 14/2. Nhóm đoạt giải cũng sẽ được mời tới trung tâm nghiên cứu EADS Innovation Works tại Singapore để thăm quan và tìm hiểu về các công việc ở đây.
+
+Theo anh Vũ Trọng Thư, điều quan trọng nhất ở giải thưởng này chính là các kỹ sư trẻ và sinh viên Việt Nam có thể đứng ra đảm nhận công việc thiết kế và triển khai ý tưởng. Giải thưởng này sẽ mở rộng cơ hội hợp tác của Viện nghiên cứu FPT với EADS, các đơn vị nghiên cứu khoa học trong và ngoài nước.
+
+Viện nghiên cứu FPT cho biết sẽ dùng số tiền thưởng để tiếp tục đầu tư, hoàn thiện đề án của mình nhằm cụ thể hóa ý tưởng “Cứu ngư dân trước thảm họa bão”.
+
+Trước thực tế mỗi năm có hàng trăm ngư dân Việt Nam bị thiệt mạng sau mỗi mùa mưa bão, Tập đoàn Hàng không Vũ trụ và Quốc phòng Châu Âu (EADS) đã tổ chức Cuộc thi tìm kiếm giải pháp công nghệ cứu ngư dân trước thảm họa bão như một trong những nỗ lực dùng công nghệ để giảm thiểu thảm kịch này mỗi năm. Tháng 10/2011, lần đầu tiên cuộc thi chính thức được khởi động tại Việt Nam, mở đầu cho chuỗi 3 cuộc thi về chủ đề này mà EADS sẽ tổ chức liên tiếp trong 3 năm 2011, 2012, 2013.
+
+Cuộc thi đầu tiên nhằm vào các giải pháp giúp cảnh báo sớm ngư dân về các cơn bão. Cuộc thi thứ hai (năm 2012) hướng tới các giải pháp nhằm giúp ngư dân tránh bão sau khi đã có cảnh báo. Cuộc thi thứ ba (năm 2013) sẽ đưa ra các thử nghiệm thực tế dựa vào các giải pháp tích hợp từ các cuộc thi trước đó.

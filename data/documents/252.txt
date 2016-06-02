@@ -1,0 +1,23 @@
+﻿Vi mạch quang hợp như lá cây
+
+Các nhà khoa học đang tìm cách chế tạo loại vi mạch có khả năng biến ánh sáng thành điện dựa theo phản ứng quang hợp của thực vật.
+
+
+Ảnh minh họa: mooseycountrygarden.com.
+Thực vật tiến hành các phản ứng quang hợp để tạo ra chất dinh dưỡng với tỷ lệ hiệu quả đạt tới 100%. Các pin mặt trời cũng dùng chất bán dẫn silicon để biến ánh sáng thành điện, song mức độ hiệu quả của chúng chỉ đạt từ 6 tới 25%.
+
+Vì thế Greg Scholes, một giáo sư hóa học của Đại học Toronto tại Canada, nảy ra ý tưởng chế tạo cỗ máy có khả năng quang hợp như lá cây. Họ hy vọng những cỗ máy đó sẽ xuất hiện trong máy tính, thiết bị lưu trữ dữ liệu, động cơ, Discovery cho biết.
+
+“Cây cối là những cỗ máy phức tạp hệt như một chiếc máy bay Boeing 777. Chúng có khả năng điều chỉnh hoạt động ở mọi khâu trong từng giây. Đó là loại máy móc mà chúng tôi muốn chế tạo”, Greg phát biểu.
+
+Ý tưởng của Scholes – được công bố trên tạo chí Nature Chemistry – là chế tạo một vi mạch sinh học có khả năng biến ánh sáng mặt trời thành điện. Loại vi mạch này sẽ trở thành nguồn cung cấp điện cho máy tính, các thiết bị lưu trữ và thậm chí các vi mạch điện tử.
+
+Khi các phân tử thu nhận ánh sáng của cây được kích thích bởi các photon hạt photon trong ánh sáng từ mặt trời, chúng sẽ dao động và truyền năng lượng tới phân tử và tế bào khác. Hiện tượng này giống như một sóng lan truyền trên mặt ao.
+
+“Bạn có thể dùng các vi mạch sinh học ấy để ghi và đọc dữ liệu trên các máy tính hiện nay”, Scholes khẳng định.
+
+Một số nhà khoa học tỏ ra băn khoăn về tính khả thi của vi mạch sinh học. Chris Bardeen, giáo sư hóa học tại Đại học California, nói rằng thách thức lớn nhất sẽ là thu năng lượng từ những ánh sáng có bước sóng khác nhau, chứ không chỉ ánh sáng nhìn thấy.
+
+Alan Aspuru-Guzik, một giáo sư hóa học của Đại học Harvard tại Mỹ, đã tìm hiểu cơ chế quang hợp trong thực vật nhằm tạo ra những tấm pin mặt trời hiệu quả hơn trong tương lai. Ông nhấn mạnh rằng nhiều vấn đề cần được giải quyết trước khi chúng ta chứng kiến sự ra đời của những vi mạch có khả năng quang hợp như lá cây.
+
+“Thực vật có những cơ chế sửa chữa mà chúng ta không thể sao chép. Thách thức lớn về mặt kỹ thuật là tạo ra một loại vật liệu có khả năng thu nhận ánh sáng mặt trời trong 20 năm liên tục mà không xuống cấp”, ông bình luận.

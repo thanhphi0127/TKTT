@@ -1,0 +1,17 @@
+﻿Chiếc kính biến bạn thành siêu nhân
+
+Nếu dùng loại kính này để nhìn một loại thực phẩm trong siêu thị, bạn sẽ biết ngay thành phần dinh dưỡng của nó; nhìn một người lạ, bạn biết ngay anh ta tên gì, từng có mối liên hệ nào với bạn không.
+
+
+Kính công nghệ cao do các nhà khoa học của Đại học Aalto tại Phần Lan chế tạo. Ảnh: Tech News Daily.
+Theo Tech News Daily, các nhà khoa học Phần Lan chế tạo một loại kính gắn với máy tính xách tay và lấy thông tin từ kho dữ liệu. Kính được trang bị một camera cỡ nhỏ để ghi hình môi trường xung quanh.
+
+“Kính của chúng tôi có khả năng nhận dạng con người và một số vật thể mà người sử dụng thấy. Nó cũng có thể đưa ra thông tin về những người, vật thể mà bạn muốn biết. Dữ liệu hiện ra phía bên trong kính, song nó được hiển thị theo một cách khiến người sử dụng có cảm giác như nó hiện ra ở ngoài cuộc sống thực”, Samuel Kaski, giám đốc Viện Công nghệ thông tin Helsinki của Đại học Aalto tại Phần Lan, phát biểu.
+
+Ngay sau khi tìm được thông tin, kính hiển thị nó trên một màn hình nhỏ xíu, trong suốt sát mắt người. Chữ và hình ảnh hiện ra ngay phía trên hoặc gần vật thể mà người sử dụng đang nhìn.
+
+Khả năng này sẽ dẫn tới nhiều ứng dụng thú vị. Chẳng hạn, trong lúc gặp một người lạ, bạn có thể yêu cầu kính hiển thị thông tin về người này. Khi muốn biết thành phần dinh dưỡng của một loại thực phẩm nào đó trong siêu thị, người sử dụng chỉ cần nhìn mục tiêu và kính sẽ cung cấp thông tin đầy đủ về thành phần dinh dưỡng.
+
+Sự kết hợp giữa thế giới thực và ảo được gọi là “thông tin không gian thực” (augmented reality). Một số ứng dụng dành cho điện thoại di động đã cung cấp thông tin theo hình thức này.
+
+Nhóm của Kaski nhận định kính công nghệ cao của họ sẽ trở thành sản phẩm thương mại trong 5 tới 10 năm nữa.

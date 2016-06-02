@@ -1,0 +1,39 @@
+﻿Virus Flame và nỗi lo về trận Trân Châu Cảng trên Internet
+
+Chiến tranh ảo tưởng chừng là viễn cảnh xa vời, nhưng những gì đang diễn ra gần đây khiến người ta tin rằng một số quốc gia đang giải quyết các xung đột quốc tế bằng virus máy tính thay vì tấn công quân sự.
+>Sâu máy tính tinh xảo nhất thế giới lộ diện
+
+Digital Pearl Harbor (Trận chiến Trân Châu Cảng trên mạng) là thuật ngữ ám chỉ nguy cơ một cuộc tấn công âm thầm và tinh vi có thể đã diễn ra hoặc sắp bất ngờ xảy ra nhờ sự hỗ trợ của các mã độc (malware) mà đối phương không hề hay biết.
+
+Mới đây, sâu Flame, được cho là do một chính phủ nào đó hậu thuẫn, bị phát hiện đang bí mật lùng sục trên các máy tính bị lây nhiễm ở Trung Đông. Đây không phải trường hợp đầu tiên hay thứ hai, mà đã là mã độc thứ ba thuộc dạng này xuất hiện. Ban đầu là Stuxnet rồi đến Duqu và giờ là Flame.
+
+Không như các virus khác đang bị phát tán nhan nhản trên mạng, những phiên bản này thể hiện rõ là chúng đang làm nhiệm vụ gián điệp và phá hoại, như Stuxnet tấn công vào chương trình hạt nhân của Iran.
+
+
+Nguy cơ chiến tranh ảo ngày càng rõ nét. Ảnh: GreenWave.
+Nhà báo David E. Sanger của The New York Times đã tiết lộ các thông tin gây sốc trong cuốn Confront and Conceal: Obama’s Secret Wars and Surprising Use of American Power (Đối đầu và che đậy: Cuộc chiến bí mật của Obama và Việc khai thác sức mạnh Mỹ), dự kiến phát hành vào ngày 5/6. Từ ngày 1/6, báo The New York Times đã đăng tải một phần cuốn sách, khẳng định nghi ngờ bấy lâu nay: Stuxnet là do chính quyền Barack Obama khởi xướng (dù trước đó cả Mỹ và Israel đều phủ nhận liên quan đến sâu này).
+
+Từ thời George W.Bush, Mỹ đã coi mã độc là một trong những giải pháp thay thế cho việc tấn công quân sự đối với Iran. Obama đã tiếp quản và duy trì hoạt động này dưới tên mã Olympic Games.
+
+Cùng với sự trợ giúp của Israel, họ xây dựng một chương trình thâm nhập vào nhà máy hạt nhân Natanz của Iran và phải vài tháng sau, đoạn mã này mới hoàn thành việc ghi lại thiết kế của hệ thống máy tính chịu trách nhiệm kiểm soát những máy ly tâm (có nhiệm vụ tinh chế uranium) nằm sâu dưới lòng đất. Sau khi có sơ đồ chi tiết, họ tung ra virus siêu hạng với khả năng khai thác không chỉ 1 mà tới 5 lỗ hổng cùng lúc để điều khiển máy tính bị lây nhiễm từ xa.
+
+Virus đó đã không bị lộ cho đến khi một lỗi lập trình xảy ra khiến nó lọt ra ngoài cơ sở Natanz vào năm 2010, lây lan trên Internet và trở nên nổi tiếng dưới tên gọi được các hãng bảo mật tự đặt là Stuxnet. Trước tình hình đó, Obama, Phó tổng thống Joe Biden và Giám đốc Cục tình báo trung ương khi đó là Leon Panetta đã có cuộc họp căng thẳng nhằm cân nhắc việc có nên đóng cửa chương trình này. Cuối cùng, họ quyết định tiếp tục vì không ai có thể chứng minh sự liên quan của Mỹ. Ước tính Stuxnet và "người anh em" của nó là Duqu đã loại bỏ khoảng 1.000 trong số 5.000 máy ly tâm ở Natanz bằng cách kích hoạt và quay chúng ở tốc độ cực cao dẫn đến hỏng hóc.
+
+Trong khi đó, trước sự xuất hiện của sâu Flame tuần trước, Bộ an ninh nội địa Mỹ vẫn cho rằng không có bằng chứng nào cho thấy Flame có dính dáng đến Stuxnet hay Duqu và họ đang cùng các đối tác phân tích nguy cơ ảnh hưởng đến Mỹ.
+
+Các chuyên gia sẽ cần vài tháng, nếu như không muốn nói là vài năm, để tìm ra được điều gì đó từ Flame - vũ khí ảo tinh xảo nhất từng được phát hiện. Nó mở cổng hậu trên máy tính và có thể tự lây nhiễm vào USB, thông qua các chia sẻ nội bộ hay qua máy in... Nó dùng rất nhiều phương pháp khác nhau để mã hóa và nén dữ liệu, chứa ít nhất 20 thành tố được sử dụng để ra lệnh cho nó chụp màn hình, ghi lại các cuộc hội thoại, ký tự từ bàn phím và thu thập thông tin từ những thiết bị Bluetooth quanh nó.
+
+Từng chức năng riêng lẻ của Flame không mới mẻ, nhưng quy mô và số lượng các chức năng được tích hợp trong nó gây nhiều hoang mang. Flame đã âm thầm hoạt động trong ít nhất 5 năm tại Iran, Israel, Lebanon, Sudan, Syria, Saudi Arabia và Ai Cập.
+
+
+Flame bị phát hiện trên hàng loạt máy tính Trung Đông. Ảnh: AFP.
+Giới bảo mật nhận ra rằng Stuxnet và Flame chỉ là phần nổi của tảng băng và chắc hẳn một vài chương trình khác vẫn đang làm nhiệm vụ gián điệp trên máy tính của nhiều quốc gia trên thế giới.
+
+"Stuxnet, Duqu và Flame cho thấy chúng ta đang trong kỷ nguyên mới. Tôi hoàn toàn không ngạc nhiên khi nghe thông tin về Flame", Scott Borg, Giám đốc viện nghiên cứu phi lợi nhuận U.S. Cyber Consequences Unit, cho hay.
+
+Từ hai năm trước khi Stuxnet bị lộ, Borg đã nhận định vũ khí mà Israel lựa chọn để can thiệp vào chương trình hạt nhân của Iran có thể là mã độc thay vì đe dọa quân sự. Các tổ chức tình báo luôn khai thác nhiều cách để nắm được thông tin mật của nước khác. Với sự phổ biến của thiết bị điện tử và mạng kết nối, không có lý do gì để họ bỏ qua công cụ này trong việc thám thính hoạt động của đối phương, thậm chí của cả đối tác.
+
+"Chiến tranh ảo không loại trừ bất cứ quốc gia nào", Borg nói và nhắc đến cuộc tấn công từ chối dịch vụ của Nga vào các trang tin tức và truyền thông của Gruzia năm 2008. "Tuy tính chất khác nhau, nó cho thấy chiến tranh ảo ít hủy diệt hơn và ít gây thương vong hơn hành động tấn công có vũ khí". Borg từ chối dự đoán ai đang đứng sau Flame nhưng giới hạn danh sách trong số các nước: Trung Quốc, Nga, Mỹ, Anh, Đức, Israel và Đài Loan.
+
+Theo CNet, Internet đang thay đổi cuộc sống và hành động của con người theo cách khó đoán trước. Thương mại điện tử khiến nhu cầu thuê mặt tiền kinh doanh không còn cao như trước, e-mail khiến máy fax lỗi thời, smartphone thay đổi hoạt động nhiếp ảnh và giao tiếp cá nhân, trong khi Facebook đã mang đến định nghĩa mới cho từ "bạn bè" (friend). Do đó, các nước nên chuẩn bị (hoặc từ lâu họ đã âm thầm chuẩn bị) cho một cuộc chạy đua vũ trang trên mạng nhằm tránh trở thành nạn nhân của trận chiến Trân Châu Cảng thời đại kỹ thuật số.
+

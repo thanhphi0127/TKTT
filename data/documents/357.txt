@@ -1,0 +1,22 @@
+﻿Phóng tên lửa bằng nước thải
+
+Các kỹ sư Mỹ vừa tìm ra cách sản xuất nhiên liệu dành cho động cơ tên lửa từ nước thải.
+
+
+Trong quá trình đốt cháy khí N2O, động cơ tên lửa chỉ tạo ra khí oxy và nitơ nóng. Ảnh: wordpress.com.
+Nitơ oxit (N2O) là loại khí không màu, vị ngọt và có khả năng gây cười. Tuy thuộc nhóm khí gây hiệu ứng nhà kính, song khi bị đốt cháy khí này biến thành oxy (O2) và nitơ (N).
+
+Physorg cho biết, giáo sư Brian Cantwell, một chuyên gia chế tạo động cơ tên lửa của Đại học Stanford tại Mỹ, cùng một số học trò muốn biến nitơ oxit (N2O) thành nguồn năng lượng. Nếu làm được việc đó, còn người sẽ có thêm nguồn cung cấp năng lượng khổng lồ, đồng thời tốc độ ấm lên của trái đất cũng giảm.
+
+Cantwell trao đổi ý tưởng với Craig Criddle, giáo sư bộ môn xây dựng và môi trường của Đại học Stanford. Criddle cho biết, nước thải trong các cống chứa một loại vi khuẩn kỵ khí (sinh trưởng không cần oxy) có khả năng biến N thành N2O.
+
+Trong quá trình “chế biến” vi khuẩn còn tạo ra cả metan (NH4) – loại khí mà con người có thể dùng để sản xuất điện.
+
+Động cơ tên lửa của Cantwell – được thiết kế để dùng cho tàu vũ trụ - có thể đốt một lượng lớn N2O để tạo ra nhiệt. Trong thông cáo báo chí của Đại học Stanford, Cantwell nói động cơ có thể tạo ra mức nhiệt lên tới hơn 5.400 độ C và phun ra khí N và khí O2 với tốc độ khoảng 150 m/s.
+
+Để hình dung những lợi ích mà công nghệ của Cantwell mang đến, chúng ta cần tìm hiểu quy trình xử lý rác thải. Trong đa số nhà máy xử lý rác tại Mỹ, người ta bơm oxy vào nước thải nhằm tạo điều kiện cho vi khuẩn phân hủy các chất hữu cơ. N là một trong những sản phẩm được tạo ra bởi quá trình đó.
+
+Tuy nhiên, cách làm trên vừa tốn kém vừa phức tạp. Sử dụng vi khuẩn kỵ khí là cách rẻ và đơn giản hơn. Yếu điểm lớn nhất của giải pháp dùng vi khuẩn là nó tạo ra N2O – chất khí có hại cho môi trường. Động cơ tên lửa sẽ giải quyết vấn đề đó.
+
+Nhóm của Cantwell tuyên bố công nghệ của họ có thể thay thế những công nghệ đang được ứng dụng trong các nhà máy xử lý rác trên toàn nước Mỹ và giúp các nước nghèo sản xuất thêm nhiều nước sạch cho người dân. Nó cũng có thể được sử dụng để lấy N từ nước ngầm bên dưới những đồng ruộng được bón phân hóa học.
+

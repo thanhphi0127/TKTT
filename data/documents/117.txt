@@ -1,0 +1,18 @@
+﻿Những sản phẩm dự kiến xuất hiện tại Apple WWDC
+
+Đêm nay, sự kiện thường niên lớn nhất trong năm của Apple sẽ diễn ra tại San Francisco, nơi hãng công nghệ Mỹ giới thiệu các cải tiến mới trên một loạt dòng sản phẩm quan trọng của họ.
+
+
+MacBook Pro: Dòng laptop chủ đạo của Apple sẽ được nâng cấp với chip Core thế hệ ba (Ivy Bridge). Một số ảnh rò rỉ trên mạng cho thấy máy được trang bị bộ vi xử lý với xung nhịp 2,3 GHz, 2,5 GHz và 2,7 GHz cùng đồ họa mới Nvidia GeForce GT 650M (Kepler) 1 GB GDDR5. Cải tiến này sẽ giúp MacBook Pro đạt hiệu suất cao hơn, hoạt động êm hơn và thời lượng pin tốt hơn.
+
+MacBook Air: Dù là laptop siêu mỏng nhẹ, MacBook Air có thể cũng sẽ sử dụng chip Ivy Bridge. Những thay đổi lớn nhất của đợt nâng cấp trước là sự chuyển đổi từ cổng mini DisplayPort sang Thunderbolt, còn lần này có thể là mở rộng dung lượng và bộ nhớ. Như MacBook Pro, dòng Air có thể sẽ không đổi kiểu dáng bên ngoài.
+
+iOS 6: Tại WWDC, người hâm mộ đã biết chắc Apple sẽ giới thiệu iOS 6 sau khi hãng này treo băng rôn về hệ điều hành mới. Nhiều người chờ đợi với nền tảng thế hệ 6, Siri sẽ hoạt động được trên iPad hoặc trên cả những thiết bị đời cũ.
+
+Mac OS Mountain Lion (10.8): Apple cũng bàn sâu về hệ điều hành quan trọng dành cho máy tính của họ như ngày phân phối, giá bán và các tính năng mới nhất.
+
+iMac, Mac mini và Mac Pro: "Quả táo" cũng sẽ có những tuyên bố mới liên quan đến dòng máy để bàn. Tuy nhiên, những sản phẩm này không thực sự hút khách tại VN.
+
+Apple thường tổ chức sự kiện âm nhạc vào tháng 9 hàng năm, do đó các dòng iPod có thể sẽ không được đề cập tại WWDC.
+
+iPhone thế hệ sáu, iPad Mini 7 inch giá rẻ, TV mang thương hiệu Apple - ba sản phẩm được mong chờ nhất gần như chắc chắn sẽ không xuất hiện trong tháng này. Tuy nhiên, nhiều người hâm mộ vẫn đợi một "điều kỳ diệu" sẽ xảy ra.

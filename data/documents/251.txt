@@ -1,0 +1,19 @@
+﻿Điệp viên giấu thông điệp trong vi khuẩn
+
+Thay vì dùng nước chanh, trong tương lai các nhân viên tình báo có thể mã hóa những thông điệp bí mật bằng vi khuẩn để gửi tới đồng đội hoặc cấp trên.
+
+
+Một thông điệp được mã hóa bằng màu sắc ánh sáng từ vi khuẩn. Ảnh: Newscientist.
+Mực không màu, nước chanh là những loại dung dịch mà giới điệp viên sử dụng để ghi thông điệp trong suốt vài thập kỷ qua. Đương nhiên, giới tình báo cũng nghĩ ra hàng loạt cách để giải mã những thông điệp được viết bằng các loại "mực" đặc biệt ấy. Tìm ra cách mới để giấu thông điệp là nhu cầu thường xuyên trong thế giới tình báo.
+
+David Walt, một nhà hóa học của Đại học Tuft tại Mỹ, cùng các đồng nghiệp nghĩ tới việc dùng vi khuẩn để cất giấu thông tin mật. Các nhà khoa học gây biến đổi gene đối với vi khuẩn Escherichia coli để chúng sản sinh các protein có khả năng phát sáng huỳnh quang. Nhờ các protein này mà vi khuẩn phát ra ánh sáng có 7 màu, Newscientist cho biết.
+
+Mỗi ký tự của thông điệp được mã hóa bằng hai màu. Do vi khuẩn phát ra ánh sáng có 7 màu nên tổng số ký tự có thể mã hóa là 49 – đủ dùng cho bản chữ cái, các số tự nhiên từ 0 tới 9 và vài biểu tượng khác.
+
+“Bạn có thể mã hóa mọi ứng dụng tình báo bí mật với 7 màu của vi khuẩn”, Walt tuyên bố.
+
+Vi khuẩn được nuôi trên một đĩa thạch trắng trước khi người ta chuyển chúng sang một tấm phim mỏng. Tấm phim mỏng có thể được gửi cho người nhận qua bưu điện. Trong mọi điều kiện ánh sáng người ta không thấy gì trên tấm phim. Song thông điệp sẽ hiện ra khi người nhận đưa phim vào môi trường phù hợp để vi khuẩn trên phim phát sáng.
+
+Ngoài việc làm cho vi khuẩn phát sáng, kỹ thuật biến đổi gene của Walt còn khiến vi khuẩn chỉ có thể phát sáng trong một số môi trường nhất định. Chẳng hạn, nếu một chủng vi khuẩn được biến đổi gene để chống lại một loại thuốc kháng sinh nào đó, chúng sẽ chỉ phát sáng khi phơi nhiễm kháng sinh ấy. Khi đó thuốc kháng sinh được coi là chìa khóa để giải mã thông điệp, Walt nói rằng ông có thể tạo ra hàng nghìn chìa khóa như vậy bằng cách kết hợp một số đặc tính di truyền của vi khuẩn.
+
+Các nhà khoa học cũng có thể làm mất khả năng phát sáng của vi khuẩn sau một khoảng thời gian nhất định, nhờ đó họ sẽ tạo ra những thông điệp có khả năng tự hủy.

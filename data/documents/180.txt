@@ -1,0 +1,13 @@
+﻿Bí mật bên trong 'nội thất' Galaxy S III
+
+Các chuyên gia iFixit và Chipworks đã tháo rời smartphone đang thu hút sự chú ý nhất hiện nay để khám phá linh kiện và phát hiện một số chi tiết thú vị bên trong máy.
+
+Galaxy S III có pin 2.100 mAh, kích thước không to như pin 3.300 mAh có trong Motorola Droid RAZR Maxx nhưng lớn hơn pin 1.750 mAH của Galaxy Nexus. Điểm đáng chú ý là pin cũng chứa chip NFC.
+
+
+Xem chi tiết quá trình tháo linh kiện Galaxy S III.
+Lớp kính gắn chặt vào màn hình và khung của S III, do đó iFixit cho rằng chi phí để thay màn hình sẽ khá cao nếu người sử dụng lỡ tay làm rơi vỡ máy. Lớp bảo vệ Gorilla Glass 2 của Corning giúp màn hình cứng như thế hệ một nhưng vẫn mỏng hơn 20%. Tuy nhiên, họ không khẳng định lớp kính mới có tốt hay bền hơn lớp cũ không.
+
+Phát hiện thú vị nhất khi mổ xẻ sản phẩm là camera 8 megapixel trong Galaxy S III có cùng cảm biến (sensor) như iPhone 4S. Tuy nhiên, một số thử nghiệm ban đầu cho thấy điện thoại Samsung chụp ảnh tốt hơn iPhone 4S.
+
+Bên cạnh đó, iPhone 4S sử dụng camera phía trước là VGA, kém hơn hẳn so với camera 1,9 megapixel của S III. Lý giải về con số lẻ này, đại diện của Samsung chia sẻ với VnExpress.net rằng thực ra đó là camera 2 megapixel, nhưng độ phân giải không chính xác là 2 'chấm' nên Samsung quyết định đặt là 1,9 để tránh những "săm soi" không đáng có về sau).

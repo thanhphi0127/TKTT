@@ -1,0 +1,9 @@
+﻿Avatar biết vui buồn theo thái độ của người sử dụng
+
+Thay vì sử dụng ảnh tĩnh như hiện nay, người dùng có thể tạo cho mình một ảnh đại diện (avatar) biết lắc, nghiêng đầu, cười, nháy mắt... giống với những gì họ đang làm trước màn hình máy tính.
+
+Một nhóm nghiên cứu tại Đại học Keio (Nhật), đứng đầu là Phó giáo sư Yasue Mitsukura, đã phát triển một phương pháp không chỉ nhận diện khuôn mặt mà còn có thể phát hiện các thay đổi liên tục trên nét mặt. Hệ thống này đạt được độ chính xác cao và nhanh chóng dù chỉ dùng một camera có kết nối USB và máy tính PC thông thường.
+
+"Do nó không đòi hỏi thiết bị đắt đỏ, hệ thống sẽ được áp dụng trong nhiều tình huống khác nhau", nhóm nghiên cứu khẳng định. Chẳng hạn, khi người dùng truy cập vào một diễn đàn, các thành viên khác có thể thấy avatar đang nhăn mặt, nhíu mày... và họ sẽ đoán được tâm trạng của người này.
+
+Hệ thống sử dụng công nghệ xử lý tín hiệu theo chuỗi thời gian, tập trung vào các điểm cụ thể trên mặt như mắt, mũi, miệng. Các đốm trắng trên màn hình nhận diện nét mặt (nói, cười, nhướn mày...) còn đốm đỏ nhận diện hướng mặt (nhìn thẳng, quay ngang, cúi xuống...) để biết người sử dụng avatar đó đang vui vẻ, ngạc nhiên hay giận dữ.

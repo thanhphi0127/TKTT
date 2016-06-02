@@ -1,0 +1,15 @@
+﻿Robot Việt Nam làm vũ công
+
+Vũ công máy mang tên Roohex thực hiện các động tác múa được lập trình sẵn theo những giai điệu âm thanh.
+
+
+Đây là những phiên bản đầu tiên của dòng robot dịch vụ giải trí được chế tạo tại Khoa Cơ - Điện Tử, Trường Đại học Kinh doanh và Công nghệ Hà Nội với sự phối hợp của một công ty tự động hóa. Chúng có thể biểu diễn ca nhạc trong các sự kiện văn hóa nghệ thuật của các công ty, trường học hoặc trong các sự kiện cần có sự góp vui của văn nghệ như các hoạt động quảng bá giới thiệu sản phẩm nhằm của cửa hàng, siêu thị.
+
+Với khối lượng 2,5 kg, Roohex là loại robot nhỏ gọn, có thể nằm gọn trong hộp có kích thước 50 cm x 50 cm x 30 cm. Robot có 6 chân, mỗi chân có 3 bậc tự do nên chúng thực hiện những chuyển động linh hoạt và uyển chuyển. Nó được trang bị 18 động cơ servo RC - loại động cơ giúp chân robot thực hiện những chuyển động xoay quanh vị trí theo quỹ đạo lập trình xác định.
+
+Xem thêm hai màn trình diễn của Roohex
+Bộ vi xử lý của Roohex có khả năng phát nhạc mp3 và điều khiển robot thực hiện các động tác theo nhịp điệu âm nhạc (dân ca, cách mạng, khiêu vũ, thiếu nhi và các dòng nhạc khác). Bộ nhớ 4 GB cho phép Roohex lưu trữ một lượng bài hát lớn. Với việc lập trình sẵn các động tác theo nhạc, các kỹ sư lập trình trở thành đạo diễn múa cho các "vũ công máy".
+
+Người sử dụng có thể thay đổi "trang phục" bên ngoài của Roohex cho phù hợp với các bài hát và hoàn cảnh. Chẳng hạn, nó có thể đội mũ Lạc hồng hay logo quảng cáo.
+
+Các cán bộ giảng dạy, nghiên cứu của khoa Cơ-Điện tử thuộc Đại học Kinh doanh và Công nghệ Hà Nội cho rằng, sản phẩm Roohex sẽ mở ra một loại hình dịch vụ mới và độc đáo tại Việt Nam. Đó là dịch vụ cho thuê robot nhảy, múa để phục vụ các sự kiện văn hóa, giáo dục và thương mại.

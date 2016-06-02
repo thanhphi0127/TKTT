@@ -1,0 +1,17 @@
+﻿Pin tạo ra điện nhờ không khí
+
+Các nhà khoa học Scotland vừa chế tạo thành công loại pin đầu tiên trên thế giới có khả năng tạo ra điện từ khí oxy.
+
+ 
+Một pin Lithium-ion dành cho ô tô. Ảnh: thecarconnection.com.
+Telegraph cho biết, loại pin mới có tên là STAIR. Nó là phát minh của các nhà nghiên cứu thuộc khoa Hóa của Đại học St Andrews tại Scotland.
+
+Phần lớn điện thoại di động, máy tính xách tay và các thiết bị kỹ thuật số hiện nay dùng pin lithium-ion. Hợp chất lithium cobalt oxit (LiCoO2) thường được sử dụng để chế tạo cực dương của pin Lithium-Ion. Trong quá trình chế tạo pin, nhóm nghiên cứu của Đại học St Andrews thay thế LiCoO2 bằng carbon xốp.
+
+Pin STAIR nạp điện theo cách truyền thống, nhưng trong quá trình pin xả điện nó sẽ hút oxy từ không khí xung quanh. Oxy phản ứng với carbon xốp bên trong pin và tạo ra điện. Như vậy lượng điện trong pin liên tục được bổ sung trong quá trình xả.
+
+Carbon xốp nhẹ hơn nhiều so với LiCoO2, vì thế STAIR sẽ nhẹ hơn rất nhiều so với pin truyền thống. Ngoài ra, do không khí liên tục làm tăng nguồn điện của pin khi nó xả, STAIR sẽ có khả năng tích điện cao hơn tới 10 lần so với những loại pin khác có cùng kích cỡ.
+
+“STAIR có nhiều lợi ích. Loại pin này nhỏ và nhẹ hơn nên rất phù hợp với những thiết bị cỡ nhỏ. Nó rất có ích đối với những hãng chế tạo xe điện do họ luôn cố gắng giảm khối lượng xe tới mức thấp nhất có thể”, giáo sư Peter Bruce, trưởng nhóm nghiên cứu, bình luận.
+
+Ngoài ra, Bruce cho rằng STAIR có thể đặt nền móng cho sự ra đời của thế hệ máy tính xách tay, điện thoại di động và ô tô điện mới.

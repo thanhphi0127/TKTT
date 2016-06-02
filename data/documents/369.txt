@@ -1,0 +1,21 @@
+﻿Lần đầu tiên tạo ra tế bào sống
+
+Các nhà khoa học Mỹ vừa tạo ra những ADN nhân tạo từ các hóa chất để điều khiển tế bào sống trong phòng thí nghiệm.
+
+
+Tiến sĩ Craig Venter, người sáng lập Viện J. Craig Venter. Ảnh: New York Times.
+Nhóm nghiên cứu của Viện J. Craig Venter sử dụng một số hóa chất để tổng hợp nên các đoạn ADN trong phòng thí nghiệm. Từ những đoạn ADN đó, nhóm nghiên cứu tạo ra bộ gene của vi khuẩn đơn bào Mycoplasma mycoides – thủ phạm gây bệnh viêm vú ở dê. Sau đó các chuyên gia cấy bộ gene đó vào tế bào chất của một loài vi khuẩn đơn bào có quan hệ họ hàng với Mycoplasma mycoides.
+
+Bộ gene nhanh chóng "bám rễ" trong tế bào (vi khuẩn) mới rồi phân chia liên tục, tạo ra hàng triệu vi khuẩn Mycoplasma mycoides mới.
+
+"Khi chúng tôi đưa bộ gene vào, vi khuẩn chấp nhận nó và tự biến thành loài vi khuẩn Mycoplasma mycoides. Đây là những tế bào tự phân chia đầu tiên được tạo ra bởi máy tính", Newscientist dẫn lời tiến sĩ J. Craig Venter, trưởng nhóm nghiên cứu.
+
+Như vậy, ban đầu bộ gene của vi khuẩn chỉ tồn tại dưới dạng dữ liệu trên máy tính, nhưng Venter và các cộng sự đã biến dữ liệu thành tế bào sống.
+
+Tuy nhiên, Venter khẳng định ông vẫn chưa tạo ra sự sống.
+
+“Chúng tôi vừa tạo ra tế bào sống nhân tạo đầu tiên. Chúng tôi chưa tạo ra sự sống từ con số không vì chúng tôi phải sử dụng một tế bào khác để tiếp nhận ADN nhân tạo”, ông nói.
+
+Andy Ellington, nhà sinh học của Đại học Texas tại Mỹ, nói rằng về mặt sinh học thì chẳng có gì khác biệt giữa vi khuẩn tự nhiên và vi khuẩn nhân tạo.
+
+“Cả hai loại vi khuẩn đều không có linh hồn”, Ellington nói.

@@ -1,0 +1,34 @@
+﻿Giới công nghệ và người dùng hào hứng với Microsoft tablet
+
+Chưa từng có một sản phẩm phần cứng nào của Microsoft lại thu hút sự chú ý nhiều trong lễ ra mắt như máy tính bảng Surface, có lẽ vì đây là thiết bị sẽ đưa tập đoàn phần mềm lớn nhất thế giới bước sang một chương mới.
+>Tablet Surface - bước ngoặt mạo hiểm của Microsoft
+
+Ngày 18/6 tại Mỹ, Microsoft chính thức đặt cược vào "canh bạc" tablet mà nhiều công ty khác đã thất bại trước sức mạnh của Apple iPad. Sản phẩm gồm hai phiên Surface dùng chip tiết kiệm điện năng Tegra trên nền ARM và Surface Pro dùng vi xử lý máy tính Ivy Bridge trên nền x86. Cả hai cùng chạy Windows 8, có độ mỏng dưới 1 cm. Điểm nổi bật là bộ vỏ nam châm Touch Cover đi kèm với chức năng bảo vệ máy giống như Smart Cover của iPad, nhưng đặc biệt hơn là khi mở ra, nó trở thành một bàn phím cứng siêu mỏng (3-5 mm).
+
+
+Touch Cover là bộ vỏ bảo vệ máy nhưng khi mở ra lại trở thành bàn phím.
+"Sau công bố của Microsoft, tôi như nhìn thấy tương lai rằng tôi không còn phải đi đâu cũng mang theo 2 thiết bị (tablet để giải trí và laptop cho công việc). Surface là một sản phẩm vẹn cả đôi đường", blogger nổi tiếng Joshua Topolsky cho hay.
+
+Biên tập viên Brad McCarty của The Next Web nhận xét: "Tablet của Microsoft sẽ đối đầu trực tiếp với iPad. Nhưng những gì Surface thể hiện còn cho thấy nó là đối thủ đáng gờm của cả MacBook Air và dòng ultrabook. Nó tích hợp chip Core i, hệ điều hành Windows 8, nên nó là một laptop siêu mỏng thực thụ. Hơn thế, nó còn có màn hình cảm ứng, bàn phím rời với độ nhạy cao".
+
+Chuyên gia phân tích Matthew Hoffman của công ty nghiên cứu Cowen cũng nhận định với việc hỗ trợ ứng dụng văn phòng Office, Surface sẽ tác động tới doanh thu của PC hơn là doanh thu của iPad. "Chúng tôi còn tin là Surface sẽ mở rộng thị trường tablet và thiết bị lai hơn là những gì Android đã làm được cho tới nay", vị chuyên gia này khẳng định thêm.
+
+Tuy nhiên, McCarty của The Next Web lại nhìn ra một sai lầm lớn của Microsoft. Apple luôn im lặng về sản phẩm của họ đến phút cuối và ngay khi được công bố, sản phẩm đó đã sẵn sàng được bán trên thị trường (thời điểm phân phối thường chỉ cách lễ ra mắt 1-2 tuần hoặc 1 tháng). Nguyên tắc "announce and ship" đó đã không được Microsoft học tập. Họ giới thiệu Surface, nhưng khi nào người ta mới có thể mua? Nó có giá bao nhiêu? Chưa ai biết mà chỉ đoán rằng sản phẩm sẽ ra đời song song với hệ điều hành Windows 8.
+
+Microsoft đi theo lối mòn của các công ty phần cứng khác là vội vã trình làng sản phẩm nhưng phải hàng tháng trời sau người ta mới thấy chúng trên thị trường. Điều này không tác động đến thành công của thiết bị, nhưng càng để lâu, sự đón nhận nồng nhiệt của người dùng sẽ càng nguội đi nhiều.
+
+Mức giá của Surface cũng là yếu tố gây nhiều tranh cãi. Đa số các nhà phân tích cho rằng nếu bản dùng chip ARM đắt hơn 500 USD, tablet của Microsoft chắc chắn sẽ không còn đường sống. Nó chẳng thuyết phục được ai mua khi mà iPad 2 chỉ có 400 USD còn giá Kindle Fire thấp hơn tới một nửa.
+
+
+Tablet của Microsoft được đánh giá là "mượt một cách khó tin" và điều băn khoăn nhất chỉ là giá cả.
+"Lịch sử phát triển phần cứng của Microsoft khá mâu thuẫn, một số thất bại như máy nghe nhạc Zune, điện thoại Kin, một số rất thành công như Xbox và Kinect. Còn chúng tôi nhìn thấy ở Surface một tương lai đầy hứa hẹn. Chúng ta vẫn cần chờ thêm thông tin về số lượng ứng dụng, thời lượng pin..., nhưng bàn phím Touch Cover đột phá, khả năng tương thích với Office, cổng USB kích thước chuẩn, hỗ trợ Skype và cho phép lựa chọn giữa x86 và ARM đang làm tăng thêm cơ hội thành công của nó. Microsoft giờ chỉ cần cân nhắc và đưa ra mức giá hợp lý", ba chuyên gia Adam Holt, Jennifer Swanson Lowe và Melissa Gorham của Morgan Stanley đánh giá.
+
+Theo họ, Surface dùng Windows 8 RT (hệ điều hành cho tablet) nên có giá dưới 500 USD, còn Surface Pro (sử dụng Windows 8 Pro, chip Core i Ivy Bridge) là một máy tính hoàn chỉnh nên người dùng sẽ chấp nhận giá ngang với ultrabook, nhưng khả quan nhất là máy nên được bán dưới 1.200 USD.
+
+Do đã chứng kiến nhiều "bom xịt" trên thị trường tablet như Motorola Xoom, RIM PlayBook..., giới phân tích tỏ ra thận trọng khi dự đoán về triển vọng của Surface. Trong khi đó, người tiêu dùng lại rất hào hứng đón nhận thông tin về thiết bị. Kết quả khảo sát trong vòng 24 tiếng trên VnExpress.net cho thấy có tới 91% độc giả tin đây là một bước đi đúng đắn, hợp lý và mạnh dạn của Microsoft trong khi chỉ có chưa đến 4% nghĩ tablet này sẽ thất bại.
+
+
+Microsoft Surface nhận được sự ủng hộ lớn của người tiêu dùng.
+"Microsoft vẫn giỏi nhất mảng văn phòng. Apple giải trí còn Google Android bình dân. Thật khó để nói ai thành công ai thất bại. Nhưng trước mắt, đây là một chiếc tablet tốt cho người dùng văn phòng", độc giả quan352 chia sẻ.
+
+Nhiều độc giả khác bày tỏ vui mừng vì Microsoft đã tham gia vào thị trường máy tính bảng. Họ kỳ vọng tập đoàn phần mềm Mỹ sẽ hất cẳng được Android và cuộc đua nền tảng sẽ trở lại như xưa, tức chỉ còn giữa Microsoft và Apple (Windows 8 + Windows Phone đấu với Mac OS X + iOS).

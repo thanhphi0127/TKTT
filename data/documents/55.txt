@@ -1,0 +1,30 @@
+﻿Tablet Surface - bước ngoặt mạo hiểm của Microsoft
+
+Microsoft từ lâu vẫn trung thành với quan điểm: chỉ phát triển phần mềm và cung cấp cho các hãng phần cứng thay vì cho ra mắt một sản phẩm riêng gây khó dễ cho chính đối tác của mình. Nhưng điều đó đã thay đổi từ ngày 18/6.
+>Windows 8 và 'vận mệnh' của Microsoft / Microsoft lần đầu trình làng tablet chạy Windows 8
+
+Nhìn lại chặng đường Apple và Microsoft trải qua, có thể thấy rõ hai mô hình kinh doanh khác nhau tạo nên cuộc chiến giữa Mac OS và Windows. Apple xây dựng một hệ sinh thái khép kín bao gồm máy tính - hệ điều hành- ứng dụng - phân phối. Microsoft ngược lại, họ chỉ tạo nền tảng rồi thiết lập mối quan hệ thân thiện với đối tác để đưa Windows vào máy tính. Người hâm mộ có nhiều lý do để đánh giá cao sự tinh tế trong sản phẩm Apple, nhưng họ không thể phủ nhận rằng Microsoft đã chiến thắng một cách thuyết phục: Windows chiếm 90% thị phần máy tính trong khi Apple giành được vỏn vẹn 6%.
+
+Microsoft cũng tham gia sản xuất phần cứng như chuột, bàn phím, máy nghe nhạc, máy chơi game Xbox... nhưng họ chưa bao giờ sản xuất PC, laptop hay tablet để tránh xung đột lợi ích. Vậy tại sao Microsoft, đang "yên ấm" với hàng loạt đối tác, lại thay đổi chiến thuật? Tại sao họ tung ra tablet Surface vào 18/6 tại Mỹ (sáng 19/6 theo giờ VN) trong khi Acer, Asus, Dell, HP, Lenovo... đang muốn "đổi vận" với Windows 8 vì đã mệt nhoài và thất bại với máy tính bảng Android?
+
+
+Microsoft trình làng máy tính bảng Surface sáng 19/6.
+Microsoft đang rất thành công với mô hình kinh doanh của họ, nhưng mọi thứ sẽ thay đổi trong tương lai. Thế giới đang chuyển sang xu hướng di động với số lượng desktop ngày càng giảm trong khi laptop, tablet... tăng lên. Thời kỳ hậu PC mà Apple nói đến chắc chắn sẽ diễn ra và các công ty cần chuẩn bị để thích nghi. Đó cũng chính là lý do khiến Windows 8 được phát triển để hỗ trợ thiết bị cảm ứng.
+
+Hãng phần mềm khổng lồ đang phải đối mặt trước thực tế là số lượng người dùng Internet di động sẽ vượt Internet trên desktop trong năm 2014 (theo ComScore). Khi đó, PC - nơi Microsoft thống trị - không còn là trung tâm của điện toán. Tất nhiên, PC vẫn đóng vai trò quan trọng trong nhiều yêu cầu công việc khác nhau nhưng Steve Jobs (cố CEO Apple) hẳn có lý khi tin rằng trong tương lai, PC sẽ là những chiếc xe tải đảm nhận các công việc nặng nhọc, còn trong cuộc sống thường nhật, người ta sẽ chọn tablet - những chiếc xe hơi hào nhoáng, nhẹ nhàng.
+
+Mô hình của Microsoft phát huy hiệu quả trong giai đoạn desktop PC nhưng sẽ không có gì đảm bảo họ làm được điều tương tự trong cuộc đua di động. Thế giới thay đổi đồng nghĩa mô hình kinh doanh cũng thay đổi.
+
+Lúc này, Microsoft có thể học hỏi từ Google. Khi quyết định trở thành hãng phần cứng bằng cách mua lại Motorola Mobility, giới quan sát lo ngại Google sẽ khó xử với đối tác vì họ tất nhiên sẽ "thiên vị" và sớm đưa các tính năng mới của Android vào sản phẩm của mình trong khi những công ty khác cần thêm thời gian tùy biến. Chiến lược nước đôi này được giới phân tích đánh giá chẳng khác nào tự mua dây buộc mình bởi Google bỗng dưng đi tuyên chiến với chính những người giúp Android phổ biến.
+
+Nhưng "thảm họa" đã không xảy ra. Các nhà sản xuất thiết bị gốc (OEM) vẫn tiếp tục cho ra đời máy Android mới, giúp Google dần thành công trong cả phần cứng và phần mềm. "Phép thử" của Google đã chứng tỏ các đối tác không quay lưng, vậy không có lý do gì Microsoft không làm điều tương tự.
+
+Họ không thể mãi mạo hiểm dựa vào các đối tác OEM như trước mà phải tự phát triển những sản phẩm phù hợp nhất cho hệ điều hành mà họ làm ra nhằm xây dựng thương hiệu, thay vì để quan niệm của người dùng về Windows trồi sụt theo từng model đắt rẻ, hoạt động nhanh chậm của mỗi đối tác khác nhau. Chưa kể, Microsoft cũng đã áp dụng mô hình đóng của Apple khá thành công với máy chơi game Xbox khi tập trung xây dựng thiết bị - nền tảng - dịch vụ (Xbox hiện chiếm gần 50% thị phần console tại Mỹ).
+
+Apple iOS đang chiếm lĩnh thị trường tablet. Các hãng phần cứng đã hợp lực cùng Android vẫn không "đánh" được Apple dù "Quả táo" có duy nhất một mẫu tablet. Dễ thấy, họ cũng khó có "cửa" cạnh tranh với Apple khi chuyển sang Windows. Giải pháp lúc này là Microsoft cần trực tiếp phát triển tablet song song với việc lôi kéo các đối tác tham gia hệ sinh thái của họ để làm nên một lực lượng mạnh.
+
+Vậy sức mạnh của Microsoft tablet là gì? Hãng này đang có một lợi thế đặc biệt là người dùng vẫn quá phụ thuộc vào Windows, nhất là trong công việc. iPad là một tablet đẹp, mang tính giải trí cao, nhưng chưa bao giờ được coi là thiết bị phù hợp cho công việc. Người ta vẫn cần đến những thứ như Office để xử lý văn bản... Người ta sẽ nhìn vào máy tính bảng Apple và nghĩ: "Nó đẹp thật, nhưng tôi có thể dùng nó thay cho laptop không?". Câu trả lời thành thực sẽ là "Không". Người dư dả tiền bạc có thể dùng song song cả iPad và laptop, nhưng không ai bán laptop để sắm duy nhất iPad.
+
+Theo thời gian, iPad sẽ tiến sâu hơn vào trong doanh nghiệp và khi đó, Microsoft có nguy cơ đứng trước cửa tử. Hãng phần mềm Mỹ không muốn điều đó xảy ra. Đó là lý do họ hành động: cho ra đời máy tính bảng Surface và tự tin trả lời câu hỏi trên rằng: "Tất nhiên, bạn có thể dùng tablet thay cho laptop". Surface có hệ điều hành Windows 8, có các ứng dụng văn phòng, là máy tính thực thụ dù đang khoác trên mình dáng vẻ của một tablet. Người dùng có thể thao tác với màn hình cảm ứng hoặc gắn bàn phím, bút... để làm việc như trên laptop trong những hoàn cảnh khác nhau.
+
+Surface chính là một bước đi quan trọng nữa để Microsoft tiến đến "hệ sinh thái hợp nhất", nơi PC, tablet, điện thoại, TV, máy chơi game... có thể chạy trên cùng một nền tảng, giúp người sử dụng không cảm thấy xa lạ khi tiếp xúc nhiều thiết bị khác nhau.

@@ -1,0 +1,15 @@
+﻿'Đạp phanh xe' bằng ý nghĩ
+
+Khả năng ngăn chặn tai nạn sẽ tăng lên nếu các tài xế dừng xe bằng ý nghĩ thay vì dùng chân, các nhà khoa học Đức tuyên bố.
+
+
+Tình nguyện viên tham gia thử nghiệm dừng xe bằng ý nghĩ của Viện Công nghệ Berlin. Ảnh: Newscientist.
+Một số loại xe hơi được trang bị những hệ thống có khả năng phát hiện những mối nguy hiểm giao thông. Nhờ đó chúng có thể ngừng chạy ngay khi người điều khiển chạm phanh. Nhưng Stefan Haufe, một nhà nghiên cứu thuộc Viện Công nghệ Berlin tại Đức, cho rằng kết nối phanh với não là cách có thể giúp con người lái dừng xe kịp thời hơn, Newscientist đưa tin.
+
+Haufe cùng các đồng nghiệp đặt một thiết bị có khả năng đo tín hiệu điện trong não lên đầu của 18 người tình nguyện. Đây là cách các nhà khoa học thường áp dụng để đo hoạt động của não mà không gây nên tác dụng phụ. Sau đó nhóm nghiên cứu yêu cầu nhóm tình nguyện viên điều khiển một xe hơi ảo và phóng với tốc độ 100 km/h. Một xe hơi khác chạy phía trước xe của tình nguyện viên với tốc độ thay đổi.
+
+Hệ thống ghi được ba kiểu sóng não khi người lái buộc phải phanh gấp. Nhờ chúng mà nhóm chuyên gia có thể dự đoán được ý định dùng phanh của tài xế. Những cảm biến trên chân của người lái theo dõi sức căng cơ – một chỉ số nói lên ý định đạp phanh của người lái. Khi một trong ba kiểu sóng não xuất hiện và sức căng của cơ chân tăng, một thiết bị sẽ phát tín hiệu dừng tới phanh của xe.
+
+Kết quả cho thấy hệ thống dừng xe bằng ý nghĩ giúp xe sớm hơn 130 phần triệu giây so với thao tác đạp phanh bằng chân. Khoảng thời gian ấy chẳng có ý nghĩa nếu xe chạy chậm. Song với tốc độ 100 km/h, nếu xe dừng sớm hơn 130 phần triệu giây, khoảng cách giữa nó và chướng ngại vật tăng thêm một đoạn tương đương với chiếc xe hơi cỡ nhỏ. Khoảng cách tăng thêm đó đủ lớn để ngăn chặn tai nạn.
+
+Palaniappan Ramaswamy, một chuyên gia của Đại học Essex tại Anh, cho rằng thử nghiệm của Viện Công nghệ Berlin được thực hiện trong môi trường giả lập, với những người luôn trong trạng thái sẵn sàng dừng xe. Vì thế, biện pháp dùng ý nghĩ để dừng xe có thể không phát huy tác dụng trong những hoàn cảnh mà tư tưởng của người lái bị phân tán. Nhóm của Haufe sẽ thực hiện những thử nghiệm khác để kiểm chứng nhận định của Ramaswamy.

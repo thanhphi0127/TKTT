@@ -1,0 +1,11 @@
+﻿Xe đạp điện tự phát hiện đường cua
+
+Hãng xe hơi Ford tuyên bố họ sẽ ứng dụng công nghệ chế tạo xe đua công thức 1 để chế tạo một loại xe đạp điện đặc biệt.
+
+
+Hình minh họa xe đạp điện tương lai của hãng Ford. Ảnh: Discovery.
+Theo ý tưởng của Ford, xe đạp của hãng sẽ được có khung bằng nhôm và sợi carbon nên rất nhẹ. Nó sẽ được trang bị hộp điều khiển tốc độ 11 số và phanh đĩa. Một pin Lithium ion cấp điện cho motor có công suất 350 W.
+
+Điểm làm nên sự khác biệt giữa xe đạp của Ford với các xe đạp điện khác khả năng phát hiện đoạn đường cua hay ngả rẽ. Đây là một tính năng trong các xe đua công thức 1. Nhờ công nghệ cảm biến từ giảo, bánh xe có khả năng nhận dạng các đoạn cua để nhắc nhờ người sử dụng. Ngoài ra nó còn có thể đo sức đạp của người sử dụng để tính toán lượng điện mà mỗi cú đạp tạo ra.
+
+Ford đã đầu tư tiền vào dự án phát triển các ứng dụng chạy trên nền hệ điều hành Android dành cho xe đạp điện của hãng. Với các ứng dụng đó, xe đạp điện có thể tự theo dõi tốc độ, quãng đường, phát thông điệp cảnh báo.

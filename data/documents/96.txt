@@ -1,0 +1,9 @@
+﻿Nhóm LulzSec trở lại, phát tán 10.000 mật khẩu Twitter
+
+Nhóm tin tặc có tên LulzSec Reborn, tự nhận chính là tổ chức khét tiếng Lulz Security đã tan rã trước kia, tung lên mạng một loạt thông tin tài khoản gồm tên người dùng và password thuộc tiểu blog phổ biến nhất thế giới.
+
+Vụ việc được đánh giá là có thể gây nguy hại lớn vì các thành viên Twitter không đơn giản chỉ là mất mật khẩu mà từ đó, họ còn bị lộ nhiều dữ liệu cá nhân khác như tên thật, nơi ở, quá trình hoạt động trên Twitter... Tuy nhiên, đại diện Twitter cho hay vụ khai thác này chỉ ảnh hưởng đến những ai dùng TweetGif (ứng dụng chia sẻ ảnh GIF lên Twitter) và các tài khoản bị lộ kia vẫn được bảo vệ an toàn.
+
+
+Hình ảnh được LulzSec Reborn đăng lên mạng cùng file chứa mật khẩu.
+LulzSec bắt đầu gây chú ý từ tháng 5/2011 liên tục gây ra những đợt tấn công vào mạng Fox Broadcasting (ăn trộm e-mail hàng trăm nhân viên), thay đổi nội dung trên website PBS, thâm nhập Intranet của Sony, Nintendo, khiến website của CIA tạm ngừng hoạt động, tấn công trang web chính phủ của Brazil...Sau 50 ngày tung hoành cùng lời kêu gọi chiến tranh trên mạng nhằm lôi bí mật của mọi chính phủ ra ánh sáng, đến ngày 27/6/2011, nhóm này bất ngờ tuyên bố sẽ dừng lại. LulzSec Reborn cho hay họ chính là sự tái hợp của nhóm hacker nổi tiếng sau tròn 1 năm, nhưng mối liên hệ giữa hai nhóm chưa được kiểm chứng.

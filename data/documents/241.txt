@@ -1,0 +1,19 @@
+﻿Đạn tự đổi hướng như tên lửa
+
+Cách thức chiến đấu của binh lính và cảnh sát sẽ thay đổi trong tương lai sau khi loại đạn có khả năng tự điều chỉnh hướng ra đời, các kỹ sư Mỹ tuyên bố.
+
+AP đưa tin các kỹ sư của Phòng thí nghiệm quốc gia Sandia của Mỹ đang thiết kế loại đạn có khả năng tự đổi hướng tới 30 lần trong một giây để găm trúng mục tiêu với sự dẫn đường của tia laser.
+
+Viên đạn, có chiều dài chừng 10 cm, được gắn một cảm biến quang học ở phần chóp để có thể phát hiện tia laser trên mục tiêu. Cảm biến quang học gửi thông tin về vị trí của mục tiêu tới các vi mạch điện tử. Các vi mạch điện tử sử dụng một thuật toán để điều khiển những bộ dẫn động điện từ. Khi các bộ dẫn động được kích hoạt, chúng sẽ điều khiển những vảy nhỏ xíu để đưa viên đạn tới mục tiêu.
+
+Phòng thí nghiệm đã nhận hơn một triệu USD để nghiên cứu và phát triển đạn mới. Quá trình thiết kế và chế tạo đã diễn ra trong ba năm qua.
+
+
+Ảnh minh họa: ezskins.com.
+Red Jones, một chuyên gia kỹ thuật của Phòng thí nghiệm quốc gia Sandia, nói rằng ông và các đồng nghiệp đang thiết kế 50 viên đạn tự dẫn đường dành cho súng máy. Thách thức lớn nhất là vi mạch điện tử, bộ dẫn động điện từ và vảy phải đủ nhỏ để có thể tích hợp vào viên đạn. Nhóm nghiên cứu đã thử nghiệm hoạt động của đạn trên mô hình máy tính. Họ cũng đã chế tạo phiên bản đạn đầu tiên và thử nó trên thực địa.
+
+Do những công đoạn phức tạp nhất đã được thực hiện, công việc tiếp theo của Phòng thí nghiệm quốc gia Sandia là hợp tác với một công ty để sản xuất đạn tự dẫn đường và đưa chúng ra thị trường.
+
+Trong những thử nghiệm đầu tiên, đạn tự dẫn đường đạt tốc độ tối đa hơn 720 m/giây. Nhóm nghiên cứu tin rằng đạn có thể đạt các tốc độ tiêu chuẩn của quân đội Mỹ với những loại thuốc nổ thông thường.
+
+Các mô hình giả lập trên máy tính cho thấy, nếu mục tiêu cách người bắn hơn 800 m, đạn bình thường có thể bay chệch mục tiêu tới gần 9 m. Với khoảng cách tương tự, đạn tự dẫn đường chỉ bay chệch mục tiêu dưới 20 cm.

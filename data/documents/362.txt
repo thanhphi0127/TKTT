@@ -1,0 +1,17 @@
+﻿Vải có khả năng phát âm
+
+Các nhà khoa học của Viện Công nghệ Massachusetts tại Mỹ vừa tạo ra loại vải có khả năng phát hiện âm thanh và tạo ra tiếng động.
+
+
+Ảnh minh họa: designvogue.com.
+AFP đưa tin Viện Công nghệ Massachusetts (MIT) bắt đầu khởi động dự án nghiên cứu vải có khả năng nghe và phát ra tiếng động cách đây khoảng một thập kỷ. Mục đích của dự án là chế tạo loại vải có nhiều đặc tính phức tạp nhất từ trước tới nay, cho phép sợi vải tương tác với môi trường xung quanh.
+
+Trên thực tế loại sợi mới có nhiều đặc tính giống loại nhựa mà người ta sử dụng trong microphone. Tuy nhiên, các nhà nghiên cứu thay đổi hàm lượng flo trong nhựa để đảm bảo rằng các phân tử sắp xếp theo kiểu không đối xứng. Sự không đối xứng của các phân tử khiến nhựa có đặc tính áp điện - nghĩa là khi đưa vào nó một trường điện thì nó biến đổi hình dạng và ngược lại, khi dùng lực cơ học tác động vào nó thì nó tạo ra dòng điện.
+
+Những sợi mà MIT chế tạo chẳng những có khả năng thu nhận và truyền âm thanh, mà còn có thể tạo ra âm thanh.
+
+“Khi bạn kết nối chúng với nguồn điện và cho một dòng điện yếu chạy qua, chúng sẽ dao động và phát ra tiếng động. Nếu chúng dao động ở tần số mà tai người có thể nghe, bạn sẽ nghe thấy nhiều giai điệu từ chúng”, Noemie Chocat, một thành viên trong nhóm nghiên cứu, phát biểu.
+
+Các ứng dụng liên quan tới loại sợi vải phát hiện âm thanh có thể bao gồm microphone cực nhạy có khả năng ghi âm lời nói hoặc giám sát các chức năng của cơ thể, hoặc những sợi có thể đo lượng máu chảy trong mạch và áp suất trong não.
+
+"Thậm chí chúng ta có thể dùng sợi vải phát hiện âm thanh để chế tạo loại lưới giám sát dòng chảy của nước trong đại dương hay máy chụp cộng hưởng từ có độ phân giải cực cao”, MIT tuyên bố.

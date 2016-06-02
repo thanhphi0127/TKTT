@@ -1,0 +1,37 @@
+﻿Những điều cần biết về giao thức IPv6
+
+Ngày 6/6/2012, theo phát động của Internet Society (ISOC), các hãng công nghệ và nội dung số hàng đầu thế giới như Google, Facebook, Yahoo... đồng loạt khai trương các dịch vụ, ứng dụng trên nền IPv6.
+>Những khó khăn khi triển khai IPv6 tại Việt Nam
+
+Giao thức Internet phiên bản sáu (IPv6) là bước nâng cấp lớn từ chuẩn IPv4 với mục đích là giải quyết tình trạng cạn kiệt địa chỉ IP do số lượng các thiết bị kết nối Internet ngày một tăng cao.
+
+Trên thực tế, IPv6 đã được triển khai được một thời gian khá lâu và vẫn còn một chặng đường dài phía trước. Việc chuyển sang IPv6 không đơn giản, do đó nhiều tổ chức, công ty hoạt động trên Internet đã đồng lòng chọn ngày 6/6 tổ chức sự kiện toàn cầu World IPv6 Launch.
+
+Vì sao IPv6 là tất yếu?
+
+Đơn giản là vì kho địa chỉ Internet trên nền IPv4 sắp hết (IP là chuỗi số phân cho mỗi máy tính, máy chủ, smartphone và các thiết bị kết nối Internet khác). Nó có tổng cộng 4,3 tỷ địa chỉ và đã đang cạn dần trong khi các dòng thiết bị mới tiếp tục ồ ạt được bán ra thị trường.
+
+Vint Cerf, người tạo ra giao thức IPv4 với nhiệm vụ kết nối máy tính trên toàn cầu, cho biết: "Tôi nghĩ đó như là một cuộc thử nghiệm và 4,3 tỷ địa chỉ là quá đủ. Ai mà biết trước được chúng ta sẽ cần bao nhiêu không gian địa chỉ, nhất là khi thời điểm ra đời IPv4 chưa tồn tại khái niệm thiết bị IP di động".
+
+IPv6 chính là giải pháp. Mỗi địa chỉ IPv6 có chiều dài 128 bit, cho phép mở rộng kho địa chỉ lên tới 2^128, tức lớn hơn rất nhiều so với IPv4 (số địa chị cụ thể của IPv6 sẽ là 340.282.366.920.938.463.463.374.607.431.768.211.456). Vấn đề ở đây là quá trình nâng cấp Internet lên IPv6 đòi hỏi công sức và chi phí cao, nên đa số vẫn chần chừ đến khi nào không thể trì hoãn được nữa.
+
+
+Sự rộng lớn của địa chỉ IPv6 (128 bit) so với IPv4 (32 bit).
+Mức độ triển khai IPv6 thế nào?
+
+Người ta đã có thể mở các mạng IPv6 từ năm 1999 nhưng các nhà quản trị vẫn không cảm thấy có động lực triển khai. Phải đến hơn chục năm sau, điều này mới đang thay đổi. IPv6 hiện được hơn 1.500 website và nhà cung cấp dịch vụ ISP ở 22 quốc gia kích hoạt và duy trì. Đây mới là con số nhỏ nhưng sẽ sớm lan rộng. Cisco dự đoán sẽ có 8 tỷ thiết bị được cấp địa chỉ IPv6 vào năm 2016, tăng từ 1 tỷ trong năm 2011.
+
+Các website chính của Google, Microsoft, Facebook và Yahoo đã tương thích với IPv6. Yahoo cho hay các dịch vụ Yahoo Sports, Yahoo Mail và Yahoo Finance cũng sẽ hỗ trợ trong vài tháng tới.
+
+
+Số lượng triển khai IPv6 đã tăng tích cực so với năm ngoái. Nguồn: Hurricane Electric.
+Có vấn đề gì trong quá trình chuyển đổi IPv6 không?
+
+Có, nhưng sẽ chỉ ảnh hưởng đến một lượng nhỏ người dùng. Vào dịp World IPv6 Day diễn ra cách đây tròn 1 năm, Yahoo đã thống kê lượng khách truy cập bị ảnh hưởng vì IPv6. "Vài tuần trước khi World IPv6 Day 2011 diễn ra, việc chuyển đổi ảnh hưởng đến khoảng 0,055% người dùng. Một tuần sau, con số này giảm xuống 0,022%", Yahoo cho hay.
+
+Điều gì xảy ra nếu máy tính dùng IPv6 truy cập website dùng IPv4 và ngược lại? Có thể trong giai đoạn chuyển đổi, người sử dụng sẽ gặp thông báo site không tồn tại, hoặc tường lửa (firewall) cài đặt trên máy của họ không nhận diện được IPv6 nên chặn hoặc khiến quá trình truy cập vào website bị chậm lại... Tuy nhiên, thông thường, các công ty triển khai IPv6 sẽ có các công cụ và phần mềm để hỗ trợ việc giao tiếp giữa IPv4 và IPv6 trở nên thuận tiện.
+
+"Mọi người cần hiểu rằng đây là hạ tầng cơ sở mà họ đang phải phụ thuộc vào. Nó cần thay đổi để tiếp tục mở rộng. Doanh nghiệp cũng không thể phát triển nếu không có đủ địa chỉ để sử dụng", cha đẻ của Internet Vint Cerf nhấn mạnh dù thừa nhận 2 hệ thống địa chỉ không tương thích nhau nên sẽ có một phần nhỏ người sử dụng không tiếp cận được site, nguồn tài nguyên và dịch vụ web.
+
+Sự kiện World IPv6 Day 2011 và World IPv6 Launch 2012 chính là dịp thu hút nhiều hơn nữa các công ty, tổ chức tham gia chuyển đổi, đồng thời tìm ra các vấn đề kỹ thuật phát sinh trong thực tiễn triển khai.
+

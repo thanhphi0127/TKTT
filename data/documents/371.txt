@@ -1,0 +1,13 @@
+﻿Nhận tin nhắn từ người chết
+
+Một công ty tại Mỹ phát minh một thứ có khả năng giúp bia mộ gửi thông điệp của người chết viết tới điện thoại di động của những người sống.
+
+
+Một viên RossettaStone. Ảnh: Discovery.
+Discovery cho biết, RossettaStone - tên của loại sản phẩm mới - do công ty Objecs sản xuất từ đá granite - sẽ lưu giữ họ tên, ngày sinh, ngày mất của người chết như những tấm bia truyền thống. Tuy nhiên, nó còn có thêm một bức ảnh và những tin nhắn do chính tay người chết viết khi họ chưa lìa đời.
+
+Mỗi viên RossettaStone có hình dạng giống như chiếc iPod nhưng được làm bằng đá granite với vài biểu tượng ở bên ngoài và một bộ vi xử lý nhỏ bên trong.
+
+Khi các thế hệ sau của người đã khuất tới viếng mộ và muốn biết ai nằm bên trong, họ có thể cho chiếc điện thoại di động được hỗ trợ công nghệ nhận dạng tần số sóng vô tuyến NFC-RFID chạm vào các biểu tượng trên viên đá RossettaStone. Khi điện thoại di động chạm vào các biểu tượng, trường điện từ của điện thoại sẽ kích hoạt bộ vi xử lý bên trong nó. Bộ vi xử lý sẽ kết nối điện thoại với một trang web chứa thông điệp mà chủ nhân của mộ viết khi họ còn sống. Mỗi biểu tượng sẽ cung cấp thông tin về một giai đoạn trong cuộc đời chủ nhân ngôi mộ.
+
+NFC là những chữ viết tắt của thuật ngữ Near Field Communication (truyền thông phạm vi gần). Còn RFID là chữ viết tắt của Radio Frequency Identification (nhận dạng tần số sóng vô tuyến). Trên thực tế NFC là sự kết hợp giữa công nghệ nhận dạng tần số sóng vô tuyến và công nghệ nối liền, cho phép hai thiết bị bất kỳ kết nối với nhau để trao đổi thông tin hoặc truy cập dữ liệu bằng cách đưa chúng lại gần nhau. Hai thiết bị chỉ được phép cách nhau vài cm.
