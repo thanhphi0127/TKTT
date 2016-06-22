@@ -18,6 +18,10 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 
+import org.apache.poi.hwpf.HWPFDocument;
+import org.apache.poi.hwpf.extractor.WordExtractor;
+import org.apache.poi.xwpf.usermodel.XWPFDocument;
+import org.apache.poi.xwpf.usermodel.XWPFParagraph;
 import org.bson.Document;
 
 import com.mongodb.MongoClient;
@@ -51,14 +55,98 @@ public class DocumentIndex {
 	
 	/**
 	 * 
-	 * @param file
+	 * @param file: DUONG DAN TOI TAI LIEU
 	 * @param jvnTextPro
 	 * @param index
-	 * @param idDoc
+	 * @param idDoc: SO CUA TAI LIEU
+	 * @return numTerm: SO LUONG TU TRONG 1 TAI LIEU
 	 * @throws IOException
 	 */
 	//Tạo chỉ mục cho 1 tập tin tài liệu (KHÔNG CHỨA STOP WORD)
 	public int createDocumentIndex(File file, JVnTextPro jvnTextPro, InvertedIndex index, int idDoc) throws IOException{
+		boolean flag = true;
+		int numTerm = 0;
+	
+		try {
+			FileInputStream fis = new FileInputStream(file.getAbsolutePath());
+			HWPFDocument doc = new HWPFDocument(fis);
+			WordExtractor we = new WordExtractor(doc);
+			String[] paragraphs = we.getParagraphText();
+			flag = false;
+			
+	        //Đọc từng paragraph trong mỗi tập tin tài liệu
+			for (String para : paragraphs) {
+				para = para.trim();
+				numTerm += tokenParagraph(para, jvnTextPro, index, idDoc); //SO TU TRONG CAC DOAN VAN BAN
+	        }
+	        fis.close();
+	        lengthDoc.put(idDoc, numTerm);
+		}catch(Exception ex){}
+		
+		if(flag){
+			try {
+				String para = "";
+				FileInputStream fis = new FileInputStream(file.getAbsolutePath());
+				XWPFDocument document = new XWPFDocument(fis);
+				List<XWPFParagraph> paragraphs = document.getParagraphs();
+
+		        //Đọc từng dòng trong mỗi tập tin tài liệu
+				for (XWPFParagraph s : paragraphs) {
+					para = s.getText().trim();
+					numTerm += tokenParagraph(para, jvnTextPro, index, idDoc); //SO TU TRONG CAC DOAN VAN BAN
+		        }
+		        fis.close();
+		        lengthDoc.put(idDoc, numTerm);
+			}catch(Exception ex){}
+		}
+ 
+        return numTerm;
+	}
+	
+	/**
+	 * 
+	 * @param paragraph: CHUOI GIA TRI CUA 1 DOAN VAN BAN
+	 * @param jvnTextPro: LOP CUA THU VIEN TACH TU
+	 * @param index: CHI MUC NGHICH DAO
+	 * @param idDoc: SO CUA TAI LIEU
+	 * @return numTerm: SO LUONG TU TRONG 1 DOAN VAN BAN
+	 * @throws IOException
+	 */
+	private int tokenParagraph(String paragraph, JVnTextPro jvnTextPro, InvertedIndex index, int idDoc) throws IOException{
+		String[] tokenWords, paragraphs;
+		int numTerm = 0, numPara = 0;
+		int tokenLength;
+		String tokens, line;
+		
+		//LAY DANH SACH CAC CAU CUA 1 PARAGRAPH
+		paragraphs = StaticVariable.getSentences(paragraph);
+		numPara = paragraphs.length;
+		
+		for(int p=0; p<numPara; p++){
+			line = paragraphs[p];
+	        if (line != null && !line.isEmpty()) {
+	        	//Với mỗi từ trong 1 dòng cho tài liệu đã tách từ
+	        	tokens = jvnTextPro.wordSegment(line);
+	        	tokenWords = tokens.split(" ");
+	        	tokenLength = tokenWords.length;
+	        	
+	    		for (int i = 0; i < tokenLength; i++) {
+	    			if(!stopWords.contains(tokenWords[i])){ //Không phải là stop word
+	    				//Thêm tài liệu vào chỉ mục
+	    				tokenWords[i] = StaticVariable.replaceString(tokenWords[i], StaticVariable.cmp);
+	    				if (tokenWords[i].length() != 0){
+	    					index.insertInvertIndex(tokenWords[i].toLowerCase(), idDoc);
+	    					numTerm++;
+	    				}
+	    			}
+	    		}
+	        }
+		}
+		return numTerm;
+	}
+	
+	
+	public int createDocumentIndex_Old(File file, JVnTextPro jvnTextPro, InvertedIndex index, int idDoc) throws IOException{
 		String[] words, tokenWords;
 		int k = 0, numTerm = 0;
 		int rawLenght, tokenLength, lenght = 0;
@@ -90,7 +178,7 @@ public class DocumentIndex {
         			if(!stopWords.contains(tokenWords[i])){ //Không phải là stop word
         				//Thêm tài liệu vào chỉ mục
         				//System.out.println("Token: " + tokenWords[i]);
-        				tokenWords[i] = replaceString(tokenWords[i], cmp);
+        				tokenWords[i] = StaticVariable.replaceString(tokenWords[i], cmp);
         				if (tokenWords[i].length() != 0){
         					index.insertInvertIndex(tokenWords[i].toLowerCase(), idDoc);
         					numTerm++;
@@ -109,32 +197,7 @@ public class DocumentIndex {
         return numTerm;
 	}
 	
-	/**
-	 * 
-	 * @param word
-	 * @param cmp
-	 * @return
-	 */
-	public String replaceString(String word, String cmp){
-		word = word.trim();
-		if(word.length() != 0){
-			//Loại bỏ kí tự thừa đầu chuổi
-	        while(cmp.contains(String.valueOf(word.charAt(0)))){
-	        	word = word.substring(1);
-	        	if(word.length() == 0) break;
-	        }
-		}
-	       
-		if(word.length() != 0){
-	        //Loại bỏ kí tự thừa cuối chuỗi
-			while(cmp.contains(String.valueOf(word.charAt(word.length()-1)))){
-	        	word = word.substring(0, word.length()-1);
-	        	if(word.length() == 0) break;
-	        }
-		}
-		return word;
-	}
-
+	
 	
 	public List<List<String>> getListTokenDocument(){
 		return tokenDocuments;

@@ -64,12 +64,12 @@ try{
 					ServletContext applicationObject=getServletConfig().getServletContext();
 					List<String> result = (List<String>) applicationObject.getAttribute("docResult");
 					List<Integer> resultId = (List<Integer>) applicationObject.getAttribute("docIdResult");
-					List<Float> timeSearch = (List<Float>) applicationObject.getAttribute("timeSearch");
-					List<Integer> numResult = (List<Integer>) applicationObject.getAttribute("numResult");
+					String timeSearch = (String) applicationObject.getAttribute("timeSearch");
+					String numResult = (String) applicationObject.getAttribute("numResult");
 					String input = (String) applicationObject.getAttribute("input");
 					
-					if(numResult.get(0) > 0){
-						out.println("<div class = 'result'>Khoảng " + numResult.get(0) + " kết quả (" + timeSearch.get(0) + " giây) </div>");
+					if(Integer.parseInt(numResult) > 0){
+						out.println("<div class = 'result'>Khoảng " + numResult + " kết quả (" + timeSearch + " giây) </div>");
 						out.println("<div class = 'result_input'>Hiển thị kết quả cho <b>" + input + "</b></div>");
 					}
 

@@ -155,13 +155,13 @@ public class Model {
      * @param data the data
      */
     public void inferenceAll(List data) {
-	System.out.println("Starting inference ...");
+	//System.out.println("Starting inference ...");
 
 	long start, stop, elapsed;
 	start = System.currentTimeMillis();
 	
 	for (int i = 0; i < data.size(); i++) {
-	    System.out.println("sequence " + Integer.toString(i + 1));
+	    //System.out.println("sequence " + Integer.toString(i + 1));
 	    List seq = (List)data.get(i);
 	    inference(seq);	    
 	}
@@ -169,8 +169,8 @@ public class Model {
 	stop = System.currentTimeMillis();
 	elapsed = stop - start;
 	
-	System.out.println("Inference " + Integer.toString(data.size()) + " sequences completed!");
-	System.out.println("Inference time: " + Double.toString((double)elapsed / 1000) + " seconds");
+	//System.out.println("Inference " + Integer.toString(data.size()) + " sequences completed!");
+	//System.out.println("Inference time: " + Double.toString((double)elapsed / 1000) + " seconds");
     }
     
 } // end of class Model

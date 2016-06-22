@@ -1,5 +1,7 @@
 package com.searchengine.tktt;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -29,6 +31,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.apache.poi.hwpf.HWPFDocument;
+import org.apache.poi.hwpf.extractor.WordExtractor;
+import org.apache.poi.xwpf.usermodel.XWPFDocument;
+import org.apache.poi.xwpf.usermodel.XWPFParagraph;
 import org.bson.Document;
 
 import com.mongodb.MongoClient;
@@ -145,20 +151,18 @@ public class Search extends HttpServlet {
 		Map<Integer, Integer> posting = new HashMap<Integer, Integer>();
 		List<String> docResult = new ArrayList<String>();
 		List<Integer> docIdResult = new ArrayList<Integer>();
-		List<Float> timeSearch = new ArrayList<Float>();
-		List<Integer> numResult = new ArrayList<Integer>();
 		Map<Integer, Integer> lengthDoc = getLengthIndex();//DocumentIndex.lengthDoc;
 		Map<Integer, Float>  score = new TreeMap<Integer, Float>();
 		String path = StaticVariable.INPUTPATH;
+		String valueOfFile = "", key = "";
 		int numDoc = lengthDoc.size(); //DocumentIndex.numDoc;
-		int t = 1, tf, df, count = 0;
-		float idf;
+		int df, numResult = 0;
+		float tf, idf;
 		
         long endTime = System.currentTimeMillis();
         float duration = (float) (endTime - startTime) / 1000;
         System.out.print("Thời gian lay chi muc tu Mongodb: " + duration);
 
-		//System.out.println("Num doc = " + numDoc);
     	startTime = System.currentTimeMillis();
 		
 		//TAO MANG SCORE CHO N TAI LIEU
@@ -168,7 +172,6 @@ public class Search extends HttpServlet {
 		
 		//TACH TU CHO INPUT
 		String words_input[] = input.split(" ");
-		int len_input = words_input.length;
 		
 		//TACH TU CHO CAU QUY VAN
 		String tokenQuery = StaticVariable.jvnTextPro.wordSegment(input);
@@ -181,22 +184,21 @@ public class Search extends HttpServlet {
 		//VOI MOI TOKEN
 		for(int i=0 ; i<len ; i++){
 			//TIM TRONG INVERTED INDEX
-	        for(String token : index.keySet()){
-	            if(words[i].equalsIgnoreCase(token)){
-	            	//DANH SACH <ID TAI LIEU, TF>
-	            	posting = (Map<Integer, Integer>)index.get(token);
-	            	df = posting.size();
+			key = words[i].toLowerCase();
+			if(index.containsKey(key)){
+	            //DANH SACH <ID TAI LIEU, TF>
+	            posting = (Map<Integer, Integer>)index.get(key);
+	            df = posting.size();
 
-	            	//VOI MOI <ID TAI LIEU, TF> TINH score[d] = tf*idf
-	            	for(Integer p : posting.keySet()){
-	            		tf = posting.get(p);
-	            		idf = (float) Math.log((float) numDoc/df);
-	            		//System.out.println("Vi tri = " + p + " tf = " + tf + " idf =" + idf + " df =" + df);
-	            		score.put(p, score.get(p) + tf * idf);
-	            	}
-	                break;
+	            //VOI MOI <ID TAI LIEU, TF> TINH score[d] = tf*idf
+	            for(Integer p : posting.keySet()){
+	            	//tf = 1 + (float) Math.log((float)posting.get(p));
+	            	tf = posting.get(p);
+	            	idf = (float) Math.log((float) numDoc/df);
+	            	//System.out.println("Vi tri = " + p + " tf = " + tf + " idf =" + idf + " df =" + df);
+	            	score.put(p, score.get(p) + tf * idf);
 	            }
-	            t++;
+	            break;
 	        }
 		}
 		
@@ -209,38 +211,78 @@ public class Search extends HttpServlet {
 		
 		
 		//TRA VE TOP K SCORE
-		int k = 10;
+		int k = 15;
 		List<Entry<Integer, Float>> sortedEntries = entriesSortedByValues(score);
 		for(int i=0 ; i<sortedEntries.size() ; i++){
 			path = StaticVariable.INPUTPATH;
 			//System.out.println("Sorted = " + sortedEntries.get(i).getKey() + " " + sortedEntries.get(i).getValue());
 			if(sortedEntries.get(i).getValue() != 0 && i <= k){
 				//HIEN THI 1 SO CAU TIEU BIEU
-				path = path + sortedEntries.get(i).getKey() + ".txt";
-				docResult.add(gettextSumerizer(getSentences(path), words_input));
+				//path = path + sortedEntries.get(i).getKey() + ".txt";
+				path = path + sortedEntries.get(i).getKey() + ".doc";
+				valueOfFile = readFileResult(path);
+				docResult.add(gettextSumerizer(StaticVariable.getSentences(valueOfFile), words_input));
 				docIdResult.add(sortedEntries.get(i).getKey());
+				//System.out.println(valueOfFile);
 			}
 			if(sortedEntries.get(i).getValue() != 0){
-				count++;
+				numResult++;
 			}
 		}
 		
         endTime = System.currentTimeMillis();
         duration = (float) (endTime - startTime) / 1000;
         System.out.print("Thời gian tìm kiếm: " + duration);
-        
-        timeSearch.add(duration);
-        numResult.add(count);
-		
+
         ServletContext applicationObject = getServletConfig().getServletContext();
         applicationObject.setAttribute("docResult", docResult);
         applicationObject.setAttribute("docIdResult", docIdResult);
-        applicationObject.setAttribute("timeSearch", timeSearch);
-        applicationObject.setAttribute("numResult", numResult);
+        applicationObject.setAttribute("timeSearch", String.valueOf(duration));
+        applicationObject.setAttribute("numResult", String.valueOf(numResult));
         applicationObject.setAttribute("input", input);
+        
         response.sendRedirect("http://localhost:8080/TKTT/search.jsp"); 
 	}
 	
+	/**
+	 * 
+	 * @param path
+	 * @return
+	 */
+	private String readFileResult(String path) {
+		String result = "";
+		boolean flag = true;
+		try {
+				File file = new File(path);
+				FileInputStream fis = new FileInputStream(file.getAbsolutePath());
+				HWPFDocument doc = new HWPFDocument(fis);
+				WordExtractor we = new WordExtractor(doc);
+				String[] paragraphs = we.getParagraphText();
+				
+				for (String para : paragraphs) {
+					result += para.toString();
+				}
+				fis.close();
+				we.close();
+		}catch (Exception e) {}
+		
+		if(flag){
+			try{
+				File file = new File(path);
+				FileInputStream fis = new FileInputStream(file.getAbsolutePath());
+				XWPFDocument document = new XWPFDocument(fis);
+				//System.out.println(document.getDocument().toString());
+				List<XWPFParagraph> paragraphs = document.getParagraphs();
+				flag = false;
+				for (XWPFParagraph para : paragraphs) {
+					result += para.getText().toString();
+				}
+				fis.close();
+			}catch (Exception e) {}
+		}
+		return result;
+	}
+
 	/**
 	 * 
 	 * @param map
@@ -260,37 +302,10 @@ public class Search extends HttpServlet {
 
 	/**
 	 * 
-	 * @param word
-	 * @param cmp
-	 * @return
-	 */
-	public String replaceString(String word, String cmp){
-		word = word.trim();
-		if(word.length() != 0){
-			//Loại bỏ kí tự thừa đầu chuổi
-	        while(cmp.contains(String.valueOf(word.charAt(0)))){
-	        	word = word.substring(1);
-	        	if(word.length() == 0) break;
-	        }
-		}
-	       
-		if(word.length() != 0){
-	        //Loại bỏ kí tự thừa cuối chuỗi
-			while(cmp.contains(String.valueOf(word.charAt(word.length()-1)))){
-	        	word = word.substring(0, word.length()-1);
-	        	if(word.length() == 0) break;
-	        }
-		}
-		return word;
-	}
-	
-	
-	/**
-	 * 
 	 * @return MANG CAC CAU TRONG TAI LIEU
 	 * @throws IOException
 	 */
-	public String[] getSentences(String path) throws IOException{
+	public String[] getSentences_Old(String path) throws IOException{
         byte[] encoded = Files.readAllBytes(Paths.get(path));
         String str= new String(encoded, "UTF-8");
         List<String> sentences= new ArrayList<String>();
@@ -311,10 +326,11 @@ public class Search extends HttpServlet {
 	 * 
 	 * @param Sentences: MANG CAC CAU CUA 1 TAI LIEU
 	 * @param wordsQuery: MANG TU CUA CAU TRUY VAN
-	 * @return
+	 * @return String: CAC CAU TOM TAT CHO 1 TAI LIEU
 	 */
     public String gettextSumerizer(String[] Sentences, String[] wordsQuery){
         int[] counts = new int[Sentences.length];
+        //int[] lenghts = new int[Sentences.length];
         int count = 0, t;
         String temp, regex, lower, s;
         String[] words;
@@ -326,7 +342,7 @@ public class Search extends HttpServlet {
             count = 0;
             //VOI MOI TU TRONG CAU TRUY VAN
             for(int j=0 ; j<wordsQuery.length ; j++){
-            	wordsQuery[j] = replaceString(wordsQuery[j], StaticVariable.cmp);
+            	wordsQuery[j] = StaticVariable.replaceString(wordsQuery[j], StaticVariable.cmp);
                 regex = "\\b" + wordsQuery[j].toLowerCase() + "\\b";
                 pattern = Pattern.compile(regex);
                 matcher = pattern.matcher(Sentences[i].toLowerCase());
@@ -334,6 +350,7 @@ public class Search extends HttpServlet {
                     count++;
                 }
             }
+            //lenghts[i] = Sentences[i].length();
             counts[i] = count;
         }
         /*======================================================================================*/

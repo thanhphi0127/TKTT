@@ -40,17 +40,11 @@ public class InvertedIndex {
 		if(word.length() != 0){
 			boolean existWord = InvertedIndex.containsKey(word);
 			Map<Integer, Integer> posting = new TreeMap<Integer, Integer>();
-			//Set<Integer> itemPosting= new HashSet<Integer>();
 			
 			//Kiểm tra từ tồn tại
 			if (existWord){
-				//Tìm token đã tồn tại
-		        for(String token : InvertedIndex.keySet()){
-		            if(word.equals(token)){
-		            	posting = (Map<Integer, Integer>)InvertedIndex.get(token);  //LẤY DANH SÁCH CÁC TÀI LIỆU CỦA TOKEN
-		                break;
-		            }
-		        }
+				//Lay danh sach tai lieu
+				posting = (Map<Integer, Integer>)InvertedIndex.get(word);
 	
 				//Kiểm tra idDoc tồn tại hay chưa
 	        	if(!posting.containsKey(idDoc)){

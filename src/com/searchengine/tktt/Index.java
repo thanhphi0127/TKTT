@@ -117,7 +117,8 @@ public class Index extends HttpServlet {
                 //Xử lý danh sách các file đã được chọn
                 for(FileItem item : items){
                 	//String filename= new File(item.getName()).getName(); 
-                    item.write(new File(StaticVariable.INPUTPATH + idDoc + ".txt"));  //Lưu các file vào đường dẫn "E://Eclipse//TKTT//data//documents//"
+                    //item.write(new File(StaticVariable.INPUTPATH + idDoc + ".txt"));  //Lưu các file vào đường dẫn "E://Eclipse//TKTT//data//documents//"
+                    item.write(new File(StaticVariable.INPUTPATH + idDoc + ".doc"));
                     idDoc++;
                 } 
             } 
@@ -134,6 +135,64 @@ public class Index extends HttpServlet {
 	 * Tách từ cho danh sách các tài liệu
 	 */
 	protected void tokenizerDocuments(HttpServletRequest request, HttpServletResponse response) throws IOException {
+		List<Float> timeInvertedIndex = new ArrayList<Float>();
+		String[] name;
+		Document docNumTerm;
+		int id = 1, numTerm;
+		DocumentIndex doc = new DocumentIndex();
+		InvertedIndex invertedInx = new InvertedIndex();
+		// Lay bang trong co so du lieu
+		MongoCollection<Document> collection = db.getCollectionLength();
+		collection.drop();
+		
+		
+        TextFileFilter fileFilter = new TextFileFilter(".doc"); 				//Tìm các tài liệu có phần mở rộng là txt
+        File inputDirFile = new File(StaticVariable.INPUTPATH); 				//Đường dẫn đầu vào DS tài liệu 
+        File[] inputFiles = FileIterator.listFiles(inputDirFile, fileFilter);	//Lấy tất cả các tài liệu
+        long startTime = System.currentTimeMillis();
+        
+        List<Document> list_doc = new ArrayList<Document>();
+        
+        for (File file : inputFiles) {
+        	name = file.getName().toString().split(".doc");
+        	id = Integer.parseInt(name[0]);
+        	System.out.println("Tai lieu so: " + id);
+            numTerm = doc.createDocumentIndex(file, StaticVariable.jvnTextPro, invertedInx, id); //Tạo chỉ mục cho 1 tài liệu gốc và tài liệu đã tách từ
+            
+            docNumTerm = new Document();
+            docNumTerm.put("_id", id);
+            docNumTerm.put("length", numTerm);
+			list_doc.add(docNumTerm);	
+        }
+        
+        collection.insertMany(list_doc);
+
+        //So luong tai lieu
+        //doc.numDoc = countDoc;
+
+        Map<String, Map<Integer, Integer>> resultIndex = invertedInx.getInvertedIndex();
+        
+        long endTime = System.currentTimeMillis();
+        float duration = (float) (endTime - startTime) / 1000;
+        timeInvertedIndex.add(duration);
+        System.out.print("Thời gian tách từ + lập chỉ mục: " + duration);
+    
+        startTime = System.currentTimeMillis();
+        //LUU CHI MUC NGHICH DAO VAO MONGODB
+        saveInvertedIndex(resultIndex);
+        
+        endTime = System.currentTimeMillis();
+        duration = (float) (endTime - startTime) / 1000;
+        System.out.print("Thời gian lưu vào Mongodb: " + duration);
+        
+        ServletContext applicationObject = getServletConfig().getServletContext();
+        applicationObject.setAttribute("InvertedIndex", resultIndex);
+        applicationObject.setAttribute("timeInvertedIndex", timeInvertedIndex);
+        
+        response.sendRedirect("http://localhost:8080/TKTT/invertedindex.jsp");
+	}
+	
+	protected void tokenizerDocuments_Old(HttpServletRequest request, HttpServletResponse response) throws IOException {
 		String output, result, line, filename;
 		List<Float> timeInvertedIndex = new ArrayList<Float>();
 		String[] name;
@@ -179,7 +238,7 @@ public class Index extends HttpServlet {
     
         startTime = System.currentTimeMillis();
         //LUU CHI MUC NGHICH DAO VAO MONGODB
-        saveInvertedIndex(resultIndex);
+        //saveInvertedIndex(resultIndex);
         endTime = System.currentTimeMillis();
         duration = (float) (endTime - startTime) / 1000;
         System.out.print("Thời gian lưu vào Mongodb: " + duration);
