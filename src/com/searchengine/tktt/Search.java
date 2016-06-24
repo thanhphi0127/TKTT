@@ -58,12 +58,42 @@ public class Search extends HttpServlet {
     }
     
     MongoDBConnection db = new MongoDBConnection();
+    Map<String, Map<Integer, Integer>> index = new TreeMap<String, Map<Integer,Integer>>();
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
+		System.out.print("Go to get method");
+		
+		String input = request.getParameter("input");
+		int page = Integer.parseInt(request.getParameter("page"));
+		int numPage = Integer.parseInt(request.getParameter("numPage"));
+		
+		String press = request.getParameter("press");
+		System.out.println("press: " + press);	
+		switch(press){
+			case "First":
+				page = 1;
+				break;
+			case "Next":
+				if(page < numPage){
+					page = page + 1;
+				}
+				break;
+			case "Previous":
+				if(page > 1){
+					page = page - 1;
+				}
+				break;
+			case "End":
+				page = numPage;
+				break;
+		}
+		
+		resultQuery(input, response, page);
+		
 	}
 
 	/**
@@ -73,7 +103,7 @@ public class Search extends HttpServlet {
 		// TODO Auto-generated method stub
 		String input = request.getParameter("input_value");
 		System.out.println("Input: " + input);		
-		resultQuery(input, response);
+		resultQuery(input, response, 1);
 	}
 	
 	/**
@@ -88,6 +118,7 @@ public class Search extends HttpServlet {
 			Document doc = new Document();
 
 			FindIterable<Document> iterable = db.getcollectionInvertedIndex().find();
+			
 			for (Document d: iterable){
 				for (String s: d.keySet()) {
 					if(s.equals("_id")){
@@ -104,7 +135,7 @@ public class Search extends HttpServlet {
 					resultIndex.put(term, posting);
 				}
 			}
-			
+			InvertedIndex.InvertedIndex = resultIndex;
 			return resultIndex;
 
 		} catch(Exception ex){}
@@ -133,7 +164,7 @@ public class Search extends HttpServlet {
 					lengthDoc.put(term, length);
 				}
 			}
-			
+			DocumentIndex.lengthDoc = lengthDoc;
 			return lengthDoc;
 		} catch(Exception ex){}
 		return null;
@@ -145,19 +176,22 @@ public class Search extends HttpServlet {
 	 * @param response
 	 * @throws IOException
 	 */
-	private void resultQuery(String input, HttpServletResponse response) throws IOException {
+	private void resultQuery(String input, HttpServletResponse response, int page) throws IOException {
 		long startTime = System.currentTimeMillis();
-		Map<String, Map<Integer, Integer>> index = getInvertedIndex();  //InvertedIndex.InvertedIndex; //
+		if(InvertedIndex.InvertedIndex == null) index = getInvertedIndex();  //InvertedIndex.InvertedIndex; //
+		else index = InvertedIndex.InvertedIndex;
+		
 		Map<Integer, Integer> posting = new HashMap<Integer, Integer>();
 		List<String> docResult = new ArrayList<String>();
 		List<Integer> docIdResult = new ArrayList<Integer>();
-		Map<Integer, Integer> lengthDoc = getLengthIndex();//DocumentIndex.lengthDoc;
+		Map<Integer, Integer> lengthDoc = getLengthIndex(); //DocumentIndex.lengthDoc;
 		Map<Integer, Float>  score = new TreeMap<Integer, Float>();
 		String path = StaticVariable.INPUTPATH;
 		String valueOfFile = "", key = "";
 		int numDoc = lengthDoc.size(); //DocumentIndex.numDoc;
 		int df, numResult = 0;
-		float tf, idf;
+		float tf;
+		float idf;
 		
         long endTime = System.currentTimeMillis();
         float duration = (float) (endTime - startTime) / 1000;
@@ -192,13 +226,12 @@ public class Search extends HttpServlet {
 
 	            //VOI MOI <ID TAI LIEU, TF> TINH score[d] = tf*idf
 	            for(Integer p : posting.keySet()){
-	            	//tf = 1 + (float) Math.log((float)posting.get(p));
-	            	tf = posting.get(p);
+	            	tf = 1 + (float) Math.log((float)posting.get(p));
+	            	//tf = posting.get(p);
 	            	idf = (float) Math.log((float) numDoc/df);
 	            	//System.out.println("Vi tri = " + p + " tf = " + tf + " idf =" + idf + " df =" + df);
 	            	score.put(p, score.get(p) + tf * idf);
 	            }
-	            break;
 	        }
 		}
 		
@@ -209,26 +242,41 @@ public class Search extends HttpServlet {
 			else score.put(i, (float) 0);
 		}
 		
+		//TINH TONG SO LUONG TAI LIEU
+		List<Entry<Integer, Float>> sortedEntries = entriesSortedByValues(score);
+		for(int i=0 ; i<numDoc; i++){
+			if(sortedEntries.get(i).getValue() != 0){
+				numResult++;
+				//System.out.println("i = " + i + " getKey = " + sortedEntries.get(i) + " getValue = " + sortedEntries.get(i).getValue());
+			}
+		}
+		
+		//TINH TONG SO TRANG
+		int numPage = numResult / StaticVariable.offsetPage;  System.out.println("numPage = " + numPage);
+		float fnumPage = (float) numResult / StaticVariable.offsetPage; System.out.println("fnumPage = " + fnumPage);
+		if(numPage < fnumPage) numPage = numPage + 1;
+		System.out.println("numPage = " + numPage);
+		
 		
 		//TRA VE TOP K SCORE
-		int k = 15;
-		List<Entry<Integer, Float>> sortedEntries = entriesSortedByValues(score);
-		for(int i=0 ; i<sortedEntries.size() ; i++){
+		int begin = (page - 1) * StaticVariable.offsetPage; //VI TRI TRANG BAT DAU
+		int end = begin + StaticVariable.offsetPage;		// VI TRI KET THUC
+		
+		for(int i=begin ; i<end ; i++){
 			path = StaticVariable.INPUTPATH;
 			//System.out.println("Sorted = " + sortedEntries.get(i).getKey() + " " + sortedEntries.get(i).getValue());
-			if(sortedEntries.get(i).getValue() != 0 && i <= k){
+			if(sortedEntries.get(i).getValue() != 0 /*&& i <= k*/){
 				//HIEN THI 1 SO CAU TIEU BIEU
-				//path = path + sortedEntries.get(i).getKey() + ".txt";
 				path = path + sortedEntries.get(i).getKey() + ".doc";
 				valueOfFile = readFileResult(path);
 				docResult.add(gettextSumerizer(StaticVariable.getSentences(valueOfFile), words_input));
 				docIdResult.add(sortedEntries.get(i).getKey());
 				//System.out.println(valueOfFile);
 			}
-			if(sortedEntries.get(i).getValue() != 0){
-				numResult++;
-			}
 		}
+		
+		System.out.println("Sorted size: " + sortedEntries.size());
+		
 		
         endTime = System.currentTimeMillis();
         duration = (float) (endTime - startTime) / 1000;
@@ -241,7 +289,7 @@ public class Search extends HttpServlet {
         applicationObject.setAttribute("numResult", String.valueOf(numResult));
         applicationObject.setAttribute("input", input);
         
-        response.sendRedirect("http://localhost:8080/TKTT/search.jsp"); 
+        response.sendRedirect("http://localhost:8080/TKTT/search.jsp?page=" + page + "&numPage=" + numPage); 
 	}
 	
 	/**

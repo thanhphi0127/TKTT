@@ -50,6 +50,7 @@ public class DocumentIndex {
         File file = new File(StaticVariable.STOPWORDPATH + "\\stopword.txt"); 
         byte[] encoded = Files.readAllBytes(Paths.get(file.getAbsolutePath().toString()));
         stopWords= new String(encoded, "UTF-8");
+        System.out.println("stopWords = " + stopWords);
 	}
 	
 	
@@ -66,6 +67,11 @@ public class DocumentIndex {
 	public int createDocumentIndex(File file, JVnTextPro jvnTextPro, InvertedIndex index, int idDoc) throws IOException{
 		boolean flag = true;
 		int numTerm = 0;
+		String[] tokenWords;
+		int mumPara = 0;
+		int tokenLength;
+		String tokens, line;
+		
 	
 		try {
 			FileInputStream fis = new FileInputStream(file.getAbsolutePath());
@@ -77,7 +83,25 @@ public class DocumentIndex {
 	        //Đọc từng paragraph trong mỗi tập tin tài liệu
 			for (String para : paragraphs) {
 				para = para.trim();
-				numTerm += tokenParagraph(para, jvnTextPro, index, idDoc); //SO TU TRONG CAC DOAN VAN BAN
+				//numTerm += tokenParagraph(para, jvnTextPro, index, idDoc); //SO TU TRONG CAC DOAN VAN BAN
+		        if (para != null && !para.isEmpty()) {
+		        	//Với mỗi từ trong 1 dòng cho tài liệu đã tách từ
+		        	tokens = jvnTextPro.wordSegment(para);
+		        	tokenWords = tokens.split(" ");
+		        	tokenLength = tokenWords.length;
+		        	
+		    		for (int i = 0; i < tokenLength; i++) {
+		    			tokenWords[i] = StaticVariable.replaceString(tokenWords[i], StaticVariable.cmp);
+		    			tokenWords[i] = tokenWords[i].toLowerCase();
+		    			if(!stopWords.contains(tokenWords[i])){ //Không phải là stop word
+		    				//Thêm tài liệu vào chỉ mục
+		    				if (tokenWords[i].length() != 0){
+		    					index.insertInvertIndex(tokenWords[i].toLowerCase(), idDoc);
+		    					numTerm++;
+		    				}
+		    			}
+		    		}
+		        }
 	        }
 	        fis.close();
 	        lengthDoc.put(idDoc, numTerm);
@@ -93,7 +117,25 @@ public class DocumentIndex {
 		        //Đọc từng dòng trong mỗi tập tin tài liệu
 				for (XWPFParagraph s : paragraphs) {
 					para = s.getText().trim();
-					numTerm += tokenParagraph(para, jvnTextPro, index, idDoc); //SO TU TRONG CAC DOAN VAN BAN
+					//numTerm += tokenParagraph(para, jvnTextPro, index, idDoc); //SO TU TRONG CAC DOAN VAN BAN
+			        if (para != null && !para.isEmpty()) {
+			        	//Với mỗi từ trong 1 dòng cho tài liệu đã tách từ
+			        	tokens = jvnTextPro.wordSegment(para);
+			        	tokenWords = tokens.split(" ");
+			        	tokenLength = tokenWords.length;
+			        	
+			    		for (int i = 0; i < tokenLength; i++) {
+			    			tokenWords[i] = StaticVariable.replaceString(tokenWords[i], StaticVariable.cmp);
+			    			tokenWords[i] = tokenWords[i].toLowerCase();
+			    			if(!stopWords.contains(tokenWords[i])){ //Không phải là stop word
+			    				//Thêm tài liệu vào chỉ mục
+			    				if (tokenWords[i].length() != 0){
+			    					index.insertInvertIndex(tokenWords[i].toLowerCase(), idDoc);
+			    					numTerm++;
+			    				}
+			    			}
+			    		}
+			        }
 		        }
 		        fis.close();
 		        lengthDoc.put(idDoc, numTerm);

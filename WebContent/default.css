@@ -1,3 +1,13 @@
+div.page{
+	margin: 0px 0px 20px 275px;
+	text-align:left;
+}
+
+input#pageID{
+	width: 60px;
+    text-align: center;
+}
+
 
 table.table-inverted-index{
 	text-align:left;

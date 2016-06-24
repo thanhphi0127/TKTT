@@ -15,20 +15,16 @@
 <body>
 <%!
 String value = "";
-
 String checkNull(String s) {
     return s == null ? "" : s;
 }
 %>
 
 <%
-
 try{
 	ServletContext applicationObject = getServletConfig().getServletContext();
 	value = (String)applicationObject.getAttribute("input");
-} catch(Exception ex){
-
-}
+} catch(Exception ex){}
 %>
 <div id="header-wrapper">
 	<div id="header" class="container">
@@ -58,6 +54,39 @@ try{
 			</form>
 		</div>
 		
+		<%
+			if(request.getParameter("page") != null && Integer.parseInt(request.getParameter("numPage")) != 0){
+				out.println("<div class='page'>");
+				out.println("<form id='form_id' method='get' action='Search'>");
+				out.println("<input type='submit' name='press' value='First'></input>");
+				out.println("<input type='submit' name='press' value='Next'></input>");
+						
+				out.println("<input type='hidden' name='input' value='" + checkNull(value) + "'/>");
+				out.println("<input type='text' id='pageID' name='page' value='" + request.getParameter("page") + "'/>");
+				out.println("<input type='hidden' name='numPage' value='" + request.getParameter("numPage") + "'/>");
+						
+				out.println("<input type='submit' name='press' value='Previous'></input>");
+				out.println("<input type='submit' name='press' value='End'></input>");
+				out.println("</form>");
+				out.println("</div>");
+				
+			}
+		%>
+		<!--  
+		<div class="page">
+			<form id="form_id" method="get" action="Search">
+				<input type="submit" name="press" value="First"></input>
+				<input type="submit" name="press" value="Next"></input>
+				
+				<input type="hidden" name="input" value="<%=checkNull(value)%>"/>
+				<input type="text" id="pageID" name="page" value="<%= request.getParameter("page")%>"/>
+				<input type="hidden" name="numPage" value="<%= request.getParameter("numPage")%>"/>
+				
+				<input type="submit" name="press" value="Previous"></input>
+				<input type="submit" name="press" value="End"></input>
+			</form>
+		</div>
+		-->
 		<div>
 			<%
 				try{

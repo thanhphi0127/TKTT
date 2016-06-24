@@ -18,6 +18,8 @@ public class StaticVariable {
 	public static JVnTextPro jvnTextPro = new JVnTextPro();
 	
 	public static String cmp = "•…\\_().,:\"“”\'/-+&;‘’?=–[]<>!*″";
+	
+	public static int offsetPage = 10;
 
 	public static void init(){
         jvnTextPro.initSenSegmenter(PATH + "models//jvnsensegmenter"); 
