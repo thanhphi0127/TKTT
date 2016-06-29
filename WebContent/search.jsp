@@ -29,7 +29,7 @@ try{
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1></span><a href="index.jsp">Search Engine</a></h1>
+			<h1></span><a href="index.jsp">TÌM KIẾM THÔNG TIN</a></h1>
 		</div>
 		<div id="menu">
 			<ul>
@@ -58,15 +58,15 @@ try{
 			if(request.getParameter("page") != null && Integer.parseInt(request.getParameter("numPage")) != 0){
 				out.println("<div class='page'>");
 				out.println("<form id='form_id' method='get' action='Search'>");
-				out.println("<input type='submit' name='press' value='First'></input>");
-				out.println("<input type='submit' name='press' value='Next'></input>");
+				out.println("<input type='submit' name='press' value='Trang đầu' class='btn'></input>");
+				out.println("<input type='submit' name='press' value='Trang trước' class='btn'></input>");
 						
 				out.println("<input type='hidden' name='input' value='" + checkNull(value) + "'/>");
 				out.println("<input type='text' id='pageID' name='page' value='" + request.getParameter("page") + "'/>");
 				out.println("<input type='hidden' name='numPage' value='" + request.getParameter("numPage") + "'/>");
 						
-				out.println("<input type='submit' name='press' value='Previous'></input>");
-				out.println("<input type='submit' name='press' value='End'></input>");
+				out.println("<input type='submit' name='press' value='Trang kế' class='btn'></input>");
+				out.println("<input type='submit' name='press' value='Trang cuối' class='btn'></input>");
 				out.println("</form>");
 				out.println("</div>");
 				

@@ -24,7 +24,7 @@
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1></span><a href="index.jsp"">Search Engine</a></h1>
+			<h1></span><a href="index.jsp">TÌM KIẾM THÔNG TIN</a></h1>
 		</div>
 		<div id="menu">
 			<ul>

@@ -74,20 +74,20 @@ public class Search extends HttpServlet {
 		String press = request.getParameter("press");
 		System.out.println("press: " + press);	
 		switch(press){
-			case "First":
+			case "Trang đầu":
 				page = 1;
 				break;
-			case "Next":
+			case "Trang kế":
 				if(page < numPage){
 					page = page + 1;
 				}
 				break;
-			case "Previous":
+			case "Trang trước":
 				if(page > 1){
 					page = page - 1;
 				}
 				break;
-			case "End":
+			case "Trang cuối":
 				page = numPage;
 				break;
 		}
