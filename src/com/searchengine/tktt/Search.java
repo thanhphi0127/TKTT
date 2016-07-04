@@ -58,7 +58,7 @@ public class Search extends HttpServlet {
     }
     
     MongoDBConnection db = new MongoDBConnection();
-    Map<String, Map<Integer, Integer>> index = new TreeMap<String, Map<Integer,Integer>>();
+    //Map<String, Map<Integer, Integer>> index = new TreeMap<String, Map<Integer,Integer>>();
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
@@ -135,7 +135,7 @@ public class Search extends HttpServlet {
 					resultIndex.put(term, posting);
 				}
 			}
-			InvertedIndex.InvertedIndex = resultIndex;
+			//InvertedIndex.InvertedIndex = resultIndex;
 			return resultIndex;
 
 		} catch(Exception ex){}
@@ -164,7 +164,7 @@ public class Search extends HttpServlet {
 					lengthDoc.put(term, length);
 				}
 			}
-			DocumentIndex.lengthDoc = lengthDoc;
+			//DocumentIndex.lengthDoc = lengthDoc;
 			return lengthDoc;
 		} catch(Exception ex){}
 		return null;
@@ -174,13 +174,12 @@ public class Search extends HttpServlet {
 	 * 
 	 * @param input: CHUOI TRUY VAN
 	 * @param response
+	 * @param page: STT TRANG KET QUA
 	 * @throws IOException
 	 */
 	private void resultQuery(String input, HttpServletResponse response, int page) throws IOException {
 		long startTime = System.currentTimeMillis();
-		if(InvertedIndex.InvertedIndex == null) index = getInvertedIndex();  //InvertedIndex.InvertedIndex; //
-		else index = InvertedIndex.InvertedIndex;
-		
+		Map<String, Map<Integer, Integer>> index = getInvertedIndex();
 		Map<Integer, Integer> posting = new HashMap<Integer, Integer>();
 		List<String> docResult = new ArrayList<String>();
 		List<Integer> docIdResult = new ArrayList<Integer>();
@@ -197,7 +196,7 @@ public class Search extends HttpServlet {
         float duration = (float) (endTime - startTime) / 1000;
         System.out.print("Thời gian lay chi muc tu Mongodb: " + duration);
 
-    	startTime = System.currentTimeMillis();
+    	//startTime = System.currentTimeMillis();
 		
 		//TAO MANG SCORE CHO N TAI LIEU
 		for(int i=1; i<=numDoc ; i++){
@@ -215,9 +214,8 @@ public class Search extends HttpServlet {
 		String words[] = tokenQuery.split(" ");
 		int len = words.length;
 			
-		//VOI MOI TOKEN
+		// TINH DO TUONG DONG COSINE
 		for(int i=0 ; i<len ; i++){
-			//TIM TRONG INVERTED INDEX
 			key = words[i].toLowerCase();
 			if(index.containsKey(key)){
 	            //DANH SACH <ID TAI LIEU, TF>
@@ -251,17 +249,24 @@ public class Search extends HttpServlet {
 			}
 		}
 		
-		//TINH TONG SO TRANG
+		// TINH TONG SO TRANG
 		int numPage = numResult / StaticVariable.offsetPage;  System.out.println("numPage = " + numPage);
 		float fnumPage = (float) numResult / StaticVariable.offsetPage; System.out.println("fnumPage = " + fnumPage);
 		if(numPage < fnumPage) numPage = numPage + 1;
 		System.out.println("numPage = " + numPage);
 		
 		
-		//TRA VE TOP K SCORE
-		int begin = (page - 1) * StaticVariable.offsetPage; //VI TRI TRANG BAT DAU
+		// TRA VE TOP K SCORE THEO TRANG
+		int begin = (page - 1) * StaticVariable.offsetPage; // VI TRI TRANG BAT DAU
 		int end = begin + StaticVariable.offsetPage;		// VI TRI KET THUC
 		
+		// KIEM TRA TRANG CO VUOT QUA KET QUA
+		if( end > numResult ){
+			end = numResult;
+			// System.out.println("num result" + numResult + " end = " + end + " begin = " + begin);
+		}
+		
+		// LAY KET QUA TRONG TAP TAI LIEU
 		for(int i=begin ; i<end ; i++){
 			path = StaticVariable.INPUTPATH;
 			//System.out.println("Sorted = " + sortedEntries.get(i).getKey() + " " + sortedEntries.get(i).getValue());
@@ -294,8 +299,8 @@ public class Search extends HttpServlet {
 	
 	/**
 	 * 
-	 * @param path
-	 * @return
+	 * @param path: DUONG DAN DEN 1 TAI LIEU
+	 * @return: VAN BAN CUA 1 TAI LIEU
 	 */
 	private String readFileResult(String path) {
 		String result = "";
@@ -333,8 +338,8 @@ public class Search extends HttpServlet {
 
 	/**
 	 * 
-	 * @param map
-	 * @return
+	 * @param map: MAP DAU VAO CUA CHI MUC
+	 * @return: KET QUA SAP XEP
 	 */
 	static <K,V extends Comparable<? super V>> List<Entry<K, V>> entriesSortedByValues(Map<K,V> map) {
 		List<Entry<K,V>> sortedEntries = new ArrayList<Entry<K,V>>(map.entrySet());

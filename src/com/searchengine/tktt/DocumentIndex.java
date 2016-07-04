@@ -49,8 +49,7 @@ public class DocumentIndex {
 		
         File file = new File(StaticVariable.STOPWORDPATH + "\\stopword.txt"); 
         byte[] encoded = Files.readAllBytes(Paths.get(file.getAbsolutePath().toString()));
-        stopWords= new String(encoded, "UTF-8");
-        System.out.println("stopWords = " + stopWords);
+        stopWords = new String(encoded, "UTF-8");
 	}
 	
 	
@@ -72,7 +71,7 @@ public class DocumentIndex {
 		int tokenLength;
 		String tokens, line;
 		
-	
+		// DOC FILE DINH DANG .DOC
 		try {
 			FileInputStream fis = new FileInputStream(file.getAbsolutePath());
 			HWPFDocument doc = new HWPFDocument(fis);
@@ -96,7 +95,7 @@ public class DocumentIndex {
 		    			if(!stopWords.contains(tokenWords[i])){ //Không phải là stop word
 		    				//Thêm tài liệu vào chỉ mục
 		    				if (tokenWords[i].length() != 0){
-		    					index.insertInvertIndex(tokenWords[i].toLowerCase(), idDoc);
+		    					index.insertInvertIndex(tokenWords[i], idDoc);
 		    					numTerm++;
 		    				}
 		    			}
@@ -107,6 +106,7 @@ public class DocumentIndex {
 	        lengthDoc.put(idDoc, numTerm);
 		}catch(Exception ex){}
 		
+		// DOC FILE DINH DANG .DOCX
 		if(flag){
 			try {
 				String para = "";
@@ -130,7 +130,7 @@ public class DocumentIndex {
 			    			if(!stopWords.contains(tokenWords[i])){ //Không phải là stop word
 			    				//Thêm tài liệu vào chỉ mục
 			    				if (tokenWords[i].length() != 0){
-			    					index.insertInvertIndex(tokenWords[i].toLowerCase(), idDoc);
+			    					index.insertInvertIndex(tokenWords[i], idDoc);
 			    					numTerm++;
 			    				}
 			    			}

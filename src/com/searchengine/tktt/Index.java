@@ -110,6 +110,7 @@ public class Index extends HttpServlet {
         if(isMultipart){
             DiskFileItemFactory factory= new DiskFileItemFactory();
             ServletFileUpload upload= new ServletFileUpload(factory);
+
             
             try {      
                 List<FileItem> items= upload.parseRequest(request);
@@ -192,6 +193,7 @@ public class Index extends HttpServlet {
         response.sendRedirect("http://localhost:8080/TKTT/invertedindex.jsp");
 	}
 	
+	
 	protected void tokenizerDocuments_Old(HttpServletRequest request, HttpServletResponse response) throws IOException {
 		String output, result, line, filename;
 		List<Float> timeInvertedIndex = new ArrayList<Float>();
@@ -238,7 +240,7 @@ public class Index extends HttpServlet {
     
         startTime = System.currentTimeMillis();
         //LUU CHI MUC NGHICH DAO VAO MONGODB
-        //saveInvertedIndex(resultIndex);
+        saveInvertedIndex(resultIndex);
         endTime = System.currentTimeMillis();
         duration = (float) (endTime - startTime) / 1000;
         System.out.print("Thời gian lưu vào Mongodb: " + duration);
@@ -279,23 +281,4 @@ public class Index extends HttpServlet {
 	}
 		
 }	
-	
-	
-	
-	/*
-    for(Map.Entry entry: InvertedIndex.entrySet()){
-    	Map<Integer, Integer> posting = (Map<Integer, Integer>) entry.getKey();  //LẤY DANH SÁCH CÁC TÀI LIỆU CỦA TOKEN
-        
-        out.print("<tr>");
-            out.print("<td align='center'>"+count+"</td>");
-            out.print("<td>"+entry.getKey()+"</td>");
-            String itemPostring = "";
-            for(Map.Entry item: posting.entrySet()){
-            	itemPostring += String.valueOf(item.getKey()) + " ";
-            }
-            out.print("<td>"+ itemPostring +"</td>");
-        out.print("</tr>");
-        count++;
-    }
-    */
 
